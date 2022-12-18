@@ -1,0 +1,898 @@
+<html>
+<head>
+    <title>Result</title>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="./resources/bootstrap-3.3.5-dist/css/bootstrap.min.css">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="./resources/bootstrap-3.3.5-dist/css/bootstrap-theme.min.css">
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="./resources/bootstrap-3.3.5-dist/js/bootstrap.min.js"></script>
+
+    <style>
+        #content {
+            background-color: #FCFCFC;
+            border: 1px solid #999999;
+            padding: 10px 10px;
+            -moz-border-radius: 4px;
+            -webkit-border-radius: 4px;
+            border-radius: 4px;
+            /*IE 7 AND 8 DO NOT SUPPORT BORDER RADIUS*/
+            opacity: 0.87;
+            -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity = 87);
+            /*-ms-filter must come before filter*/
+            filter: alpha(opacity = 87);
+            /*INNER ELEMENTS MUST NOT BREAK THIS ELEMENTS BOUNDARIES*/
+            /*All filters must be placed together*/
+
+        }
+
+        #infodiv
+         {
+
+
+            border: 0px rgb(89,89,89) solid;
+
+            background: rgb(234, 234, 228);
+
+        }
+    </style>
+</head>
+<body>
+    <center><h1>Data Extraction - Result</h1></center>
+    <div class="container">
+        <hr>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <dl class="dl-horizontal">
+                    <dt>File name:</dt>
+                    <dd>snyder-complaints.pdf</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Provider name:</dt>
+                    <dd>AbbyyProvider</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Created On:</dt>
+                    <dd>8/12/2020 4:49:59 PM</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Extraction duration:</dt>
+                    <dd>00:00:08.6467081</dd>
+                </dl>
+            </div>
+            <div class="col-md-1"></div>
+
+        </div>
+        <hr>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Extended Attributes</h3>
+                <div id="attributes"><table class="table table-hover"><thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Value</th>
+                </tr>
+            </thead>
+            <tbody>
+<tr><td>creation date</td><td>11/21/2016 4:37:18 PM</td></tr>
+<tr><td>revision date</td><td>11/21/2016 4:37:37 PM</td></tr>
+</tbody></table>
+</div>
+            </div>
+            <div class="col-md-1"></div>
+        </div>
+        <div class="row" >
+            <div class="col-md-1" ></div>
+            <div class="col-md-9">
+                <h3>Content</h3>
+                <!--!<div id="content">  -->
+                <textarea class="form-control" cols="150" rows="30" id="content">COMMONWEALTH OF PENNSYLVANIA
+COUNTY OF BERKS
+
+Arrest Warrant
+V:
+
+\
+Mag. Dist. No. : MDJ-23-1-02
+MDJ Name : Honorable Phyllis J. Kowalski
+Commonwealth of Pennsylvania
+V.
+Patricia Snyder
+Address :
+1150 Muhlenberg street
+Reading, PA 19602
+Telephone ;
+610-374-9288
+Complaint No:
+Charging Officer:
+Arresting Agency:
+Case Filed:
+OTN:
+Reason For Warrant:
+Offense Date:
+Lead Offense:
+201570148
+Carrasquillo, John A.
+Reading City Police Dept
+11/15/2016
+T 861830-4
+Felony
+12/07/2015
+18 § 2502 §§ 0 Murder Of The Third Degree
+Issued For:
+Docket No:
+Patricia Snyder
+MJ-23102-CR-0000450-2016
+NCIC OFF:
+000:
+WARRANT ID:	DIS706027902
+Warrant Control No: 23102-AW-0001676-2016
+TO THE OFFICER: John A. Carrasquillo
+In the name of the Commonwealth of Pennsylvania, you are commanded to take the defendant, Patricia Snyder,
+into custody. When the defendant is taken Into custody, bring the defendant before me at the Court address shown
+above to answer the complaint charging the defendant with the offense(s) set forth above and further to be dealt with
+according to law.
+Witness the hand and official seal of the issuing authonty on this 15th day of November, 2016.
+
+f.d>
+.y
+ШЖ
+November 15, 2016
+
+Date
+Senior Magisterial District Judge Phyllis J. Kowalski
+II
+23102-AW-0001676-2016
+MJ-23102-CR-0000450-2016
+Patricia Snyder
+MDJS417
+Printed: 11/15/2016 10:57:28AM
+1
+Commonwealth of Pennsylvania
+Warrant Control No: 23102-AW-0001676-2016
+Docket No: MJ-23102-CR-0000450-2016
+OTN: T 861830-4
+V.
+Patncia Snyder
+RETURN WHERE DEFENDANT FOUND
+By authority of this warrant, on	
+I took into custody the within named _
+before you for disposition.
+  In the	
+20
+and he/she Is
+Prison.
+RETURN WHERE DEFENDANT IS NOT FOUND
+After careful search, I cannot find the within named defendant.
+Officer Costs:
+Warrant
+Miles
+Commitments
+Miles  
+Conveying to hearing
+Miles
+Total
+(Signature of Poiice Officer - Name and Title)
+MDJS417
+Printed: 11/15/2016 10:57:28AM
+2
+Connmonweaith of Pennsylvania
+Warrant Control No: 23102-AW-0001676-2016
+Docket No; MJ-23102-CR-0000450-2016
+OTN:T 861830-4
+V.
+Patricia Snyder
+DEFENDANT IDENTIFICATION INFORMATION
+Livescan Tracking Number
+Social Secunty Number
+siD (State Identification Number)
+FBi Number
+Age
+Race
+Ethnicity
+Gender
+Female
+Eye Coior
+Haircoior
+Date of Birth Weight (ibs) Height(Ft/in)
+11/03/1989
+27
+Ncic Extradition Code / Description:
+Distance:
+Comments:
+Aiias
+Participant Locai No
+Prosecution
+Commonwealth of Pennsylvania
+Distinguishing Features/Speciai Considerations
+DEFENDANT LICENSE / VEHICLE INFORMATION
+Ucense Number
+state
+Expiration Date
+Piate Number
+State
+Hazmat
+Registration sticker (MM/YYYY)
+Comm'i Veh. ind.
+Schooi Veh. 0th. Veh. Cd
+DEFENDANT CONTACT INFORMATION
+DEFENDANT ADDRESS
+Home (Case Address)
+626 8 17.5 St
+Reading, PA 19606
+MDJS417
+Printed: 11/15/201610:57:28AM
+3
+Commonwealth of Pennsylvania
+Warrant Control No: 23102-AW-0001676-2016
+Docket No: MJ-23102-CR-0000450-2016
+OTN:T 861830-4
+V.
+Patricia Snyder
+All Charaetsi
+18 §2502 §§c (Lead)
+18 §2504 §§A
+18 §4304 §§ A1
+18§2701§§A1
+Murder Of The Third Degree
+Involuntary Manslaughter
+Endangering Welfare of Children - Parent/Guardlan/Other Commits Offense
+Simple Assault
+MDJS417
+Printed: 11/15/2016 10:57:28AM
+4
+POLICE CRIMINAL COMPLAINT
+corvllvIONWEALTH OF PENNSYLVANIA
+COMMONWEALTH OF
+PENNSYLVANIA
+COUNTY OF BERKS
+vs.
+Magisterial District Number: 23-1-02
+MICHAEL J LEONARDZiAK
+1150 MUHLENBERG ST
+DEFENDANT:
+PATRICIA
+(NAME anci ADDRESS):
+SNYDER
+MDJ: Hon.
+First Name
+Middle Name
+Last Name
+Gen
+Address:
+626 s 17.5 ST
+READING
+READING. PA. 19602
+(610-373-5755
+PA
+19606
+Telephone:
+NCIC Extradition Code Type
+lxl 1-Feiony Full
+□	2-Felony Ltd.
+□	3-Felony Surrounding States
+□	4-Felony No Ext
+□	5-Felony Pend.
+□	6-Felony Pend. Extradition Determ.
+□	A-Misdemeanor Full
+□	B-Misdemeanor Limited
+□	C-Misdemeanor Surrounding States □ Distance:
+□	D-Misdemeanor No Extradition
+□	E-MISdemeanor Pending
+□	F-Misdemeanor Pending Extradition Determ.
+DEFENDANT IDENTIFICATION INFORMATION
+Отк/Цубзсап Numb 
+Complaint/Incident Number
+Oocket Number
+Date Filed
+slor
+Request Lab Services?
+11/01/16
+□ YES   NO
+2015-70148
+GENDER
+Male
+□ Female
+DOB
+POB
+Add'l DOB
+Co-Defendant(s)
+□
+11/03/1989
+First Name
+Middle Name
+Last Name
+Gen.
+AKA
+  White
+□ Asian
+• □ Black
+D Native American
+□ Unknown
+RACE
+[HI Non-Hispanic
+ETHNICITY □ Hispanic
+□ Unknown
+□	RED(Red/Aubn.) □ SDY (Sandy) □BLU(Blue)
+□	ONG (Orange) □ WHI (White)
+□	GRY(Gray)
+□	BLK (Black)
+□	BLN (Blonde / Strawberry)
+□ PLE (Purple) |х] BRO (Brown)
+□ XXX (Unk/Bald) □ GRN (Green) □ PNK (Pink)
+HAIR COLOR
+□	BLK (Black)
+□	HAZ (Haze!)
+П BLU(Blue)
+□ MAR (Maroon)
+□	BRO (Brown
+□	PNK (Pink)
+□	GRN (Green)
+□	MUL (Multicolored)
+□	GRY(Gray)
+□	XXX (Unknown)
+EYE COLOR
+Driver License
+PA
+License Number
+State
+Expires:
+WEIGHT (Lbs.)
+□ YES liINO
+0
+DNA Location
+DNA
+FBI Number
+MNU Number
+Ft HEIGHT In.
+□ YES □ NO
+0
+62
+Defendant FmgerprInted:
+Fingerprint Classification:
+DEFENDANT VEHICLE INFORMATION
+State
+Hazmat
+Registration
+sticker (ммтг)
+Comm'l Veh.
+School
+Veh. [j]
+0th. NCIC
+Veh. Code
+Plate#
+Reg.
+same
+as Def.
+Ind.
+□
+□
+Year
+Make
+Style
+Model
+Color
+V1N
+□
+Office of the attomey for the Oommonwealth   Approved □ Disapproved Because:
+(The attorney for the Commonwealth may require that the complaint, arrest warrant fndavit. or both be approved by the attorney for the Commonwealth Prior
+to filing. See
+(il.a I
+Ijpa.R.crim.p. 507). j	V \ Л i I
+Иг\т,'л'ге.т	Ш VA
+
+
+
+(Name of the attorney for Commonweaith) ' ''
+(sign ureofthëattornëy rülecommonweaith)
+(Date) I	f
+
+i, CARRASQUILLO. JOHN
+619
+(Name of the Affiant)
+PSP/MPOETC -Assigned Affiant iD Number and Badge #
+PA0061400
+of Reading Police Department
+(identify Department or Agency Represented and Politicai Subdivision)
+do hereby state: (check appropriate box)
+(Poiice Agency ORi Number)
+1.	□ 1 accuse the above named defendant who iives at the address set forth above
+□ i accuse the defendant whose name is unknown to me but who is described as
+□ I accuse the defendant whose name and popuiar designation or nickname are unknown to me and whom I have
+therefore designated as John Doe or Jane Doe
+with vioiatingthe penal iaws of the Commonweaith of Pennsyivania at f 23-1-02]	
+(Subdivision Code)
+READING
+(Piace-Politicai Subdivision)
+626 s. 171/2 STRE6T READING PA
+BERKS
+06	] on or about
+12/07/2015( .2040 HRS
+County I
+in
+(County Code)
+(Offense Date)
+AOPC 412A-R3V. 09/12
+Page	of
+POUCE CRIMINAL COMPLAINT
+pofketN„,pber 	_
+U'
+Date Filed:
+11/01/2016
+OTN/Liyescan Number
+Complaint/Incident Number
+t
+
+2015-70148
+First:
+Middle:
+Last:
+Defendant Name
+PATRICIA
+SNYDER
+2. i ask that a warrant of arrest or a sumrrions be issued and that the defendant be required to answer the
+charges I have made.
+3. I verify that the facts set forth in this complaint are true and correct to the best of my knowiedge or
+information and beiief. This verification is made subject to the penalties of Section 4904 of the Crimes
+Code (18 Pa.c.s. § 4904) relating to unsworn falsification to authonties.
+4. This complaint consists of the preceding page(s) numbered
+through
+The acts committed by the accused, as listed and hereafter, were against the peace and dignity of the
+Commonwealthof Pennsylvania and were contrary to the Act(s) of the Assembly, or in violation of the statutes
+cited.
+(Before a warrant of arrest can be issued, an affidavit of probable cause must be completed, sworn to
+before the issuing authority, and attached.)
+
+u- is '
+(Date)
+(Signature of Affiant)
+i(- -lu
+AND NOW, on this date
+I oertify that the complaint has been properly completed and venfied.
+An affidavit of probable cause must be completed before a warrant can be issued.
+M /r.	\	-
+i
+I	Û
+1 -
+
+
+
+(Magisterial Distnct Court Number)
+(Issuing Authority)
+, <•
+s
+
+
+AO-PC 412A » Rev. 09/11
+Page	of
+POLICE CRIMINAL COMPLAINT
+Docket Number;
+Date Fileci;
+11/01/2016
+OTN/Llvescan Number
+Complaint/Incident Number
+2015-70148
+First:
+Middle:
+Last:
+Defendant Name
+PATRICIA
+SNYDER
+The acts committed by the accused are descnbed below with each Act of Assembly or statute allegedly violated, if
+appropriate. When there is more than one offense, each offense should be numbered chronologically.
+(Set forth a bnef summary of the facts sufficient to advise the defendant of the nature of the offense(s) charged. A citation to the statute(s) allegedly violated without
+more, ts not suffjclent. In a summary case, you must cite the specific section(s) and subsection(s) of the statute(s) or ordinance(s) allegedly violated. The age of the
+victim at the time of the offense may be included if known. In addition, social security numbers and financial information (e.g. PINs) should not be listed If the identitv
+of an account must be estabijshed, list only the last four digits. 204 PA.COde §§213.1 •213.7.)
+Q Attempt
+18 901A
+1  Solicitatjon
+18 902 A
+Inchoate
+Offense
+о Conspiracy
+18 903
+и
+1
+2502
+c
+18
+1
+F
+of the
+Lead? Offense #
+Section
+Subsection
+PA Statute (Titie;
+Counts Grade NCIC Offense Code
+UCR/NIBRS Code
+pennDOT Data
+(If Applicable)
+Accident
+Number
+Q Interstate
+Q] Safety Zone
+Q Work Zone
+Statute Description {Include the name of the statute or ordinance):
+PACC 2502(C) IVIURDER( 3RD DEGREE)
+Acts of the accused associated with this Offense:
+PACC2502 (C) MURDER 3RD DEGREE
+In that on 12/07/2015 the defendant Patricia Ann Snyder, D.O.B.06/20/1978, did commit the act of Murder in the
+third degree, of her infant son Anthony DiNOZZO Snyder, D.O.B.08/25/2015 by Chronic Nutntional Neglect
+(Starvation ) and Acute Doxylamine Toxicity. In violation of Section 2502 (c) of the PA Crimes code.(18 p.s. 2502
+(c)-Feiony in the First Degree.
+Q Attempt
+18 901A
+Q Soltcitatlon
+18 902 A
+Inchoate
+Offense
+Q Conspiracy
+18 903
+□
+2
+2504
+(a)
+PA Cnmes Code
+1
+F
+of the
+OIB 090
+Lead? Offense #
+Section
+Subsection
+PA statute (Titie;
+Counts Grade NOC Offense Code
+UCR/NIBRS Code
+PennDOT Data
+(if Applicabie)
+Accident
+Number
+Q Interstate
+Q Safety Zone
+Q] Work Zone
+statute Description (Include the name of the statute or ordinance):
+PACC 2504 Involuntary Manslaughter F2
+Acts of the accused associated with this Offense:
+IN THAT, on or about said date, THE DEFENDANT Patricia Ann Snyder did commit the offense of criminal homicide
+constituting involuntary mansiaughter by causing the death of his infant son Anthony Dinozzoz snyder,D.O.B.
+08/25/2015 as a direct result of Chronic Nutntional Neglect (Starvation) and Acute Doxylamine Toxicity which
+caused the victim’s death in a reckless or grossly negligent manner, in violation of Section 2504 of the PA Crimes
+code.(18 p.s. 2504 ■ Fel. 2nd degree where victim is under 12 years of age and is in the care, custody or control of
+the person who caused the death )	
+AOPC 412A - Rev. 09/12
+Page	of
+POLICE CRIlvIlNAL COMPLAINT
+Docket Number:
+' к 4! 0-1 Li
+Oate Filed:
+11/01/2016
+OTN/Livescan Numbe
+Complaint/Incident Number
+r_
+hijl
+
+2015-70148
+First:
+Middle:
+Last:
+Defendant Name
+PATRICIA
+SNYDER
+The acts committed by the accused are descnbed below with each Act of Assembly or statute allegedly violated, if
+appropriate. When there is more than one offense, each offense should be numbered chronologically.
+(Set forth a brief summary of the facts sufficient to advise the defendant of the nature of the offense(s) charged. A citation to the statute(s) allegedly violated without
+rnore, is not sufficient. In a summary case, you must cite the specific section(s) and subsection{s} of the statute(s} or ordlnance{s) allegedly violated. The age of the
+victim at the time of the offense may be Included if known. In addition, social securtty numbers and financial information (e.g. PINs) should not be listed If the identitv
+of an account must be established, list only the last four digits. 204 PA.COde §§ 213.1 ■ 213.7.)
+Q Attempt
+18 901A
+Q Soiicitation
+18 902 A
+Inchoate
+Offense
+□ Conspiracy
+18 903
+□
+4304
+PA Crimes Code
+1
+F3
+of the
+260	90Z
+Lead? Offense #
+Section
+Subsection
+PA Statute (Title'
+Counts Grade NCIC Offense Code
+UCR/NIBRS Code
+pennDOT Data
+(If Applicable)
+Accident
+Number
+Q interstate
+Q Safety Zone
+□ Work Zone
+statute Deschption (Include the name of the statute or ordinance):
+PACC 4304(a) Endangenng Welfare of Children
+Acts of the accused associated with this Offense:
+PACC 4304(a) Endangenng Welfare of Children
+IN THAT, on or about said date, being a parent, guardian, or other person supervising the welfare of Anthony
+DiNOZZO Snyder D.O.B. 08/25/2015, a child under the age of 18 years of age, THE DEFENDANT Patncia Ann Snyder
+did knowingly endanger the welfare of said child by violating a duty of care, protection or support, namely, by
+Chronic Nutntionai Neglect (Starvation) and Acute Doxylamine Toxicity, in violation of Section 4304 of the PA
+Cnmes Code. (18 P.S. 4304 - Misd.lst, a course of conduct of endangerinq the welfare of a child - Fel. 3rd)
+AO-PC 412A - Rev. OS/12
+Page	of
+IJti
+I POLICE CRIlvlINAL COMPLAINT
+
+
+Docket Number:-	, I
+Date Filed:
+11/03/2016
+OTN/Liyescan Number
+-у-	, r, IV
+Complaint/Incident Number
+ГЧ
+2015-70148
+к
+First:
+Middle:
+Last:
+Defendant Narne
+PATRICIA
+SNYDER
+The acts committed by the accused are described below with each Act of Assembiy or statute ailegedly violated, if
+appropnate. When there is more than one offense, each offense should be numbered chronologically.
+(Set forth a bnef summary of the facts sufficient to advise the defendant of the nature of the offense(s) charged. A citation to the statute{s) allegedly violated, without
+more, is not sufficient. In a summary case, you must cite the specific sectlon(s) and subsection(s) of the statute(s) or ordmance(s) allegedly violated. The age of the
+victim at the time of the offense may be included If known. In addition, social security numbers and financial information {e.g. PINs) should not be Ijsted. If the Identity
+of an account must be estabiished, list only the last four digits. 204 PA.COde §§ 213.1 - 213.7.)	 
+fnchoate D Attempt
+Offense
+Q Solicitation
+18 902 A
+□ Conspiracy
+18 903
+18 901A
+□
+4
+2701
+(a)(1)
+PA Crimes Code
+1
+M
+of the
+04E	13B
+Lead? Offense#
+Section
+Subsection
+PA Statute (Titled
+Counts Grade NCIC Offense Code
+UCRyNIBRS Code
+pennDOT Data
+(If Applicable)
+Accident
+Number
+Q Interstate
+Q Safety Zone
+□ Work Zone
+Statute Description (Include the name of the statute or ordinance):
+PACC 2701(a)1 Simple Assault M2
+Acts of the accused associated with this Offense:
+PACC 2701(a)1 Simple Assault M2
+IN THAT, on or about said date, THE DEFENDANT Patncia Snyder did attempt to cause or did intentionally,
+knowingly or recklessly cause bodily mjury to Anthony DiNOZZO Snyder, the suspects child , that Is to say THE
+DEFENDANTS child did show brusing in the area of his cheek and ear at the time of his death when the child
+not able to cause these injuries to himself, in violation of section 2701 (a)(1 ) of the PA Crimes Code, (18 p.s. 2701
+(a)(1)-Misd.-grading)
+was
+AOPC 412.A ■. Rev. 09/12
+Page	of
+POLICE CRIlvIlNAL COIVIPLAINT
+
+Docket Number;.
+Date Filed:
+11/01/2016
+OTN/Liye.scan Number
+Complaint/Inciderit Number
+
+л>ч
+2015-70148
+First:
+Mjddie:
+Last:
+Defendant Name
+PATRICIA
+SNYDER
+AFFIDAVIT OF PROBABLE CAUSE
+On December 7, 2015, members of the Reading Police Department were dispatched to 626 s. 17 У2
+street, Reading, Pennsylvania, Berks County, for an unresponsive three month old male. When officers
+arrived they found members of the City of Reading Fire/Ambulance Department on location with the
+unresponsive male in an ambulance. Officers were told that the male, who was later identified as Anthony
+DiNOZZO Snyder D.O.B. 08/25/15, had expired. At approximately 2127 hours, Deputy Coroners John
+Hollenbach and Melissa Sealie pronounced Anthony dead.
+When this Investigator arrived on scene, I was directed inside of the home and found Patricia Snyder,
+mother of Anthony DiNOZZO Snyder. After gathenng some basic information I asked Patricia if she could
+provide any details about when she last saw Anthony alive. Patncia stated that shortly after 4 p.m., her
+husband, Charles Snyder, left for work and that Anthony was placed in his bouncer. Patncia indicated that
+around 5 p.m. she changed Anthony's diaper, fed and burped him, and then placed him into his bassinet.
+At 6:30 p.m. Anthony began to cry so she picked him up and held him until he fell back asleep. Patncia
+placed Anthony into his bassinet. Patricia stated that around 7 p.m. she went downstairs to prepare food
+for her two other minor children, who were ages one and six. Patncia related that after she fed her six year
+old son, she began feeding her one year old son. While feeding her one year old son, her six year old, who
+went back upstairs, began screaming. Patricia ran upstairs and found Anthony in his bassinet and
+unresponsive. Pathcia stated that she removed Anthony from his bassinet and placed Anthony on her bed
+and began performing CPR. Patricia called emergency from a touch pad alarm system installed in the
+home. When asked about any medical problems Anthony may have had, Patncia indicated that Anthony
+had been sick but nothing out of the ordinary.
+While this Investigator was still at the home, Charles Snyder, Anthony's father, arrived. I explained to
+Charles Snyder why I was at the home and advised him that Anthony had expired pnor to his arnval. I
+began to ask Charles about the last time he saw Anthony alive. Charles advised that he left for work at
+approximately 4 p.m. and that Anthony was in his bouncer when he left. Charles stated that Anthony had
+been sick the month before and had been placed on antibiotics. Charles also related that Anthony had
+been sick with cold like symptoms. Charles related that he gave Anthony an over-the-counter cold
+medication that he purchased at Turkey Hill.
+Patncia Snyder and Charles Snyder are the only adults living at 626 s. 17/2 street and are the sole care
+providers for Anthony.
+This Investigator did observe multiple baby bottles filled with formula in the kitchen refrigerator.
+Additionally, there were cans of unused powdered formula in the kitchen.
+On 12/08/15 an autopsy was performed by Dr. Supriya Kuruvilla, the Chief of Pathology at Reading Health
+System. Dr. Kuruvilla noted that Anthony's fat reserves were near-total depletion, he had a depressed
+anterior fontanelle, and his face was gaunt with sunken eyes and cheeks. His limbs were thin with
+ДОРС 4110 - Rev. Ü7/1C
+Page	of
+POLICE CRIlvIlNAL COIVIPLAINT
+
+AFFIDAVIT CONTINUATION PAGE
+,Doclœt Number:	Date Filed:
+ILC 11/01/2016
+OTN/Livescan Number
+Complaint/Incident Number
+
+
+2015-70148
+First:
+Middle:
+Last:
+Defendant Name
+PATRICIA
+SNYDER
+AFFIDAVIT OF PROBABLE CAUSE CONTINUATION
+pronounced bony prominences. Dr. Kuruvilla also noted that Anthony had a contusion on his right cheek
+and another contusion on the back of his ear. As part of the autopsy, postmortem toxicology
+performed. The toxicology results showed that Anthony had 52 mcg/mL Acetaminophen (Tylenol),
+770ng/mL Doxylamine (Unisom), and 1000 ng/mL Dextro/Levomethorphan in his system. Doxylamine is
+an over the counter antihistamine found in cold remedies.
+was
+On 02/26/16 a final Certificate of Death was completed and the manner of death was ruled a homicide
+The cause
+of death was from Acute Doxylamine Toxicity and Chronic Nutritional Neglect (starvation).
+The results of the autopsy and other reports, including Anthony's medical records, were forwarded to Dr.
+Lon Frasier, Professor of Pediatncs and Director of the Center for the Protection of Children at the Penn '
+state Children's Hospital. After reviewing the documents. Dr. Frasier gave an opinion to a reasonable
+degree of medical certainty that Anthony was severely malnourished and died as a result of medical
+neglect and the administration of dangerous over the counter medications.
+Anthony's medical records shows he was seen by Dr. Joseph stangarity, his pnmary care physician, on
+November 12,2015 for an upper respiratory infection and was placed on amoxicillin. At that time Anthony
+weighed 6.8 Ibs. Anthony's medical records note that Patricia Snyder was provided information stating
+that over-the-counter cold medicine should never be given to an infant as it could have serious side effects.
+Dr. Frasier also found evidence of physical abuse. Specifically, she noted that bruised found at autopsy
+on Anthony's cheek and ear were significant in a child of Anthony's age as he would have been unable to
+self-inflict such injuries.
+Dr. Frasier noted that between Anthony's November 12, 2015 appointment and his autopsy, Anthony lost
+25% of his body weight. She noted that Anthony would not have eaten well between November 12, 2015
+and December 7, 2015 and this would have been apparent to a reasonable caregiver. The failure to seek
+medical care for an infant who was clearly ill and not eating is medical neglect. Dr. Frasier opinion to a
+reasonable degree of medical certainty Is that the medical neglect and the provision of dangerous over the
+counter medication despite instructions to the contrary resulted in the overdose and death of Anthony
+Snyder.
+Based on information received from persons showing a truthful demeanor and all other evidence received
+your affiant is requesting a warrant for the arrest of Patricia Ann Snyder, D.O.B. 11/03/1989, for the
+aforementioned charges.
+AOFC4'KC.»F3v. 07/1C
+Page	of
+ф-
+POLICE CRIlvIlNAL COIV1PLAINT
+
+
+AFFIDAVIT CONTiNUATION PAGE
+Docket Number:
+Date Filed:
+11/01/2016
+OTN/Livescan Number
+Complaint/Incident Number
+
+
+2015-70148
+
+First:
+Middle:
+Last:
+Defendant Name
+PATRICIA
+SNYDER
+AFFIDAVIT OF PROBABLE CAUSE CONTINUATION
+I. CARRASQUILLO, JOHN
+,, BEING DULY SWORN ACCORDING TO THE LAW, DEPOSE
+AND SAY THAT THE FACTS SET FORTH IN THE FOREGOING AFFIDAVIT ARE TRUE AND CORRECT TO THE
+BEST OF IV1Y KNOWLEDGE, INFORMATION AND BELIEFi\
+,0
+(Signature of Affiant)
+
+and subscribed befoicmethi \_L 
+Sworn to me
+.day of
+I -
+
+
+у
+к''
+Malïsteffàl District Judgé.. л
+н /-•:■ - "	 
+/
+
+•у.     ib
+Date
+
+
+Му commission expires first Monday ofoanuary,
+S'
+AOPC411c~Rev. 07/1C
+Page	of
+</textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+
+        </div>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Header, Footer and Watermark</h3>
+                <!--!<div id="content"> -->
+                <textarea class="form-control" cols="150" rows="30" id="HeaderFooterWatermark"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>URL HYPERLINKS</h3>
+                <!--!<div id="content"> -->
+                <textarea class="form-control" cols="150" rows="30" id="Hyperlink"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Specific Excel Rows</h3>
+                <!--!<div id="content">  -->
+                <textarea class="form-control" cols="150" rows="30" id="SpecificRows"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+    </div>
+
+</body>
+</html>

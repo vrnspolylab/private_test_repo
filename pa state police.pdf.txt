@@ -1,0 +1,285 @@
+<html>
+<head>
+    <title>Result</title>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="./resources/bootstrap-3.3.5-dist/css/bootstrap.min.css">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="./resources/bootstrap-3.3.5-dist/css/bootstrap-theme.min.css">
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="./resources/bootstrap-3.3.5-dist/js/bootstrap.min.js"></script>
+
+    <style>
+        #content {
+            background-color: #FCFCFC;
+            border: 1px solid #999999;
+            padding: 10px 10px;
+            -moz-border-radius: 4px;
+            -webkit-border-radius: 4px;
+            border-radius: 4px;
+            /*IE 7 AND 8 DO NOT SUPPORT BORDER RADIUS*/
+            opacity: 0.87;
+            -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity = 87);
+            /*-ms-filter must come before filter*/
+            filter: alpha(opacity = 87);
+            /*INNER ELEMENTS MUST NOT BREAK THIS ELEMENTS BOUNDARIES*/
+            /*All filters must be placed together*/
+
+        }
+
+        #infodiv
+         {
+
+
+            border: 0px rgb(89,89,89) solid;
+
+            background: rgb(234, 234, 228);
+
+        }
+    </style>
+</head>
+<body>
+    <center><h1>Data Extraction - Result</h1></center>
+    <div class="container">
+        <hr>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <dl class="dl-horizontal">
+                    <dt>File name:</dt>
+                    <dd>pa state police.pdf</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Provider name:</dt>
+                    <dd>AbbyyProvider</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Created On:</dt>
+                    <dd>8/12/2020 4:48:15 PM</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Extraction duration:</dt>
+                    <dd>00:00:02.2897797</dd>
+                </dl>
+            </div>
+            <div class="col-md-1"></div>
+
+        </div>
+        <hr>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Extended Attributes</h3>
+                <div id="attributes"><table class="table table-hover"><thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Value</th>
+                </tr>
+            </thead>
+            <tbody>
+<tr><td>creation date</td><td>3/21/2016 1:45:29 PM</td></tr>
+<tr><td>revision date</td><td>3/21/2016 1:45:29 PM</td></tr>
+<tr><td>Creator</td><td>RICOH MP C5503</td></tr>
+<tr><td>publisher</td><td>RICOH MP C5503</td></tr>
+</tbody></table>
+</div>
+            </div>
+            <div class="col-md-1"></div>
+        </div>
+        <div class="row" >
+            <div class="col-md-1" ></div>
+            <div class="col-md-9">
+                <h3>Content</h3>
+                <!--!<div id="content">  -->
+                <textarea class="form-control" cols="150" rows="30" id="content">PENNSYLVANIA STATE POLICE
+Control #
+R15870526
+1800 Elmerton Avenue
+Harrisburg, PA 17110
+REQUEST FOR CRIMINAL RECORD CHECK
+GRANT SHEATSLEY
+6716 SUNNINGHAM LANE
+MACUNGIE PA 18062
+TELEPHONE: (484) 788-9561
+TO WHOM IT MAY CONCERN:	 
+THE PENNSYLVANIA STATE PPLICE DOES HHRE8Ÿ CERTIPY ТНДТ:
+. Name:sheatsley,Grant
+Date of Birth:l /10/1982
+Social Secllrity #;xxx-xx-2642
+sex:M'\;,'
+Race:white -
+Date of Retluest:3/7/2016 2:32:00 PM
+Purpose of Retiuest: volunteerFREE
+Maiden Name and/or Alias (1)
+
+r-
+
+
+HAS A CRIMINAL RECORD iN PENNSYLVANIA BASED ON A CHECk OF tHE ABOVE
+IDENTIFIERS- CRIMINAL RECORb FOR SID NO: 257-77-04-2 ATTACHED* * *
+THE lIMFORMATION DISSEMINATED BY fHE:CENTRAL REPOSIfoRY rs BASED SOLELY:ON THE FOLLOWING
+IDENTIFIERS THAT MATCH THdsE FURNISHED ВТТНЕ REQUESTER:.
+[Y] NAME	[Y] SOCIAL SBCURItY NUMBER [N] MAIDEN / ALIAS NAME
+[Y] DATE OF BIRTH [Y] RACE [Y] SEX
+THE RESPONSE IS BASED ON A COMPARISOjNi OF DATA PROVIDED BY ТНЕ REQUESTER AGAINST
+INFORMATION CONTAINED IN THE FILES OF tHE PENNSYLVANIA STATE POLicÈ CENTRAL REPOSTTORY
+ONLY. PLEASE CONFIRM IDENTIFIERS PRbvIDED. POSITIVE iDENTIFICAtIQNXANNOT BE MADE
+WITHOUT FINGERPRINTS. THE PENNSYLVANIA STATE POLICE RESPONSE DOES NOT PRECLUDE THE
+EXISTENCE OF CRIMINAL RECORDS, WHICH MIGHt BE CONTAINED IN THE REPOSITORIES OF OTHER
+LOCAL, STATE, OR FEDERAL CRIMINAL JUSTICE AGENCIES.b
+[ ] COMPARISON MADE WITH FINGERPRÎNTS
+ADDITIONAL INFORMATION MAY BE AVAILABLE FROM QUERIES OF OTHER STATE AND FEDERAL DATABASES.
+[ ] SEE WEBSITE:httb://www.casanet.orR/proeram-manaeement/volunteer-mana e/crlrninal-bk2-check.htm
+[ ] PENNSYLVANIA'S MEGAN'S LAW WEBSITE AT:httn://pame anslaw.state.Da.us/
+QUESTIONS CONCERNING THIS CRIMINAL RECORD CHECK SHOULD BE DIRECTED TO THE PATCH HELP LINE TOLL
+FREE AT 1-888-QUERY-PA (1-888-783-7972)
+
+RTIFIEDBY:
+DISSEMINATED BY:027799
+03/08/2016
+
+Corporal Bradley Timbrell, Acting Director
+Acting Director Criminal Records and Identification Division
+Pennsylvania State Police
+SP4-137B
+caMPILF.D: 2016/03/09
+PAGE: 1 of 1
+PENNSYLVANIA STATE POLICE
+CENTRAL REPOSITORY
+1800 ELMERTON AVENUE
+HARRISBURG, PENNSYLVANIA 17110
+(717) 787-9092
+
+
+
+
+USE OF THE FOLLOWING CRIMINAL HISTORY RECORD *** SID 257-77-04-2 ***
+REGULATED BY ACT 47, AS AMENDED.
+
+:	::r :r	  !
+  ;:r r:  
+
+
+
+IDENTIFICATION
+NAME: SHEATSELY,GRANT MATTHEW
+SID: 257-77-04-2
+SEX: MALE
+HGT: 5 40"
+POB:
+COUNTRY OF CITIZENSHIP:
+DOB: 1982/12/10
+HAI: BROWN
+SOC: xxx-xx-2642
+EYE: BROWN
+RAC: WHITE
+WGT: 180
+US CITIZEN: YES
+
+
+
+
+
+CRIMINAL HISTORY
+PRIVATE PROSECUTION
+OCA: UNKNOWN
+OTN: H457762-4
+NAME: SHEATSELY,GRANT MATTHEW
+ARRESTED: 2001/07/11	PA0390800 WHITEHALL TWP
+DISPO DATE: 2001/09/14
+DISTRICT JUSTICE DOCKET NUMBER: PC-0000834-01
+*** COURT DATA ***
+OFFENSE
+DATE
+DISPOSITION
+COUNT GRADE
+CHARGE
+FINES/
+PLEAD GUILTY
+2001/06/26	CC3929A1 RETAIL THEFT 1
+s
+FINES/
+PLEAD GUILTY
+2001/06/26	CC3929A4 RETAIL THEFT 1
+s
+FOR MORE INFORMATION, CONTACT THE APPROPRIATE COURT OF RECORD
+
+  ::r	:r r:    	:r: rr	:
+
+
+22212 r:	   	rrir: :r     :
+
+ADDITIONAL IDENTIFIERS
+AKAS:
+DOBS:
+socs:
+MNUS :
+
+
+
+
+
+
+
+F=FELONY, M=MISDEMEANOR, S=SUMMARY AND THE NUMERIC=DEGREE
+ARREST(S) SUPPORTED BY FINGERPRINT CARD(S) ON FILE
+RESPONSE BASED ON COMPARISON OF REQUESTER FURNISHED INFORMATION AND/OR
+FINGERPRINTS AGAINST A NAME INDEX AND/OR FINGERPRINTS CONTAINED IN THE FILES OF
+THE PENNSYLVANIA STATE POLICE CENTRAL REPOSITORY ONLY, AND DOES NOT PRECLUDE
+THE EXISTENCE OF OTHER CRIMINAL RECORDS WHICH MAY BE CONTAINED IN THE
+REPOSITORIES OF OTHER LOCAL, STATE, OR FEDERAL CRIMINAL JUSTICE AGENCIES.
+THE PENNSYLVANIA STATE POLICE IS IN THE PROCESS OF SWITCHING FROM SCN CHARGE CODES TO
+THE PURDON’S FORMAT. RAP RESPONSES MAY SHOW BOTH SCN AND PURDON’S FORMATTED CHARGES.
+■k-k'k-k'k-kic-k'k'k-k-k-k-k-k-k'kick'kick'k-k'kicicicick £lsrD OF RAP SHEET ■k■k •k■k•k■k■k•k■k■kick■k■k •kick■k■k■k■k■k■k•k■k •k ■k
+</textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+
+        </div>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Header, Footer and Watermark</h3>
+                <!--!<div id="content"> -->
+                <textarea class="form-control" cols="150" rows="30" id="HeaderFooterWatermark"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>URL HYPERLINKS</h3>
+                <!--!<div id="content"> -->
+                <textarea class="form-control" cols="150" rows="30" id="Hyperlink"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Specific Excel Rows</h3>
+                <!--!<div id="content">  -->
+                <textarea class="form-control" cols="150" rows="30" id="SpecificRows"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+    </div>
+
+</body>
+</html>

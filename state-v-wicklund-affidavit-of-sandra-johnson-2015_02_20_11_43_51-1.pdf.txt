@@ -1,0 +1,2378 @@
+<html>
+<head>
+    <title>Result</title>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="./resources/bootstrap-3.3.5-dist/css/bootstrap.min.css">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="./resources/bootstrap-3.3.5-dist/css/bootstrap-theme.min.css">
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="./resources/bootstrap-3.3.5-dist/js/bootstrap.min.js"></script>
+
+    <style>
+        #content {
+            background-color: #FCFCFC;
+            border: 1px solid #999999;
+            padding: 10px 10px;
+            -moz-border-radius: 4px;
+            -webkit-border-radius: 4px;
+            border-radius: 4px;
+            /*IE 7 AND 8 DO NOT SUPPORT BORDER RADIUS*/
+            opacity: 0.87;
+            -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity = 87);
+            /*-ms-filter must come before filter*/
+            filter: alpha(opacity = 87);
+            /*INNER ELEMENTS MUST NOT BREAK THIS ELEMENTS BOUNDARIES*/
+            /*All filters must be placed together*/
+
+        }
+
+        #infodiv
+         {
+
+
+            border: 0px rgb(89,89,89) solid;
+
+            background: rgb(234, 234, 228);
+
+        }
+    </style>
+</head>
+<body>
+    <center><h1>Data Extraction - Result</h1></center>
+    <div class="container">
+        <hr>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <dl class="dl-horizontal">
+                    <dt>File name:</dt>
+                    <dd>state-v-wicklund-affidavit-of-sandra-johnson-2015_02_20_11_43_51-1.pdf</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Provider name:</dt>
+                    <dd>AbbyyProvider</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Created On:</dt>
+                    <dd>8/12/2020 4:51:05 PM</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Extraction duration:</dt>
+                    <dd>00:00:56.7983483</dd>
+                </dl>
+            </div>
+            <div class="col-md-1"></div>
+
+        </div>
+        <hr>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Extended Attributes</h3>
+                <div id="attributes"><table class="table table-hover"><thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Value</th>
+                </tr>
+            </thead>
+            <tbody>
+<tr><td>creation date</td><td>2/20/2015 5:44:37 PM</td></tr>
+<tr><td>revision date</td><td>2/20/2015 8:23:23 PM</td></tr>
+<tr><td>Creator</td><td>ScanSnap Manager #iX500</td></tr>
+<tr><td>publisher</td><td>Acrobat 11.0.10 Paper Capture Plug-in</td></tr>
+</tbody></table>
+</div>
+            </div>
+            <div class="col-md-1"></div>
+        </div>
+        <div class="row" >
+            <div class="col-md-1" ></div>
+            <div class="col-md-9">
+                <h3>Content</h3>
+                <!--!<div id="content">  -->
+                <textarea class="form-control" cols="150" rows="30" id="content">/
+!
+STATE OF MINNESOTA
+IN COURT OF APPEALS
+
+CASE TITLE:
+State of Milmesota,
+Appellant,
+AFFIDAVIT OF
+SANDRA H. JOHNSON
+TRIAL COURT CASE # 96042987
+96043228,96044022, 96043061
+vs.
+Freeman Algot Wicldund,
+Althea Ruth Jean Schaffer,
+Peter Benson Eckholdt,
+Alissa Ifetayo Eggert,
+Respondents.
+APPELLATE COURT CASE
+NUMBER: C7-97-1381
+STATE OF MINNESOTA
+)
+
+COUNTY OF HENNEPIN
+)
+
+Sandra Henkels Johnson, being first duly swom on oath, hereby deposes and
+states the following:
+1. Your afhant is an associate city attomey for the City of Bloomington and
+the prosecutor/appellant in the above-captioned matter.
+On August 7, 1997, yoxir affiant had a telephone conversation with
+defendant/respondents attomey, Larry B. Leventhal conceming the status of this
+case. Mr. Leventhal informed me that the defendants would be calling
+approximately three witnesses h-om the Mall of America at trial in support of
+defendants’ “claim of right” defense for the purpose of proving that it would have
+been futile for the them to seek the Mall of America’s permission to conduct
+their demonstration there.
+2.
+3. Attached hereto as Exhibit 1 is a true and correct copy of the police
+reports, including criminal citations in these cases.
+4. Attached hereto as Exhibit 2 is a tme and correct copy of the reports of the
+Mall of America security officers in these cases.
+5. Attached hereto as Exhibit 3 is a true and correct copy of the Stipulation of
+Facts entered into by counsel in these cases.
+
+6. Attached hereto as Exhibit 4 is a true and correct copy of the State’s
+Proposed Findings of Fact in these cases.
+
+7. Attached hereto as Exhibit 5 is a true and correct copy of the handbill
+being distributed by defendants in these cases. ,
+8. Attached hereto as Exhibit 6 is a true and correct copy of the Mall of
+America’s private rules of conduct effective on the offense date herein, May 19,
+1996.
+9. Attached hereto as Exhibit 7 is a true and correct copy of the Mall of
+America’s community booth guidelines/regulations/application packet.
+Attached hereto as Exhibit 8 is a true and correct copy of Judge Nordby’s
+December 12,1996, order in these cases.
+10.
+11. Attached hereto as Exhibit 9 is a certified copy of Judge Nordby’s August
+5,1997, decision in State ofMimesota V. Michael Derwood Jones, Hennepin
+County District Criminal Court File 96091947.
+Further your q ant sayeth naught.
+
+
+'Ь( 
+
+
+
+Dated:
+
+
+[enkels Jolmson
+s
+Subscribed and swom to
+before me this day of
+It, 1997.
+
+
+Public
+Nol
+
+kATHLEEN EILER
+NOTARY PUBUC- MINNESOTA
+HENNEPIN COUNTY  
+My Comm. Exoirfis )r.n.
+
+') ■
+
+
+STATE OF MINNESOTA
+IN COURT OF APPEALS
+
+CASE TITLE:
+State of Minnesota,
+Appellant,
+APPENDIX AND ITS INDEX
+TRIAL COURT CASE # 96042987
+96043228,96044022,96043061
+vs.
+Freenlan Algot Wicldimd,
+Althea Ruth Jean Schaffer,
+Peter Benson Eckholdt,
+Alissa Ifetayo Eggert,
+Respondents.
+APPELLATE COURT CASE
+NUMBER: C7-97-1381
+Page
+The police reports, including criminal citations in these cases
+1.
+A-1
+
+The Mall of America security oflicers in these cases
+2.
+A-8
+The Stipulation of Facts entered into by counsel in these cases
+3.
+A-21
+State’s Proposed Findings of Fact in these cases
+A-24
+4.
+Handbill being distributed by defendants in these cases
+A-35
+5.
+Mall of America’s private rules of conduct effective on May 19, 1996 ..	A-37
+6.
+Mall of America’s conimunity booth guidelines/regulations
+A-38
+7.
+Judge Nordby’s December 12,1996, order
+A-41
+8.
+Judge Nordby’s August 5,1997, decision in
+State of Minnesota V. Michael Derwood Jones,
+Hennepin Colmty District Criminal Court File 96091947
+9.
+A-46
+Transcript of Minnesota Public Radio broadcast of August 4,1997
+A-69
+10.
+
+City of Blo'omin on
+POUCE DEPARTMENT
+2215 West Old Shakopee Road
+Bloomington MN 55431-3096
+(612)948-3900 (TDD: 948-8740)
+FAX: 948-3936
+
+
+Sector
+Pageoof 
+A
+
+
+
+D Information
+□ c and w
+D Supplemental
+, Offense
+TOR
+
+□
+Offense/Incicleht Classification
+\L
+□ Fel □Gross > Mis
+3
+□ Fel □ Gross □ Mis
+I
+MOC р ззо
+2
+MOC
+□ Fel □ Gross □ Mis
+4
+□ Fel □ Gross □ Mis
+MOC
+MOC
+Address of Incident (Street, Apt.,City, state. Zip)
+я /оо	So
+Name of Location/Area
+.Ллср\ П о •*r СлЛ
+Occurred On/From
+To
+Reported On
+Report:	•
+ш Counter	[И Fhone
+[И Mail-ln * tlother
+Month Day Year Time
+£» i9 9   /21 
+Month Day Year ■Пте
+Month Day Year Time
+111 Bias Crime	ш Equip/Uniform Dam.	[1] Dnjg/Alcohol
+[И Force Used	11] Firearm Discharged	Ш] Officer Assaulted
+[И Fursuit	[И other Juhsdiction
+[И Domestic	[Ш Othen
+Arrest Made: Ш Yes И] No
+Citation lssued:   Yes [И No
+Soivability Factors
+other Factors
+	\4.. Ш Yes [И No [И Maybe
+es ш No [I] Maybe
+III Yes Ш No
+Suspect Known?.,
+Can Suspect Be Iden ed?:
+Witness to Chme?	
+Stolen Froperty Traceable?.
+License Number Obtained?.
+Victim/Suspect Relationship?	 ш Yes Ш No
+Cnme Scene Froq sed?
+Photos Taken?	О] Yes Ш No
+... [ïlYes
+... ш Yes ш No
+... Ш Yes [И No [3] Faffial
+lj] Analysis  idp al Ш Analysis-Narcotic
+[з] Finger Prints ш Items to Be Phnted
+[И Other:
+Property Tumed In?.
+Evidence Turned In?
+Lo
+ybe
+Victim One - Business (VIB)
+Business Name
+Address (Street, Rm/0ffice,city, state. Zip)
+Phone
+Persons
+‘1  RP D Victim D Witness D Arrested
+' ' Name
+□ J	p  Кпг7т  /Л
+Address	 	 	   
+  □ bject □ Vic □ Wit □ Arr Ш СГТ(Ш
+Name ,
+Race M
+LJ □ F
+Race ■ M
+  u F
+Address
+
+7
+City
+state
+
+City
+state
+4ЛЛЛ
+
+Pi-'f
+
+Home Phone
+DOB
+Home Phone
+Business Phone
+DOB
+Business Phone
+4l2H\-6
+
+School/Grade
+Booking/citationNO.
+4 lcœ20.44
+School/Grade
+Booking/citationNO.
+pp~TTÂfT~  Cited ùsus üwit Ij
+Name
+□ J 5сьа< сроел Q\kLTf i r. 
+Ш и Arr LJ) ited и Sus и Wit 1_|СШ L
+Name
+□ J Uj \CKLL \2 ,	гл ггот
+
+Race □м
+li,> '  F
+Race
+0Ü
+
+Address
+Address
+' Oll /r,).s-r sr.
+GccdrICA
+City
+City
+State
+ЛЛ\]
+
+State Zip
+лл.  £S044
+LCK> .v.\\a.
+-s-r. p<  и и
+Home Phone
+‘//Ъ/7Я	9.<:3- 9293
+DOB
+DOB
+Home Fhone
+i2-24-lé‘ 6 ' 
+Business Fhone
+Business Fhone
+
+School/Grade
+Booking/citationNO.
+School/Grade
+Booking/citationNO.
+7X.
+4%rxD2.714 3 •'/
+Age
+Build
+Race
+Height
+Weight
+Build
+Age
+Race
+Height
+Weight
+H M 8
+H M s
+Texture
+Eyes
+Skin
+Hair
+Length
+Texture
+Eyes
+Skin
+Hair
+Length
+'' dentltying Features
+Identifying Features
+Orficer''Ime/Badge	-
+■ X	р<е.'15с’.л
+I Review Officer
+ILL
+Assist Officers No.
+/ / ~7	- ' .
+Fatrol Invest
+120 -
+
+Chief
+Temp
+Clerk
+Court
+Corner
+Other
+Health
+Atty
+i 9
+I
+/
+.ан
+
+4a'001. pg 1 (9/95)
+I
+Page 1  of
+Report Number
+isectcr
+Crime Scene Description
+
+ '2
+Burglanes/Thefts
+Crime Location
+i. Entry
+.Exit
+it. Entry	Exit
+No. of Premises
+Method of Entry
+impiement Used
+Burgiary Elements
+I
+I
+I
+
+1
+Ш Formzeft with Victim
+Property Loss/Damage  
+Ш Additional Pages 
+Status* Own/Vict Quantity
+Article
+Brand
+Model Number, Selial Number/Description
+Value
+'Slatus D Damaged L-Lost s stolen F=Found R Recovered
+Code: p=Iphotographed/Retumed to Owner B=eumed
+Oanlaged
+TOTAL
+stolen
+TOTAL
+Type
+Vehicie:
+state Year/Age Make
+Modei
+Color
+No. of Ooors
+License
+□ Sus □ Ylc □ Imp
+Suspect:
+Race
+Hair
+Ciothing
+Sex
+Age
+Height
+Build
+Eyes
+.arrative:
+
+
+
+
+Л J p
+/v  r***>o 
+
+о A Clr\ \rr\ c	АЛС С<У
+f
+C10L<
+о A
+f loor. ( Clc>j
+
+
+fr\ ry\c>/\
+
+nç	  aurt~r  '7?b
+•Scl b•ll »r-T <;	 L.\ A re‘-
+
+
+7
+7X:)W	U)c.r<- r:r ',J ) ■ 4  A
+'7  R all	ty 10ГЧСХ.~Т| oo o-p
+lahu-
+
+/
+cf
+■лъис. Sis l atj  bc<- 
+ <.h}
+готе.'тг
+A
+f
+F
+г	O.XJC:i)
+t r~-
+"To Ljpry.j. 
+
+rcti—. /гуу ЛЛ
+/Kfa / /
+
+
+c
+I rj L( c:L
+\Jо iiA	/’i Y
+.g£ 
+7
+
+1-0 гг
+
+
+F
+[ 0(1
+J
+hsr>À Crcoci
+(!u>OA Г 5=:Г | УГ"Г  Д "7  Pspp  f r\ \
+
+c\\\
+i г ro(0 /)л  
+Г"7,л
+*- r*'4' ГГ»
+J~D- ■i'
+Oo	1. L/tr> czx‘*rl >o tb "7  / -
+
+A/o..
+
+Iac<  ,4 
+ЙII
+crfJ lA.)
+racjd.' '   -
+4 242
+
+ofHcer
+Review ошсег
+À - Tke,rHkJ5c'  i/~7
+A-1
+42-001. pg 2 (9.'94!
+Report Number
+
+Page   of 1 
+Persons
+c
+IP Person Type:. '
+n Person Type:
+	□ M Name
+Inj
+6 7 LaLU' L 
+Name
+□ м
+
+□ F
+.dciress
+Address
+State-;' Zip ■J
+City
+City
+State Zip
+  <• paiA.L.
+DOB
+Home Phone
+7-Г-77 a  -loc/l
+Business Phone
+DOB
+Home Phone
+Business Phone
+Schooi/Grade
+Booking/citationNO.
+V96 000.9 ~'l
+Schooi/Grade
+Booking/citationNO.
+Age
+Race
+Height
+Weight
+Buiid
+Age
+Race
+Height
+Weight
+Buiid
+
+
+/5
+H M s
+H M s
+Hair
+Length
+Texture
+Eyes
+Skin
+Hair
+Length
+Texture
+Eyes
+Skin
+Identifying Features
+identifying Features
+Person Type:
+Person Type:
+Name
+Ü M Name
+□ F □J
+им
+□ F
+Address
+Address
+state Zip
+City
+state
+Zip
+Home Phone . ..
+Business Phone
+DOB
+Home Phone
+Business Phone
+'chooi/Grade
+Booking/citationNO.
+School/Grade
+Booking/citationNO.
+Race
+Age
+Height
+Weight
+Build
+Age
+Race
+Height
+Build
+Weight
+H M s
+H M s
+Hair
+Length
+Texture
+Eyes
+Skin
+Hair
+Texture
+Eyes
+Skin
+Length
+Identifying Features
+Identifying Features ,
+Person Type:
+Person Type:
+□ м
+••	u M	Name •
+•	□F	□J
+Name
+□J
+□ F
+Address
+.. Address
+City
+state
+Zip ,,
+City
+state
+Zip
+DOB
+• • Business Phone '
+Home Phone
+DOB
+Home Phone
+Business Phone
+School/Grade
+School/Grade
+Booking/citationNO.
+Booking/citationNO.
+Build
+Age
+Race .
+Height
+Build
+Race
+Height
+Weight
+Weight
+Age
+H M S
+H M s
+Eyes
+Texture
+Eyes
+Texture • •
+Skin
+Hair
+Length
+Skin
+Hair
+Length
+' Identifying Features
+j tifying Features
+■cer Name/Badge
+Review Officer
+
+тю
+
+/
+
+
+
+BLOOMINGTON POLICE DEPAKrMENT
+f
+
+
+
+•’'■ ■':2 '■ ■•2:
+
+Ш
+
+i
+
+
+‘ -•
+
+
+
+ш
+ш
+
+
+шш
+шш
+
+-V'-
+ш
+
+
+
+
+
+
+ш
+ш .:
+к
+
+;•	''т
+■У '-
+I
+г.<‘.
+тшЁ
+¥ШШ
+Р-Ч’
+ш
+
+тщш
+:v;
+•-.• ‘
+I’' м
+-л2
+?•
+т
+
+I
+■:\Ш г:
+' ' ■■■ ■'■	- r<f
+vn--.v-'-v
+,,	J..
+
+i
+h.
+ш
+'- ,- ■
+
+'I
+Ш
+i.
+
+,jl§i
+i
+щщл .,'
+i::pl
+
+I
+
+I
+
+iiil
+Ш;3
+ш
+m
+
+
+
+Ш
+
+■■
+
+Ш
+ï -'-ш
+ш '"ф
+P
+-- .i
+
+шш
+щтт
+Шт
+ï'-'
+■:'.л..1
+ч
+
+
+
+г  
+
+
+05/19/1996
+Booking No BLPD199601005
+Person Key
+LID No 95-010063
+SID No
+BLPD1995FA141187
+WICKLUND, FREEMAN ALGOT
+POB
+EUGENE , OR
+AKA
+Temporary
+Length SHORT
+corrvi.s NO
+Compun MEOluM
+Hair Color
+Eye Coior
+Faciai Hair
+BLOND
+BLUE
+NONE
+DOB
+Race
+Weight
+04/30/1973
+Age	23
+Sex	MALE
+Height 5’ 7“
+w
+135
+S/МЛ’/Р
+Offense Car.
+M-TRESPASSING M-TRESPASSING
+Comments
+  CASE NUMBER 96-007373
+
+Contact
+LT. K. THERKELSEN 117
+A-4
+FOR LAW ENFORCEMENT USE ONLY
+05/19/1996 lalae   blmm02
+
+
+г ‘
+1
+;:4:
+
+
+■ • .■• - ‘	•Хг.гг».-		
+
+
+
+' и
+
+
+•■г-
+
+НС 4567 (7/95)
+STATE OF MINNESOTA
+COUNTY OF HENNEPIN
+DISTRICT COURT
+'•Î.:
+
+UNIFORM СГГА TION NO.
+Ш002263 i2
+The issuing officer states that the person named
+below committed the offense descnbed in
+violation of the section rndicated.
+
+-■
+'0 1
+TYPE -:l-DEGREE
+:■>	''n   -■tv'B'".-;
+
+69
+DRIVER'S LICENSE NUMB6H			I STATE /
+Л- ) L b'- ЬЛ4 -	  Я ПАН'Н
+NAME •LAST. FIRST. MIDDLE tAIDEN	 	*
+70-
+66
+I
+
+6l
+63
+ADDRESS s crrv
+/ 7  D ■ 0 oh .Q. /
+601
+WÊ
+!
+50
+STATE
+ZIP CODE
+'
+<7. PAUl 
+
+67
+DATE OF BIRTH
+EYES
+HEIGHT
+WEIGHT
+SEX
+40—
+r.ci s4 тг
+.уугч/|/ |/г
+VI0LAT10NTNFQRMATI0N	 
+
+64
+
+
+DATE OF OFFENSE
+TIME
+
+METER NUMBER
+
+< - / 9   7’ J dL/ y
+VEHICLE LICENSE FLATi  	* STATE	-
+;
+I
+
+YEAR
+MAKE
+MODEL
+
+••Ap'.
+I
+I
+!
+I
+I
+ nLOR
+LOCATION s crrY
+■•f
+ 4'o'o''
+%
+1
+-  
+
+I
+.i
+I
+I
+1
+
+i
+I
+STATUTE OR ORDINANCE NO.
+DESCRIPTION
+LO/i Lr <
+Я'5.4 ) л/4
+
+
+1
+COM со6Е
+SPEC AGCY
+CT. DIV.
+ACTIVITV
+7TTM
+UNSAFE rn COMMERCIAL r-\
+CONDrTIONS J—I VEHICLE I—I
+HAZARDOUS
+MATERIAL
+r-l ENDANGER UFE
+1—1 OR PROPERTY
+□ ACCIDENT □
+BADGC NUMBER
+ORI NUMBER
+/ Л   / ;/7 M N
+7
+If you fall lo respond to Ihls citation within 7 days, increased penalties will be
+assessed and a warrant may be Issued for your arrest. If a warrant is issued, a
+penalty of S30.00 will be added to the fine.
+
+
+COURT COPY DO NOT WRITE ON REVERSE
+
+As
+>
+
+
+
+
+■'.■• .T
+
+l:
+■Ю 4567 (7/95)
+ЬТАТЕ OF MINNESOTA
+COUNTY OF HENNEPIN
+OISTRICT COURT
+47
+r
+UNIFORM CITAVON NO.
+:• ■
+0000 У1 о	Issuing ofricsr states that ttle person named
+,lx M o. M II     Al Q \ I. below committed tbe ottense descnbed In
+h—- - - Yl  	s- T 4  ук violation of tbe section Indicated.
+
+■■ ■•f- "■ •M.:l
+
+OFFICE USE OAft r о	IIII шрлл
+Qlc:! 
+
+;
+STAT 
+DRIVER'S UCENSE NUMBER
+
+
+72
+80—
+ AME • LAST. FfRST. MIDDLE AAIOEN
+'
+I
+£  i£g:nJAAJ-£! 
+69
+Ü 70—
+. i
+r.
+ADDRESS   С1ТУ
+66
+
+4 .5' 7i j A: и Û. E L.
+ST p A-u L '
+(
+I
+STATE
+fz\? CODE
+:î$
+63
+
+
+1: 
+EYES
+HEiGHT
+WEIGHT
+SEX
+OATE OF BIR'm
+50l
+e“°-7 ! о 'ТЩ  V
+
+VIOLAnoN INFORMAHON
+ü¥
+57
+DATE СГ OFFENSE
+TIME
+METER NUMeER
+‘> - 4 9- 9/. I ЛI <.
+VJ.
+I
+
+i
+VEHtcLE LICENSE PLATE
+ ATE
+YEAR
+MAKE
+MODEL
+
+»4l
+
+\
+I
+I
+I
+COLOR
+
+LOCATION è CITY
+/ П'П\ ' 4' ri\
+;
+I
+г
+i
+I
+I
+STATL.TE OR ORDINANCE NO.
+DESCRIPTION
+os
+
+/	0,.Ÿ	  J /V4
+COM CODE
+CT. DIV.
+ACTIVrTY
+SPECAGCY'
+I r. 04
+1
+HAZARDOUS
+MATERIAL
+(—I COMMERCIAL r-l
+1-1 VEHICLE 1-1
+UNSAFE
+CONOrnoNS
+r-l ENOANGER UFE
+L-l OR PROPERTY
+□ AcaDENT □
+8ADGE NUMBER
+ORI NUMBER
+/Дг|//: 
+  ' 11 /
+If you fail to respond to this citation mthin 7 days. Increased penalties will be
+assessed and a warrant may be Issued for your arrest. If a warrant is Issued, a
+penalty of $30.00 wlll be added to the fine.
+M N
+./.Л4 1	(J4)
+i
+:
+I
+I
+I
+i
+<i c - '  'n '3 ' s L
+I
+COURT COPY DO NOT WRITE ON REVERSE
+
+
+rs
+p\lo
+
+
+
+/■
+
+
+
+
+
+■ :V
+
+HC 4567 (7/95)
+STATE OF MINNESOTA
+'NTY OF HENNEFIN
+.HICT COURT
+:■ •
+
+
+*	.	Щ t '.	I	  t
+.	.	 	Ф	    t   •I	r* > *	*
+~...r  •
+
+
+UNIFORM CITATioN NO.
+’■ ■
+
+о A о	The issuing officer slales thal the person named
+41МК||||>>Д •5 ÎД below oommitted the offense descnbed in
+ 	‘-i ‘	Сг; viotation of the section Indloated.
+:
+
+: TYPE-’ -
+fplmlcl
+.V
+
+ontv 's LICENSE NUMBER				STATH
+у-:дц--9-х-:4г| - Ô4h-3 W\
+72
+sa
+NAME ■ LAST. FIRST. MIODLEA AIOEN
+69
+4JM<LUKt ;   'F r lfAA-hJ
+   LA ’r ''	! i I
+70—
+66
+Лм- i
+AODRESS   crTY
+I r 1T!
+i
+63i
+ ( E ■ I ZIP CODE	 t ■  
+
+
+
+•i
+ 0l
+•;
+ME OF BIRTH	EYES	HEIGHT
+г |нш г 5-т/11
+	 *	~ J	  у|ойАТЮМ1НРОЯМАЛОН
+rôËôfFHNSE    iTI     ~
+VEHICLE LICENSE PLATE	1 STATE ~  R ~ MAKE
+WEIGHT
+SEX
+
+67
+METER NUMBER
+
+MODEL
+
+i
+I
+!
+COLOR
+LOCATION   СТТУ
+| ‘4тц- i
+1
+•ЯЕ OR ORDINANCC NQ.
+DESCRIPTION
+
+:
+ACT VITV
+SPEC AGCY
+COM CODE CT. DIV.
+
+Tr.fr
+I
+HAZARDOUS
+MATERIAL
+r-1 COMMERaAL rn
+LJ VEHICLE l-J
+UNSAFE
+CONDmoNS
+
+b
+BADG UMBER
+ORI NUMBER
+dio \\nw 
+If you fall to réspond to this citation within 7 days, increased penaltles will he
+assessed and a warrant may he issued for your arresL If a warrant is issued, a
+penalty of S30.00 will he added to the fine.
+
+с?
+’ '13
+COURT COPY DO NOT WRITE ON REVERSE
+;
+о
+A-7
+612 883 8866
+mLL OF PNERICP MN
+i
+JUL-24-1996 08:16
+612 883 8866 P.02/14
+1лс!с[еп1 Report
+‘ MOA/luYill  01/95) -
+c tcr	 	-
+Mail of Ашопса, 60 Ea5t Broadway, Bloomiagton, Minnesota 55425
+Datr 0p:nrrrd
+'Пт  Occurred
+Оац Kcportcd
+'nluc RCPQrtcd
+/ЛГ7
+Tcnantspccc ulnbcr
+y/: l
+0 -/9- b c.
+pccfloddcnl	.
+Г- / 7 0 ■/W'f
+1САГ#
+Llucicicn cf Incidcnl
+c, 'f	Z-
+
+?35-û
+ГЛ
+Ncmc (La5t. Finl Middle)
+
+
+
+
+'v.'..
+
+
+Ntnic (Lusr, Гии| Middic)
+I 'Г C- .C<1
+*bt.
+
+
+T
+Addms
+Address
+17
+U
+
+
+
+
+Cryl Ststc, Zip Cddc
+City, Ststc, Zip Cede
+C7
+Plutae Number	  '	'
+- 3v2-o
+
+Date af airth
+Phpnc Number
+Date ot Birth
+
+
+Nsme (Lalt. rirst Middie)
+
+
+ дтс (Ul  Ят Middk)
+й I c 'h
+'RJ'  /
+Addrrzz	 	 	(/
+t/ C-  
+t* t- (.o  A.
+A—yza 
+t
+AddTWS
+
+
+
+n ro
+Л,
+aly, State, Zip Cede
+Gty, State, Zip Cade
+s-f. 9 
+
+
+
+S'slc,$r
+
+Fhoa€ NalTIber
+Phonc Nuinber
+DBttorBireh
+Oiuof Bifth
+gy,30 -75
+
+Огпгег'а Liemlee Nuinber
+State Issued
+Driver's Lieellse Nuinber
+Statc Issued
+Wei t
+Hair
+Eyea
+Sca
+Racc
+A 
+Hd t
+Weitht
+Hair
+Byyv
+Eyes
+Sca
+Racc
+ABC
+(b
+p
+
+5 .
+гл
+
+Tl uass Netiee
+о   1 inanth
+• r 6 Ulontbs
+lyenr
+charBCS
+IveshasaNeticc
+о 1 menth
+- ■'    mouths
+D lycar
+cbarBCS
+ж
+ArTmted
+Q Not Arrested
+Arrested
+D NotAITestcd
+I Liceuseplate r
+cl ’rvJUJ?
+□
+SA-t ea
+Lieeuse Plafel (Etate)
+
+X" -:
+{Stale)
+Year
+Ceier
+Madcl
+Усаг
+Coler
+-•“s
+Makc
+Modet
+Narrative (Cive deteHplielt et haw madellt Qccnrred. if compiaint is unraunded, eapblin why.)
+L-f’   3
+
+A . A lt5btK
+
+Аггх и  /
+ъ
+L J A
+(/у
+h c
+p a-s 5 t.  	hv - 
+T
+
+\Jâ I
+
+ , Plwj2
+
+
+
+Л4 /0
+
+JDOG ;
+07 -0 -77
+
+
+s
+
+
+
+f
+E  
+SI 
+ ryLA/ci~ J	13
+
+
+
+
+/VI p /'s	/»1
+:	O'/ -	-7Г
+
+ ь~ус/-2.
+'Ч
+Pnnt Rcportill  otiicer's Nanie (Last, First Middle)
+Badge d Reportim
+ligna cure
+
+Cont
+Uy -
+IWIg
+/07
+/h>\jsr<\r \yss\ \CP)
+Recipi
+t's Sigpature
+D 
+Appro
+Superviser's Signature
+Dale
+A-8
+612 883 8866
+OF AMERICA MN
+г
+JUL-24-1996 08:17
+Form 314 (Rmr.'s-8S)
+612 883 8866 p.03/14
+l•  lll 
+' НШ. OF АНЕБйссА >-	M,
+0 AMI oatûRoponôd  
+□PM	.
+Ooleoocumd.
+Time
+C AM
+■Пте
+
+/zgn
+□ PM
+o( Repo 
+I Incident о Accideru о Pefsonel tniurv Q Other (ooeciM:.
+Nerretive (contmued}:
+t-
+
+
+
+oc- /9 ~ 9Qa
+/•i/ 7
+
+
+< w
+
+
+I b
+
+TT-.
+<7
+
+
+A CL д гн
+
+
+
+ 	J~€.
+4/у' 
+
+/.
+
+
+l\J /	 
+]„dtu
+UIKrù
+
+i
+
+/
+
+r.
+s c-
+ia  iL 
+(À',	lr/‘k.
+
+J-u.	r..È 
+/> л
+
+	/-  cc.1—r*  <>•  	l\ ’  tr/
+v I ~4д 
+0. 0 
+
+f 
+
+mob
+A
+
+
+
+:::j 
+Сы   CSLr 
+(-•lJU.	< 
+4r -/v
+7
+7
+
+Го a,e.
+
+p / 'с:/ д 7  
+ 'h. L fc.kL /Jrh J/LJ  
+-	' AtA
+r p  'UJlsL, a . I
+
+
+
+
+4/~
+
+
+f
+L  PO
+scrL 
+
+
+
+L4 4 
+
+M.
+
+'Zl \/ил
+
+1
+
+''	112 
+/' <w	 	.	'*1"
+/s,/**	(Ù
+LU*-y<.
+
+
+r ./. .-'
+(/
+
+
+■cyu: —Д
+•• JP//'	</7 
+
+
+I
+CV/-4,
+
+
+
+
+
+WL
+  i
+H !
+Nl: 
+
+
+
+
+  1!
+  i
+
+4/1-/ 
+(>.
+'€
+Д Q7c/ 
+Appro ng 
+
+
+4.- 
+
+
+
+
+
+I
+No. ol extra copjea required and recipient
+r- /
+\o' 
+Manag em
+y x  ггчгч  :тхл
+Reponini
+Sup fvisor Apprgving / Tfdo
+Oate
+/ $lar No.
+Oato
+
+S'' 'U
+/
+А-Я
+612 883 8866
+rIPLL OF pnERICP rIN
+Center Name
+1’
+,	ЛЛ.-24-1996 æ:17
+CONTÎNUATION
+.M Fb(mi14(Bev:s4s)
+612 883 8866
+p.04/14
+
+МШ. OF iHERICA - Кгламт1аа1ч11|. Mta
+'
+l//•o □PM 4fr-/5-/-4
+Oateoceufed
+Time
+- AM
+□ PM
+Tme
+
+Typeotpepoft
+x tllddent DAXIIdetIt □ Perscnat tniMIV Q cttler{seedM:
+Narrative (continued):
+
+A. I
+771
+
+
+/ПГ-С
+
+
+
+к
+
+r
+
+/
+4:
+
+
+
+
+/f//	, 'h 
+t-!;.
+
+
+
+/.  Jh	Lrk.	/y rd-
+
+
+M
+
+
+4-Л
+p
+
+(7
+/
+’f"
+
+
+~(  
+
+
+  Q
+
+
+
+
+1
+
+ ~f~ sXxy  f /	  Л ~А. 4.	'а л Д/Г
+
+w rc
+
+7- 
+ci-	■ICL/ 	, ттс
+t
+4
+  1 
+
+
+
+/
+
+
+f
+7 
+7
+
+о
+1
+
+
+
+
+
+No. Ы exira copios requtrod and feciQiem
+Appfovin9
+гугт rx~'cv Kcp)
+
+
+0ale
+Supefvi of Appfoving / Titio
+Roporting 4 
+Oato
+l(ar No.
+3 -/7-f-6
+
+7WÔ
+X
+612 883 8866
+M8LL OF RMERICP MN
+JUL-24-1996 08:21
+612 883 8866 p. 13/14
+
+18 May 1996 Macy's Protesters Time Line Macy's Court Level 2 Common Area
+11 ;57 Call came in to Safety Center from Macy's that there is Protesters in Macy's Court
+Level 2. Macy's advised that they'u be shuttmg their gates at Level \ 8c 2.
+11:58 #107 Lt. Tran Dispatched along with #113 Sgt. Schnittgen to Macy's Court Lev 2
+11:59 #107 Lt. Tran on scene.
+12:00 #113 Sgt. Schnittgen on scene.
+12:02 #107 Lt. Tran notifed Bloommgton Pouce of the Protesters in Macy's Court Via
+the City of Bloomington Radio that #107 has with him on scene.
+12:07 Called Virgil at Home - No Answer.
+12:09 Paged Wgil to call Safety Center 883-8888
+12:09 spoke Maureen Bausch at her home residence and advised of situation.
+Maureen advised that all Media Questions can be direaed to her at home.
+
+12:10 Safety Center Speaking with Virgil Sc advising of Protesters Status. Virgil would
+like Thom Craner Notifed and updates of the situation as it progresses.
+12:15 Thom Craner was contacted at his home residence and advised of the Protesting
+Incident m Macy's Court Level 2. Thom would like the MOD to call him.
+12:16 1 St Protester taken in to custody.
+12:18 Lori Meyer transferred out to Thom Craner's residence by phone.
+12:18 Second Page placed to Virgil to give him updated status report.
+12:19 2nd Person taken in to custody.
+12:22 3rd Person taken in to custody.
+] 2:25 4th Person taken m to custody.
+12:29 AJ1 Areas Macy's Court are now clear of Protesters. ошсег 2252 Gallmeier wiu
+be posted at Macy’s Court to monitor ап levels.
+
+Л-1
+612 883 8866
+MPLL CF ЙМЕР1СЙ MN
+JU.-24-1996  :21
+612 883 8866
+P. 1 ; 'i4
+
+12:30 ошсег 2127 Vf eser is Escorting 3 Cooperative Protesters to thdr Vehicle that is
+located at PI East Aisle B. ипкпо л  Row. They're placing signs m to the trunk
+and waiting for the arrested parties in the Transit Hub area.
+12:58 Call placed to Security Captain Steve Carmon #103 at home to advise him of the
+Protester hIcidenL No answer message left on recorder.
+12:59 #103 Steve Calmon Called back and was Шled m on Incident.
+13:01 #107 jLt. Tran Caued the Simon Hot Line to advise them of the Incident ai Macy*s
+Court level 2.
+Information: Through out incident all the MOA  nagement US West pagers were
+down. The message came on when calling that "all circuits are busy" pagers were not
+accessible dunng bcident.	.
+
+
+-\z
+TOTPL f
+i,.-
+
+■>
+
+.■ -•
+
+f
+у
+
+
+
+
+•t;
+■
+Ч-'
+
+
+
+
+-■'V
+V-
+
+
+
+
+i-:
+
+
+Л-.
+■••■*"-
+
+
+
+
+к-:.
+
+•-Г
+:И.
+
+
+3
+
+J
+
+
+
+
+
+
+
+
+
+
+
+
+■i-
+.•i-v:
+
+
+■ V.;
+
+
+' . 7
+h
+612 883 8866
+Мйи- OF PMERICP MN
+JUL-24-1996 08.•19
+f
+612 883 8866 p.09 14
+
+
+if#
+CERTIFICATE AND DECLAKATION OF ABKEST BY PRIVATE FERSON
+AND DELIVERY OF PERSON so ARRESTED TO PEACE OFFICER
+
+r*\: ■
+TIME .
+
+DATE
+COMPLAINT NO.
+
+PLACE
+SECTOR
+iE k.4bL r фэ4-15
+  hereby deciare and certi  that I have arrested
+NAME
+ADDRESS
+
+for the following reasons;
+
+
+and I do hereby request and demand that
+a PEACE OFFICER, take and conduct this person whom I have arrested, to the nearest magistrate, to beriealt
+  with according to law; and if no magistrate can be contacted, then to conduct this person to jail for safekeq)mg
+until the required appearance can be arranged before such magistrate, at which time I shall be present and I will,
+then and there, sign under oath, the appropnate complaint against this person for the offense which this person
+has committed, and for which I made this arrest; and I will then and there, or thereafter, as soon as this cnmmal
+action or cause can be heard, testi  under oath of, and conceming the facts and circumstances illvolved herein. I
+will save said officer harmless from any and all claims for damage of any Idnd, nature and description arismg out
+of said officer's acts at my direction.
+NAME OF PERSON (PRIVATE PARTY)
+MAKING ТШ5 ARREST
+Name P .JAA 	
+(Sigl ture)
+
+1
+PEACE
+TO THIS STATEMENT
+Address	MIU
+
+f
+Home Phone	'
+Business Phone
+
+Person making arrest will be contacted by a member of
+the Ci  Attomey's Office if any furdler action by you is
+A-I5
+Original - Filc with Offense Report
+Carbon - To person making arrest
+
+612 883 8866
+MPU- OF ANERICP MN
+JsbuuivlIi'Nl lul'  ги1л.\ г.	X
+CERTIFICATE AND DECLARATION OF ARREST BY FRIVATE FERSON
+AND DELIVERY OF FERSON so ARRESTED TO FEACE OFFTCER
+JUL-24-1996 08:19
+612 883 8866 F.10/14
+ 4 
+Ы f	COMPLAINT NO.
+
+TIME
+
+PLACE
+SECTOR
+
+S L Ш, '
+  cpnntp
+I, й
+J hereby declere and certi  that I have arretted
+
+■т= ПГАЧ/:7
+и л
+I
+.. .NAME,
+ADDRESS
+LAO L,
+
+for the foilowing reasons:
+4r-
+
+I1 /WW4
+and I do hereby request and demand that
+  a PEACE OFFIC  take and conduct this person whom I have arrested, to the nearest ma strate, to b.e dealt
+with according to law; and if no magistrate can be contacted, then to conduct this pdrson to jail for safdceeping
+until the required appearance can be arTanged before such magistrate, at which time I shall be present and I will,
+then and there, sign under oath, the appropriate complaint against this person for the oflense which this person
+has committed, and for which I made this arrest; and I will then and there, or thereafter, as soon as this criminal
+action or cause can be heard, testify under oath of, and conceming the  cts and circumstances involved herein. I
+will save said of cer harmiess from any and all claims for damage of any kind, nature and description an g out
+of said ошсег'з acts at my direction.
+NAME OF FERSON (PRIVATE PARTY)
+MAKING THIS ARREST
+7	(Signatu )
+
+к
+PEACE OFJrl
+TO 'mis STATEMENT
+Address	fAAJ.
+Home Phone
+Business Phone 5Г    - fr  
+
+Person making arrest will be CCIltacted by a member of
+the Cily Attomey’s ошсс if any further action by you is
+required.
+Onginal - File with Offense Report
+Carbon - To person making arrest
+A-14
+Ol  DDO oooo
+IIPLL OF AI1ERICPI MN
+JUL-24-1996 08:20
+612 æ3 8866
+p.11/14
+Ч щт  
+СЕКТШСАТБ Am DECLARAXION OF ARBEST BY FRIVATE FERSON
+AND DilJVERY OF F ON so ARRESTED TO FEACE OFFICER
+■
+
+
+
+DATE
+TIME
+COMPLAINT NO
+
+
+ptACE
+SECTOR
+
+
+, hereby declare alld certij  that I have alTested
+  a I
+
+NAME
+ADDRESS
+for the following reasons:
+
+and I do hereby request and demand that
+a PEACE OFFICER, take and conduct this person whom I have arrested, to the nearest magistrate, to be dealt
+with according to law; and if no magistrate can be contacted, then to conduct this person to jail for safekeepmg
+until the required appearance can be alTanged before such magistrate, at which time I shall be present and I will,
+then and there, sign under oath, the appropnate complaint agamst this person fbr the offense which this person
+has committed, and for which I made this arrest; and I will then and there, or thereafter, as soon as this cnminal
+action or cause can be heard, testi  under oath of, and conceming the facts and circumstances mvolved herein. I
+win save said officer harmless from any and all CMms for damage of any kind, nature and descnption alising out
+of said officer's acts at my direction.
+NAME OF PERSON (PRIVATE PARTY)
+MAKING THIS ARREST
+P UJLi
+7	(Signafüle)
+Name
+
+PE CE ОРП 
+:SS  THIS STATEMENT
+P'
+Address  
+Home Phone		
+Business Phone 5   -		
+
+
+Person inaking arrest will be colltacted by a Inember of
+the Ci  Attomey’s Ofhce if any blither action by you is
+required.	,
+Onginal - Fue with Offense Rcpolt
+Calbon - To person making arrest
+A-15
+612 883 88bb
+MPLL CF	MN
+JU_-24-1996 08:20
+612 883 8866
+p.12/14
+Vf XWJL    w Л	Ш   mj$.
+CERTIFICATE ANB DECLARATION OF ARREST BY PRIVATE PERSON
+AND DELIVERY OF PERSON so ARRESTED TO PEACE OFFICER
+■
+l ls
+ъ-mla
+
+DATE
+TIME
+COMPLAINT NO.
+ \€0
+
+PLACE
+SECTOR
+fv.i  	 
+ (7T1	1Ы   r. Ы. lArk:< 4t\LL 
+  hereby declare and certi  that I have alTested
+NAME
+ADDRESS
+fcr the following reasons:
+
+and I do hereby request and demand that
+a PEACE OFncER, take and conduct this person whom I have arrested, to the nearest magistrate, to be dealt
+with according to law; and if no magistrate can be contacted, then to conduct this person to jail for saiekeeping
+until the required appearance can be arranged before such magistrate, at which time I shall be present and I will,
+then and there, sign under oath, the appropriate complaint against this person for the offense which this person
+has commined, and for which I made this arrest; and I will then and there, or thereafter, as soon as this criinmal
+action or cause can be heard, testi  under oath of, and conceming the facts and circumstances involved heretn. I
+will save said ошсег h less h-om any and all claims for damage of any kind, nature and descnption ansmg out
+of said officer's acts at my direction.
+
+NAME OF PERSON (PRIVATE PARTY)
+MAKING THIS ARREST
+
+
+
+
+(Siin urey
+Name	Р»
+
+1
+PEAÇE O]
+:ss TO THIS STATEMENT
+
+
+/ ЙI
+r
+Address â.
+
+/
+Home Phone
+Business Phone  5 3-	 
+
+Person makmg anest will be contacted by a member of
+the City Attomey's otEce if any fulther асьсш by you is
+required.
+Onginal - File with onbnse Report
+Сягьоп - To Derson malcing arrest
+A'lb
+612 883 8866
+MPLL OF AMERICA MN
+Маи ot America
+Secunty Departinent
+  Ea3t Broadway
+Bloolnington Minnesota 55425
+(6I2)S83-888S
+JUL-24-1996 08:19
+612 883 8866 p.08/14
+Trespass Notice
+(Bldomington City Ordmance 12.07.01)
+,	■	. Finl	Mtadic
+Addresst
+. City: pic..
+Pate of Bilth:
+To:	Нате:
+. ' LâlI.
+
+Zip code:. !   l
+Parent's Name (If Juvenile):	
+You are hereby given notice that any.permission or license you may have previously enjoyed to enter upon
+the Mall of Amenca pipperty.is hereby revoked and withdrawn. In accordance with Bloonlington City
+Ordmance Section 12.07.01, you may not enter upon such property pnor to the expiration of dlis notice  r
+any purpose without the express whtten pennission of the agent of the property manager speciited below.
+is issued is as follows:
+■Пх ы з upon   h thisjrRESPASS OI E
+7
+
+This TRESPASS NOTICE covers the entire Mall of America property.
+This TRESPASS NOTICE is valid for the following penod and shali expire 1фоп the
+date specified:
+(û
+
+Period of Notice
+Expiration Date
+The following person is authorized to modi , amend or rescind this TRESPASS
+NOTICE, however, any such modification, amendment or recision must be m wnting to
+be effective:
+Mall of America Security Department
+Maxiager of Security
+MOA Case #
+(612) 883-888S
+9ir-rl?z
+
+BPD Case #
+I acknowledge receipt of a copy of this TRESPASS NOTICE.
+Signature of Peraon Served
+I personally s eda copy
+herein -': /
+
+ivifz\i ïL
+Date
+
+!SPASS NOTICE upon the person speci ed
+[S
+lignanire of Person Serving Notice
+Datc
+А-П
+Orlgin i Copy: Mall of Amcnca Securuy Ycliow Copy: Bloominglon Policc Dept. Pink Copy: Pcfson served noticc
+DX  oou OOQC 
+JUL-24-1996 08:18
+MPLL OF mERIC8 MN
+Mall of Amenca
+Security Departmellt
+•-	60 East Broadway
+Bloomington Minnosota 5S425
+(612)883’SS88
+612 883 8866 F.07X14
+
+Trespass Notice
+(BIOOIDIington Cl  Ordinanoa 12,07.01)
+Ust.	Ptm	Mi rc
+'Address:
+ritv:
+.Date of Birth:
+To:	Name:
+Zip Code:
+State:
+Parent's Name (If Juvemie):	
+You are heleby given notice that any pcnnission or license you тау have previousiy enjoyed to enter upon
+the Mali of Amenca proper  is hereby revoked and withdrawn. In accordance with Bloomington City
+Ordmance Section 12.07.01, you may not enter upon such property prior to the expiration of dlis notice for
+any pulpose without the express wntten pennission of the agent of the property manager  ecified beiow.
+The basis upon wydl this TRESPASS NOXICE is issued is as follows:
+U/JWléMâ.
+
+This TRESPASS NOTICE covers the entire Mau of America property.
+This TRESPASS NOTICE is valid for the following penod and shau expire upon the
+date specified:
+
+Period of Notice
+Expnation Date
+The following person is authonzed to modify, amend or rescind this TRESPASS
+NOTICE, however, any such modification, amendment or recision must be in writmg to
+be effective:
+Mall of America Secunty Department
+Manager of Secunty
+MOACa.e# -M y
+(612) 883-8888
+
+BPD Case #
+I acknowledge receipt of a copy of this TRESPASS NOTICE.
+t
+
+
+/
+
+Signature of Person Sexved
+Date
+I personally sel
+herein\_,.  
+op f
+:SPASS NOTICE upon the person specified
+ 
+
+ignpture of Person Serving Notice
+Datc
+A-18
+Origfnai Copy: Man of Amcfica Sccurtty	Ycnow Copy: eloomington Pojice Dtpt. Pilik Copy: Pcfson scnfed noticc
+OXIC aoo
+JUL-24-1996 08:18
+MPLL OF PMERICP NN
+Mali of America
+Secunty Departmellt
+'	60 East Broadway
+Bloommgton Minnasota S542S
+(612) 883'S8SS
+612 883 8866 F.06/14
+
+, .	Trespass Notice
+(Bloommgton City Ordmanco 12.07.01 )	,
+To:	Name:  ÙJ V-F4.IL		Date of Birth.'
+
+Мй|б|$
+
+Address:	/9 :?c>QJCU 
+City:
+Zip	.
+State:
+Parellt's Name (If Juvenile):	
+You are hereby given notice that àny permission or license you may have previously enjoyed to enter upon
+the Mall of Amenca property is hereby revoked and withdrawn. in accordance with Bloomington City
+Ordmance Sectioh i2.07.01,you may not enter upon such property pndr to the expiration of this notice for
+any purpose without the express wntten permission of the agent of the property manager speciEed below.
+The basis upon which TRESPASS NQTICE is issued is as follows:
+caTi L иш	12  UAfA
+This TPESPASS NOTICE covers the entire Mall of Amelica property.
+
+This TRESPASS NOTICE is valid for the following penod and shall expire 1ф0п the
+date specified:
+Penod of Notice
+
+Expiration Date
+The following person is authorized to modify, amend or resemd this TRESPASS
+NOTICE, however, any such modification, amendment or recision must be m wnting to
+be effective:
+Mall of America Security Department
+Manager of Seemity	,
+MOA Case# lb'-'   ч
+(612) 8S3-SS88
+
+BPD Case #
+1 acknowledge receipt of a copy of this TRESPASS NOTICE.
+Signature of Person Served
+Date
+cop f s TRESPASS NOTICE upon the person specified
+I personally J
+hereilb,c 
+
+fA
+Sigflanjre of Person Serving Notice
+Date
+А-1Я
+On ina] Copy: Мзп of America Sccufity Yellow Capy: Bloomington Policc Dept. Pink Copy: Person sorvod nolicc
+bl  bbo bbbo
+HPLL CF ЙМЕРЮЙ MN
+Mau of America
+Secunty Departmellt
+60 East Broadway '
+Bloomington Minnosota 65425
+(612) 8 3-8g88
+JUL-24-1996 08! 17
+612 883 8866	p.05> 14
+
+Trespass Notice
+(Bloomington City Ordmance 12,07.01)
+To:	Name:
+Middle
+Address: /.гы	CAiyL
+.Date of Birth:
+Fb(
+Last.
+Zip code:  rTS 
+c\tylâu2J0 t tLt
+State: мо
+Parent's Name (If Juvenile):
+YO,u are hereby given notice that any permission or Hcense you may have previously enjoyed to enter upon
+the Mau of America property is hereb>  revoked and withdrawn. In accordance with Bloomington City
+Ordinance Section 12,07.01, you may not enter upon such property prior to the expiration of this notice for
+any purpose without the express wntten pennission of the agent of the propelty manager specified below.
+this TRESPASS NOTICE is  sued is as follows:
+'e9xx  1> um- 
+The basis upon which
+( Twptu  VO пт/ Ke
+
+
+This TRESPASS NOTICE covers the entire Mall of America property.
+This TRESPASS NOTICE is valid for the following period and shall expire upon the
+date specified:
+
+
+Period of Notice
+Expiration Date
+The following person is authorized to modi: , amend or rescind this TRESPASS
+NOTICE, however, any such modification, amendment or recision must be m writing to
+be effective:
+Mall of America Security Department
+Manager of Secunty
+MOA Case #
+(612) S83-8888
+
+
+BPD Case#
+I acknowledge  t of a copy of this ТДЕ
+SPASS NOTICE.
+Signature of Person Selved
+Date
+
+I personally se:
+hereiru—
+ISPASS NOTICE upon the person specified
+a CO]
+IS
+
+Signature of Person Serving Notice
+Date
+A-ZÛ
+oriRinal Coov: Mall of America Sccunly Yellow Copy! Bloomington Polico Dept. Pink Copy: Person sorvod noticc
+</textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+
+        </div>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Header, Footer and Watermark</h3>
+                <!--!<div id="content"> -->
+                <textarea class="form-control" cols="150" rows="30" id="HeaderFooterWatermark"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>URL HYPERLINKS</h3>
+                <!--!<div id="content"> -->
+                <textarea class="form-control" cols="150" rows="30" id="Hyperlink"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Specific Excel Rows</h3>
+                <!--!<div id="content">  -->
+                <textarea class="form-control" cols="150" rows="30" id="SpecificRows"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+    </div>
+
+</body>
+</html>

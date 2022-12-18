@@ -1,0 +1,514 @@
+<html>
+<head>
+    <title>Result</title>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="./resources/bootstrap-3.3.5-dist/css/bootstrap.min.css">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="./resources/bootstrap-3.3.5-dist/css/bootstrap-theme.min.css">
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="./resources/bootstrap-3.3.5-dist/js/bootstrap.min.js"></script>
+
+    <style>
+        #content {
+            background-color: #FCFCFC;
+            border: 1px solid #999999;
+            padding: 10px 10px;
+            -moz-border-radius: 4px;
+            -webkit-border-radius: 4px;
+            border-radius: 4px;
+            /*IE 7 AND 8 DO NOT SUPPORT BORDER RADIUS*/
+            opacity: 0.87;
+            -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity = 87);
+            /*-ms-filter must come before filter*/
+            filter: alpha(opacity = 87);
+            /*INNER ELEMENTS MUST NOT BREAK THIS ELEMENTS BOUNDARIES*/
+            /*All filters must be placed together*/
+
+        }
+
+        #infodiv
+         {
+
+
+            border: 0px rgb(89,89,89) solid;
+
+            background: rgb(234, 234, 228);
+
+        }
+    </style>
+</head>
+<body>
+    <center><h1>Data Extraction - Result</h1></center>
+    <div class="container">
+        <hr>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <dl class="dl-horizontal">
+                    <dt>File name:</dt>
+                    <dd>notice of hearing on motion for order vacating conviction 04-30-18.pdf</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Provider name:</dt>
+                    <dd>AbbyyProvider</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Created On:</dt>
+                    <dd>8/12/2020 4:48:07 PM</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Extraction duration:</dt>
+                    <dd>00:00:05.8928649</dd>
+                </dl>
+            </div>
+            <div class="col-md-1"></div>
+
+        </div>
+        <hr>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Extended Attributes</h3>
+                <div id="attributes"><table class="table table-hover"><thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Value</th>
+                </tr>
+            </thead>
+            <tbody>
+<tr><td>creation date</td><td>4/27/2018 3:49:54 PM</td></tr>
+<tr><td>revision date</td><td>4/30/2018 3:53:07 PM</td></tr>
+<tr><td>Creator</td><td>OmniPage CSDK 19</td></tr>
+<tr><td>publisher</td><td>eCopy ShareScan</td></tr>
+</tbody></table>
+</div>
+            </div>
+            <div class="col-md-1"></div>
+        </div>
+        <div class="row" >
+            <div class="col-md-1" ></div>
+            <div class="col-md-9">
+                <h3>Content</h3>
+                <!--!<div id="content">  -->
+                <textarea class="form-control" cols="150" rows="30" id="content">RECEIVED
+FILED
+z ‘l 2018
+KITSAP COUNTY
+РРПС2| ГЛ ITING ATTORNEY
+APR 2 h 2018
+KITSAP COUNTY DISTRICT COURT
+1
+2
+3
+KITSAP COUNTY DISTRICT COURT
+STATE OF WASHINGTON
+4
+5
+6
+STATE OF WASHINTON,
+7
+NO. 14352106
+Plaintiff,
+8
+NOTICE OF HEARING ON MOTION
+FOR ORDER VACATING CONVICTION
+V.
+9
+ADAM JAMES RUIZ,
+(DOB-02/04/1986)
+Defendant.
+10
+11
+12
+13
+TO: Kitsap County Distriet Court Clerk’s Offlee
+14
+15
+TO: Kitsap County Prosecutor’s Office
+16
+/O.'ÛO
+PLEASE TAKE NOTICE that on Мау 4, 2018 at/4eo A.M., at the Kitsap District Court, Roorn 104.
+17
+18
+the undersigned wili move the court for an Order Vacating Record of Conviction pursuant to RCW
+19
+9.96.060. A copy of the Motion and supporting exhibits is attached hereto.
+20
+Dated this the 23' '' day of April, 2018.
+21
+22
+lA
+23
+Zb
+1Г'
+24
+TIM DRURY, WSBA # 1 p2
+Attorney for Defendant
+25
+26
+27
+28
+Law Offices of Tim Drury
+817 Sidney Avenue
+Port Orehard, WA 98366
+(360) 874-7133
+tirn( timdrurylaw.com
+Notice of Heanng on Motion for Order
+Vacating Reeord of Conviction
+RECEIVED
+FILED
+APR 1 ‘12018
+KITSAP COUNTY
+PRn«;Fcl]TING ATTORNEY
+1
+APR 2 \ 2018
+KITSAP COUV T  DISTRICT COURT
+2
+3
+KITSAP COUNTY DISTRICT COURT
+STATE OF WASHINGTON
+4
+5
+6
+STATE OF WASHINGTON,
+No. 14352106
+7
+Plaintiff,
+MOTION AND DECLARATION FOR ORDER
+VACATING CONVICTION
+8
+V.
+9
+ADAM JAMES RUIZ,
+(DOB-02/04/I986)
+Defendant.
+10
+11
+12
+I. MOTION
+13
+COMES NOW the Defendant, Adam James Ruiz, and asks the above-entitled court for an Order
+14
+Vaeating Record of Conviction of a misdemeanor offense pursuant to RCW 9.96.060. The motion is made
+15
+and based on the records and flies herein, and the declaration of defendant.
+16
+17
+I/Vl
+4 73
+18
+Dated:
+Tim Drury, WSBA# 19882
+Attorney for Defendant
+19
+20
+21
+II. DECLARATION
+22
+Adam James Ruiz, declares and states the following to be true:
+23
+I have previously been convicted of the following offense:
+24
+25
+Cnme
+Date of Conviction
+Court/Location
+26
+27
+Kitsap District Court, Port Orchard,
+Washington
+Minor in Possession/Consumption,
+RCW 66.44.270(2)
+12/20/2004
+28
+Law Offices of Tim Drury
+817 Sidney Avenue
+Port Orchard, WA 98366
+(360) 874-7133
+tim(r ti rndrurylaw.com
+There are no eriminal charges pencling against me in any eourt of this state or another state, or in any
+1
+federal court.
+2
+3
+The offense for which I was convicted is not an offense wherein vacation of the offense is disallowed
+  under RCW 9.96.060(2)(b)-(d).
+5
+1 completed the requirements of my sentence for this offense.
+6
+The offense for which 1 was convicted does not involve domestic violence and it has been at least
+7
+three years since I completed the terms and conditions of the sentence, including restitution and legal fmancial
+8
+g obligations.
+10
+1 have not been convicted of any new crime in this state, another state, or federal court since the date
+11
+I was convicted in this matter. (See Exhibit 1).
+12
+1 have never had the record of another conviction vacated.
+13
+1 am not currently and have not been restrained within the last five years by a domestic violence
+14
+protection order, a no-contact order, an antiharassment protection order, or a civil restraining order which
+15
+restrains one party from contacting another party.
+16
+17
+1 DO HEREBY CERTIFY AND DECLARE UNDER PENALTY OE PERJURY UNDER THE
+LAWS OE THE STATE OE WASHINGTON THAT THE ABOVE, TO THE BEST OE MY
+KNOWLEDGE, IS TRUE AND CORRECT.
+18
+19
+20
+Dated this 20''’ day of April, 2018.
+21
+22
+23
+24
+AdamJamesR 
+25
+Adam James Ruiz
+DOB- 03/04/1986
+26
+27
+28
+Law Offices of Tim Drury
+817 Sidney Avenue
+Port Orehard, WA 98366
+(360) 874-7133
+tim timdrurylaw.eorn
+
+Thursday, April 12, 2018
+iliffp w A T СЗЫ
+® WASHINGTON ACCESS TO CRIMINAL HISTORY
+Web Search Transchpt
+Washington State Patrol
+Identification and Criminal History Section
+p. 0. Box 42633
+Olympia, Washington 98504-2633
+Telephone (360) 534-2000 Option 2
+This report was generated from a transaction run on 4/12/2018 at 9:08 PM
+Conviction-Cnminal History RCW 10.97,050(1)
+Pursuant to the purpose of inquiry, a possible match was found in the Washington
+State Chminal History Repository based on the descriptors provided:
+RUIZ,ADAM J DOB 02/04/1986 SEX M RAC и
+'к iç -к -к- ■к -м -к ■к -к ■к -к -к ■к 'к ■к 'к iK- ■к 'к -к ■к ■к ■к 'К- -к 'к i< •к ■к ■к 'к ■к ■к ■к 'к ■к ■к ■к ■к ■А- •к ■к -к к 'к ■к ■к ■к   ■к ■к -к ■к ■к -к ■к ■к ■к ■к ■к ■к ■к ■к ■к '1  ■к -к 'к ■к
+THE ARRESTS LISTED MAY HAVE BEEN BASED ON PROBABLE CAUSE AT THE TIME OF ARREST
+OR ON A NARRANT. PROBABLE CAUSE ARRESTS MAY OR MAY NOT RESULT IN THE FILING OF
+CHARGES. CONTACT THE ARRESTING AGEMCY FOR INFORMATION ON THE FORMAL CHARGES
+AND/OR DISPOSITIONS.
+AN ARREST IS NOT A CONVICTION OR FINDING OF GUILT.
+DATE OF ARRESTr 12/18/2004
+ARREST 2
+NAME USEDr
+RUIZ,ADAM JEMES
+CONTRIBUTING AGENCY: WA0I80000
+LOCAL ID: 40029517
+KITSAP COUNTY SHERIFF
+PCN: 737018407 TCN: WAI800002200182903
+ARREST OFFENSES
+DISPOSITION
+CONTRIBUTOR OR RESPONSIBLE AGENCY:
+WA0I8013J KITSAP COUNTY DISTRICT
+COURT
+COURT CASE NO: 14352106
+STATUS :
+GUILTY
+0741800 MINOR POSSESS, CONSUM, ACQ
+LIQUOR
+66.44.270(2)
+RCW:
+GROSS MISDEMEANOR
+12/30/2004
+STATUS DATE:
+SENTENCE:	JAIL: 365 DS,
+JAIL sus.: 354 DS
+SUPERVISION: 2 YRS,
+FINE: $5000.00, FINE SUS.:
+$4250.00
+DATE OF ARREST: 09/17/2004
+ARREST 1
+NAME USED:
+RUIZ,ADAM J.AMES
+CONTRIBUTiNG AGENCY: WA0I80000 KITSAP COUNTY SHERIFF
+PCN: 737000192 TCN: WAI800002200I63722
+LOCAL ID: 40029517
+ARRE.ST OFFENSES
+DISPOSITION
+CONTRIBUTOR OR RESPONSIBLE AGENCY:
+WA018013J KITSAP COUNTY DISTRICT
+COURT
+COURT CASE NO: 14352105
+STATUS :
+0113400 ASSAULT-4
+RCW:
+GROSS MISDEMEANOR
+GUILTY
+9A.36.041(2)
+09/17/2004
+STATUS DATE:
+COMMENT: 02/15/2008 DISMISSED
+SUPERVISION:
+SENTENCE :
+2 YRS,
+WASHINGTON STATE PATROL
+CRIMINAL HISTORY RECORD SECTION
+p.o. BOX 42633
+OLYMPIA, WASHINGTON 98504-2633
+
+CRIMINAL HISTORY INFORMATION AS OF 04/12/2018
+
+NOTICE
+THE FOLLOWING TRANSCRIPT OF RECORD IS FURNISHED FOR OFFICIAL USE ONLY.
+SECONDARY DISSEMINATION OF THIS CRIMINAL HISTORY RECORD INFORMATION IS
+PROHIBITED UNLESS IN COMPLIANCE WITH THE WASHINGTON STATE CRIMINAL RECORDS
+PRIVACY ACT, CHAPTER 10.97 RCW.
+POSITIVE IDENTIFICATION CAN ONLY BE BA.SED UPON FINGERPRINT COMPARISON. BECAUSE
+ADDITIONS OR DELETIONS MAY BE MADE AT ANY TIME, A NEW COPY SHOULD BE REQUESTED
+FOR SUBSEQUENT USE. WHEN EXPLANATION OF A CHARGE OR DISPO.SITION IS NEEDED,
+COMMUNICATE DIRECTLY WITH THE AGENCY THAT SUPPLIED THE INFORMATION TO THE
+WASHINGTON STATE PATROL.
+THIS CONVICTION RECORD MAY INCLUDE INFORMATION FOR WHICH A PERSON I.S CURRENTLY BEING
+PROCESSED BY THE CRIMINAL JUSTICE SYSTEM.
+■A-• -k-k-k-k-k-k-k- -k'k-k-k-k- -k-k-kic-kic- -k-x-k-M-k-A-■k-k-k-k к ic' - ir-k-k-k-k- ic-k-kk-k' -k- -k-k'k-A-kk-k-k-k-k-k-k-k-kic- ic-k
+MASTER INFORMATION
+к к k-k-kkkk-k'kk-kk-k к k-kkkk-kkkkkk-kkkkk-k-kk-kk-kk'kkkkkkkkkkkkkkkk к ■kkkkkkkkkkkkkkkkk к к kkkkk
+02/04/1986
+NAME :
+RUIZ,ADAM JAMES
+SID NUMBER: WA22442457
+DOB :
+к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к
+PER.SON INFORMATION
+кккккккккккккккккккккккккккккккккккккккккккккккккккккккк ■к кккккккккккккккккккккк
+SEX RACE HEIGHT WEIGHT
+EYES
+HAIR
+PLACE OF BIRTH CITIZENSHIP
+506
+160
+M
+w
+BRO
+BRO
+NM
+US
+OTHER NAMES USED
+RUIZ,ADAM JEME.S
+OTHER DATES OF
+soc SEC
+BIRTH USED
+NUMBER
+к кккк к кккк к к к к к к к к к к к к к -к к к кккк к к к к кккк к к к к к к к к к к кккк к к к к к к к к к к к к к к к к к к к к к к к к к к к
+CONVICTION AND/OR ADVERSE, FINDING SUMMARY
+kkkkkkkkkkkkkk-kkkkkkkkkkkkkkkkkkkkkkk-kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+0 FELONY(S)
+DISPOSITION DATE
+2 GROS.S MISDEMEANOR {S)
+MINOR POSSESS, CONSUM, ACQ LIQUOR
+ASSAULT-4
+0 MISDEMEANOR(S)
+12/30/2004
+09/17/2004
+0 CLASSIFICATION(S) UNKNOWN
+kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+к к к к
+кккк
+NO KNOWN DOC SUMMARY INFORMATION
+kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+kkkkkкkkkkkkkkkkkkkkkkkkkккккккккккккккккккккккккккккккккkkkkkkkkkккккккккккккк
+CRIMINAL HISTORY INFORMATION
+E'INE: $500.0 0
+I
+i
+-k -h ■k 'k- ■k ■k ■A- ■k ■k ■k ■i.- ■k -k -k ■k -k ■k ■k ■k -k ■k ■i: ■k ■k ■k •kr ■k ■k ■i: -k -k -k •k -k -k ■k -k -k 'k- ■k ■ic -k •k ■k ■k ■k ■k ■k ■i- •k ■k ■k ■k ■ir ■k ■k ■k -k •k •k ■k ж ■k 'k- ■k ■k ■k ■k
+NO KNOWN DEPARTMENT OF CORRECTI.ONS INFORMATIOM
+■k -k ■k 'k ■k ir ■k ■k ■k ■k ■k ■k ■k ■k ■A- -k ■k ir ■k -k- ■k -k ■k ic -k ■k ■k ■k ■k ■k ■k ■k ■k 'k ic •k ■k ■k -k- -k iç ■), ■k -k ■k -k ■k ■k ■k ■k ■k ■k ■k •k ■k ■k ■k ■A- ■)< •k ■k 'k i,- ■k •k ■k ■k ■k ■k -k ■k ■k- ■k
+kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk-kkkkkkkkkkk
+NO KNOWN SEX/KIDNAPPING OFFENDER REGISTRATIONS
+kk-kkkkkkkkkkk. kkkkkkkkkkkkkkk к kkkkkkkkkkk к kkkkkkkkkkkkkkk к kkkkkkkkkkkkkkkkkkkkkk
+к к к к к к к к к к A к ■k к к к к к к к к к к к к к к ■k к к к к к ■k к к к к к к к к к к к к к к к к к к к ■M к к к к к к к к к к ■k к к ■k к к к к к ■k ■k к к к
+N0 KNOWN APPLICANT DETAILS
+к к к к ■к к к к к ■к к к к к ■к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к ■А- к к к к ■к к к к
+к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к к
+N0 KNOWN MONITORED POPIJLATION REGI.STRATION TRACKING INFORMATION
+kkkkkkkkkкkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkкkkkkkkkkkkkkkkkkkkkkkkkkkk
+к кkkkkкkkкkkkkkkкkkkkkкkkkк кkkkkkkkkkкkkkkкkkkkkkкkkкkkkkкkkkkkkkkkkkkkkк к к кkkк
+GLOSSARY OF TERMS IS AVAILABLE IN THE CRIMINAL JUSTICE TRAINING MANUAL (CJTM)
+LOCATED AT HTTP://WWW.WSP.WA.GOV/ SECURED/IDENT/RESOURCE.HTM
+kkkkкkkkkkkkkkkkkkkk-Kkkkkkkkkkkkkkkkkкkkkkкkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+RESOURCES
+kkkkkкkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+ADMINISTRATIVE OFFICE OF
+THE COURTS (AOC)	
+WSP CRIMINAL HISTORY
+RECORDS SECTION	
+WWW.C0URTS.WA.GOV
+CRIMHIS0WSP.WA.GOV OR (360)	534-2000
+WSP CRIMINAL HISTORY s.
+FINGERPRINT TRAINING
+DEPARTMENT OF CORRECTIONS (DOC)—WWW.D0C.WA.GOV
+WSP SEX/KIDNAPPING
+OEFENDER REGISTRY (SOR) UNIT--(360)	534-2000
+REVISED CODE OF WASHINGTON (RCW)—HTTP://APPS.LEG.WA.GOV/RCW/
+WSP WASHINGTON ACCESS TO CRIMINAL
+HISTORY (WATCH) WEBSITE-
+WSP IDENTIFICATION AND
+BACKGROUND CHECK SECTION
+HTTP : //WWIW. WSP. WA. GOV/ SECURED/IDENT/RESOURCE. HTM
+https ://fcrtres,s.wa.gov/wsp/watch
+WATCH.HELP0wsp.wa.gov OR (360)	534-2000
+</textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+
+        </div>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Header, Footer and Watermark</h3>
+                <!--!<div id="content"> -->
+                <textarea class="form-control" cols="150" rows="30" id="HeaderFooterWatermark"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>URL HYPERLINKS</h3>
+                <!--!<div id="content"> -->
+                <textarea class="form-control" cols="150" rows="30" id="Hyperlink"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Specific Excel Rows</h3>
+                <!--!<div id="content">  -->
+                <textarea class="form-control" cols="150" rows="30" id="SpecificRows"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+    </div>
+
+</body>
+</html>

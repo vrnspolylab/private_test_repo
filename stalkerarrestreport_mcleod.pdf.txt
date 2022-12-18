@@ -1,0 +1,693 @@
+<html>
+<head>
+    <title>Result</title>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="./resources/bootstrap-3.3.5-dist/css/bootstrap.min.css">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="./resources/bootstrap-3.3.5-dist/css/bootstrap-theme.min.css">
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="./resources/bootstrap-3.3.5-dist/js/bootstrap.min.js"></script>
+
+    <style>
+        #content {
+            background-color: #FCFCFC;
+            border: 1px solid #999999;
+            padding: 10px 10px;
+            -moz-border-radius: 4px;
+            -webkit-border-radius: 4px;
+            border-radius: 4px;
+            /*IE 7 AND 8 DO NOT SUPPORT BORDER RADIUS*/
+            opacity: 0.87;
+            -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity = 87);
+            /*-ms-filter must come before filter*/
+            filter: alpha(opacity = 87);
+            /*INNER ELEMENTS MUST NOT BREAK THIS ELEMENTS BOUNDARIES*/
+            /*All filters must be placed together*/
+
+        }
+
+        #infodiv
+         {
+
+
+            border: 0px rgb(89,89,89) solid;
+
+            background: rgb(234, 234, 228);
+
+        }
+    </style>
+</head>
+<body>
+    <center><h1>Data Extraction - Result</h1></center>
+    <div class="container">
+        <hr>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <dl class="dl-horizontal">
+                    <dt>File name:</dt>
+                    <dd>stalkerarrestreport_mcleod.pdf</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Provider name:</dt>
+                    <dd>AbbyyProvider</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Created On:</dt>
+                    <dd>8/12/2020 4:50:08 PM</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Extraction duration:</dt>
+                    <dd>00:00:09.3640088</dd>
+                </dl>
+            </div>
+            <div class="col-md-1"></div>
+
+        </div>
+        <hr>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Extended Attributes</h3>
+                <div id="attributes"><table class="table table-hover"><thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Value</th>
+                </tr>
+            </thead>
+            <tbody>
+<tr><td>creation date</td><td>7/29/2009 7:01:12 AM</td></tr>
+<tr><td>revision date</td><td>7/29/2009 7:01:12 AM</td></tr>
+</tbody></table>
+</div>
+            </div>
+            <div class="col-md-1"></div>
+        </div>
+        <div class="row" >
+            <div class="col-md-1" ></div>
+            <div class="col-md-9">
+                <h3>Content</h3>
+                <!--!<div id="content">  -->
+                <textarea class="form-control" cols="150" rows="30" id="content">fd7-JUL- üü4 из:1ь FM 'i'ybee Isianci Foilce Uepartment
+TYBEEISLANP POLICE DEPARTIVIENT
+'GA0250eoo
+p.o. BOX 1340 tybee [sland, GA 31328
+zrl
+Pnnted Date: 07/01/2009
+Printed Time: 12:16 PM
+Page 1 of 4
+Incident RepQrt
+Incicient No.
+2009062114
+IrIciclentTypa
+Disordarly Conduct
+col;nts
+Code
+Attempt
+□
+16-11 ■39
+1
+Inddenc Type
+Obttruction
+Counts
+Cod 
+Attempt
+□
+1
+16-10-24
+Priftiery Lcç tion:
+Strand Avenue
+Seçondary Location:
+City
+State
+Zip
+County
+Chatham
+Tybee Island
+GA
+31328
+Zone
+South	
+Incicient Date Time
+06/22/2009	12:20
+Sljbzone
+LocatiQn
+Sulb Lpcatlon
+Bijsfnass .Name:
+Pjer
+Date
+Time
+To 06/22/2009	12:30
+Report Date Time
+06/22/2009	14:05
+stranger Weapon Type
+Yes
+Premise
+6- COIVIMERCIAL
+Case Type
+Disorderiy Conduct
+casB Status
+CIQead by Агте 
+
+•s  i*,
+Seq, No. Name: {Last, First, ivliddié)
+i State Cif Georgia
+Home Phone
+Wprk Phone
+other Phone
+Acidress
+SSN
+. GA
+Sex Date of Birth Age
+p.ace
+Employer
+Schooi
+Height
+Weight Hair
+Eyes
+
+■ л;
+
+
+
+Seq. No. Mame: (Last, First, Middle)
+State of Georgia
+Home Phon.e
+Work Phone
+Other Phone
+1
+Address
+SSN
+■ GA
+Race
+Sex Date of Birth
+Age Empioyer
+School
+Height
+Weight Hair
+Eyes
+
+
+Roporting Officer
+Ofc. Warren ivliinkan
+Bàdge Suffix Signature
+318	03
+Approving Ofrioer
+Ueutenant William в ivloseley
+Badge Sljffix Signature
+305
+TYBEÊ ISLAND POLICE DEPARTMENT
+GA025a6'00
+p.o. BOX 1340Tybee Isl nci, GA 31328
+Pnnted Date: 07/01/2009
+Printed Time: 12:16 PM
+Page 2 df4
+Incident Report
+Inçidsm No.
+2009062114
+s q. No, Name: (La t, First, Middb)
+McLeod Mark Gwen
+Home Phone
+Worfc Phone
+other Phone
+1
+Address
+SSN
+Appling, GA 30802
+Rece
+Sex Dete of Birth
+Age
+Employer
+SCIIODI
+Whitd
+M
+53
+Height
+5‘09”
+Weight Hair
+Eyes
+Brown
+□ Sgspect □ Warrant
+П Pr'imarv Aqqresaor
+м Arrest
+□ Juv. Arrest 6/22/2009
+Arnest Dete
+175
+Brown
+Arrest Charges
+Disorderly Conduct
+Counts
+Code
+16-11-39
+1
+Arrest dharges
+Obstruction
+Counts'
+Code
+16-10-24
+. ' ■ ■ ■. ■	—:
+
+
+Year Маке
+1993 Buick
+Model
+Park Avenue
+Vehicle ID No,
+Color
+Type
+PASSENCER CAR
+Grav
+Insured By
+Georgia Farm Bureau
+Cyl. Fuei Trans. Miieage
+Insijrance Folicy No.
+Value
+50.00
+Body Style
+4DOQRSEDAN
+wheels Axles Èng.
+4
+2
+Tag No,
+Tag Yr. state
+2010 GA lovictilh1’   Suspect'  □Stolen nRecovered □Impounded □тowфd
+GC1CEntry 0 Requested □Warrant □ lylisamqParson □ vahicle □'ArtMa □ Eoat □ GMn a saquHties
+Additional 0 A   в П supplamentBI □ Oitatinn П Accident □Victim Blli of Rlghl  о Vshicle Impoqnd □ Inv. Rpt.[:IEVidance Éorrr
+J learence Active
+Cloarence Date:
+
+On the above time and date I was cn foot patrol on the pier. 1 observed SPÔ Valdes speaking with a W/M (later
+identified as Mark McLeod) in front of the ice cream vendor's window. I approached SPO Valdes and McLeod to
+determine If my assistance was needed. SPO Valdes informed McLeod that he had received several complaints
+regarding McLeod approaching ypung females and making inappropriate comments to them. McLeod stated that
+he was talking to the minor females aboLit Miley Gyfus. McLeod stated that he was "great friends with мпеу "
+McLeod stated that Miley had "told me to cqme see.her today."
+SPO yaldes and I advised McLeod that he should stop making comments to minor females. McLeod was
+resistive ta our instructions and stated that there was "nobody that could stop him from talking about Miley "
+McLeod stated that he was at the beach ’'to be with Milev," SPO valdeB  nd I in.c;frl
+toJeavethepien                     îÉ     ÉIiilllllÉÉÉIIIIIiili)IÉII[IÉIillÉiiÉÉÉÉIIIIP
+people including tamilies and children in the area when
+McLeod shouted this profanity.
+' Btfenipted to takè ivioLeod into oustpdy for diporderiy oondijet. Mcuod attempted poli away
+prevent US from moving him. McLeod repeatedly stated that he was a friend Qf Miléy and she wanted him there. °
+Raporting otflç r
+Ofc. Warren Millikan
+Badge Suffl)  SIgnatura
+318	03			
+Apprpying Officer
+Lieutenant William в Moeeley
+Badge Suffrx Stgnature
+305
+TYBEÊISUND POLICE DEPARTMENT
+'GA0250eoo
+P.O. BOX 1340Tybee Island, GA 31328
+Printed D?te: 07/01/2009
+Printed Time: 12:18 РМ
+Page 3 of 4
+Incident Report
+Incident No.
+2009062114
+recognized this deecnption as Jaycee purK Enroute to TIPDI drove past Jaycee Park and McLeod indicated that
+the Butck Park Avenue parked in the Ipt belonged to him. MCLepd stated that he had "4 or 5 Miley stickers'' on his
+dash. McLeod stated. you guys can searoh my car, the keys are in it. All that's irt there IS things Miley wanted ■
+rne to bnng.’'
+MOLeod continued to requested that ivllley Cyrgs be contaoted. McLeod was velv ooncerned that he be
+reieased SO that he could ■■be with Miley, that's what she vyantsi" McLeod was unable to post bond and refused to
+sign an arraignment waiver,
+о I	CCDC. Dunng the trip, MOLeod sppke extenslyely about his '’relationship" with Cyrus
+McleQd stated that he had met Cyrus â year and half ago. McLeod stated, "Our eyes met at her ccncert ahd we ■
+both l(new. I wa Ked straight thru seouhty and up to her bus. Billy l ay was stahding there. ■ He shook my hand
+and said you re the good man we ve been praying for." McLeod stated he and Cyrus kept their relationship
+“ "• “ “ ‘='"“ "" “
+McLeod stated that he .mailed "specia) presents" tp Cyrus, McLeod stated that he had mailed Cyrus two
+diamond nngs valued at $2,000 and some "specjal phvate presents" that I would not understand. McLeod stated
+that Cyrus relayed requests for gifts to him thru her fan of the day posting on her web site. McLeod stated that a
+recent posting featufed a fan in front of a sea wai!. MOLeod felt this posting was made by Cyrus to invite him to be
+with her at the beach,
+McLeod exhibited tiostility when the topio of other rnales in Cyrus' life mentioned, McLeod stated "Milev is
+on у with the Jonas brother for the pressj' McLeod stated that he had dreamed about a speplal stage for'cyrus
+but the Jonas brothers had stoien his idea. MCLepci said that this special stage would be CIrGular so Miley could'
+aiways see him.	 
+McLeod stated that he had been camping on Tybee for three pr four days. He reported that he had observed
+Cyrus on her balçpny. MCLepd stated that Cyrus wanted him to be with her orl the balcony. IVICLeod stated that
+was on the	®	Ipoking at him when he
+IVICLeod cohtinued to r-equest that I contact Gyrus. Hé insisted that she would tell me that he was "a qood
+guy," IVICLeod stated that he was very close tc Billy Ray, Ncah, ahd Bhdgett (cr Brady), MCLecd stated that he
+was not as cicse tc Cyrus' mcther Trish. MCLecd stated that Trish was "linked to security" MCLecd stated that
+some members of Cyrus' security team '’walked with the dévil,"
+ л■l	exception of Trish, the erltire Cyrus family was very happy with his relationship with
+Miley. McLeod stated that the age difference was not important, MCLepd stated, ''Nobody will ever be able to
+keep US apam We're llke cne " MCLecd stated that if i wculd Just talk tc Billy Ray everything wouid be cleared up
+McLeod stated that he knew that socn we wcuid be gdcd fnends and iaugh about aii of this MdLeod stated
+We re going to be close buddies. I want you in the wedding. I know Milèy will like you too, you have
+nGBrta
+  Vic d_ came very quiet when we arrived at CCDC. Д GSP officer with a fêmals prisoner was arhving at the
+a good
+Reporting Offtcer
+Ofc. Warren MilliKan
+Badge	suffiK signature
+318	03	..
+Apprpving offiGer
+Lleutanant Wlllîam в глоае|еу
+Badga Зишх Signature
+305
+TYBEE ISLAND POLICE DEPARTMENT
+' GA0250eoo
+p.o. BOX 1340 Tybee l3l nd. GA 31328
+Printed Date: 07/01/2009
+Pnnted TIrne: 12:16 PM
+Page 4 of 4
+Incident Report
+(ncident No,
+	—											 12009062114
+McLeod became agitated that males and females Were in thé same facility. McLeod stated ■'this isn't
+the last place I was in. McLeod stated to the booking personnel that hè was Miley Cyrus's boyfriend
+McLeod requested that they contact Cyrus "before we waste all this time "	. y - yr r
+Reportln9 Officer
+Ofc. Warren мппкап
+Badge Suffix Signature
+318	03
+Approv/ing Officer
+Lieutenant Williarn в Moaeley
+aadge Suffuc Signature
+3ÔS
+27-Jui-2009 03:17 PM Tybee Island policG Department 9127864003
+  TYBEE ISUND POLICE DEPAf TIVlENT
+GA0250e00
+Pnnted: 7/1/2009	12:17 РМ
+6/7
+Page 1 of 2
+
+
+
+
+
+PIN No.-
+Incident No. 2009062114
+Person No; 36611
+
+
+
+
+
+Arrest   Bookîng Report
+ШШ
+
+
+11 ш
+Defendant :
+Alias:
+McLeod , Магк Owen
+Race
+White
+Sex
+Age
+Date of Birth
+M
+53
+Grade Level
+Addrese;
+FL
+□ Primary Aggressor
+Place of Birth
+Appling, GA 30802
+ yes
+  rown
+Home Phone:
+Work Phone:
+Height
+5'09’'
+Weight Hair
+FBI N0,
+SID No.
+state Employer
+GA School
+IOBTS/OTN No.
+175
+Brbwn
+Visible Scars, ivlarks and Tattoos
+SSN
+Dnvers License Nc .
+Arrest Location
+strand Avenua
+Sub Zone
+Zone
+South
+Location
+Sub Location
+Court Date
+09/01/2003
+Arraignment Data
+Offense Date
+06/22/2009
+Report Date
+06/22/2009 I TYBEE INLAND POLICE DBPARtMFNt
+Arresting Agency
+Arrest Dato
+Arrest Time
+06/22/2009	12:20
+Arresting Officer
+Ofc. Warren Millikah _
+Bocking Officer	”
+Corporal Bruce Saunders
+Fihgarprinting atticer ~	 
+Corporal Bruce Saullders
+Badga No.
+бигях
+318
+03
+Bcldge No
+Suffix
+308
+01
+
+Badge No.
+308
+01
+Case Officer
+Badge No,
+Suffix
+Charqes
+Counts
+
+
+
+vioIattDn Code
+Violation Type
+Disorderly Conduct
+П Felony
+El Misd.
+D City Ord.
+1
+16-11-39
+  Near Scene	Arr.Jurcj.
+Amount
+$695.00
+□ Ball Ш Bond d TBA
+Тура
+1
+1
+Bond Company
+Bond Company Phone No.
+Sentence
+Daya Amount
+$0.00
+Time Served Good Time
+Oays
+Belançe
+Days Amount
+$0.00
+CQmmunity Service Ноиге Dispoartion Type
+Paid
+Arnount
+$0.00
+Reiumed
+Amount
+$0.00
+Days
+Receipt No.
+Recaipt No.
+Probatfort
+Years Months
+Jail
+Days
+Years Months
+Days
+Sentence Disposition
+Bound ov rTO
+□ Bound Over
+Bound Over Date
+Bound Over Remarks
+  - juirn iycj)ee ibiuna rolioe иераг тепт:
+TYBE  ISLANP POLICE DEPARTIVIENT
+GA02506ao
+Printed: 7У1/2009	12:17 PM
+/ / (
+Page 2 of 2
+
+•V'
+
+
+
+
+
+:
+
+PIN No:
+Incident Nc. 2009062114
+Person No: 36611
+
+■ ■1. !
+г
+
+
+Arrest 8c Booking Report
+
+
+
+
+
+
+
+
+Counts
+Violation CQd 
+Violation Type
+Obstruction
+□	Felony
+й ivlisd.
+□	Cityord.
+1
+16-10"24
+ofF, Jurd. Arr. Jurd
+  Near Scene  
+Amount
+$695.00
+□ Bail   Bond TBA
+Type
+1
+Bond Company
+BQnd Company Phone No.
+Sentence
+Days Amount
+$0.00
+Time seTved
+Days
+Good Time
+Days
+Balance
+Days Amount
+$0-00
+Community Service Hours Disposition Type
+Paid
+Amount
+$0.00
+Returned
+Amount
+$0.00
+Receipt No.
+Receipt Nb.
+Probation
+Tears Montha Days
+Jail
+Years lylonths
+Days
+Sentence Disposition
+Bound Over TP
+Bound Over Date
+о Bound Over
+Bound Over Remarks
+
+Medical
+
+. ..
+.
+■L
+Description
+П Allergies
+□ Heart Dfse se D Piabetes □ Epilepsy П High Blood Pressufe
+Descriptian
+П pther
+□ Under Doctor's Care
+Descnption
+D Medications
+Drug •
+
+1LLL*'
+•j' .
+□ Drug Use
+□ Amphetamine
+D Manjuana
+Releasing Offioer
+□	Barbiturate
+□	Methampetamine □ opiurTI
+D Cocaine
+П Hallucinogen
+Ш Synthetic Narcotic D LInknovvn
+Badge No. Suffix	'
+D Heroin
+Transfer Dat /TIme
+Agency Reléasècl to
+Agency ORI No.
+Incarceration bate/Time
+incarceration Agency
+'Incarceraticn ORI Nc.
+Release Dete/Time
+Released Status
+Date Out Of Jail
+Tcital Bond Afrit
+$1,390.00
+Received By signature
+</textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+
+        </div>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Header, Footer and Watermark</h3>
+                <!--!<div id="content"> -->
+                <textarea class="form-control" cols="150" rows="30" id="HeaderFooterWatermark"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>URL HYPERLINKS</h3>
+                <!--!<div id="content"> -->
+                <textarea class="form-control" cols="150" rows="30" id="Hyperlink"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Specific Excel Rows</h3>
+                <!--!<div id="content">  -->
+                <textarea class="form-control" cols="150" rows="30" id="SpecificRows"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+    </div>
+
+</body>
+</html>
