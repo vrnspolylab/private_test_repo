@@ -1,0 +1,246 @@
+<html>
+<head>
+    <title>Result</title>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="./resources/bootstrap-3.3.5-dist/css/bootstrap.min.css">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="./resources/bootstrap-3.3.5-dist/css/bootstrap-theme.min.css">
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="./resources/bootstrap-3.3.5-dist/js/bootstrap.min.js"></script>
+
+    <style>
+        #content {
+            background-color: #FCFCFC;
+            border: 1px solid #999999;
+            padding: 10px 10px;
+            -moz-border-radius: 4px;
+            -webkit-border-radius: 4px;
+            border-radius: 4px;
+            /*IE 7 AND 8 DO NOT SUPPORT BORDER RADIUS*/
+            opacity: 0.87;
+            -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity = 87);
+            /*-ms-filter must come before filter*/
+            filter: alpha(opacity = 87);
+            /*INNER ELEMENTS MUST NOT BREAK THIS ELEMENTS BOUNDARIES*/
+            /*All filters must be placed together*/
+
+        }
+
+        #infodiv
+         {
+
+
+            border: 0px rgb(89,89,89) solid;
+
+            background: rgb(234, 234, 228);
+
+        }
+    </style>
+</head>
+<body>
+    <center><h1>Data Extraction - Result</h1></center>
+    <div class="container">
+        <hr>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <dl class="dl-horizontal">
+                    <dt>File name:</dt>
+                    <dd>james ashley hulgan booking report.pdf</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Provider name:</dt>
+                    <dd>AbbyyProvider</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Created On:</dt>
+                    <dd>8/12/2020 4:56:46 PM</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Extraction duration:</dt>
+                    <dd>00:00:00.7688904</dd>
+                </dl>
+            </div>
+            <div class="col-md-1"></div>
+
+        </div>
+        <hr>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Extended Attributes</h3>
+                <div id="attributes"><table class="table table-hover"><thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Value</th>
+                </tr>
+            </thead>
+            <tbody>
+<tr><td>creation date</td><td>6/23/2011 10:07:34 PM</td></tr>
+<tr><td>revision date</td><td>6/23/2011 10:07:34 PM</td></tr>
+<tr><td>publisher</td><td>Mac OS X 10.6.6 Quartz PDFContext</td></tr>
+</tbody></table>
+</div>
+            </div>
+            <div class="col-md-1"></div>
+        </div>
+        <div class="row" >
+            <div class="col-md-1" ></div>
+            <div class="col-md-9">
+                <h3>Content</h3>
+                <!--!<div id="content">  -->
+                <textarea class="form-control" cols="150" rows="30" id="content">
+Walton County
+Department of Corrections
+
+
+i
+
+1
+5Г
+
+.■9
+
+
+о
+'V
+ ouhfr<f 
+BOOKING INFORMATION
+HULGAN, JAMES ASHLEY
+’m
+
+Booking Number
+B11014426
+Permanent Location
+Classification
+
+Address
+у
+
+I
+
+4
+DL Number
+Date of Birth
+08/02/1970
+Place of Birth
+ALABAMA
+I*
+
+Gen Height
+Eyes Hand Skin
+BLU R
+Race Eth
+Weight Hair
+215 BRO
+1
+N
+w
+M
+601
+MED
+•I
+
+
+
+SID No
+Offender ID
+11008723
+OBTS
+660103853
+EBI No
+NA
+NA
+Occupation
+MANAGER
+Employer
+WLJR
+Emp Phone
+0000000
+Date
+By
+Booked
+Searched
+Prints
+06/22 01118:06
+06/22 01115:06
+06/22 01119:06
+DOUGLAS, JESSICA
+MCCORMICK, RYAN
+DOUGLAS, JESSICA
+81
+Arrest Agency
+WALTON COUNTY SHERIFFS OFFICE
+Arrest Agency ORI
+FL0660100
+Arrest Case Number
+Arrest Date
+6/22 011 4:20:00 PM
+11002732
+Arrest Officer
+D/s DOWDY
+Transport Officer
+D/s DOWDY
+5331
+5331
+Arrest Location
+215 OUNICY CIR DESTIN FL
+PS.NET/Jail Management System
+PRINTEO: 6/23/2011 2 33 54 PM CJ-SQL-01\IUSR_CJ-SQL-
+REPORT: JMS-101 V1.1
+Page 1
+FOR OPFICIAL USE ONLY
+01
+</textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+
+        </div>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Header, Footer and Watermark</h3>
+                <!--!<div id="content"> -->
+                <textarea class="form-control" cols="150" rows="30" id="HeaderFooterWatermark"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>URL HYPERLINKS</h3>
+                <!--!<div id="content"> -->
+                <textarea class="form-control" cols="150" rows="30" id="Hyperlink"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Specific Excel Rows</h3>
+                <!--!<div id="content">  -->
+                <textarea class="form-control" cols="150" rows="30" id="SpecificRows"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+    </div>
+
+</body>
+</html>
