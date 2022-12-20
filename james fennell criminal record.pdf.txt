@@ -1,0 +1,914 @@
+<html>
+<head>
+    <title>Result</title>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="./resources/bootstrap-3.3.5-dist/css/bootstrap.min.css">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="./resources/bootstrap-3.3.5-dist/css/bootstrap-theme.min.css">
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="./resources/bootstrap-3.3.5-dist/js/bootstrap.min.js"></script>
+
+    <style>
+        #content {
+            background-color: #FCFCFC;
+            border: 1px solid #999999;
+            padding: 10px 10px;
+            -moz-border-radius: 4px;
+            -webkit-border-radius: 4px;
+            border-radius: 4px;
+            /*IE 7 AND 8 DO NOT SUPPORT BORDER RADIUS*/
+            opacity: 0.87;
+            -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity = 87);
+            /*-ms-filter must come before filter*/
+            filter: alpha(opacity = 87);
+            /*INNER ELEMENTS MUST NOT BREAK THIS ELEMENTS BOUNDARIES*/
+            /*All filters must be placed together*/
+
+        }
+
+        #infodiv
+         {
+
+
+            border: 0px rgb(89,89,89) solid;
+
+            background: rgb(234, 234, 228);
+
+        }
+    </style>
+</head>
+<body>
+    <center><h1>Data Extraction - Result</h1></center>
+    <div class="container">
+        <hr>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <dl class="dl-horizontal">
+                    <dt>File name:</dt>
+                    <dd>james fennell criminal record.pdf</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Provider name:</dt>
+                    <dd>AbbyyProvider</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Created On:</dt>
+                    <dd>8/12/2020 4:59:23 PM</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Extraction duration:</dt>
+                    <dd>00:00:06.7933255</dd>
+                </dl>
+            </div>
+            <div class="col-md-1"></div>
+
+        </div>
+        <hr>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Extended Attributes</h3>
+                <div id="attributes"><table class="table table-hover"><thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Value</th>
+                </tr>
+            </thead>
+            <tbody>
+<tr><td>creation date</td><td>3/31/2019 2:32:12 PM</td></tr>
+<tr><td>author</td><td>Yulia Vigoutov</td></tr>
+<tr><td>revision date</td><td>3/31/2019 2:32:12 PM</td></tr>
+<tr><td>Creator</td><td>Microsoft® Word for Office 365</td></tr>
+<tr><td>publisher</td><td>Microsoft® Word for Office 365</td></tr>
+</tbody></table>
+</div>
+            </div>
+            <div class="col-md-1"></div>
+        </div>
+        <div class="row" >
+            <div class="col-md-1" ></div>
+            <div class="col-md-9">
+                <h3>Content</h3>
+                <!--!<div id="content">  -->
+                <textarea class="form-control" cols="150" rows="30" id="content">PEIgE‘2üf 
+*■** лтт ]: KTI
+:L£IIT1FZC\T1Ù  llbJIT
+el9LI KIPLIN;:  flTREET,f.[]lTlI  :icDD, DElr-i R, соиснлво	 :ic:5]2: 9- 2DB
+clülLORADO D1]IU:A[] CF ITr.T.ITIFIJLTTCll
+TEETG IrlnE IFrclJbTTON RIncroRD 1Я FOR LA []L ll.lE ÛNLY TIND
+INrûRHATIDli .9E:ISIT TQ тпи ODlJÛRAEX  ВТШЕЛЕ] ÛF- 11Г.Т.9Т1С1ЛТ:0}1 FROH
+rl ' ERPRIIIT cobJTRIBUTCR  IH ТПЕ ОТЛТЕ 01’ СОЬОРЛСО.
+[J! L1ZG.9 FIN.' ERPRI G 7 СС0Н=Л 1ЕР YÜE]R IHQEnRYJ TIIE CC-LOPTIDÛ ВЕ ЕШЛи OF
+INVIIGTIGIiTIÛN СШ 1ЮТ ::TllARJitiTlIE Т1П2 REOaRD RELME:] Tû TIIE PER aK IISI
+EgEICH YolJ IIAVE INTÏÏRIZ T.
+IF TllE Dli po TTIÛ}! ROT иисш ÛR FIJRT11ER ЕХРИЛМЛТЮК OF ЛЬ] ЛРЮЮТ
+r.iuŒ\   OR DIOPOGITrob] :.G DEGIREDH 111ЛТ :крор 1лт:о}1 МЛУ GE CRTZ IblED rROM
+TEEE AGEbgoY НЕЮ FlIRNTflllEC ТЕГЕ  RREGT хьдгс-БКЛТЮЬ].
+OHLY ТЕЮ сслш ou .TURr.lrloTIOI] OR TE§E RrJIlpEOTIVr DIGTRIOT ATTORblEY'.G
+огг:;:Е HEEERIZIN TllE FIHAL DIG;O.GITIObr OOOETRREC С7Л PRO’/:CE TiN 0ГЕ1::Л1
+OÜPY то AHY GPECIFIC CIOPOE ITIC .
+ОТЛТЕ IJIH GOVER}T:] 1\C.CE33 TO :]ЕЛЬЕО RECÜRÙ3.
+BErJIn.GE ЛООГТЮЫЕ  ЛЬ]0 DELETIOITE то л ORIHrHnL RrETORY REOORD MJlY DE НЛГ;|Е
+лт ЛН¥ alvEb] Т1НЕН л INQOIRY OEIOULD GE REQÜEe TED НЕШ1Т liEECalD FOR
+OEl'EIGEC-UENT НОЕ.
+TDERTIrTOATlob]
+ЫЛЖМ) UGED:
+FTmlELL, .ттимЕО bŒROEDEG
+rERRELL, .ТТ ЕО
+rEmlEL, .GET TRIP
+rEmlEL, TRIP
+rERRELL, атшЕО ЫЕСЕОЕО
+ГЕИИЕЬН
+GET, TRIR
+TRrp, X
+rEmlELL, JTIMEO M
+rERRELL, JORDArT 0
+RODERT nlT, TAVÛR M
+FTRKELH JAbiEG M
+PEEYGI AL:
+GEX: H RAC:E: D [[ОТ: y:'4	 T: l?>?>
+EVE: GRO [[JlIR: GLK .GKb]:
+DATEEE) OF DIRTn:
+07/05/19 9
+PL7bcE(E  OF GIRTn:
+CO
+OCARI /blnRK :
+DC UR ARM
+DC R ЛРН
+ТЛТ L RND
+DC L ARH
+ТЛТ L ARM
+ТЛТ l:[IEDT
+ТЛТ R ARM
+DC РАОЕ
+‘REOIDTERED  EK OFFEibIciER*
+
+lIRIHrHAL nrDTDRY
+— C/LL  L OL 11
+
+	APREDT
+DATE ARREGTED
+DB/21/l!aa'9
+CQLQRADO
+Ш
+PElgR  1 vi  
+;4l> bIn nL  Pkl v
+IL tl11C L1cir
+KIPLIn btfeet. sa1tJ :]DÛO
+Lakev ûüJ,  □Z1 
+J DZ-zi' - TJa 
+ku  TV
+ co 9PEER BLVD.
+DEf ER, CO B020G
+D te; 12/09/14 03:55:42(MT)
+RE; ЕЕМ ЕЕЦ JAME 
+DOB: Û7Û539
+Thl  Colonadrh  rn9st n9cond lor tho рог оо riotiod lo foltow.
+Tho Cobrado Buri au of Invcotiga ion'a dalaba a conulino dotailod infoiTInalioil of arrr ot rocorda
+ba od upon lingorpnnta providod by Colorado layy onfoicorllontagoncioa. Arro r ,  hich aro not
+ Ljpportod by lingorTHnnta, yyill no't bo inoludod in thia databa . On ocoa ion tho Colorado crinlinal
+llisiory yvill oonrain diopoaition infonmation providod by tflo Colorado JlJdicial ayotom. Additlonally.
+yvarrant Information, aoalod rooorda. and juvonilo rooofda aro notavailablo to tho public.
+ThB resa/rs arfac/1  bssed an E пашв saErch wh ch may Dr may nai ba ihE aubjact af
+tbia  nqumy. This saErcb doas noi inciadE E fir garprint compEdsan. whmh is tha oniy
+maans of pasdiva idantincEban. Sincyz an antoat nooord тау bo oatabliahed aftortbia iaquify,
+an an'oat roooid la onlv valld at tho timo of tho oijnront roquoat To опаиго tho n10at CLJrront
+availablo information ia rogarda to aubaoquont arroat a'tor an initlal Inquiry, it ia rooomnnondod
+anotbon qljorv bo mado.
+Tho roaulta attaohod bololvano baaod on tho aritoria givon.
+гalai'ying Oi altonng thia doconlont with tho intont to niiaroproaont Iho oontonta of tho rocord ia
+prohIhJtod by law, and may bo poniababJ  aa a foJony wbonL donLO with Intoot to injijno or dofraud
+any poraon.
+SIncoroly.
+Ronald c. SIDan. DIroctor
+Colorado Вигоао of Invoatigation
+Tdo KIPLII   b lDDd, Oio Ëdz1 	I
+A
+огв
+ RRazl]T liLMDazR
+ lAME urÆD
+CEITIRGII
+СПЛЯПЕ LITERAL
+OF\rEblr>\L DATE:
+AIJRORA PÛLICI: CIEPAJLTHEnIT
+ПЧ-1 Ь21
+ГЕЮ ЕЬЬН .TAMElfl  lECErEf
+CL
+IrAIL Tü APPETLR MOTDR VEIIIÜLE ТЕЕЕРГ
+DB/21/l!aD9
+17
+	APP.ÏÏ.'IT
+Е1ЛТ11 ARREL TED
+1D/D2/I!ac9
+AEmJaRA ЮLrcE: Dll FARTMILtJT
+Dg-L2- :  
+rENRELL, JAMEf  HERCIIDE: 
+AÜ IIiNIY
+ARRE! T NEHErR
+CAi E NrIMDER
+МАМЕ unFL
+CIÎ7\J  
+CL
+cnARGE LITERAL
+TYPE/LELVEL
+OPFEM EL DATE
+	CDTTRT —
+TIIEE  fBDO то  150 0
+rELOKY
+ln/D2/2l>ng
+CElARIfTE
+cnARCE LITERAL
+TYPE/LEIl TE L
+OFErEM EL DATE
+DOCRET
+COERT DIGP-IJ ITTIKK
+DISPOSITION DATE
+SEMTEMCE
+IIEIARGE
+cnARCE LITERAL
+TYPE/LE  ELL
+OEErENSE DATE
+DOCRET
+CIOERT DIGPCSITIDN
+DISPOSITION DATE
+SEMTENOE
+Cl
+ТПЕЕ Т T]]EFT-$lnDD-$2Q,noD
+rELGKY
+D4/I:i/2CU4
+DCD:52 L' CRDD2: 10
+CILIrLTY
+U4/I'è/2D11
+2 DD Y DFSN RE BD üa П CMSV ■3 D ca D lIRTS IB cc H DOC:
+C2
+ErRAUD SCI OTEIR CRIME-COMMIT TIIEFT- BDD- ICDD
+>1IGDEME:AMOR
+D9/2:i/2CD 
+DCDi2D0; !IRDD2:]I0
+GLIrLTY
+□7/12/2D1D
+и DD Y RROB
+II L  3	17
+	APREST —•
+DATE ARRESTED
+AGEIN Y
+ARREGT LILMDER
+МАМЕ DSED
+IIEIAROE
+cnARIGE LITERAL
+TYPE/LEI 7EL
+CIFFEMSE DATE
+DOCRET
+CElARClE
+cnARIGE LITERAL
+TYPE/LiJVEL
+DOCRET
+D7/D.S/2CMD
+ARA=AI]OE COUMTY S]]ERIFE'S OFEICE
+LDDD; 03:l
+rEmlELLH JAHES HERCEDES
+CL
+ARRESTED FOR OT11ER JURlsDISTION JMJRORA/FTA
+HI DEMEAMOR
+D7/LI3/2CLD
+i lDD! 3üc
+C2
+F’AIL TD APPEAEI.
+ErELOMY
+1 AR4L7SÜ
+C/LL    иг 17
+	 APREST 	
+DATE ARRESTED
+AGEIDTOY
+ARPEGT liüHBER
+AE EENSY CASE MEIMBER
+МАМЕ ESED
+IIEIARITE
+cnARIGE LITERAL
+TYPE/LEVEL
+OFFEMSE DATE
+CEIARGE
+cnARGE LITERAL
+1YPE/LEVEL
+CIFFEMSE DATE
+CEIARGE
+CIIARGE LITERAL
+ll/Db/2alD
+AEFPORA ЮLrcE DEPARTtlElIT
+LD-L:i221
+rENNELLHJAHES HERCEDES
+CL
+FIRrMG ■■liiEAPCrM rlILEGAL DISCnARGE ОЕ FIREARH
+rELOKY
+Ll/Db/2C1D
+C2
+TRAFFIC GFFEMSE VEEEllllLAR ELllDIMG
+FELOKY
+LL/Db/2C1D
+C3
+IIOHICIDE LST DiEG MEJRDER ATTEE TED
+
+TYPE/LIrH IEL
+ûlrnzNJ IL ОЛТЕ
+CEITiRrTÏÏ
+СПЛТ Е LITEFIAL
+ТУРЕ/ЬЕГ Ь
+ÛFrENJ E ОЛТЕ
+	CÜUP.T	
+nILOKÏ
+ll/üb/ücla
+i\Â
+PIIDLIC: ORDEF	ЛТТ1М7Т
+nLLOKY
+ll/Db/ZCMn
+CEIARGE
+СЛЛ|  Е LITERAL
+TYPE/LIiJVEL
+ÛEEJTNJ E ОЛТЕ
+OOCKET
+colmT rl poi ITICW
+OI POJ ITIOll DAIE
+ ЕМТЕЛИЕ
+CEITiRGE
+CEIARGE LITERAL
+сы
+PÜELIII ORDER С 1ЬШ1Г, ACIIE RORY то CRIMI-Flij	E5-ATT
+nLLOKÏ
+Il/Db/Ilcin
+D(:0 . D1  IIRD0 575
+OUILTÏ
+□9/1Ч/2П11
+IB DO M ooc :i B DO 0 CRTO IB BD M DOC :> c: □D D lIRTE
+02
+PTIbLIC: ORDER CRmIE ACCEC RY Tü CRI C-IIEIARCTED
+u/lILABE 1/2
+nLLOKY
+ll/Db/201B
+D0B:5.2D10IIRDB2B75
+OIEMICCEO OY ОЛ
+Bg/1' /2B11
+TYPE/LIIArEL
+OFFIZI EE ОЛТЕ
+OOCKET
+CO RT DIGPOGrTIOK
+OIEPOCITIOK DAIE
+CEIAROE
+cru\RnE LITERAL
+l::: 
+PIIDLIC: ORDER CRIE J;:
+ /IIL7L E 1/2
+nILORY
+Il/Db/2(:1B
+DDBJ2D1DIIRBB2B75
+OIEMI enLO OY ОЛ
+Bg/lg/2Bll
+ACIIECCORY то CRIE -IIEIARGED
+TYPE/LIrH EL
+OFETENCE ОЛТЕ
+E>OCKET
+C011RT DIGPa ITIOK
+OIEPOEITIOK ОЛТЕ
+CEIARrIE
+СПЛТИПЕ LITERAL
+TYPE. LIrH?EL
+И4
+OBETR[]c:T POLICE oo rrRUCTrNC Л PEACE OFFICER
+MI E EMEAbloR
+Il/Db/ICIB
+0(:[]:12Ü1::'CROB2B7.‘ 
+OIEMIf>f>Iro OY ОЛ
+Bg/lg/2Dll
+OECnzNCE ОЛТЕ
+DOCKIT
+C011RT DI =OCITIOK
+OI FOCITIOK DATB
+СЕЁЛ ГТЕ
+COARrTB LITERAL
+TYPE/LE'S EL
+OEETENCE ОЛТЕ
+OOCEET
+C011RT OIGPOCITIOK
+OI.gpocITIOK олтв
+СЕ|Л ГТЕ
+СПЛТИПЕ LITERAL
+TYPE/LII;H?EL
+OE[?ENCE DATE
+OOCKET
+CO RT OIli pGCITIOK
+OIEPOCITIOK ОЛТЕ
+i\s
+HovrbJG TRAFFTC vroLATIO  ELElDIbJG Л POLTCE OFFICER
+TR7LEFIC
+Il/Db/2(:1B
+0(:B:12D10CRBB2B75
+orEMIe fnzo OY ОЛ
+Bg/lg/2Bll
+
+TRAEÎTIC OE EbJE  CARELEEO ORIVIbJG
+TR7LIrFIC
+Il/Db/2(:1B
+0(:BJ2D10CRDB2B75
+orEtlICCEO OY DA
+Bg/lg/2Bll
+cyüL  ъ OL 11
+	ARRII.gT — •
+ГЛТЕ ARRECTED
+AGEnKCY
+ARREST NEIHDER
+bJAME ЛСЕО
+CEIЛRCE
+CEIARGE LITERAL
+TYPE/LEVEL
+DOCKET
+11/D7/2D1B
+ЛЕТРОЯЛ ЮКГСЕ OEPARTMENT
+lBDL0gE:2A
+FENKELLH JAHEE НЕЯСЕГЕС
+Cl
+CONTEMPT OF COURT
+[rE'LOMY
+00BB2D0! CRDB2: 10
+	 C ÜL  6 ol 17
+	CEIBTODY
+ГЛТВ RECEIVEO
+AGEIrKDY
+Bg/22/2011
+ÜE ÆTi RECEPTrol-] E. DlA.GNQETrc CEbJTEIR DRDC
+
+ZIREUZGT N[ 1DER
+ISUIME 1] E:D
+с:[[ЛЕ ТЕ
+EllARJG  LITERAL
+TVPE/LIIA/EL
+EOCRE T
+115 55:  
+Е11Ш|ЕЕЕИ JRHEE H
+El
+ТЛЕГТ	ои HQRE
+I1ILOKÏ
+CICQi D I ERa □2: 10
+CL'GIC DY E’.'ERT
+E‘f/22/2E'll
+DEKVER RECEPTTOOT 4- DIA: }1E;ETIE EENTER DRDC:
+REEErvED
+ЕЛТЕ
+ЛГТЕЛСУ
+ TAT[1S
+7	17
+	RRRE.IT — ■
+ЕЛТЕ ARRE TEC
+ARREST N[]E ER
+NAME 1]J ED
+E[[ARrTE
+EIIARJGE LITERAL
+TVPE/LEA'EL
+ûrEENSE D7VTE
+E[[ARrTE
+EIIARJdE LITERAL
+T7PE/LEA7EL
+OFI;EN.7E D7VTE
+□E/D7/2Q12
+LIEm'ER PD - ILIETTTIElEATI'IN BURE7JC1
+12-Ll:iJ> B
+FE]471ELL, JAHEE
+EL
+ARRr.7TED FEIR ÜTRER JIrRI.EEIETloK
+MIEEENEANÛR
+nB/D7/2Elz
+=i’tRE;LE VIQ'L
+E2
+RAROLE vrc LATIaR
+MIEEEMILlw R
+DB/D7/2E12
+в 17
+	 ARRELT
+DATE ARREBIED
+□ R/LS/'2Q12
+DEm'ER PD - IDEITTrFIrJiTIDR ERmEAD
+12-LlsE P
+FETrBELL, JAMEE
+AE ENEV
+ARREET IIL IBER
+NAME DEED
+ECEAR E
+IIIARJDE LITERAL
+TVPE/LEVEL
+DO RET
+EL
+pi'J ILE VIELATIaR
+MIDDEMEl’lKER
+E L  9	17
+	C[’ETDDY
+DATE REEEI!.T:D
+1D/2B/2D1Z
+DENVER REEEPTIDN El DIA iNE. TIE CENTER ERDC
+115 53:  
+FE]TNELLI JAMED M
+AJ ENIV
+ARREET N[YR1ER
+NAME DI7ED
+C[[AR E
+IllARJnE LITERAL
+LOCRET
+El
+RARJQLE VICLATIQN
+DDÜ: 2QQ9CRDD2:iTn
+CÜ1ETDDY EVEKT
+la/2B/2012
+DEKVER RECEPTTDN 4' DIAJ OETIII CENTER LIRDC
+REIEIVED
+DATE
+AI ENCY
+ETATDB
+Cyl:!  LD 17
+	 ARREDT
+DATE ARREBIED
+□2/D9/2D1B
+AÜRJDRA PDLrcE [EIRARTMENT
+1B-L71'.a
+FENRELL, JAHEE  lERCEDEE
+ADENIV
+ARREET NÜHBER
+NAME DEED
+CCEAREE
+CE RITE LITERAL
+TVPE/LE:VEL
+OFFENEE DATE
+CELAREE
+EIIARJCE LITERAL
+CL
+DD.ETREICT POLICE FI'LLRE ETATEMEDT TÛ CITY PEREONNEL
+MI9DEMEANDR
+D2/D /2alB
+CE
+ARREETED FE R OIDER JlIRrEDICTION ARAPA1I0E/E9CAPE FRJON
+FELEINV CONL'rc
+rELODY
+DCDB2D1ECRDDDL E
+TVPE/LEVELL
+DOCRET
+CEEAREE
+СПАРПЕ LITERAL
+CB
+ARREETED FDR D1DER JDRrEDICTION DOC/PAROLE VIDLAIION
+
+L.’l nNÏ
+rELO'] Y
+lYElE/LluvEL
+	CIDITRT
+nEI R: 
+:I1AFGIL ЫТПРЛЬ
+0[r[nINJ [!: ОЛТЕ
+DÛGJ ET
+G[I RG]I
+'rIARGE LITEI L
+lYplI/LIIr EL
+OOGKET
+: 0il]RT DIE PGJ ITIO 
+OI.'IPO.' ITIOK ElME
+Cl
+ELIGHT EERCAPEfI
+rELORY
+1 / 0/Ycl 
+DE;ni2Dl:SCRnnDL' 5
+EJ C .PE 7P0M FELONY GONVICTTE' ] NOT F1,E
+C2
+OBETRE1GT POLIaL F LGE GT TEHERT-GITY PER alTNEL
+MTGOEME NOR
+J15E: G 
+C,ETLTY
+й2/\1/-2й\ъ
+LL OI 17
+	 RREET —■
+D TE APREf EO
+AGEKEY
+ARREGT NOHOER
+ИЛМЕ Ei ED
+ЕЕЕ .РТТЕ
+EIIARGE LITERAL
+1YPE/LEVEL
+OEFEN.7E ОЛТЕ
+OOGKZT
+GEIARITE
+GI LARGE LITERAL
+ExyzRET
+G2/L1/201 
+APAlRAJloE COUNTY .lllERIrE'.G ОГЕ1СЕ
+rENRELL, JAHE.G HERCEDEG
+Cl
+ELrGIET EGCAPEE 
+IrEICNY
+G2/L1/2C12
+OE;n22Dl:sc:RnnDLL L0
+C2
+P7ROLE vroLATloN
+OOC41-‘ 33U 
+12 I 17	
+	ARREET — ■
+EATE ARREGTEO
+AGEKGY
+ARREGT NETHE ER
+NANE 1]J?ED
+GEiARITE
+GIIARGE LITERAL
+G2/20/2C1J
+AR71=AI10E GolINTY .GIlERIrE' G orFIGE
+rEFQEELL, JAMEE HERJ(GEEEC
+Cl
+GLRREi TED [LEIR OTJIER JTIRrEDIGTIOK OEETVER/rAILURE TO
+REGIGTER
+rELORY
+□2/20/2cli
+201U5D003L  
+TVPE/LLIG7EL
+OELnINGE DATE
+OOCRET
+L: 	17
+	 ARREET 	
+BATE ARREG>TEO
+AGEKGV
+ARREGT HEBODER
+AGEKGY CAGE NE1MGER
+NANE llGEEl
+CEiARGE
+GIIARGE LITERAL
+TYPE/LEVEL
+OELnINGE DATE
+OOCRET
+□3/LÜ/201 
+ARARAJloE COUNTY .GIlERIrE'G 0ГЕ1СЕ
+13UU1
+13/1!>333EL
+rERRELL,JAHEG HERCEDEG
+Cl
+ELrGIET EGCAPEG
+IrELONY
+□ 3/L::l/2cl3
+DE;U32U1:>CRGUD37' 
+CLTURT
+CEIARGTE
+CIIARGE LITERAL
+TYPE/LLIA EL
+01
+ELrGliT EGCAPEG
+nILORY
+12/20/2C12
+DIE;U32D1:SCRGUD37> 
+orGMIGGEO OY DA
+	c l':!  Ld . D 17
+EGCAPE FRON [IELONY CONVICTIOR ISEDT El,2
+OEEnINGE DATE
+DOCRET
+coiuRT OIGPOGITIEm
+	 ARREGT
+BATE ARREGTEO
+AGEKGY
+ARREGT HEIIODER
+NANE UGEII
+CEIARGTE
+Gd/21/2013
+AR7,=AI10E COUNTY .GIlERIrE'G orFIGE
+luGGl  -OG
+rERRELL, JAFIEG MERGEBEG
+Cl
+
+:|1ЛШ]Е: LITERJIL
+TVPE/LE:VEL
+F: rrEKIJ E DivTE
+DOCI ET
+ELK IIT ЕЕСДРЕ5  01  rELQfrï СПЛРЛЕ
+FELEfrY
+D4/E1/:'C1 
+DED  EDlJirRDDD: -: 
+	ryL:L  L5 17	
+	ЛРЕЕ.1Т
+DATE ivs pEe TED
+ЛРАЕЛ]]ОЕ EODMTÏ .lEERTFF'E OEFICE
+lD-<]- E7e:
+ЕЕШ1ЕЕЕ, JAME.7 MEECEDE5 
+AE[!:N::T
+AREUI T тжвЕР
+AEEhr::  rAi]E KImoER
+ISIA>1E 1]. ED
+c:[[AR::E
+lEIIAEGE LITEE L
+TVPE/LEVEL
+OEFENJ E DivTE
+[xyzEET
+CL
+nüfTICIDE lilT DEG EloHICIDE
+FELEKY
+DCDi DlJirRDnLLOl
+TEURT
+EEÜLRGE
+ICIIARGE LITERAL
+TVPE/LEVEL
+OErENJ E ОЛТЕ
+DOCEET
+lIolIRT DICPE. ITIE7)I
+EEIARITE
+IIIIARJEE LITERAL
+TVPE/LEVEL
+FOFrENJ E ОЛТЕ
+OOGEET
+IcolIRT DIRPC: ITIO)l
+EEIARITE
+ЕЕЕЛРГТИ LITERAL
+TVPE/LEVEL
+'OEFENJ E ОЛТЕ
+ExyzRET
+lIolIRT DIEPCL ITIEDOI
+EElARITE
+IIIIARGE LITERAL
+TVPE/LEVEL
+OFFENJ E ОЛТЕ
+OOCRET
+lIolIRT DIEPO ITICOI
+EE1ARRE
+IIIIARJGE LITERAL
+TVPE/LEVEL
+OEFEFI. E ОЛТЕ
+O RET
+C1Û11RT DICPCL ITIOIT
+Cl
+ncKICIIDE t  RDER L-rELELlï H1JRCER
+EELGfEÏ
+ll/D:v: aln
+DCD:5 Dl:srRDnLL0L
+G11ILTÏ
+CJ
+ROEEERY
+FEmLIY
+1L/E : /Icln
+DCD:  LI1 CRE]DLLE)1
+GllILTY
+RJOEEERVAJGG-ItETERT RIILMA:ET -'I-7?E XRTJ'J'
+c: 
+>|-ЕЛРС|м ÛFFEM E
+FELELIY
+ll/DJi/ECLD
+DCDi DKirRDnLLDl
+orEMIEl EO DY ЕЖ
+KEAPEEJ-PFJGnRREV JTR.  orrEt:o-ALlY FRIER ГЕ
+C4
+PURI IE ÛRCER IRI (E 
+ ERTEISIEE ELU AbiEER
+1L/D:i/:L'C1D
+DCDU Dl:iERDDLLÜl
+PRJEVEbI
+VIOLEIn CRIME-uflEC VEAPOISI
+C5
+RÜR1IE ORCER CRrb*: 
+ ERTEISIEE EFIllAHnIR
+ll/DJV/YCIn
+DCDU DlpERDnLLOL
+PRJGVTbl
+VIOLEtn CRIHE-IJ'IUEE EEATEIDI
+ЕУЧ:Е  LC . E 17
+	ARREET —
+DATE ARRECTEC
+AEENIV
+ARRECT Nb ER
+МЛМЕ 1]: ED
+EE1ARPE
+ICIIARJEE LITERAL
+EJ’UETUAL RAEIJ 
+TVPE/LEVEL
+OOGRET
+Db/2-7/-2ul3
+DEhR,TR PO - IDEHTIFIEATIC-R DUPEAEl
+l: CR13=l
+FEKMEL,JA11EE
+Cl
+CE> orFELrcER-FAIL TÜ REGIIITER
+COURT ORCERED RRINTJ 
+FEIJOLIY
+Dcl  Dl:icRRDL531
+	Eyl:L  L7 17	
+	ARREET
+DATE ARRERTED
+□7/2L/IQL3
+ARARAI]OE COUMTY EUERLFF'E OFFICE
+13IIU1  <1E
+2DL33CCD5RC
+FERL1ELL, JAMEE blERCEDEE
+AEENIV
+ARREET tlb luER
+AEELrIV CAEE bICMOER
+FIAME UEED
+cblARJOE
+□ 1
+Pa    of 8
+CHAHGE LITERAL
+ТУРЕ/LEVEL
+OFFENSE DATE
+LÜCRET
+SEy OFFENDER-FAIL TO REGISTER
+FELONÏ
+ù- /22/2ùl2
+D0I62Dl: CRÛÛlb I
+COORT
+01
+CHARGE
+CHARGE LITERAL
+ЕЕУ OFFENDER REGISTRAITON VIOL
+ГГЕЬС'НУ)-FAIL TO REGISIER
+FELONY
+12/2 /2012
+D2I 20I2CRÛÛlb l
+OISMISSED ВУ DA
+ЕЕУ crrFNOER
+ТУРЕ/LEVEL
+OFFENSE DATE
+ООГКЕТ
+COURT DISPOSITION
+CHARGE
+CHARGE LITERAL
+22
+SEy OFFENDER REGISTRArloN VIOL
+tMISD -FAIL lo REGISIER
+MISDEMEANOR
+12/2 /2012
+D0I62DIJCRÛÛlb l
+GIrILTY
+2 00 Ï JAIL 127 00 D CRTS 2 00 Y JAIL 127 00 L CRTS
+SEX OFFENOER
+ТУРЕ/LEVEL
+OFFENSE DATE
+OOCHET
+CGURT DISPOSITION
+SENTENCE
+CRIMINAL JUSTICE AGENCIES MAY NOT HAVE PROVIDED ALL ARRESTS,
+CHARGES OR DISPOSITIONS lo TPIE CBI.
+ARRESTS, CHARGES   DISPOSITIONS THAT  ERE PROVIDED, ■JNLESS
+** ACCESS TO ТНЕУ HAS EEEN LIMITED ВУ COURT ORDER.
+*FALSIFYING OR .ALTERING THIS REGORD  ITH THE INIENT TO MISREPRESENT*
+*THE CONTENTS OF THE RECORD IS PROHIBITED ВУ LA , AND MAY BE
+*PUNISH.AELE .AS A FELONY NHEN DONE HITH THE. INTENT TO INJDRE OR
+*DEFRA‘JD ANY PERSON*
+•± ±
+•Фг •Фг
+?H:s RECORD SKO 'S ALL
+■tir
+± ±
+± •Фг
+± ±
+•Фг
+•Фг
+
+E>]D GF RECORD NEETIKG DISSEMTNATTON CRTTERIA
+	12/(} /2ùlA 1Ь-ЬЬМТ	
+</textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+
+        </div>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Header, Footer and Watermark</h3>
+                <!--!<div id="content"> -->
+                <textarea class="form-control" cols="150" rows="30" id="HeaderFooterWatermark"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>URL HYPERLINKS</h3>
+                <!--!<div id="content"> -->
+                <textarea class="form-control" cols="150" rows="30" id="Hyperlink"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Specific Excel Rows</h3>
+                <!--!<div id="content">  -->
+                <textarea class="form-control" cols="150" rows="30" id="SpecificRows"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+    </div>
+
+</body>
+</html>
