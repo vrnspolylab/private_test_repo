@@ -1,0 +1,914 @@
+<html>
+<head>
+    <title>Result</title>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="./resources/bootstrap-3.3.5-dist/css/bootstrap.min.css">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="./resources/bootstrap-3.3.5-dist/css/bootstrap-theme.min.css">
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="./resources/bootstrap-3.3.5-dist/js/bootstrap.min.js"></script>
+
+    <style>
+        #content {
+            background-color: #FCFCFC;
+            border: 1px solid #999999;
+            padding: 10px 10px;
+            -moz-border-radius: 4px;
+            -webkit-border-radius: 4px;
+            border-radius: 4px;
+            /*IE 7 AND 8 DO NOT SUPPORT BORDER RADIUS*/
+            opacity: 0.87;
+            -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity = 87);
+            /*-ms-filter must come before filter*/
+            filter: alpha(opacity = 87);
+            /*INNER ELEMENTS MUST NOT BREAK THIS ELEMENTS BOUNDARIES*/
+            /*All filters must be placed together*/
+
+        }
+
+        #infodiv
+         {
+
+
+            border: 0px rgb(89,89,89) solid;
+
+            background: rgb(234, 234, 228);
+
+        }
+    </style>
+</head>
+<body>
+    <center><h1>Data Extraction - Result</h1></center>
+    <div class="container">
+        <hr>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <dl class="dl-horizontal">
+                    <dt>File name:</dt>
+                    <dd>koenigscourtdata.pdf</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Provider name:</dt>
+                    <dd>AbbyyProvider</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Created On:</dt>
+                    <dd>8/12/2020 4:47:29 PM</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Extraction duration:</dt>
+                    <dd>00:00:04.6657660</dd>
+                </dl>
+            </div>
+            <div class="col-md-1"></div>
+
+        </div>
+        <hr>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Extended Attributes</h3>
+                <div id="attributes"><table class="table table-hover"><thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Value</th>
+                </tr>
+            </thead>
+            <tbody>
+<tr><td>creation date</td><td>8/7/2008 8:08:06 PM</td></tr>
+</tbody></table>
+</div>
+            </div>
+            <div class="col-md-1"></div>
+        </div>
+        <div class="row" >
+            <div class="col-md-1" ></div>
+            <div class="col-md-9">
+                <h3>Content</h3>
+                <!--!<div id="content">  -->
+                <textarea class="form-control" cols="150" rows="30" id="content">INMATE TRACKJNG
+
+KOENIGS, THOMAS PAUL
+Local ID:
+DOB:
+SSNS:
+OCA:
+
+■wm
+
+
+114051
+09-19-1963
+
+
+
+
+
+
+■■1
+
+
+
+0308001497
+’I
+h;
+
+8Ш:
+■s,.
+Ф
+1
+
+FBI it;
+DOC #:
+SBI Case #:
+
+Ш
+
+Шй
+
+
+:f
+
+
+Ш:
+
+
+License Nuniber:
+License Statc:
+\y :
+Ш
+NORTH CAROLINA
+01-30-2008
+ii
+И-Ш'
+v'i
+i
+
+
+Arrest Date:
+Address:
+-ГЁ
+
+
+
+  I
+
+
+
+
+7:;Г
+
+m
+
+Щ
+, NORTH CAROLINA
+CONTRACTOR
+
+ж
+Ш
+Occupation:
+Employer:
+Eniployer Address:
+
+
+■J.
+ÿK
+P'
+
+f.
+
+:l 
+
+
+
+'■Æ
+M!
+
+
+
+
+ù
+
+'i;
+
+>
+é .
+
+OITÎCial Taking Prints: lylj POOLE
+Arresting OHicer:
+
+
+шь-
+
+R KOVACH/RPD
+■■ Vlj
+
+
+PHYSICAL DESCRIPTION:
+Sex:
+l‘nrltet : 'rhur   y,Allg<ilt7,2008 10:2 
+MALE
+WHITE
+Race:
+Scars/Marks/Tattoos :
+Type Location
+Heigbt:
+Wcigbt:
+508
+Description
+125
+Hair Color:
+BROWN
+BLUE
+FAIR
+Charges:
+Statute
+14-33(C)
+Eye Color:
+Description
+ASSAULT GOVT OFFICIAL/EMPLY
+RESIST/OBSTRUCT PUBLIC
+OFFICER
+Skin Tonc:
+Comments:
+(4)
+14-223
+Aliases:
+LMt
+Fir.st
+Middle
+
+}
+Date:	8/07/08
+10 :-22:18
+City-County ID Bureau
+Raleigh, North Caroli
+PAGE
+1
+ARREST INFORMATION
+Name	
+ID Number	
+Current Address
+: THOMAS p KOENIGS
+AZALEA DR
+ City: RALEIGH  
+I	П|ПМГ
+state: NC ZIP CODE: 27607
+White
+Male
+9/19/1963POB:
+Race..
+Sex. . .
+DOB...
+FBI#..
+state#
+SSN...
+Harr : BROWN
+Eyes: BLUE
+MOSCOW
+Hgt: 508 Ft./in.
+Wgt: 125 Ibs
+ID Country: United States (
+Right
+Left
+Stat FPC:
+Marital Status:
+1. Arrest Date: 1/30/08 Arrest Agency: RPD-Raleigh Police Dept.
+Arrest Name: THOMAS p KOENIGS
+Arrest Incident: 03-08-001497 Person Sequence:	1
+Release Date/Time:	By:
+Charge Sequence..:	1 Offense Date: 0/00/00
+state UCR Classif...: ASSA ON GOV OFFICIAL 14-33 (B)
+Statute/Ordinance: ASSAULT_14-33(c)(4)
+Court Dispo Date.: o/oo/oo
+Court Disposition:
+Bond Amount/Info.:
+Age :	4 4
+Counts :
+1
+_1391
+Docket#:
+. 00
+Charge Sequence.,
+state UCR Classif...: RESIST/OBSTR PUBLIC OFFICER 14
+Statute/Ordinance: OBSTRUCT POLICE 14 223 4801
+Court Dispo Date.
+Court Disposition
+Bond Amount/Info.
+2 Offense Date: o/oo/oo
+Counts :
+1
+0/00/00
+Docket#:
+. 00
+2. Arrest Date: 9/23/98 Arrest Agency: wcso-wake County Sheriff's Office
+Arrest Name: THOMAS p KOENIGS	Age: 35
+Arrest Incident: 01-98-004108
+Release Date/Time :
+Person Sequence:
+By:
+1
+Charge Sequence..
+State UCR Classif...: FAIL TO APPEAR MISD 15A-543  c
+STALKING
+0/00/00
+Offense Date: o/oo/oo
+1
+Counts :
+1
+Statute/Ordinance
+Court Dispo Date.
+Court Disposition
+Bond Amount/Info.
+Docket#: 97CRS028234
+. 00
+3. Arrest Date: 1/21/98 Arrest Agency: wcso-wake County Sheriff's Office
+Arrest Name: THOMAS P KOENIGS	Age: 34
+Arrest Incident: 01-98-000276
+Release Date/Time:
+Person Sequence:
+By:
+1
+8/07/08
+10:22:18
+Date :
+City-County ID Bureau
+Raleigh, North Caroli
+PAGE
+2
+ARREST INFORMATION
+Name	
+ID Number
+: THOMAS p KOENIGS
+: 114051
+Charge Sequence..
+state UCR Classif...: FAIL TO APPEAR MISD 15A-543 c
+Statute/Ordinance: STALKING
+Court Dispo Date.: o/oo/oo
+Court Disposition:
+Bond,Amount/Info.:
+1 Offense Date: o/oo/oo
+Counts :
+1
+Docket#: 97CRS028234
+. 00
+4. Arrest Date: 5/16/97 Arrest Agency: wcso-wake County Sheriff's Office
+Arrest Name: THOMAS p KOENIGS	Age: 33
+Arrest Incident: 01-97-001542
+Release Date/Time:
+Person Sequence:
+By:
+1
+Charge Sequence..
+state UCR Classif...: STALKING 14-277.3
+Statute/Ordinance
+Court Dispo Date.
+Court Disposition
+Bond Amount/info.
+1 Offense Date: o/oo/oo
+Counts :
+1
+0/00/00
+Docket#: 97CR28234
+. 00
+5. Arrest Date: 9/05/95 Arrest Agency: CPD-Cary Police Dept.
+Arrest Name: THOMAS p KOENIGS
+Arrest Incident: 05-95-001119 Person Sequence:
+Release Date/Time:	By:
+Age:	31
+1
+Charge Sequence..
+state UCR Classif...: ASSAULT w/DEADLY WEAPON 14-33
+Statute/Ordinance
+Court Dispo Date.
+Court Disposition
+Bond Amount/Info.
+1 Offense Date: o/oo/oo
+Counts :
+1
+0/00/00
+Docket#:
+. 00
+Charge Sequence.,
+state UCR Classif...: ASSAULT AFFRAY 14-33
+statute/Ordinance
+Court Dispo Date.
+Court Disposition
+Bond Amount/Info.
+2 Offense Date: o/oo/oo
+Counts :
+1
+0/00/00
+Docket#:
+. 00
+END OF ARREST REPORT
+Fonn 402-1
+75814
+Nimiber
+Ko nl  . тъптАЯ Рлпт
+Name
+FJP.C.
+17 0	1 TT nnn 1  
+L 18 и 001
+RECORD
+11/23/86 Mied. AR ault:
+TI OR
+
+m Щ
+
+	—
+tr •-• '
+
+
+
+over
+oo/’ и l' / Z.UUO
+XD. 4 
+:: x зоиоопчо
+I- U ;ЭПС1Г ХГГ
+гнс;с. ax /’ ах
+г-
+2!
+
+>
+ф
+
+■•■ N)
+Ш-..9
+s
+s ill i§
+i «  
+Щ Щ
+Q	 	 
+O	O	O
+■°	O	«
+- т
+
+
+O
+P
+
+
+s ...  
+
+  Z O
+M
+>2
+NO
+> (/>
+i.
+m  
+
+>4
+c/)
+i.>
+
+>
+O
+-H   a>
+ 06
+a  
+1Э|
+    a>
+—   Ю
+H
+O
+
+h
+, Q
+O
+>•
+■Tl
+Z
+If
+Z
+c
+Hl
+>
+CO
+P
+
+O
+
+c
+H
+X
+O
+O
+7 
+fi
+O
+7 
+ro
+Ю
+7 
+X
+
+m
+■Ч
+O
+m
+70
+’Tl
+
+O
+CO
+>
+O)
+rn
+
+
+CO
+Д)
+8  
+O
+O
+СП
+::: ■Л
+
+70 ®
+"П
+IT1
+■70
+-I
+il
+O
+w
+70	:
+O
+70
+
+O
+O
+O
+O
+>
+P ГТ1
+® O
+®g
+s®
+> -1
+Ю
+
+O
+' —V-—f,.,À
+c
+
+
+CO
+
+7 
+70
+go
+
+
+Ч
+
+m
+O
+ри.
+
+CO
+c*)
+O
+c
+;o
+Ч
+£3,
+O
+
+
+X
+>
+Z
+O
+
+(Л
+
+O
+
+H
+ООН
+  O
+O
+
+
+>
+■TT H
+~n —I
+oo
+OTI HHK
+O O X X O
+ ;o rnmc
+ГП pr c/> c ГП
+Z- c   O    
+Z E >   O >
+r- HOPm
+ о с н8
+;20 XIE 
+2   ГП O  
+o>“ii
+ c=no°
+|-оош2
+m о X
+aQqc 
+ -'o 
+
+> X
+F т
+mo
+O m
+O Ш
+ш
+H
+
+>7 0
+CO ГП X
+ co>
+
+n
+m
+O
+O
+> X
+00
+O
+TJ H
+c
+0]
+ o
+111
+” n
+Z
+‘n
+O
+
+Z
+Z
+â,
+>
+O
+O
+CJ
+
+
+Щ
+H Z
+“0
+
+уф.
+.Ш
+CO
+Z
+op
+m
+O
+70
+H
+~ a
+ГТ1
+CO
+ x
+Щ
+> -
+?i
+O;oco
+
+m
+H
+
+
+H
+>
+
+O
+X
+Z
+H
+O
+Ш
+>
+
+O m
+a>
+CO 7]
+>  
+m
+c
+7}
+H
+t
+O
+X
+P
+O
+
+O
+O
+O
+§
+O
+X
+
+
+
+CO
+CO
+
+CP
+>
+■V
+m
+70 H
+m ГП
+oo
+XIX
+ГП O
+ 70
+-CD'fTT
+-< c
+>
+1“
+i I
+O
+
+Z
+V
+X
+O
+73
+
+</y
+f
+m
+□I
+ГТ1
+c
+
+O
+r-l
+
+
+
+Ш
+O
+Ш-
+
+CO
+_-0
+O Ф
+-7Г-
+0'
+Z
+
+
+O
+D
+
+
+H
+Z
+O
+X
+00
+CO
+O
+Tl
+  m
+X O
+ш Tl
+70
+Z
+□□ [1 
+O
+Ti
+
+I
+  O
+CO
+>
+
+m
+Z
+
+
+a .
+70
+m
+l§
+(n
+m O
+<
+cni
+H
+m
+O c-
+Q
+<D
+
+il
+>
+n
+I
+Ф
+O
+Z
+CO
+
+H
+
+
+O
+
+i 8
+i  
+ 	ГП	d
+ 	70	 
+r-
+O
+70
+Z
+
+
+D
+□Ef
+>
+ГТ1
+Z
+Л-
+70
+11
+O
+O
+
+X
+O
+c_
+!• O
+->
+<
+
+CO
+II
+
+
+8
+O
+
+Z
+Ф  
+a
+</textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+
+        </div>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Header, Footer and Watermark</h3>
+                <!--!<div id="content"> -->
+                <textarea class="form-control" cols="150" rows="30" id="HeaderFooterWatermark"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>URL HYPERLINKS</h3>
+                <!--!<div id="content"> -->
+                <textarea class="form-control" cols="150" rows="30" id="Hyperlink"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Specific Excel Rows</h3>
+                <!--!<div id="content">  -->
+                <textarea class="form-control" cols="150" rows="30" id="SpecificRows"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+    </div>
+
+</body>
+</html>
