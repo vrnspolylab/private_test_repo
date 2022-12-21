@@ -1,0 +1,3860 @@
+<html>
+<head>
+    <title>Result</title>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="./resources/bootstrap-3.3.5-dist/css/bootstrap.min.css">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="./resources/bootstrap-3.3.5-dist/css/bootstrap-theme.min.css">
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="./resources/bootstrap-3.3.5-dist/js/bootstrap.min.js"></script>
+
+    <style>
+        #content {
+            background-color: #FCFCFC;
+            border: 1px solid #999999;
+            padding: 10px 10px;
+            -moz-border-radius: 4px;
+            -webkit-border-radius: 4px;
+            border-radius: 4px;
+            /*IE 7 AND 8 DO NOT SUPPORT BORDER RADIUS*/
+            opacity: 0.87;
+            -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity = 87);
+            /*-ms-filter must come before filter*/
+            filter: alpha(opacity = 87);
+            /*INNER ELEMENTS MUST NOT BREAK THIS ELEMENTS BOUNDARIES*/
+            /*All filters must be placed together*/
+
+        }
+
+        #infodiv
+         {
+
+
+            border: 0px rgb(89,89,89) solid;
+
+            background: rgb(234, 234, 228);
+
+        }
+    </style>
+</head>
+<body>
+    <center><h1>Data Extraction - Result</h1></center>
+    <div class="container">
+        <hr>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <dl class="dl-horizontal">
+                    <dt>File name:</dt>
+                    <dd>heidi-taft-report-1.pdf</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Provider name:</dt>
+                    <dd>AbbyyProvider</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Created On:</dt>
+                    <dd>8/12/2020 4:54:19 PM</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Extraction duration:</dt>
+                    <dd>00:00:42.5832249</dd>
+                </dl>
+            </div>
+            <div class="col-md-1"></div>
+
+        </div>
+        <hr>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Extended Attributes</h3>
+                <div id="attributes"><table class="table table-hover"><thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Value</th>
+                </tr>
+            </thead>
+            <tbody>
+<tr><td>creation date</td><td>9/14/2009 11:59:20 PM</td></tr>
+<tr><td>revision date</td><td>9/14/2009 11:59:20 PM</td></tr>
+<tr><td>Creator</td><td>KMBT_C253</td></tr>
+<tr><td>publisher</td><td>Mac OS X 10.6.1 Quartz PDFContext</td></tr>
+</tbody></table>
+</div>
+            </div>
+            <div class="col-md-1"></div>
+        </div>
+        <div class="row" >
+            <div class="col-md-1" ></div>
+            <div class="col-md-9">
+                <h3>Content</h3>
+                <!--!<div id="content">  -->
+                <textarea class="form-control" cols="150" rows="30" id="content">Heidi Louise Taft
+Multiple felony arrests, multiple felony con\/ictions.
+2007/2008
+Indictment: Cnminal Trespass. (misdenneanor) (Trespass occurred m 2007). Resolution.
+Guilty plea (2008), judgment dismissed.
+2007
+Conviction: Theft in the First Degree (Class c Felony) (Theft occurred in 2005)
+2005
+Conviction: Theft in the First Degree (felony)
+1997
+Arrest: Theft in the Third Degree (misdemeanor)
+1993
+Conviction: Failure to Appear (felony)
+Conviction: Attempted possession of controlied substance (misdemeanor), a plea down from
+possession of a controlled substance (felony)
+1990
+Arrest: Unauthorized use of a motor vehicle (felony)
+1988
+Arrest: Possession of a controlled substance (felony)
+:
+Circulator Registration
+SEL 308
+
+Tbis fn/bmtsthf  is 3 fna/rer ofpubiic rBcopdepd тзу Ьз pubiished or roproduced.
+ploomotypoorpHntÊogn 
+4. circulator irarna
+alturatrt naITta of circulatar
+tfala of bififl cpf citculf lar
+о\-'гв-ы
+M lt) I
+TAFT
+ratidanoa addraal ttraoofulrlalcff)r,atafa a ooda
+ml	PDIrrLAND те я1гог.
+msiling address str00t/tûutc,cfty sme,zipco< e
+03>я SWI	PO UArNDO E:  ~IZ0\
+ orr>a phorla	IwoltphDna	~	— I'fax
+§03")51Ь-Я ЗЯ (|оз>5|6’ зя
+arlalladdreBa
+Hava you comp oted tha Secretary of Steta'a Trainirig Ргодгагл?
+о no
+ifYBS, attBch шшпд certificBte
+Hava you been convicted of a crrmfnal offensa irtvolving fraud, forgery or identification thefi? Oyes
+	ffyes compiBtestetomentbeioy 
+
+i If YOU anarforad Yal to tha ibova quaatloo Ifat tllachaf eal, yaatfl 1 conv Ictad and convictina jorlldlc otl balllw.
+rvj
+“	.——J
+00
+ГГ1
+crz>
+
+ж
+
+i :
+-o
+
+
+
+
+
+' ГО
+4.lnltlatlva,rafefondum or lacall patitlonlaf nimrbaraon whicirinlounlleatharalanaturea:
+#13
+
+i
+c:.
+-V 
+гт
+!~n
+oo
+i
+
+l tached iethe stetement signed by all CMef petitioners of eech petition upon which I will gather eignatures.
+
+ielgllatlire exeimple
+I GL-(I~			
+eysigrfmg this docuTPBnt i hereby stBte:
+-• fhar / have mBd aod imderstBftd Oregorf iaweppiicebie ID the getherir g ofsigr}ettJres on stete mitietive, referendum
+and reced palfifona
+-f thet i ivf// 17/e an antemfed Circuietor Reptsfletion Fonn pnor to gafhartng eignetures on any mitiative, rafereruhtm or racau
+paddon not tistad aboya
+-t lhaf ad informa don providad by me on this form and in tha anached statemants, inctuding my crimirfat history and
+compiation oftrainiftg, is tnletotiw bast of my krtowiadge.
+u :LAeiL._L.O>./ 
+cllculator'asf If nature	V
+пч-l s -0Я
+dttaalsned
+for
+ofiice
+lleeotllv
+4 |аы°1
+initiair
+dateapprovad
+
+
+badga number
+chlaf patitlonar aeknovrf adginaryla
+Circulator Training Certi cate
+SEL 306
+
+This Infbrmaüon is в msner ofpubih tbcord snd msY ba pubiishsd or reproduced.
+pleBse typB or print 1ед1ыу
+ .dr lllatornami
+ÜHEIDI TAIFT .
+dête tr fning rQmpIs  d
+ 03'14'0 
+By signing this document i herebYstste:
+/ compieted die secrstBry IJf State's Circuiator Tmining on tha dsy stetad ebova
+- thatlhsve read and understBnd Oregon iawappiicabieto thegatharing of signatures on ststeinitiatiue, referendurn and
+recaii petidons
+■•*thataii information providad by ma on this form is true to the bestofmyknoydedge.
+0 03-14 0 
+0
+
+dBte dgned
+Pifprning
+Supping Ыае information on this form may resuit in conviction of a feionywith a dna of up tQ S12S,000 and/or.prison for
+qp'io f p,years. ioR's géo.TiBK
+RECEivED
+H R 14 гооа
+BlaBRADBUBV
+Qpr.RETARV OF
+I lor office use only
+Chief Petitioner Acknowiedgfelnent
+SEL309
+
+.тьшёп ктшйоп issnmttêrcfpuNhr oofd d mi  tt pubi  h dormprodilo i
+tfpm orpi§ntl%g f
+юыш|ршей|
+£ac  chhfpea érm  cImQ düe Фуфгу с14сиши оф*0/  афшиг оо гыфт 7?MI£/e v)5z>n ic 
+musthenùtinaitmt r ahfljm lôthdàÿéftmrpw chiefpà a d wlru   dtvu    l thofi n t gàt r gT 
+tui cnd ùh:i tf.AIÉOh[efpètmonem fbr8ninm0üsm,imr iàmorli pe0< mu  st1 Â>nt}:
+шк
+о
+
+IDSOn
+Шо  etlebe.Rd йалаз Ой 97338
+р т
+Kefl iDManntK
+
+’ :376tBthst NE  m0Rg7213 .
+in
+
+Ave pottlaifIdoR 97213
+
+mni
+. pnIréimrl.M <мог)а
+J 10П\
+i. |С|||||Ы 	Qf fpeéa aoliDt 
+#13
+
+it pyé ioi edgp	■
+ шпшйё 	c<y&}mlm wthpèl>Byé/ m .tBcdâu>K
+тггш
+dlt pl 
+
+
+\
+
+
+7  
+dete
+* 22Ш
+
+deleêl r d.
+T
+w
+
+f
+■r  .
+
+L'
+  ■4'
+
+f ' ?• I
+  I '
+l ',■
+fer efüoe aee oe 
+91 =11Иы' ьт
+i
+-i/\r:kr]c
+
+Chief Petitioner Acknowiedgenlent
+SEL 309
+
+This information is a matter ofpubiic record and may be published or reproduced.
+please type or pnnt legibly
+chfef petitioner acknowledgement
+Each chief petitioner must acknowledge every paid circulator gathering signatures on their behalf. The Elections Division
+must be notified not later than the 10th day after the chief petitioner(s} revoke the circulators authonzation to gather signa-
+tures on their behalf All chief petitioners for an initiative, referendum or recall petition must sign this form.
+chief p litlDner name рл/lr
+Sharon Livinaston
+Bddrees
+57356 Carter Lane. Long Creek, Oregon 97656
+chiefpecitiDnerneme рлпг
+John Thomas
+address
+246 в street. Independence. Oregon 97351
+chiefpetitionerneme prim
+address
+circcietornBme
+Heidi Taft
+circulatersddress
+1111 sw 10th Ave, Portland, OR 97202
+i inillliave, referendum er receli petitionisi numbers fpr which yeu are chief petilloner and Ihe above circulBtor wiil gather signBtures:
+Referendum Petition #301
+By signing this document, I hereby acknowfedge
+-r that  lam liable for violations of law or rule committed by the above named circulator.
+/ij /\fu.
+JUL 2 k 200D
+àJxtù.
+ntîbner'e е|ацагьге
+chll
+date signad
+JUL 14 m
+Л
+
+chief peyfiol
+InBture
+date signed
+chief petitioner's signature
+datestgned
+о
+ylfarning
+Supplying false information on th'
+up to five years. {ORS260.715}.
+iction of a felony with a fine of up to $125,000 and/or prison for
+mu Щ
+шгт
+for office use only
+
+
+
+
+
+
+;
+
+1“ •i
+♦
+, I
+
+Æ
+
+
+4V
+4>
+I
+
+i
+i,
+' r
+i
+Ы
+1
+i
+
+
+s
+i
+
+\
+I
+
+I
+1
+r
+
+/
+.I/,v
+
+I
+
+!l
+t
+Щ ■....r 
+r
+4
+
+
+i.
+
+•1
+
+f
+I
+
+
+It
+im  
+4
+I
+
+f
+
+
+Л' '
+
+.\ ]
+
+V
+
+Л
+
+A  
+I
+
+Л
+
+c-
+i
+Щк
+
+
+•щ
+  \
+\
+•L
+.«:
+:.‘l
+
+V'
+
+
+/-
+/
+I
+I
+
+y'
+I
+4
+rj
+I
+
+i
+Î
+
+
+
+■Ч
+4V
+
+г
+
+In the i. cuit Court
+For Multno
+2.0(1-
+Ы
+VJA
+■6825-1
+STATE OF OREGON
+Plaintiff,
+V.
+
+ИЕШ! LOUISE ТАРГ
+DOB: 01/28/1967
+
+"Л
+ro
+CO
+m
+
+о
+Defendant(s).
+The above-named defendant(s) are accused by tbe Grand Jury of Multnomah County, State of Oregon by this indicmient of
+crime(s) of COUNT 1,2 - THEFT IN THE FIRST DEGREE, committed as follows:	 	■
+COUNT 1
+THEFT IN THE FIRST DEGREE
+The said Defendantfs) HEIDI LOUISE TAFT, on or about July 30,2005, in the County of Multnonlah, State of Oregon, did
+unlawfully and knowingly commit theft of personal property, the property of RICK KIEFEL and SAFECO INSURANCE
+by selling said property, defendant(s) knowing that said property was the subjeci of theft, contrary to the statutes in such
+cases made and provided and against the peace and dignity of the State of Oregon,
+COUNT2
+THEFT IN THE FIRST DEGREE
+The said Defendant(s) HEIDI LOUISE TAFT, on or aboul July 23,2005, in the County of Multnomah, State of Oregon did
+unlawfully and knowingly commit theft of personal property, the property of JESSIE BANKS, by selling said property
+defendant(s) knowmg that said property was the subject of theft, contrary to the statutes in such cases made and provided and
+against the peace and dignity of the State of Oregon,
+Dated at Portland, Oregon, in the county aforesaid, on AUGUST 23,2006.
+ro
+'Witnesses
+Examined Before the Grand Jurv
+in Derson funless notedi
+Annette в Kemp
+Rick Kiefel
+Jessie Banks
+A TRUE BILL
+(шш:
+wdynthiMi  
+■Foreperson of the-6rand Jury
+IMICHAEL D. SCHRUNK (67111)
+I District Attorney
+  Multnpn  Cou , 0reg0>/ у
+|"
+ENTERED
+I
+AUG 2 3 2D06
+I
+I
+I
+IN REGISTER BY SB
+iL
+
+в
+Deputy
+7
+Security Amount	(Def - TAFT) $5,000 -I- $5,000
+AFFIRMATrvE DECLARATtoN
+pic pistnct Atlomcy hereby affinnauvely declares for the record. as lequired by ORS 161.566. upon the date scheduled for the rirst appearance of the
+INDICTMENT
+Disi: Orjginal: Court - Copies: Dercndant, Def. Attorney, DA, Data Eniry
+Stb J Огйдоп vs. Hefûl Louise 1вп, Cese No 06f	 73
+ENTERED
+MAY 1 0 2007
+
+IN REGISTER BY
+In the Circuit Court of the State of Oregon for Multnomah County
+State of Oregon,
+)
+Plaintiff,
+)
+)
+Case No,: 060834773
+)
+vs.
+)
+JUDGMENT
+)
+Heidi Louise Taft,
+)
+Case File Date: 08/23/2006
+Distnct Attomey File #: 2066825-1A
+Defendant.
+)
+DEFENDANT
+True Name: Heidi Louise Taft
+Date of Birth: 01/28/67
+Fingerprint Control No (FPN): 00000000
+AKA: 84734 Cpms
+FILED
+Sex: Female
+MAY 1 0 2007
+CIRCUIT COURT
+MULTNOMAH COUNTY OREGON
+HEARING
+Proceeding Date: 05/07/2007
+Judge: ADRIENNE NELSON
+Court Reporter: FTR
+Defendant appeared Ш person and was in custody. The court determined that the defendant was indigent for
+purposes of court-appointed counsel, and the court appointed counsel for the defendant. The defendant was
+represented by Attomey(s) Brian Schmonsees, OSB Number 05372,
+Plaintiff appeared by and through Andrew M Lavin, OSB Number 03369.
+Defendant knowmgly waived two day waiting period before sentencing.
+COUNT(S)
+It is adjudged that the defendant has been convicted on the following count(s):
+Count 1 : Theft in the First Decree
+Count number 1, Theft in the First Degree, ORS 164.055, a Class c Felony, committed on or about 07/30/2005.
+Conviction is based upon a plea of No Contest on 05/07/2007.
+Sentencing Guidelines
+The Crime Severity Classification (CSC) on Count Number 1 is 2 and the Criminal History Classification
+(CHC) is G.
+PBgü 1 ЫЗ
+OOGUme i Гуре
+
+
+This sentence is pursuant to the following special factors:
+•	This is a presumptive sentence.
+Probation
+Defendant is sentenced to Supervised Probation for a period of 18 nlonth(s) and shall be subject to the following
+conditions of probation:
+Defendant is subject to all general conditions of probation (ORS 137.540).
+Furthermore, defendant is subject to the following Special Conditions of Probation (ORS 137.540(2)):
+Defendant shall:
+•	Be assigned to Judge Adrienne c. Nelson for judicial supervision of probation.
+•	Perform 10 sanction unit(s) of coinmunity service.
+•	Have no direct or indirect contact with the victim, Rick Kiefel, Jessica Banks, the victim's residence, or
+the victim's place of employment unless so authorized in writmg by the victim's therapist, if any,
+defendant's treatment provider and probation officer or the Court.
+•	Submit blood or buccal sample and thumbprint pursuant to ORS 137.076.
+Jail as a Condition of Probation
+Be confmed to the jail for 10 day(s). Defendant may receive credit for time served. The defendant may be
+considered by the supervisory authority for any form of altemative sanction authorized by ORS 423.478, and
+defendant shall pay any required per diem fees.
+Monetary Terms
+Defendant shall be required to pay the followmg amounts on this count:
+Fees and Assessnients: Payable to the Court.
+Type
+Amount
+Modiner
+Reduction
+Actuel Owed
+Unrtary AssessmenI
+ loT.OQ
+Waived
+$107.00
+Total
+$107.00
+$107.00
+Court appointed attomey fees waived.
+Compensatory Fine/Restitution:
+Restitution is ordered to be paid to the court and disbursed to the payee(s) named below.
+Not To Exceed
+Payee
+Amount
+Rick Kisfel
+Sareco Insurance
+N
+$250.00
+$5,779.63
+N
+Total
+$6,029.83
+COUNTS DISPOSED WITH NO CONVICTION
+All remaining counts are dismissed for the following reason: per plea 8L motion.
+MONEY AWARD INCLUDING RESTITUTION
+Judgment Creditor: State of Oregon
+Judgment Debtor: Heidi Louise Taft
+Restitution
+Document Type. Judgment
+/
+Payee
+Amount
+Rrck Kisfel
+Safeeo Insurance
+$250.00
+$5,779.83
+Payees are to be paid as ordered under Monetary T
+erms.
+
+Type
+Actual Owed
+Reslllullon
+$6,029.83
+Total
+$6,029.83
+Молеу Award total doea not include rednced amounta of SI07.00 aa atated in the individnal connta.
+aaaeaamenta mâÿ be rd ',1!]шог ег nolt 10‘'шт*ег«с"пг*йь1°  т<гп
+tudgntent doounoent, even if the antolt ia refe”e‘d 	“Cerd:”0r r	“■=
+j  ênTîien.°'’“®““™ “’	“f “	whioh ia included in the M
+oney Award, creates a
+Payment Schedule
+А™а[1 ь: made	■”
+this and any subsequent Money
+Minimum paymenta are to be acheduled by the probation ошеег purauant to ORS 161.675.
+Payable to:
+Multnomah County Circuit Court
+p.o. Boj 114
+Portland, OR 97207
+Dated the 10' 
+,20 0 1
+day of
+ж
+(J/ПУК  /
+Signed:
+ADRIENNE NELSON
+E7
+Page3cf3
+Ооситаш Тура. Juifgmcn(
+J.J>I лт
+xi cuxT ииикт UX' ТНЕ STATE
+'' OREGON
+
+FOR MDLTNOMAH СОШГГУ
+Multnomah County Courthouse
+1021 sw Fourth Avenue, Portland Oregon
+ORIGINATING AGENCY: Portland PD
+97204
+NUMBER:	0564921
+) Case # 060834773/2066В25-1А
+STATE OF OREGON,
+Plaintiff, )
+)
+) BENCH WARRANT
+) (PROBATION VIOLATION)
+vs.
+HEIDI LOUISE TAFT
+DOB:	1/28/67
+AKA: CPMS 84734
+ADDRESS :
+668 MCVEY AVE #102
+LAKE OSWEGO OR 97034
+)
+Defendant
+)
+CHARGES
+NUMBER OF COUNTi
+Theft-1
+X ]
+SEX:F RACE:Caucasian HAIR:
+state ID:
+. ODL:	
+FBI Number:
+EYES:
+HT:5Q6 WTIllo
+IN THE NAME OF THE STATE OF OREGON
+TO ANY PEACE OFFICER OF THIS STATE, GREFTTMn-
+It appearing to the court that the above-named defendant was convicted
+of the above-mentioned charges and was placed on probation to:
+ORDERED the defendant's release is hereby revolced and the entire
+security amount, if any, is hereby forfeited.
+It is
+
+FURTHER ORDERED a warrant be issued for the arrest of
+defendant, and, upon apprehension, be brought before this court
+JAN 1 2008
+IN THE NAME OF THE STATE OF OREGON
+TO ANY PEACE OFFICER OF THIS STATE, GREETINGS :
+Circuil Courts
+Multnomah County, Ortgon
+YOU ARE COMMANDED to arrest the above-named defendant, forthwith,
+and present the defendant before this court to answer this Order;
+or, if this court is absent or unable to act, before the nearest or
+most accessible magistrate in the same county; or, if the court has
+adjourned, to deliver the defendant into the custody of the Jailor of
+Multnomah County, Oregon.
+It is FURTHER ORDERED security is set in the amount of:
+Motion; Security Denied
+Security
+T.' .r:11rd•	1П/10/07
+CPSST
+$
+CLERK OF THE cblJHF
+DATE
+RCVD: 1 C) 1 n Q 7
+DT:
+OF c.: DPST:
+ADRIENNE NELSON
+Jl  e
+  “
+ENITERED
+знитт1Е|8ЕЯ\/ЮЕгоо8
+1 INREGisTEF BVJEMV j
+
+I
+r:f
+r
+/f'i’TO
+o. .
+II
+DFSST:
+c\v:.u
+I
+c ГОТ: 		
+AUTHOR.'zriD:
+
+YES
+
+IN THE CIRCUIT AND DISTRICT COURT OF THE STATE
+FOR MULTNOMAH COUNTY
+OF OREGON
+STATE OF OREGON,
+)
+CASE #060834773/01
+DA #
+)
+)
+V.
+)
+MOTION, AFFIDAVIT AND ORDER
+FOR JUDICIAL SUPERVISION
+PROBATION VIOIlATION WARRANT
+TAFT, Heidi Louise
+)
+Def endaLnt
+MOTION AND AFFIDAVIT
+I, the undersigned, being first duly swom, do depose and say:
+a duly employed Parole and Probation Officer
+1.
+I am
+of the Clacicamas County
+Department of community Corrections and in that capacity I have been assigned
+to supervise the above defendant's probation.
+That the Probation Judge Assigned to this case is Judge Nelson.
+That the attached report (incorporated by reference in this
+the defendant has violated conditions
+2.
+3.
+affidavit) alleges
+either as set by ORS
+137.540 or as imposed by the court, and I make this affidavit in support of a
+motion requesting the Court for an order directing:
+of probation.
+The issuance of
+arrest of the defendant,
+probation should not be revoked.
+a Judicial Supervision Probation violation
+Warrant for the
+to show cause why
+to •be brought before the Court
+„ OFHCIAL SEAL
+
+Parole and Probation Officer for Clackamas
+County
+
+SIGNED AND A'
+
+ore me thi
+n .
+.day of
+A''h{
+, 20
+'(i.
+
+
+и
+'Approved by>s1 ervi   (Sign in Blue Ink)
+Notary Public for O gon
+IT IS HEREBY ORDERED,
+Officer, that the Clerk of the Court be.
+Supervision Probation violation Warrant for the
+to be brought before the Court to show
+based on the Tnotion and affidavit of
+the above Parole/Probation
+directed to issue a Judicial
+apprehension of the above-named defendant
+cause why probation should not be revoked.
+and hereby is,
+SECURITY :
+Security
+[] Is Set At $
+Is
+d; Defendant
+To Be Held without
+ьл -Q 7
+/}
+Mfro kJJLy 
+/I
+Date signed
+obation Judg
+ADMINISTRATIVE INFORMATION (Check One) :
+[] Unlimited [] Shuttle
+[] Oregon
+03-50	(2/95)
+WARRANT)
+Distribution By Judge's staff:
+Original - Court
+Copies - MCSO warrants (copy should be attached to original
+Officer, Probation Judge
+MOTION, AFFIDAVIT AND ORDER
+(JUDICIAL SUPERVISION PROBATION
+VIOliATION
+warrant), DA, Probation
+Circulator Registration
+SEL 308
+
+This inforTTtstion is s msnsr ofpuhh'c rscord spdmBy be pubushed or reproduced.
+pioame type orpHnt iegibiy
+idlolulor [|апш
+a aum d nama drcLJJetor
+data ot birth af drculdor
+o?-78-e7
+MEID (
+TAFT
+raaldancbaddraaa rtfD t/h}tit6.CHy,stât zipI:oite
+mi Sl4	R3RTUAND a lc 91гог.
+mailintt addraBS atrad/rxxrfdc/t atata.d cdde
+о я svv:	PORTLAtNDQ I   ~IZ0\
+ дглврьапа	 	 	  7  '3>7
+i3x
+aniall addraaB
+HavB ybu completed the Secretery of Stete'e Trallting Progrem?
+ t es о no
+if yes, a:tech tfeming certihcete
+HevB you been convicted of в cnminel offenee involving freud, forgery or identification theft? о yes
+	ifyes,compietesteterT}entbeioty
+i ir Vdu a ааввагее yaa to tha ibovo qu aatloh iiat tha chareaa, yaarta I aonvietad arldcoovictine iur
+ro
+CO
+|з;.
+.о
+
+-о
+:XJ
+n-J
+
+i Inltlatly y raferendum or recoll potilionisf numbefe on a lcfl ycnr vrill gather aignaturoa:
+ГО
+cr.:- 
+—ГП
+#13
+rn
+I Ï
+
+'if tached Istheatetelnentsigned by all chief petitioners of each petition upon yyhich I will gather signatures.
+isignetlire шжешр|е
+(bio.   CL-(X~
+Bysigr m d isdocuroent ibefebystete:
+-rthet iheve read end underetend Огедол iayi/appiicabie ro the getherirtg ofsigr anjfes or} stete mitietive, referer}dum
+and recau petftfons
+-rthet / yyiii Ш Bn amendedCirouiator Bagistration Fonn prior to gathenng aignatures on any initiav'va, ra randum or recail
+patition nrd iisted above
+-a that aif information providad by me on this form and in the attached statemefrts, inciuding my crimmai history and
+compietion oftreinirtg, is true to the best of my knoyviedge.
+Œ-
+I a
+•~оя
+data alqnad
+CIrulrlator'B aignatdra
+forj   uee onty
+
+initiala
+data approx
+
+
+badgs niimbor
+ehi«f pstllicnorsckr
+Its
+Circulator Training Certificate
+SEL 306
+
+Thh Informattan is a matter ofpubiic rèconi and ntay be pubiish ed or reproduced.
+pieasa type or print legibiy
+idrc atDrnBln 
+AHEID\ TAFr
+datË training compiated
+*0B'i.4~0 
+Bysignmg this document, i hereby stBte:
+■ that i compietedthe Secretbryafstete's Circuiator Training on the day stated above
+■ thatihave read and understand Oregon iawappiicableto the gathering of signatures on state initiBti\m, referendum and
+recaii petitions
+■ that aii information provided by fn  on this form is true to the best of my knowiedge.
+prculatDr's signanJrG "	V
+0 03-14-0 
+0
+/ .J
+dBta Bighad
+vaarning
+ 	Supplying faise informapon cn this form may resuit in conviction of a feiony \nrith a fine of up to $125,000 and/or.prison for
+up io fh/.e.years. 10ЙЗ260.715):
+RECEIVED
+m 14
+BILL BRADBURY
+I QFnRETARV QF
+lor ofüce uso only
+Chief Petitioner Acknowiedgement
+SEL309
+
+. ТШ InfQrmntion	Tn n rofpubuc r consMnd mifybc pubiish d or:ppfodaaod.
+p smm typm orprhÊtêega 
+ohl f pacitkiner  oknowledosfllallt	 	
+Epch Chhfpeifdanürrmmyçkncyld0dgc e) rypà  cuçul3torg ààdg'b btiIfbs onthüirbéfw  Ihp Bb ons DM 
+mu ben 'BddnùtiBterdmnp}01ôthdèiydt rthàchwfpé1îdôner e)rü)  0i n üp l ütpm3b€n1ogàdmr îgn -
+tumÊcn thehtkd B .AUCblef pètitklnal fbran	ipléfwndüm ormcsu рвфы mudtBiglr fbrm.
+Ф
+
+Jamas L. ThomDson
+
+  stlatoe Rd Danss dR 97338
+CMtlpmiuonfrJl  prrm	■
+e
+Xmrin Mannbl
+
+-  amalhstNE Salem OR 07213 .
+Ф
+
+pm
+Glann Репкап
+
+2836 NE 54lh Ave f4)tltand OR 07213
+xircuj
+Èm
+и} lù hve. p diûnj.f)f 
+i.	nifDl nalIn rioaiu sk>ntt>  unlb0râo1:-¥ïtllc 	diiiff p dtiDnl   'nd
+#13
+
+[)гми аф*г1 д |ймгт1:
+dy Mipn 	pbçimmfli IfierBby.dcknali/pedpB
+ фвггтфЁ вгог ютот и  ты cop>irktddp/  apdyédBftwddrcu)ém
+ 2 2Ш
+Iner'J
+dttolhined
+—4
+\
+APR ü 2 2009
+' PR 2 2 2009
+■a
+
+
+dtt llig
+
+ddtoilpllgd
+<
+w
+/
+
+
+y.
+#t
+
+
+
+=
+
+
+
+:V
+’1
+vi
+
+-'Л
+
+u
+4
+■.
+r
+■:Г"
+■ -,
+
+лк
+и:.,.
+
+:*■
+.'T
+
+r
+
+*<
+
+
+
+]■ J ■fT TÎ .I
+far affica use onif
+91'JiHy ггш5ш
+
+
+
+i.
+Chief Petitioner Acknowiedgement
+SEL 309
+rtv11/07roRS25c.(MB
+This mformation is a matter ofpubiic record ar\d may be published or reproduced.
+please type or print legibly
+chif>f petitioner acknowledgement	 	'	'
+Eech chief petithner must ackn owiedge every paid circule tor gath ering signatures on th eir behelf. The Elections Division
+must be notified not iater than the loth day after the chief petitioner(s) revoke the circulators authorization to gather signa-
+tureson theirbehaif. Ail chief petitioners for an initiative, referendum or recall petition mustsign this form.
+
+chi f p tjlioner name pnn 
+sharDn uvinQston
+address
+57356 Carter Lane, Long Сгвак. Огедоп 97656
+chief petittoner пэте prmt
+JQIIn Thomas
+addrasa
+246 в street. Independence. Oæqon 97351
+chiefpelilionernBme pnnt
+eddreBS
+circulalorneme
+Heidt Taft
+circuialoraddreaa
+1111 swioth Ave. Portland, OR 97202
+4, in tlliava. rafarandum arracarl pathion(a  nambers far whkh vou ara chfaf pelbiorar and tha abava ciraafator will gathar signaturaa:
+Referendum Petition #301
+By signing this document i hereby acknowiedge
+vioiations of law or rule committed by the above named circulator.
+JUL 2 4 2009
+â /~f Ал
+I
+cht 
+Ttibnar s aiaaalbra
+dala aignad
+JUL i 4 m
+A
+I
+ahlef pe idi
+пашга
+dacaaignad
+ahiaf pallllonar'a aignatara
+datealgned
+о
+tNarnIng
+Supplying false information on M
+up to five years. (ORS 260.715).
+•ictlon of a felony with a fine of up to $125,000 and/or prison for
+m
+
+WM
+for office llse onlv
+тл-
+
+4
+I
+'■JJ,
+
+'26/09	1;33 PM
+Status Closed
+Case Register	 Multnomah Circuit Court
+071052497 Oregon State Of/Taft Hej.di Louise
+	Offense Misdemeanor " Crimlnal TIespass-1 “ A/MIS
+case#
+Case Filed Date	
+Case started Date...
+1st Appearance Date.
+Ready for Trial	
+First Setting Date..
+Trial Scheduled Date
+Trial start Date....
+Length of Trial	
+Disposition Date....
+Final Order Date...,
+Reinstated Date	
+9/24/07
+1/14/oe
+1/14/08
+starting Instrument..
+Originating From	
+Originating Agency...
+Originating Agency#..
+Previous Court	
+Previous Court Case#.
+Previous Decision....
+Master Case Number...
+Relation to Master...
+Termination stage,...
+Termination Type	
+Accusatory Instrument
+Original filing
+Union Pacific Railroad
+0786253
+2/08/08
+2/08/08
+Citation in Lieu#..
+District Attorney..
+Booking#	
+RR01914
+2123432-1
+Judgn.. nt Type	
+Judgment Status	
+Judgment Volume/Page.
+_ ROI.E		
+1 Plaintiff Oregon state Of
+PI.AINTIFF
+AT TORNE Y	
+MultnoElah District Attomey
+_ ROLE	
+1 Defendant
+Also Knwn	
+Sex	
+Drivers License
+Phone#	
+Control#	
+Address	
+DEFENDANT
+Taft Heidi Louise
+Cpms 84734
+Female
+4301216
+(503) 635-3133
+00000000
+686 MCVEY AVE APT #102
+LAKE OWSEGO
+Birth Dt..
+Birth Dt..
+Hght/Wght. 506 105
+Hair	 Brown
+Eyes
+Race
+1/28/67
+OR
+Blue
+Caucasian
+OR 97034
+CHARGING INSTRUMENT
+Infonllation
+Status	
+10/11/07
+Date
+Date
+Count	
+1 ORS 164255
+ORS Modifier.
+Status	
+Incident Date
+Date Charged/Issued.
+Current Plea	
+Disposition	
+1
+Criminal Trespass-1
+	 Reduced Court Elect
+	 Judgment Dismissal Criminal
+		9/18/07
+A/VI-
+Date....
+2/08/08
+Citation#. RR01914
+2/01/08 Plea Entry of Guilty Security..
+2/08/0B Judgment Dismissal Cr Plate#....
+_ ROLE	
+1 Reporter FTR
+OTHER PEOPLE
+ATTORNEY
+_ ENTER DT FILE DT EVENT/FILING/PROCEEDING
+1	9/28/07	9/24/07	Accusatory Instrument
+10/11/07 RP
+2	9/28/07	9/28/07	Arraignment Scheduled
+10/18/07 Failed to Appear
+3	10/11/07 10/11/07 Information
+SCHD DT TIME
+ROOM
+10/18/07	1:30 PM CMSE
+PAGE
+1
+_ EKTER DT FILE DT EVENT/FILING/PROCEEDING	
+4	lo/lB/07 10/18/07 ArraignmeTIt
+BW 123 
+RPT	1	FTR
+DAT	1	ly ultnomah District Atto
+JUD	1	EVANS	STEVEN	R.
+Failed to Appear
+5	10/19/07 10/18/07 Request for FTA Warrant
+FTA 0 COMM COURT
+JUD	1	EVANS	STEVEN	R.
+Related event #	2
+Related event #	6
+6	10/19/07 10/19/07 Warrant Failure to  pear
+DEF 1 Taft Heidi Louise
+SCHD DT TIME
+ROOM
+CMSE
+10/18/07 Signed
+1 EVANS STEVEN R.
+7	1/14/08	1/14/08 Arraignment Scheduled
+8	1/14/08	1/14/08 Return Service Bench Warrant
+1/13/08 Served
+JUD
+1/14/08 10:30 AM JC3Y
+Related event #
+9	1/14/08	1/14/08 Order l pointing Counsel
+СТА 2 Lopez Angel
+6
+1/14/08 Signed
+JUD 2 COLAS LEON s
+10	1/14/08	1/14/08 Arraignment
+JC3Y
+1 Taft Heidi Louise
+1	FTR
+2	COLAS LEON s
+11	1/14/08 1/14/08 Count Arraigned
+Charge #
+12	1/14/08	1/14/08 Plea EntrY of Not Guilty
+Charge #
+13	1/14/08	1/14/08 Removed Inactive Status
+14	1/14/08	1/14/08 Hearing Early Resol Scheduled
+15	1/14/08 1/14/08 Order to T pear
+TRACK w/060834773
+DEF
+RPT
+JUD
+1
+1
+1/23/08	8:45 AM JC2Y
+1/14/08 Signed
+2 COLAS LEON s
+Related event #
+16	1/18/08	1/18/08 Notice of Representation
+filed in 060834773
+JUD
+14
+СТА .3 Barnett Russell Sterlin
+17	1/23/08	1/23/08	Hearing Early Resolution
+DEF 1 Taft Heidi Louise
+RPT 1 FTR
+СТА 3 Barnett Russell sterlin
+JUD 3 WEISBERG LAWRENCE R.
+18	1/23/08	1/23/08 Hearing Early Resol Scheduled 2/01/08	1:30 PM CMSE
+19	1/23/08	1/23/08 Order to 7 >pear
+1/23/08 Signed
+JC2Y
+JUD 3 WEISBERG LAWRENCE R.
+Related event #	18
+20	1/28/08	1/23/08 Notice of Representation
+СТА 4 Daly Katherine
+21	1/28/08	1/28/08 Agreement Recog Release
+ROR THIS CASE ONLY
+Related event #	18
+22	2/01/08	2/01/08 Hearing Early Resolution
+DEF 1 Taft Heidi Louise
+CMSE
+2
+PAGE
+ENTER DT
+FILE DT EVENT/FILING/PROCEEDING	
+1 FTR
+1 Multnomah Distrzct Atto
+4 HANNON TERRy G.
+2/01/08	Ent.ry of Guil'ty
+Charge #
+2/01/00 Finding of Guil'ty
+Charge #
+2/01/08 Hearing Status cheG Scheduled
+2/01/08 Order
+SCHD DT ТШЕ
+ROOM
+RPT
+DAT
+JUD
+23	2/01/08
+1
+24	2/01/08
+1
+25	2/01/08
+26	2/01/08
+2/08/08 10:00 AM CM 
+8 hrs acs; dismiss or fine.
+2/01/OB Signed
+4 HANNON TERRY G.
+Related event #
+2/07/08 Notice Compliance
+2/08/08 Hearing Status Check
+1 Taft Heidi Louise
+1 FTR
+1 Multnomah District Atto
+1 EVANS STEVEN R.
+2/08/08 Judgment Dismissal Criminal
+Charge #
+2/08/08 Closed
+4/23/09 Miscellaneous
+JÜD
+25
+27	2/07/08
+28	2/08/08
+CMWT
+DEF
+RPT
+DAT
+JÜD
+29	2/08/08
+1
+30	2/08/08
+31	4/23/09
+SID 07509955
+y DSSJ
+provided b
+
+END OF DATA
+PAGE
+3
+26/09	1:33 PM
+Closed
+Case Register
+Case#
+Multnomah Circuit Court
+060834773 Oregon State Of/Taft Heidi Louise
+	Offense Felonv - Theft-1
+C/FEL
+Case Filed Date
+Case started Date... 10/30/06
+1st Appearance Date. 10/30/06
+Ready for Trial	
+First Setting Date.. 12/19/06
+Trial Scheduled Date
+Trial Start Date. .. .
+Length of Trial	
+Disposition Date...,
+Final Order Date. . . .
+Reinstated Date	
+8/23/06
+starting Instrulnent. . Indictment
+Originating From	 Original filing
+Originating Agency... Portland Police Depart
+Originating Agency#.. 0564921
+Previous Court	
+Previous Court Case#.
+Previous Decision....
+Master Case Number...
+Relation to Master...
+Termination stage....
+Termination Type	
+5/07/07
+6/25/07
+Citation in Lieu#...
+Judgment Type..
+District Attorney... 2066B25-1A Judgment Status
+Booking#
+Creates Judgment Lien
+Unsatisfied
+Judgment Volume/Page.
+RoliE
+	 PLAINTIFF	
+1 Plaintiff Oregon state Of
+ATTORNEY	
+Davidson Brian
+_ ROLE	
+1 Defendant
+Also Knwn
+Sex	
+Drivers License	
+Phone#	
+Control#	
+Address	
+DEFENDANT
+Taft Heidi Louise
+Cpms 84734
+Female
+Birth Dt.. 1/28/67
+Birth Dt..
+Hght/Wght. 506 110
+Hair
+Eyes
+Race
+(503) 568-6526
+00000000
+036 sw PORTER
+PORTLAND
+Caucasian
+OR 97201
+Barnett Russell sterling
+5 Crt Appntd
+Bar#
+96038
+CHARGING INSTRUMENT
+Indictment
+Status	
+Date	 8/23/06
+Date	
+Count	
+1 ORS 164055
+Status	
+Incident Date
+Date Charged/Issued.
+Current Plea	
+Disposition	
+1
+Theft-1
+C/FEL
+. Convicted
+.	7/30/05
+Date
+5/07/07
+Citation#.
+5/07/07 Plea Entry No Contest Security..
+5/07/07 Convicted
+Plate# . . . .
+2 Sentence
+Status	
+Guidelines....
+Special Factor
+Jail	
+Restitution...
+Payee
+Restitution...
+Payee
+Unitary Assessment..
+Date	 5/07/07
+Date		
+. Severity 2
+History G
+137.010 Presumptive Sntc
+10.00 day(s)
+$250.00
+Kiefel Rick
+Victim
+$5,779.83
+Safeco Insurance
+Victim
+$107.00 Naived
+PAGE
+1
+Probation to Communi
+18,00 month(s)
+$50.00
+Attorney Fees	
+Credit for Time Served
+Probation Cond
+. Ail General Conditions Apply
+Special Condition... 02 Judicial Supervision
+03 Community Service
+11 No Contact w/victim
+pv Probation Continued
+10 Sanction Unit [s)
+PV Probation Extended
+PV Jail W/Credit Time Srv
+PV Orig Cond Continued
+DNA Blood Draw
+5/30/12
+11 Day(s)
+Count	
+2 ORS 164055
+Status	
+Incident Date
+Date Charged/Issued.
+Current Plea....
+Disposition	
+2
+Theft-1
+C/FEL
+Dismissed
+7/23/05
+Date.. . .
+5/07/07
+Citation#.
+.... 10/30/06 Plea Entry Not Guilty Security..
+....	5/07/07 Dismissed
+Plate#....
+_ ROLE	
+1	Reporter
+2	Bailiff
+3	Victim
+4	Victim
+5	Victim
+6	Victim
+7	Depositor Hendon p J
+OTHER PEOPLE	
+FTR
+Transport Participant
+Kiefel Rick
+Safeco Insurance
+Kiefel Rick
+ATTORNEY
+Saefco Insurance
+_ ENTER DT FILE DT EVENT/FILING/PROCEEDING
+1	8/23/06	B/23/06	Indictment
+2	8/23/06	8/23/06	Warrant Arrest
+SHUTTLE
+SCHD DT TIME
+ROOM
+DEF 1 Taft Heidi Louise
+8/23/06 Signed
+1 CINNIGER RONALD E.
+3	10/31/06 10/31/06 Hearing Case Management
+4	10/30/06 10/30/06 Arraignment Scheduled
+5	10/30/06 10/30/06 Retum Service Arrest Warrant
+10/27/06 Served
+JUD
+UNTA
+10/30/06 10:30 AM JC3N
+Related event #
+6	10/30/06 10/30/06 Motion Recognizance Release
+7	10/30/06 10/30/06 Agreement Supervised Pretrial R
+Report to PSP room 358 on
+10/30/06 at 10:00
+Follow directives of case
+manager. Participate in
+drug and alcohol testing.
+Related event #
+8	10/30/06 10/30/06 J plication
+9	10/30/06 10/30/06 Affidavit of Indigency
+10 10/30/06 10/30/06 Order Appointing Counsel
+2 Schmonsees Brian
+2
+am.
+4
+СТА
+10/30/06 Signed
+JUD 2 COLAS LEON s
+11 10/30/06 10/30/06 Arraignment
+JC3N
+DEF 1 Taft Heidi Louise
+PAGE
+2
+ENTER DT FILE DT EVENT/FILING/PROCEEDING
+1	FTR
+2	■COLAS LEON s
+12	10/30/06 10/30/06 Count Ax-raigned
+Charge #
+Charge #
+13	10/30/06 10/30/06 Plea Entry of Not Guilty
+Charge #
+Charge #
+14	10/30/06 10/30/06 Call Scheduled
+IND B.23.06 ARR 10.30.06
+SCHD DT TIME
+ROOM
+RPT
+JUD
+1
+2
+1
+2
+12/1B/06	1:30 PM DRUG
+2/02/07 Set-Over Def
+15	10/30/06 10/30/06 Trial Scheduled
+3/01/07 Cancelled
+16	10/30/06 10/30/06 Remcved Inactive Status
+17	10/30/06 10/30/06 Order to  pear
+10/30/06 Signed
+12/19/06	8:55 AM 208N
+2	COLAS LEON s
+Related event #
+Related event #
+18	12/19/06 12/19/06 Hearing Further Pro Scheduled
+WARRANT LIFT/ NEW DATES
+12/20/06 Set-Over Ptf
+19	12/19/06 12/10/06 Request for FTA Warrant
+3	BERGMAN LINDA L.
+Related event #
+20	12/20/06 12/20/06 Warrant Recall
+JUD
+и
+15
+12/20/06	1:35 PM DRUG
+JUD
+1' 
+JUD 3 BERGMAN LINDA L.
+21 12/21/06 12/21/06 other
+warrant rescinded, not sent
+to jail records
+22	2/02/07	2/02/07 Call Scheduled
+IND 8.23.06 ARR 10.30.06
+3/01/07 Set-Over Def
+23	2/14/07	2/14/07 Request for FTA Warrant
+4 MC SHANE MICHAEL J.
+Related event #
+Related event #
+24	2/20/07	2/20/07 Warrant Failure to Appear
+1 Taft Heidi Lcuise
+2/14/07	1:30 PM DRUG
+JUD
+22
+24
+DEF
+2/15/07 Signed
+4 MC SHANE MICHAEL J.
+25	2/28/07	2/28/07 Hearing New Dates Scheduled
+FTA (3 CALL 2/14/07
+26	2/28/07	2/28/07 Motion Recognizance Release
+27	2/28/07	2/28/07 Return Service Bench Warrant
+2/27/07 Served
+JUD
+2/28/07 10:30 AM исзу
+Related event #	24
+28	2/28/07	2/28/07 Hearing New Dates
+JC3y
+COA
+1 Taft Heidi Louise
+1 FTR
+5 Roberts Leslie M
+29	2/28/07	2/28/07	Removed Inactive	Status
+30	2/28/07	2/28/07	Call Scheduled
+ind 8.23.06 arr 10.30.06
+hgnd 2.20.07
+3/14/07 Set-Over Def
+31	2/28/07	2/28/07	Trial Scheduled
+DEF
+RPT
+JUD
+3/14/07	1:30 PM DRUG
+3/15/07	8:55 AM 208Y
+3
+PAGE
+	 ENTKR DT FrLE DT EVENT/FILING/PROCEEDING	
+5/08/07 Cancelled
+32	2/28/07	2/2 /01 Order to Appear
+ROR; RPT TO PSP BY 4PM TODAY.
+SCHD DT TIME
+ROOM
+2/28/07 Signed
+JUD 5 Roberts Leslie M
+Related event	#	30
+Related event	#	31
+33	3/01/07	3/01/07 Agreement Supervised Pretrial R
+Report PSP 02/28/07 4;00 pm
+See rel order	for	conditions
+Related event	#	30
+34	3/15/07	3/15/07 Call Scheduled
+ind 8.23.06 arr 10.30.06
+hgnd 2.28.07
+to trial
+5/07/07 Set-Over Def
+35	3/19/07	3/19/07 Trial Scheduled
+Est length of time 8 Hour(s)
+5/08/07 Cancelled
+36	3/19/07	3/19/07	Hearing	Plea/Sentence
+RPT	1	PTR
+СТА	2	Schmonsees Brian
+DAT	3	Lavin Andrew M
+JUD	6	BERGSTROM ERIC	J
+Failed to Appear
+37	3/26/07	3/19/07 Order for FTA Warrant
+JOD	6	BERGSTROM ERIC	J
+Related event #	35
+Related event #	38
+30	3/26/07	3/26/07 Warrant Failure to Appear
+DEF 1 Taft Heidi Louise
+3/16/07	1:30 PM DRUG
+3/19/07 10:30 AM TEB
+TEB
+3/19/07 Signed
+6 BERGSTROM ERIC J
+39	5/03/07	5/03/07 Hearing New Dates Scheduled
+FTA (3 TRIAL 3/19/07
+40	5/03/07	5/03/07 Return Service Bench Warrant
+5/02/07 Served
+JUD
+5/03/07 10:30 ш JC3Y
+Related event #
+41	5/03/07	5/03/07 Motion Recognizance Release
+42	5/03/07	5/03/07 Hearing New Dates
+38
+JC3Y
+COA
+1 Taft Heidi Louise
+1 FTR
+7 TODD STEVEN A.
+43	5/03/07 5/03/07 Removed Inactive Status
+44	5/03/07 5/03/07 Trial Scheduled
+5/08/07 Cancelled
+45	5/03/07	5/03/07 Order to Тфреаг
+5/03/07 Signed
+DEF
+RPT
+JUD
+5/21/07	8:55 AM 208Y
+JUD 7 TODD STEVEN A.
+Related event #	44
+46	5/03/07	5/03/07 Hearing Plea Scheduled
+D/C 5.18.07
+TRANSPORT REQUESTED
+47	5/07/07	5/07/07 Call Scheduled
+ind 8.23.06 arr 10.30.06
+5/07/07	1:30 PM TAN
+5/18/07	1:30 PM DRUG
+hgnd 5.3.07
+5/08/07 Cancelled: Guilty Plea
+PAGE
+4
+пы: DT EVDNT/FILING/PROCEEDING	
+5/07/07 Hearing Plea/Sentenoe
+1 Taft Heidi Louise
+1	FTR
+2	Transport Participant
+2	Schmonsees Brian
+3	Lavin Andrew M
+8 NELSON ADRIENNE
+5/07/07 Plea Епргу of GuiltY
+Charge #
+5/07/07 Finding of Guilty
+Charge #
+5/07/07 Dismissed
+Charge #
+5/07/07 Plea Entry of No Contest
+Charge #
+5/07/07 Convicted
+Charge #
+5/09/07 Petition No Contest Plea
+5/09/07 Case Notes
+Victim inforination
+	 ENTER DT
+48	5/07/07
+SCHD DT TIME
+ROOM
+TAN
+DE F
+RPT
+BAL
+СТА
+DAT
+PBJ
+49	5/07/07
+1
+50	5/07/07
+1
+51	5/07/07
+2
+52	5/07/07
+1
+53	5/07/07
+I
+54	5/09/07
+55	5/09/07
+5/07/07 Signed
+8 NELSON ADRIENNE
+5/09/07 Disposition Interim
+Grid 2G.10US csw.lod Jail with
+CTS,936 £, Alps.Waive fines/fee
+REST $6029.83.NCVI,Rick Kiefel
+or Jessie Banks.DNAT.
+PBJ
+56	5/09/07
+5/07/07 signed
+PBJ	8 NELSON ADRIENNE
+57	5/09/07	5/09/07	Notice Advise	J peal Rights
+58	5/10/07	5/10/07	Sentence
+Charge#
+59	5/10/07	5/10/07 Creates Judgment Lien
+Judgment #
+60	5/10/07	5/10/07 Uniform Criminal Judgment
+PBJ	8 NELSON ADRIENNE
+61	6/19/07	6/19/07 Judgment Payment Sched Asmt
+Judgment #
+62	6/25/07	6/25/07	Closed
+63	6/26/07	6/26/07	Disposition	Printed
+DEF 1 Taft Heidi Louise
+64	10/10/07 10/10/07 Probation Viol Filing
+65	10/10/07 10/10/07 Affidavit
+1/snt#
+1
+3
+2
+In support of warrant for
+probation violation
+66 10/10/07 10/10/07 Order for PV Warrant
+Motion; Security Denied
+10/08/07 Signed
+8 NELSON ADRIENNE
+Related event #
+67	10/10/07 10/10/07 Warrant Probation Violation
+1 Taft Heidi Louise
+8 NELSON ADRIENNE
+68	1/14/08	1/14/08 Arraignment Probati Soheduled
+NELSON
+69	1/14/08	1/14/08 Retum Service Bench Warrant
+1/13/08 Served
+PBJ
+67
+DEF
+PBJ
+1/14/08 10:30 AM JC3Y
+Related event #	67
+PAGE
+5
+	 ENTER DT FILE DT EVENT/FILING/PROCEEDING_
+70	1/14/08	1/14/08 Order Appointing Counsel
+4 Lopez Angel
+SCHD DT TIME
+ROOM
+СТА
+1/14/08 Signed
+2 COLAS LEON s
+71	1/14/08	1/14/00 Arraignment Probation Vio
+1 Taft Heidi Louise
+1	FTR
+2	COLAS LEON s
+72	1/14/08	1/14/08 Hearing Probation V Scheduled
+Nelson
+73	1/18/08	1/18/08 Notice of Representation
+5 Barnett Russell Sterlin
+74	1/23/08	1/23/08 Hearing Probation Violation
+POIRUSS lyjartin, Prob Cont/Ext.
+1 Taft Heidi Louise
+1 FTR
+5	Barnett Russell sterlin
+6	Davidson Brian
+JÜD
+JC3Y
+DE F
+RPT
+JUD
+1/23/08	8:45 AM JC2Y
+СТА
+JC2Y
+DEF
+RPT
+СТА
+DAT
+JUD 9 WEISBERG LAWRENCE R.
+75	1/27/08	1/24/08 Sentence
+Charge#
+1/27/08	1/24/08 Judgment on Probation
+PROB EXT TO 5-30-12/ DP: $100/
+MO. BEG: 2-15-08; RE-REFER TO
+ACS-MIN. OF 8H/MO.
+1/snt#
+2
+1/23/OB Signed
+JUD
+9 WEISBERG LAWRENCE R,
+77	1/27/08	1/24/08 Order
+SB936
+1/23/08 Allowed
+9 WEISBERG LAWRENCE R.
+78	1/27/08 1/27/08 Remove/Probation Vio Status
+79	2/20/08 2/20/08 Miscellaneous
+JUD
+SID 07509955 provided by DSSJ
+80	3/31/08	3/31/08 Notice
+FROM COMMUNITY SERVICE DATED
+03/27/08; IT APPEARS THAT SHE
+MAY BE DOING THE COMMUNITY
+SERVICE THROUGH CLACKAMAS
+COUNTY
+81	7/28/08	7/28/08 Order
+TO REDUCE PMTS TO $25/MO
+7/25/08 Signed
+PBJ
+8 NELSON ADRIENNE
+END OF DATA *****- - - 
+
+PAGE
+6
+г
+7/26/09	1:32 PM
+Status Closed
+Case Register
+Case#	
+	 Multnomah Circuit Court
+09656 4 Oregon state Of/Taft Heidi Louise
+C/FEL
+Offense Felonv “ Theft-1
+■*
+Case Filed Date	
+Case started Date,..
+1st Appearance Date.
+Ready for Trial	
+First Setting Date..
+Trial Scheduled Date
+Trial start Date....
+Length of Trial	
+Disposition Date....
+Final Order Date....
+Reinstated Date	
+10/20/05
+Starting Instrument.
+Originating From....
+Originating Agency..
+Originating Agency#.
+Previous Court	
+Previous Court Case#
+Previous Decision...
+Master Case Number..
+Relation to Master..
+Termination stage...
+Termination Type....
+Booking Register Entry
+Original filing
+Portland Police Depart
+10/21/05
+10/21/05
+Citation in Lieu#..
+District Attorney..
+Booking#		
+Judgment Type	
+Judgment Status	
+Judgment Volume/Page.
+0965644
+_ RoliE
+1 Plaintiff Oregon state Of
+pliAINTIFF
+ATTORKEY
+_ ROLE	
+1 Dafendant
+Also Knwn
+Sex	
+Drivers License
+Phone#	
+Control#	
+Address	
+DEFENDANT
+Taft Haidi Louise
+Cpms 84734
+Female
+Birth Dt..	1/28/67
+Birth Dt..
+Hght/Wght. 506 110
+Hair
+Eyes
+Race
+... 65571147
+Caucasian
+Booking#
+0965644
+Arrest Dt. 10/20/05
+CHARGING INSTRDMENT	
+Booking Ragister Entry
+Status	
+10/20/05
+Date
+Date
+Count	
+1 ORS 164055
+Status	
+Incident Date
+	 1
+Theft-1
+C/FEL
+Dismissed/No Complaint
+10/20/05
+Date
+10/21/05
+Date Charged/Issued. 10/20/05
+Current Plea..
+Disposition...
+Citation#.
+Security..
+Plate#....
+10/21/05 Dismsd/No Complaint
+Count	
+2 ORS 164055
+Status	
+Incident Date
+	 2
+Theft-1
+C/FEL
+Dismissed/No Complaint
+10/20/05
+Date
+10/21/05
+Date Charged/Issued. 10/20/05
+Current Plea
+Disposition
+Citation#.
+Security..
+Plate#....
+10/21/05 Dismsd/No Complaint
+_ ENTER DT FILE DT EVENT/FILING/PROCEEDING
+1 10/21/05 10/20/05 Booking Register Entry
+SCHD DT TIME
+ROOM
+PAGE
+1
+ROOM
+FILE DT EVENT/FILING/PROCEEDING
+2	10/21/05 10/21/05 AXTaignln nt Scheduled
+3	10/21/05 10/21/05 Dismissed/Nc Conipleint
+Charge #
+Charge #
+4	10/21/05 10/21/05 Closed
+5	11/22/05 11/22/05 Disposition Reported
+1 Taft Heidi Louise
+END OF DATA
+SCHD DT TIME
+10/21/05	2:з'о PM JC3N
+ENTER DT
+1
+2
+DEF
+■k ii   ■k •k ir
+
+2
+PAGE
+7/26/09	1:31 PM
+tatus Closed
+Multnomah Circuit Court
+900834554 Oregon state Of/Taft Heidi Louise
+Offense Felony - Onauth Use Vehicle -- C/FEL
+Case Register
+Case#
+8/24/90
+8/30/90
+0/30/90
+Indictment
+Original filing
+Portland Police Depart
+90-65421
+Case Filed Date	
+Case started Date...
+1st Appearance Date.
+Ready for Trial	
+First Setting Date..
+Trial Scheduled Date
+Trial Start Date....
+Length of Trial	
+Disposition Date....
+Final Order Date....
+Reinstated Date	
+Starting Instrument.
+Originating From....
+Originating Agency..
+Originating Agency#.
+Previous Court	
+Previous Court Case#
+Previous Decision...
+Master Case Number..
+Relation to Master..
+Termination stage...
+Termination Type....
+10/18/90
+1/08/91
+1/22/91
+1/23/91
+Court finding
+Dismiss/Prosectn Motio
+Citation in Lieu#..
+District Attorney,.
+Booking#	
+Judgment Type	
+Judgment Status	
+Judgment Volume/Page
+426597-A
+_ ROLE
+1 PlainOregon state Of
+PLAINTIFF
+ATTORNEY	
+Meabe Gary
+DEFENDANT
+_ ROLE	
+1 Defendant
+Sex	
+Drivers License
+Phone#	
+Control#	
+Address			
+Birth Dt.. 1/28/67
+Hght/Wght.
+Hair
+Eyes
+Race
+Taft Heidi Louise
+Female
+Caucasian
+Bar#	 79014
+3 Pub Dfndr
+Audet David M
+Unauth Use Vehicle - C/FEL
+8/07/90
+8/07/90
+1 ORS 164135		
+Incident Date	
+Date Charged/Issued.
+Current Plea	
+Disposition	
+Citation#.
+Security..
+Plate# . . . .
+1/22/91 Dismissed
+FILE DT EVENT/FILING/PROCEEDING	
+8/24/90 Indictment
+$1500 ea def CODef 900834553
+B/24/90 Narrant Arrest
+SCHD DT TIME
+ROOM
+_ ENTER DT
+1	8/24/90
+2	8/24/90
+PTA
+3	8/29/90
+8/29/90 Arraignment Scheduled
+Set By: Atty
+8/30/90	9:00 AM JC3N
+2 Meyer Gail M
+8/30/90 Narrant Recall Scheduled
+8/30/90 Removed Inactive Status
+8/30/90 Arraignment
+9/04/90 Retum of Service Narrant
+Arrest Warrant Served 083190
+PUD
+8/30/90
+4	8/30/90
+5	8/30/90
+6	8/30/90
+7	9/04/90
+XRCL
+PTA
+Related event #
+8/31/90 Hearing Pre-trial Scheduled
+8/31/90 Hearing for Certifi Scheduled
+2
+9/19/90	3:15 JCN
+9/26/90	1:15 PM JC3N
+8	8/31/90
+9	8/31/90
+PAGE
+1
+	 ENTER DT FILE DT EVENT/FILING/PROCEEDING
+Trial; 10/18/90
+10	8/31/90	8/31/90 Trial Schedulad
+Arrest: 083090
+CODEF/53 TL 10/31
+Set-Over Ptf
+ROOM
+SCHD DT TIME
+10/18/90	9:15 AM 208N
+11	9/25/90	9/25/90 Motion Suppress Evidence
+evidence
+12	9/26/90	9/26/90 Hearing Substitutio Scheduled
+Set By: Atty
+Atty for Co-Def, Petty, Metro
+13	10/04/90 10/04/90 Order Change Counsel
+3 Audet David M
+10/01/90	9:00 AM JC3N
+PUD
+10/01/90 Signed
+JUD 1 Roth Philiip J
+14 10/17/90 10/17/90 Trial Scheduled
+10/31/90	9:11 AM 208N
+Arrest: 083090
+CODEF REMINGTON/53
+Set-Over Ptf
+15	10/30/90 10/30/90 Trial Scheduled
+Arrest: 083090
+CODEF REMINGTON/53
+Set-Over Ptf
+16	11/13/90 11/13/90 Trial Scheduled
+Arrest: 083090
+CODEF REMINGTON/53
+Set-Over Ptf
+17	11/27/90 11/27/90 Trial Scheduled
+Arrest: 083090
+CODEF REMINGTON/53
+Set-Over Ptf
+18	12/11/90 12/11/90 Trial Scheduled
+Arrest:	08/30/90
+CODEF/53 REMINGTON
+Set-Over Ptf
+19	12/14/90 12/14/90 Motion Sever
+of Defendants
+20	1/02/91	1/02/91 Trial Scheduled
+Arrest :
+со/DEFT:
+Set-Over Court
+11/14/90	9:12 AM 20BN
+11/28/90	9:13 AM 208N
+12/12/90	9:11 AM 208N
+1/03/91	9:16 AM 208N
+1/04/91	9:16 AM 208N
+8/30/90
+53 / REMINGTON
+1/08/91	9:15 AM 208N
+21	1/04/91 1/04/91 Trial Scheduled
+Arrest:	08/30/90
+CODEF/53 REMINGTON
+To Be Dismissed
+22	1/23/91 1/23/91 Order of Dismissal
+1/22/91 Signed
+JUD 2 Walker Stephen s
+23	1/23/91	1/22/91 Dismissed
+Charge #
+24	1/23/91	1/23/91 Closed
+1
+END OF DATA **** - - *
+
+2
+PAGE
+/26/09	1:32 PM
+ .■atus Closed
+	 Multnomah District Court
+DA426597 Oregon state Of/Taft Heidi Louise
+Offense Felonv - Unauth Ose Vehicle - C/FEL
+Case Register
+Case#	
+Citation in Lieu Entry
+Original filing
+Portland Police Depart
+9065421
+starting Instrument.
+Originating From....
+Originating Agency..
+Originating Agency#.
+Previous Court	
+Previous Court Case#
+Previous Decision...
+Master Case Number..
+Relation to Master..
+Termination stage...
+Termination Type....
+B/09/90
+B/21/90
+a/21/90
+Case Filed Date	
+Case started Date...
+1st Appearance Date.
+Ready for Trial	
+First Setting Date..
+Trial Scheduled Date
+Trial start Date....
+Length of Trial	
+Disposition Date....
+Final Order Date....
+Reinstated Date	
+B/2B/90
+B/28/90
+Judgment Type	
+Judgment Status	
+Judgment Volume/Page.
+Citation in Lieu#..
+Distriot Attorney..
+Booking#	
+B203716
+900B34554
+ATTORhrEY
+PIAINTIFF
+_ ROLE 	
+1 Plaintiff Oregon state Of
+_ ROLE	
+1 Defendant
+Sex	
+Drivers License
+Phone#	
+Control#	
+Address	
+DEFENDANT
+Birth Dt..	1/28/67
+Taft Heidi Louise
+Female
+Hght/Wght. 507 100
+Blond
+Blue
+Caucasian
+Hair
+Eyes
+Race
+3224 SW KELLY
+PORTLAND
+Meyer Gail M
+OR
+81143
+Bar#
+1 Pub Dfndr
+Unauth Use Vehicle - C/FEL
+8/07/90
+8/07/90
+1 ORS 164135		
+Incident Date	
+Date Charged/Issued,
+Current Plea	
+Disposition	
+Charging Officer....
+Citation#. B203716
+Security,.
+Plate#....
+Bpst#
+8/28/90 Dismsd Def Indicted
+Rhodes Jon F
+016753
+FILE DT EVENT/FILING/PROCEEDING
+8/09/90 Citation in Lieu Entry
+8/09/90 Arraignment Scheduled
+ROOM
+SCHD DT TIME
+_ ENTER DT
+1	8/09/90
+2	8/09/90
+8/21/90	2:00 PM JC3N
+c#
+DA#
+0/08/90 Infomation
+0/21/90 Affidavit of Indigency
+8/21/90 Agreement Recog Release
+8/21/90 Arraignment
+3	8/22/90
+4	8/22/90
+5	8/22/90
+6	8/22/90
+1 Meyer Gail M
+8/21/90 Removed Inactive Status
+8/22/90 Hearing Further Pro Scheduled
+8/28/90 Dismissed Defendant Indicted
+Charge #
+e/28/90 Closed
+PUD
+7	8/22/90
+e 0/22/90
+9	a/29/90
+8/20/90	2:10 PM JC3N
+1
+10	8/29/90
+END OF DATA
+
+•k’k’k'k-k-k-Ér-k
+I
+PAGE
+26/09	1:30 PM
+Itus Purgable
+Multnomah Circuit Court
+800130435 Oregon state Of/Taft Heicii Louise
+Ofiense Felony - 475992 PCS I
+Case Register
+Case#
+'k
+B/FEL
+Indictment
+Original filing
+Portland Police Depart
+883193
+starting Instrument.
+Originating From....
+Originating Agency..
+Originating Agency#.
+Previous Court	
+Previous Court Case#
+Previous Decision...
+Master Case Number..
+Relation to Master..
+Termination Stage...
+Termination Type....
+1/21/80
+3/02/88
+3/02/88
+3/02/88
+Case Filed Date	
+Case started Date...
+1st Appearance Date.
+Ready for Trial	
+First Setting Date..
+Trial Scheduled Date
+Trial start Date....
+Length of Trial	
+Disposition Date....
+Final Order Date....
+Reinstated Date	
+7/28/88
+7/29/88
+Court finding
+Dismiss/Prosectn Motio
+Judgment Type	
+Judgment Status	
+Judgment Volume/Page
+Citation in Lieu#
+District Attorney
+Booking#	
+360966
+ATTORNEY	
+Ratbo John Russell
+PLAINTIFF	
+Oregon state Of
+_ ROL.E	
+1 Plaxntiff
+DEFENDANT
+_ ROLE	
+1 Defendant
+Sex	
+Drivers License
+Phone#	
+Control#	
+Address	
+Birth Dt..	1/28/67
+Hght/Wght.
+Hair	
+Eyes	
+Race	
+Taft Heidi Louise
+Female
+Bar#
+85218
+Greenlick Michael A
+2 Pub Dfndr
+475992 PCS I - B/FEL
+1/21/88
+1/21/88
+1 SJIS 00002454	
+Incident Date	
+Date Charged/Issued.
+Current Plea	
+Disposition	
+Citation#.
+Security..
+Plate#....
+1/29/88 Dismissed
+475992 PCS I - B/FEL
+1/21/88
+1/21/88
+2 SJIS 00002454	
+Incident Date	
+Date Charged/Issued.
+Current Plea	
+Disposition	
+Citation#.
+3/02/88 Plea Entry Not Guilty Security..
+Plate#....
+7/28/88 Dismissed
+ATTORNEY
+OTHER PEOPLE
+Electronic
+_ ROLE	
+1 Reporter
+FILE DT EVENT/FILING/PROCEEDING
+1/21/88 Indictment
+Charge #: 02
+1/29/88 Order to Bind Over
+(DSM)(1/28)REG 2/3 CT 1 ONLY
+TPP
+DEF 1 Taft Heidi Louise
+Granted
+ROOM
+SCHD DT TIME
+_ ENTER DT
+1 10/28/88
+$5,000.00
+Security Amount:
+2 10/28/88
+1
+PAGE
+_ ENTER DT FIbE DT EVENT/FILING/PROCEEDING
+3	10/2B/8e	1/29/88 Miscellaneous
+CLSD
+4	10/28/88	1/29/88 Miscellaneous
+PURG
+5	10/28/88	1/29/88 Dismissed
+Prosecutor Motion
+Charge #
+6	10/28/88	2/16/88 Indictment
+Secret
+CT 2 ONLY
+PTF 1 Oregon State Of
+7	10/28/88	2/16/88 Wairrant Arrest
+ROOM
+SCHD DT TIME
+1
+JRE
+8 10/28/88	3/02/88 Arraignment
+TPP
+1 Price Tom p
+9 10/28/88 3/02/88 Remcved Inactive Status
+10	10/28/88 3/02/88 Trial/Ready for
+11	10/28/88	3/02/88 Plea EntrY of Not Guilty
+Charge #
+12	10/28/88	3/03/88 Return of Service Warrant
+Arrest
+SRV 3/2
+JUD
+2
+JRE
+13	10/28/88	3/03/88 Removed Inactive Status
+14	10/28/88	4/11/88 Trial
+TO TRIAL
+Affected event: TL
+DE F
+Ailowed
+Set-Over Court
+New date: 4/22/88
+1 Taft Heidi Louise
+15 10/28/88	4/15/88 Trial
+PER ORDER
+Affected event: TL
+DEF
+Allowed
+Set-Over Court
+New date: 5/04/88
+1 Taft Heidi Louise
+16 10/28/88	4/18/88 Order
+ MO FOR TRL SETOVER (NO SIG DT)REG 4/19
+DHL
+PTF 1 Oregon state Of
+Granted
+17 10/28/88	4/29/88 Motion Suppress Evidence
+EVID
+1 Taft Heidi Louise
+DEF
+18 10/28/88	5/03/88 Trial
+5/18/88
+Affected event: TL New date:
+DEF 1 Taft Heidi Louise
+Allowed
+Set-Over Court
+19 10/28/88	5/17/88 Trial
+Affected event: TL New date: 6/01/88
+DEF 1 Taft Heidi Louise
+Allowed
+Set-Over Court
+20 10/28/88	5/31/88 Trial
+Affected event: TL New date: 6/08/88
+DEF 1 Taft Heidi Louise
+2
+PAGE
+	 EKTER DT FILE DT EVENT/FILING/PROCEEDING_
+Allowed
+Set-Over Court
+21 10/28/80	6/01/88 MOILion Suppress Evidence
+EVID
+SCHD DT TIME
+ROOM
+1 Taft Heidi Louise
+DEF
+22 10/28/80	6/07/88 Trial
+6/15/8B
+Affected event: TL New date:
+DEF 1 Taft Heidi Louise
+Allowed
+Set-Over Court
+23 10/28/88	6/14/88 Trial
+New date: 6/22/88
+Affected event: TL
+DEF 1 Taft Heidi Louise
+Allowed
+Set-Over Court
+24 10/28/88	6/21/88 Trial
+6/29/88
+New date:
+Affected event: TL
+DEF
+Allowed
+Set-Over Court
+2S 10/28/88	6/28/88 Assigned to Trial Judge
+1 Taft Heidi Louise
+RR
+JUD 2 Redding Robert w
+26 10/28/88	6/29/88 Miscellaneous
+STRT/DISM BY CT
+27 10/28/88	7/01/88 Order
+(DISM) TEMP CLSG REG 7/6
+RR
+DEF 1 Taft Heidi Louise
+6/29/88 Allowed
+28	10/28/88	7/28/88 Dismissed
+29	10/28/88	7/28/88 Dismissed
+Prosecutor Motion
+Charge #
+30	10/28/88	7/29/88 Order Disluissal With Prejudice
+(7/28)REG 8/1
+2
+RR
+PTF 1 Oregon state Of
+Allowed
+31	10/28/88	7/29/88	Order Final
+32	10/28/88	7/29/88	Closed
+33	10/28/88	7/29/88	Purgable Case Register
+******.  	OF DATA
+
+3
+PAGE
+■/26/09	1:30 РМ
+Status Closed
+Multnomah Circuit Court
+. 920765656 Taft Albert Jasiah/Taft Seldl Louise
+Domestic Relations Abuse Prvntn
+Case Register,
+Case#
+Petition
+Original filing
+7/21/92
+7/21/92
+Starting Instrument.
+Originating From....
+Previous Court	
+Previous Court Case#
+Master Case Nuinber..
+Relation to Master..
+Amount Prayed for...
+Terinination stage...
+Termination Type....
+Case Filed Date	
+Case Started Date...
+At Issue Date	
+First Setting Date..
+Trial Scheduled Date
+Trial start Date....
+Length of Trial	
+Disposition Date....
+Final Order Date....
+Reinstated Date	
+$.00
+7/21/92
+Judgment Type	
+Judgment Status	
+Judgment Volume/Page.
+ATTORKEY
+PLAINTIFF
+_ ROLE
+1 Petitioner Taft Albert Jasiah
+ATTORNEY
+_ ROLE
+1 Respond.ent Taft Heidi Louise
+DEFENDANT
+_ ENTER DT FILE DT EVENT/FILING/PROCEEDING	
+1	7/21/92 7/21/92 Petition
+2	7/22/92 7/21/92 Order Abuse Prev Restreining
+1 Taft Albert Jasiah
+SCHD DT TIME
+ROOM
+PET
+7/21/92 Signed
+JUD 1 Welch Elizabeth
+3	7/22/92	7/21/92 Closed
+4	10/29/92 10/28/92 Proof of Service
+Re: RO   Petition served
+on 10/16 (Petitioner has
+signed the Affidavit)
+1 Taft Heidi Louise
+******** END OF DATA
+RSP
+■k ■k ■k ir
+PAGE
+1
+/26/09	1:29 PM
+bLatus Closed
+Remote Сазе Register. Washington Co Dxstrict Court
+Casel
+D930601 F Oregon state Of/Taft Heidi Louise
+Ofiense Felony - Poss Controlled Sub 1 Met
+B/FEL
+Inforination
+Original filing
+Beaverton Police
+935789
+9/13/93
+9/14/93
+9/14/93
+Starting Instrument.
+Originating From....
+Originating Agency..
+Originating Agency#.
+Previous Court	
+Previous Court Case#
+Previous Decision...
+Master Case Number..
+Relation to Master..
+Termination stage...
+Termination Type....
+Case Filed Date	
+Case started Date...
+1st Appearance Date.
+Ready for Trial	
+First Setting Date..
+Trial Scheduled Date
+Trial start Date....
+Length of Trial	
+Disposition Date....
+Final Order Date....
+Reinstated Date	
+11/05/93
+11/05/93
+Judgment Type	
+Judgment Status	
+Judgment Volume/Page.
+Citation in Lieu#..
+District Attorney..
+Booking#	
+933665
+ATTORNEy	
+Ostirow Leonard c
+_ ROLE	
+1 Plaintiff
+PLAINTIFF	
+Oregon state Of
+DEFENDANT
+_ ROLE	
+1 Defendant
+Sex	
+Drivers License
+Phone#	
+Control#	
+Address	
+Birth Dt..	1/28/67
+Hght/Wght.
+Hair	
+Eyes	
+Race	
+Taft Heidi Louise
+Female
+(503} 579-0556
+00000000
+14210 sw TEAL #34G
+BEAVERTON
+Pfost Lisa
+OR 97007
+Bar#
+91395
+2 Pub Dfndr
+Poss Controlled Sub 1 MGthamphetamine - B/FEL
+8/26/93
+9/13/93
+1 ORS 4759924A	
+Incident Date	
+Date Charged/Issued.
+Current Plea	
+Disposition	
+Citation#.
+Security..
+Plate#....
+11/05/93 Dismissed
+FILE DT EVENT/FILING/PROCEEDING
+9/13/93 Information
+9/13/93 Arraignment Scheduled
+9/14/93 Arraignment Scheduled
+r/s
+RocfM
+SCHD DT TIME
+_ ENTER DT
+1	9/13/93
+2	9/13/93
+3	9/14/93
+9/13/93	1:30 PM ARR
+9/14/93	1:30 PM ARR
+4	9/15/93
+5	9/16/93
+9/15/93 Affidavit of Indigency
+9/14/93 Arraignment
+9/14/93 Signed
+1 Nachtigal Gayle
+9/14/93 Removed Inactive Status
+9/14/93 Request Preliminary Hearing
+Charge #
+9/15/93 Order  pointing Counsel
+appt Lisa Pfost
+JUD
+6	9/16/93
+7	9/16/93
+1
+в 9/16/93
+9/14/93 Granted
+1 Nachtigal Gayle
+9/15/93 Agreement Recog Release
+JUD
+9	9/16/93
+1
+PAGE
+		ENTER DT	FILE DT	EVENT/FILING/PROCEEDING	
+10	9/20/93	9/20/93	Hearing Preliminary	Snheduled
+audio 3d399 Dpaige/clerk
+Def FTA - BW $20,000 bail
+10/08/93 Warrant/Bench
+JUD
+Related event #
+11	9/23/93	9/23/93	Notice Hearing
+12	10/12/93	lo/OB/93	Warrant Bench
+FTA PRELIM BW 20000 DRL
+ROOM
+SCHD DT TIME 	
+10/08/93	4:0Г  108C
+2 Letourneau Donald R
+n
+10/12/93 Issued
+13	11/08/93	11/12/93	Warrant	Recall
+14	11/08/93	11/08/93	Removed	Inactive	Status
+15	11/08/93	11/08/93	Motion
+and order to disIniss
+11/05/93 signed
+JUD 3 Mcelligott Michael
+16	11/08/93 11/05/93 Diamissed
+charge #
+17	11/08/93 11/05/93 Closed
+18	12/09/93 12/09/93 Disposition Reported
+1 Taft Heidi Louise
+1
+DEF
+
+END OF DATA
+
+7/26/09	1:29 PM
+Status Closed
+Remote Case Register. Washington Co Circuit Court
+Case#	 c931b78CR Oregon state Of/Taft Heidi Louise
+Failure To Appear-1
+C/FEL
+Oifense Felonv
+11/01/93
+11/10/93
+11/10/93
+Secret indictment
+Orrginal filing
+Washington Co District
+Case Filed Date	
+Case starteci Date...
+1st Appearance Date,
+Ready for Trial	
+First Setting Date..
+Trial Scheduled Date
+Trial start Date....
+Length of Trial	
+Disposition Date....
+Final Order Date....
+Reinstated Date	
+Starting Instrument.
+Originating From....
+Originating Agency..
+Originating Agency#.
+Previous Court	
+Previous Court Case#
+Previous Decision...
+Master Case Number..
+Relation to Master..
+Termination stage...
+Termination Type....
+12/28/93
+1/26/94
+Citation in Lieu#..
+District Attorney. .
+Booking#	
+Judgment Type	
+Judgment Status	
+Judgment Volume/Page.
+933979
+АТТ01ШЕУ	
+Ostr-ow Leonaxd C
+_ ROLE	
+1 Plaintiff
+PLAINTIFF	
+Oregon state Of
+DEFENDANT
+_ ROLE	
+1 Defendant
+Sex	
+Drivers License
+Phone#	
+Control#	
+Address	
+Birth Dt.,	1/2B/67
+Hght/Wght. 505 105
+Hair	 Blond
+Eyes	 Blue
+Race	
+Taft Heidi Louise
+Female
+{503) 579-0556
+15699526
+14210 sw_ TEAL BLV APT #34-G
+BEAVERTON
+Garland Barbara
+OR
+Bar#
+90057
+2 Crt Appntd
+Failure To Тфреаг-! - C/FEL
+10/08/93
+1 ORS 162205
+Incident Date
+Date Charged/Issued. 11/01/93
+Current Plea
+Disposition.
+citation#.
+Security..
+Plate# . . . .
+12/28/93 Plea Entry of Guilty
+12/28/93 Convicted
+12/28/93
+Date
+1 Sentence
+Status	
+Judge	
+Avail Sanction Dnits
+Probation	
+Community svc Work..
+Signed.... 1/18/94
+Lund Jon в
+120.00 Custody Onits
+2.00 Year(s)
+75.00 Hour(s)
+_ ENTER DT FILE DT EVENT/FILING/PROCEEDING	
+1	11/02/93 11/01/93 Secret Indictment
+2	11/10/93 11/10/93 Arraignment Scheduled
+Cont for appr w/atty 11/16/93
+8:45 am {audio pc00728/tpa)
+3	11/10/93 11/10/93 Removed Inactive Status
+4	11/10/93 11/10/93 Arraigning & Pleading Ord
+11/10/93 Signed
+SCHD DT TIME
+ROOM
+11/10/93 11:30 AM 202C
+JUD 1 Alexander Timothy Paul
+5 11/12/93 11/12/93 Mrscellaneous
+PAGE
+1
+_ ENrER DT FILE DT EVENT/FILING/PROCEED ING	
+CAA request in file C931577CR
+appt. Barb Garlarld/TA
+6	11/16/93 11/16/93 APPQarance Scheduled
+s/o for e/p 11/30/930 845
+taped
+1	Alexander Tilnothy Paul
+7	11/16/93 11/16/93 Hearing Pre-trial R Scheduled
+rel to serenity lane 11/24/93
+200 pm e/p s/o 12/28/93 845
+2	Nachtigal Gayle
+8	11/17/93 11/17/93 Order to Continue
+SCHD DT TIME
+ROOM
+11/16/93	8:45 AM 202C
+JOD
+11/23/93	4:00 PM 202C
+JUD
+further appearanoe
+11/16/93 Signed
+1 Alexander Timothy Paul
+9 11/17/93 11/17/93 Return Service Arrest Warrant
+11/09/93 Served
+10 11/24/93 11/24/93 Order
+JUD
+from reiease hrg
+11/23/93 Signed
+2	Nachtigal Gayle
+11	11/26/93 11/26/93 Agreement Recog Release
+to app 12-28
+12	12/28/93 12/28/93 Hearing Plea Scheduled
+Gplea   Stng complete. Taped
+3	Lund Jon в
+13	12/28/93 12/20/93 Plea Entry of Guilty
+Charge #
+14	12/28/93 12/28/93 Convicted
+Charge  
+15	12/29/93 12/29/93 Petition Enter Gullty Plea
+w/order
+12/28/93 signed
+JUD
+12/28/93	8:45 AM 202C
+JUD
+1
+1
+3 Lund Jon в
+16	2/07/94	1/26/94 Judgment on Guilty Plea
+1/18/94 Signed
+JUD
+3 Lund Jon в
+JUD
+Charge #
+17	2/07/94	1/26/94 Sentence
+1/18/94 Signed
+1
+JUD 3 Lund Jon в
+1/snt#
+Charge#
+18	2/07/94 1/26/94 Closed
+19	2/10/94 2/10/94 Disposition Reported
+1 Taft Heidi Louise
+END OF DATA **** - -  
+1
+DEF
+
+/26/09	1:2В PM
+ .atus cjosed
+Remote Case Register. Washington Co Circuit Court
+Casel
+C931577CR Oregon State Of/Taft Heidi Louise
+Offense Felonv - Poss Controlled Sub 2 Met
+C/FEL
+Secret indictment
+Original filing
+Beaverton Police
+9357B9
+Starting Instrument.
+Originating From....
+Originating Agency..
+Originating Agency .
+Previous Court	
+Previous Court Case#
+Previous Decision...
+Master Case Number..
+Relation to Master..
+Termination stage...
+Termination Type....
+11/01/93
+Case started Date... 11/10/93
+1st Appearance Date. 11/10/93
+Ready for Trial	
+First Setting Date..
+Trial Scheduled Date
+Trial start Date....
+Length of Trial	
+Disposition Date.... 12/2B/93
+Final Order Date....
+Reinstated Date	
+Case Filed Date
+1/26/94
+Judgment Type	
+Judgment Status	
+Judgment Volume/Page
+Citation in Lieu#...
+District Attorney... 933665
+Booking#	
+ATTORNEY	
+Ostrow Leonaxd c
+PLAINTIFF	
+Oregon state Of
+_ RoliE	
+1 Plaintiff
+DEFENDANT
+_ ROLE	
+1 Defendant
+Sex	
+Drivers License
+Phone#	
+Control#	
+Address	
+Birth Dt..	1/28/67
+Hght/Wght. 505 105
+Blond
+Blue
+Taft Heidi Louise
+Female
+Hair
+(503) 579-0556
+15699526
+14210 sw_ TEAL BLV APT #34-G
+BEAVERTON
+Eyes
+Race
+OR
+Poss Controlled Sub 2 Methamphetalnine - c/FEL
+B/26/93
+1 ORS 4759924B
+Incident Date
+Date Charged/Issued. 11/01/93
+Current Plea
+Disposition.
+Citation#.
+Security..
+12/2B/93 Plea Lesser Charge
+12/28/93 Convicted Lesser Chg Plate#....
+Attd Possesion Methamphetamine - A/MIS
+8/26/93
+2 WSH 475992
+Incident Date
+Date Charged/Issued. 12/28/93
+Current Plea
+Disposition.
+Citation#.
+12/28/93 Plea Entry of Guilty Security..
+Plate#. . . .
+12/28/93 Convicted
+12/28/93
+1 Sentence Suspended Imposition
+Status	
+Judge	
+Probation	
+Condition	
+Condition	
+Condition	
+Condition	
+Community svc Work..
+Date.
+1/18/94
+Signed....
+Lund Jon в
+2.00 Year(s)
+No Drugs
+Submit to Search
+Submit to Random Drinalysis
+Drug Treatment Program
+75.00 Hour(s)
+_ ENTER DT FILE DT EVENT/FILING/PROCEEDING
+1 11/02/93 11/01/93 Secret Indictment
+SCHD DT TIME
+ROOM
+PAGE
+1
+FILE пт EVENT/FILING/PROCEEDING	
+2	11/10/93 11/10/93 Ar'raignment schedulGd
+Cont lor appr w/atty 11/16/93
+B;45 a (audio pcoo728/tpa)
+3	11/10/93 11/10/93 Rallloved Inactive Status
+4	11/10/93 11/10/93 ArT'aigning   Pleading Ord
+11/10/93 Signed
+ENTER DT
+SCHD DT TIME	 ROOM
+11/10/93 11:30 ЛМ 202C
+1 Alexander Timothy Paul
+5	11/12/93 11/12/93 Affidavit cf Indigency
+6	11/12/93 11/12/93 Order Appointing Counael
+11/10/93 Signed
+JOD
+1 Alexander Timothy Paul
+7	11/16/93 11/16/93 Appearance Scheduled
+s/o for e/p 11/30/93	845
+taped
+1 Alexander Timothy Paul
+8	11/16/93 11/16/93 Hearing Pre-trial R Scheduled
+to release to serenity lane 11
+/24/93 200 pm e/p s/o 12/28/9
+3 845 am
+JUD
+11/16/93	8:45 AM 202C
+JUD
+11/23/93	4:00 PM 202C
+2 Nachtigal Gayle
+9 11/17/93 11/17/93 Order to Continue
+further appearance
+JUD
+11/16/93 Signed
+1 Alexander Timothy Paul
+10	11/17/93 11/17/93 Retum Service Arrest Warrant
+11/09/93 Served
+11	11/24/93 11/24/93 Order
+JOD
+from release hrg
+11/23/93 Signed
+JUD 2 Nachtigal Gayle
+12	11/26/93 11/26/93 Agreement Recog Release
+to app 12-28
+13	12/28/93	12/28/93	Hearing	Plea	Scheduled
+Gplea  	stng	complete, Taped
+JUD 3	Lund	Jon в
+14	12/28/93	12/28/93	Plea llesser Charge
+Charge #	1
+15	12/2B/93 12/28/93 Plea Entry of Guilty
+Charge #	2
+16	12/28/93 12/28/93 Convicted
+12/28/93	8:45 AM 2020
+Charge #
+17 12/29/93 12/29/93 Petition Enter Guilty Plea
+w/order
+12/28/93 Signed
+2
+JUD 3 Lund Jon в
+18	2/07/94 12/26/93 Convicted Lesser Chg
+1/18/94 Signed
+JUD 3 Lund Jon в
+Charge  
+19	2/07/94	1/26/94 Judgment on Guilty Plea
+1/18/94 signed
+1
+JUD 3 Lund Jon в
+Charge #
+20	2/07/94	1/26/94 Sentence Suspended Imposition
+1/18/94 Signed
+2
+JUD 3 Lund Jon в
+Charge# 2/snt# 1
+PAGE
+2
+	 ENTER DT FILE DT EVENT/FILING/PROCEEDING	
+21	2/07/94	1/26/94	Closed
+22	2/10/94	2/10/94	Disposa.txon Repor-ted
+1 Taft Heidi Louise
+SCHD DT TIME
+ROOM
+DEF
+23	7/20/94	7/28/94 Miscellaneous
+void
+24	7/29/94	7/29/94 Miscellaneous
+Void
+END OF DATA
+
+•k •k •A к ■k
+■7/26/09	1:27 PM
+Status Closed
+Remote Case Regi.ster. Washington Co District Court
+Case 
+D9707273M Oregon state Of/Daugherty Headi Lduise
+	Offense Misdemeanor - Theft-3 - C/MIS
+Case Filed Date	
+Case started Date...
+1st Appearance Date.
+Ready for Trial	
+First Setting Date..
+Trial Scheduled Date
+Trial start Date....
+Length of Trial	
+Disposition Date....
+Final Order Date....
+Reinstated Date	
+11/03/97
+5/05/98
+5/05/98
+starting Instrument..
+Originating From	
+Originating Agency...
+Originating Agency#..
+Previous Court	
+Previous Court Case#.
+Previous Decision....
+Master Case Number...
+Relation to Master...
+Termination Stage....
+Termination Type	
+Complaint
+Original filing
+Hillsboro City Police
+977791
+3/26/98
+3/26/98
+9/0 /98
+9/03/98
+Citation in Lieu#..
+District Attorney..
+Booking#	
+Judgment Type	
+Judgment Status	
+Judgment Volume/Page.
+97 636B
+ROLE
+PLAINTIFF	
+1 Plain'tiff Oregon state Of
+ATTORNEY	
+Washington Co Dist Atty Office
+_ ROLE	
+1 Defendant
+Also Knwn
+Sex	
+Drivers License
+Phone#	
+Control#	
+Address	
+DEFENDANT
+Daugherty Heidi Louxse
+Taft Heidi
+Female
+Birth Dt..	1/28/67
+Birth Dt..	1/28/67
+Hght/Wght. 506 110
+Hair
+Eyes
+Race
+Brown
+Blue
+Caucasian
+(000) 642-3236
+00000000
+6127 SE APPOLLO WAY
+HILLSOBORO
+Montgomery Amy
+OR 97123
+3 Pub Dfndr
+Bar#
+97342
+1 ORS 164043
+Incident Date
+Theft-3 - C/MIS
+10/04/97
+Date Charged/Issued. 11/03/97
+Current Plea.
+Citation#.
+11/06/97 Plea Entry Not Guilty Security..
+9/04/98 Judgment Dismissal Cr Plate#....
+Disposition
+FILE DT EVENT/FILING/PROCEEDING
+1	11/05/97 11/03/97 Complaint
+2	11/05/97 11/05/97 Arraignment Scheduled
+cite
+3	11/07/97 11/07/97 Affidavit of Indigency
+APPT STEVE WEST
+4	11/07/97 11/07/97 Agreement Recog Release
+ENTER DT
+зсю DT TIME
+ROOM
+11/06/97 10:31 AM ARR
+next appearance as directed by
+court and counsel
+5 11/19/97 11/13/97 Ordar
+from AR
+11/06/97 Signed
+1 Freerksen Karl w Jr
+6	11/19/97 11/13/97 Removed Inactive Status
+7	11/19/97 11/06/97 Plea Entry of Not Guilty
+Charge #
+JÜD
+1
+PAGE
+1
+__ ENTER DT FILE DT EVENT/FILING/PROCEEDING_
+B 11/19/97 11/13/97 Order Appornting Counsel
+11/06/97 signed
+SCHD DT TIME
+ROOM
+1 Freerksen Karl Jr
+9 11/20/97 11/20/97 Hearing Pre-trial с SGheduled
+trial 3-26 AUDIO 11-0762
+FTA WTBI {HOLD 2A HRS)
+**VACATE WARRANT МАН
+JUD
+3/02/98	2■00 PM 210C
+JUD
+2 Hernandez Marco A.
+Related event {{	12
+10	3/05/98	3/05/98 Order
+FORM APP- WARRANT VACATED
+PTC SET 3-9-98 200
+3/03/98 Sxgned
+JUD 2 Hernandez Marco A.
+Related event I 15
+11	11/20/97 11/20/97 Trial Six Person Ju SGheduled
+FTA BW/7500
+AUDIO 61197
+JUD 4 Mcelligott Michael
+Related event #	13
+12	11/20/97	11/20/97	Notice	Hearing
+13	11/20/97	11/20/97	Notice	of Trial
+14	1/06/98	1/06/98	Slibstitution of Attomey
+AMY MONTGOMERY FOR STEVEN WEST
+15	3/04/98	3/04/98 Hearing Pre-trial c Scheduled
+Trial On Audio 61191
+JUD 4 Mcelligott Michael
+Related event #	16
+16	3/05/98	3/05/98	Notice	Hearing
+17	3/26/98	3/26/98 Order for FTA li arrant
+C/MISD
+MJM 3-26-98
+3/26/98	9:00 AM 301C
+3/09/98	2:00 Ш 460J
+HBP 977791
+3 Clerk Court
+JUD
+Related event #
+Related event #
+18	3/26/98	3/26/98 Warrant Failure to I pear
+1 Daugherty Heidi Louise
+3 Clerk Court
+19	5/01/98	4/29/98 Return Service Bench Warrant
+4/22/98 Served
+20	5/05/98	5/05/98 ArraignJIlent Scheduled
+ON BW, FTA TRIAL
+21	5/05/98	5/05/98 Agreement Reccg Release
+Mult. Co.
+22	5/11/98	5/11/98 Affidavit of Indigency
+RE-APPT AMY MONTGOMERY
+11
+18
+DE F
+JUD
+5/06/98 10:04 AM ARR
+23	5/12/96	5/05/98	Arraignment
+24	5/12/98	5/05/98	Removed Inactive	Status
+25	5/12/98	5/12/98	Order
+FROM ARR ON BW/FTA TRIAL
+RESET PTC/TRIAL
+5/06/98 Signed
+1 Freerksen Karl w Jr
+26	5/12/98	5/12/98 Order T pointing Ccunsel
+5/06/98 Signed
+JUD
+1 Freerksen Karl w Jr
+27	5/13/98	5/13/98 Hearing Pre-trial c Scheduled
+JUD
+8/24/98	1:30 PM 105C
+PAGE
+2
+FILE DT EVENT/FILING/PROCEEDING	
+audio 12“011b
+JUD 5 Campbeli Nancy w
+Related event #	29
+5/13/9B Tri.al Six Person Ju Scheduled
+DISMISSED #61245
+JÜD 4 Mcelligott Michael
+Related event #	30
+5/14/98 Notice Heara.ng
+5/14/90 Notice of Trial
+9/04/98 Order
+ENTER DT
+SCHD DT TIME
+ROOM
+28	5/13/90
+9/03/98	9:00 AM 460J
+29	5/14/98
+30	5/14/90
+31	9/04/98
+FROM TRIAL
+STATE UNABLE TO PROCEED
+9/03/98 Signed
+JUD 4 Mcelligott Michael
+9/04/98 Judgnent Dismissal Crilllinal
+9/03/98 Signed
+32	9/04/90
+4 Mcelligott Michael
+JUD
+Charge #
+9/03/98 Closed
+1
+33	9/04/98
+
+END OF DATA
+
+
+Indicinicnt Nbr 27 DA Unit UA GJ Room'’•4>
+In the c cuit Court of the state of c
+For Multnomah County
+ egon
+Court Nbr 06-08-34773 DA 2066825-1
+Crime Report pp 05-64921
+STATE OF OREGON
+Plamtiff,
+Indiciment for Violation ог
+V.
+ORS 164.055 (1,2)
+о
+НЕШ1 LOUISE ТАРГ
+DOB: 01/28/1967
+
+cz
+
+3 tN7 .
+CO
+n> zu
+Defendant(s).
+The above-named defendant(s) are accused by the Grand Jury of Multnomah County, State of Oregon, by this indicmientof
+crlme(s) of COUNT 1,2 - THEFr IN THE FIRST DEGREE, comlnitted as foHOWS:	 	■
+COUNT 1
+THEFT IN THE FIRST DEGREE
+or about July 30,2005, in the County of Multnomah, State of Oregon, did
+unlawfully and knowingly commit theft of personal property, the property of RICK mEFTIL and SAFECO INSURANCE,
+by selling said property, defendant(s) knowing that said property was the subject of theft, contrary to the statutes in such
+cases made and provided and against the peace and dignity of the State of Oregon,
+COUNT2
+THEFT IN THE FIRST DEGREE
+The said Defendant(s) HEIDI LOUISE TAFT, on or about July 23,2005, in the County of Multnomah, State of Oregon did
+unlawfully and knowmgly commit theft of personal property, the property of JESSIE BANKS, by selling said property,
+defendant(s) knowmg that said property was the subject of theft, contrary to the statutes in such cases made and provided and
+against the peace and dignity of the State of Oregon,
+Dated at Portland, Oregon, m the county aforesaid, on AUGUST 23, 2006.
+'Witnesses
+Examined Before the Grand Jurv
+in Derson (unle.ss noteH 
+Annette в Kemp
+Rick Kiefel
+Jessie Banks
+ГО
+The said Defendant(s) HEIDI LOUISE TAFT,
+on
+, ATRTTEBTT.T
+l7s/dynthi>cli' 
+■Foreperson of the and Jury
+г
+ENTERED
+I
+i
+AUG 2 3 2006
+I
+I
+I
+IMICHAEL D. SCHRUNK (67111)
+Ï IN REGISTER BY SB pistrictAttomey
+ MUltnQn  Coun ,
+8.
+goj
+
+в
+Deputy
+T
+Security Amount	(Def - TAFT) $5,000 -I- $5,000
+AFFIRMATIVE DECLARATION
+, The Disinct Attomey hereby alTInnauvely dectares for the record.
+INDICTMENT
+Diat: Origioal: Courl- Copies: Defendant, Der. AttDrney, DA, Data Entry
+
+su - ofofBgcn} . Нвш  Louise Tea, Cese A/0. oe/' T73
+ENTERED
+MAY 10 2D07
+IN REGISTER BY
+
+In the Circuit Court of the State of Oregon for Multnonlah County
+State of Oregon,
+)
+Plaintiff,
+)
+)
+Case No.: 060834773
+)
+vs.
+)
+JUDGMENT
+)
+Heidi Louise Taft,
+)
+Case File Date: 08/23/2006
+District Attomey File #: 2066825-1A
+Defendant.
+)
+DEFENDANT
+True Name: Heidi Louise Taft
+Date of Birth: 01/28/67
+Fingerprint Control No (FPN): 00000000
+AKA: 84734 Cpms
+FILED
+Sex: Female
+MAY 1D 2007
+ciRculT COURT
+MULTNOMAH COUNTY OREGON
+HEARING
+Proceeding Date: 05/07/2007
+Judge: ADRIENNE NELSON
+Court Reporter: FTR
+Defendant appeared in person and was in custody. The court determined that the defendant was indigent for
+purposes of court-appointed counsel, and the court appointed counsel for the defendant. The defendant was
+represented by Aüomey(s) Brian Schmonsees, OSB Number 05372.
+Plaintiff appeared by and through Andrew M Lavin, OSB Number 03369.
+Defendant knowingly waived two day waiting period before sentencing.
+COUNT(S)
+It is adjudged that the defendant has been convicted on the following count(s):
+Count 1: Theft in the First Degree
+Count number 1, Theft in the First Degree, ORS 164.055, a Class c Felony, committed on or about 07/30/2005.
+Conviction is based upon a plea of No Contest on 05/07/2007.
+Sentencing Guidelines
+The Crime Severity Classification (CSC) on Count Number 1 is 2 and the Cnminal History Classmcation
+(CHC) is G.
+pege10/3
+Documeni Type: Judgmeni
+Sf .  of Orogon	LOWSB 7a/r, Cose /Vo. 06f	773
+This sentence is pursuant to the following special factors:
+•	This is a presumptive sentence.
+Probatioll
+Defendant is sentenced to Supervised Probation for a period of 18 month(s) and shall be subject to the following
+conditions of probation:
+Defendant is subject to all general conditions of probation (ORS 137.540).
+Furthermore, defendant is subject to the following Special Conditions of Probation (ORS 137.540(2)):
+Defendant shall:
+•	Be assigned to Judge Adrienne c. Nelson for judicial supervision of probation.
+•	Perfonn 10 sanction unit(s) of coinmunity service.
+•	Have no direct or indirect contact with the victim, Rick Kiefel, Jessica Banks, the victim's residence, or
+the victim's place of employment unless so authorized m WTitmg by the victim's therapist, if any,
+defendant's treatment provider and probation officer or the Court.
+■ Submit blood or buccal sample and thtmibpnnt pursuant to ORS 137.076.
+Jail as a Condition of Probation
+Be confined to the jail for 10 day(s). Defendant may receive credit for time served. The defendant may be
+considered by the supervisory authonty for any form of alternative sanction authorized by ORS 423.478, and
+defendant shall pay any required per diem fees.
+Monetary Ternis
+Defendant shall be required to pay the followmg amounts on this count:
+Fees and Assessnients: Payable to the Court
+Type
+Amount
+Modifter
+Reduction
+Actual Owed
+Unitary AssessmenI
+S107.00
+Waived
+ 107.00
+Total
+ 107.00
+$107.00
+Court appointed attomey fees waived.
+Compensatory Fine/Restitution:
+Restitution is ordered to be paid to the court and disbursed to the payee(s) named below.
+Payee
+Not To Exceed
+Amount
+Rick Kisfel
+N
+$250.00
+$5,779.83
+Safeco Insurance
+N
+Total
+$6,029.83
+COUNTS DISPOSED WITH NO CONVICTION
+All remainmg counts are dismissed for the followmg reason: per plea motion.
+MONEY AWARD INCLUDING RESTITUTION
+Judgment Creditor: State of Oregon
+Judgment Debtor: Heidi Louise Taft
+Restitution
+Pege2af3
+Documenf Type: JtJdgmenf
+s/ '- of Ofogon нт Louise re/r, No o r ■Г73
+i
+Payee
+Aniount
+Rick Kisfei
+Safecc Insurance
+3250.00
+35,779.83
+Payees are to be paid as ordered Ullder MonetaIy T
+Type
+erms.
+Actual Owed
+Reslltulion
+36,029.83
+Total
+36,029.83
+Money Award total does
+not illclude reduced amounts of $107.00 as stated in the individual
+counts.
+judg™». doc en, ev.„ if u,e ал=ош.,«	„ d. <,cp;l: г с“е«гс1:г '”™
+conviodon(s) of. violation, winch is incindcd in the Mone, Awatd, cteates a
+on
+Paynlent Schedule
+Payment of the fmes, fees
+Award shall be made as follows;
+, and/or attolney's fees noted in this and any subsequent M
+assessments
+oney
+Mmimntn payments are b he schedoled hy the ptohation oflicer putauant to OKS 161.675.
+Payable to:
+Multnolnah County Circuit Court
+p.o. Box 114
+Portland, OR 97207
+Dated the 10 
+,20 Ô1
+day of
+Â
+
+Signed:
+(JAUKÆ 
+Ajz
+ADRIENNE NELSON
+J
+Роде  of 3
+Documonf Type: Judgment
+
+IN THF
+IRCralT CODRT OP THE STATE
+FOR MDLTNONAH CODNTY
+Multnomah County Courthouse
+1021 sw Fourth Avenue, Portland Oregon
+ORIGINATING AGENCY: Portland PD
+’ OREGON
+97204
+NUMBER:	0564921
+STATE OF OREGON,
+) Case # 060834773/2066825-lA
+Plaintiff, )
+)
+) BENCH WARRANT
+) (PROBATION VIOLATION)
+vs.
+HEIDI LOUISE TAFT
+DOB:	1/28/67
+AKA: CPMS 84734
+ADDRESS :
+668 MCVEY AVE #102
+LAKE OSWEGO OR 97034
+)
+Defendant
+)
+CHARGES
+NUMBER OF COUNTS
+Theft-1
+X 1
+SEX:F RACE:Caucasian HAIR:
+state ID:
+ODL:	
+FBI Number:
+EYES:
+HT:506 WT:110
+IN THE NAME OF THE STATE OF OREGON
+TO ANY PEACE OFFICER OF THIS STATE, GPT iî  Tlan;
+It appearing to the court that the above-named defendant was convicted
+of the above-mentioned charges and was placed on probation to:
+ORDERED the defendant's release is hereby revoked and the entire
+security amount, if any, is hereby forfeited.
+It is
+FILED
+sala
+FURTHER ORDERED a warrant be issued for the arrest of
+defendant, and, upon apprehension, be brought before this court.
+JAN 1 2008
+IN THE NAME OF THE STATE OF OREGON
+TO ANY PEACE OFFICER OF THIS STATE, GREETINGS:
+Circuil Courts
+Multlomah County, Oregon
+YOU ARE COMMANDED to arrest the above-named defendant, forthwith,
+and present the defendant before this court to answer this Order;
+or, if this court is absent or unable to act, before the nearest or
+most accessible magistrate in the same county; or, if the court has
+adjourned, to deliver the defendant into the custody of the Jailor of
+Multnomah County, Oregon.
+It is FDRTHER ORDERED security is set in the amount of:
+Motion; Security Denied
+Security
+$
+аЕпк< ТНЕ0сюя(г
+T-r:n;nor1	in/10/07
+DPSST
+DATC-:
+RCVD; 1 q f n 0 7  
+JihTl/Q
+CUJDT:
+Clrr.u	
+СГОТ:	
+AIJTHOr lzED; YES
+ADRIENNE NELSON
+Jud e
+f*
+I
+elNITERBD
+знитт1Е13ЕВУЮЕгоо 
+! IN REGISTER	J
+r
+
+I
+
+I
+. DPSST:
+orc: DPST:
+\
+I
+
+I
+IN THE CIRCUIT AND DISTRICT COURT OF THE STATE OF
+FOR MULTNOMAH COUNTY
+OREGON
+STATE OF OREGON,
+)
+CASE #060634773/01
+DA #
+)
+)
+V.
+)
+MOTION, AFFIDAVIT AND ORDER
+FOR JIJDICIAL SUPERVISION
+PROBATION VIOLATION WARRANT
+TAFT, Heidi Louise
+)
+Defendant:
+MOTION AND AFFIDAVIT
+I, the undersigned, being first duly swom, do depose and say:
+1.
+a duly employed Parole and Probation Officer of the Clackamas
+I am
+County
+Department of Community Corrections and in that capacity I have been assigned
+to supervise the above defendant's probation.
+That the Probation Judge Assigned to this case is Judge Nelson.
+That the attached report (incorporated by reference in this affidavit) alleges
+the defendant has violated conditions of probation, either as set by ORS
+137.540 or as imposed by the Court, and I make this affidavit in support of a
+motion requesting the Court for an order directing:
+2.
+3.
+The issuance of a Judicial superviBion Probation Violatioll
+arrest of the defendant, to •be brought before the Court to show cause why
+probation should not be revoked.
+Warrant for the
+
+OFFICIAL SEAL
+Parole and Probation Officer for Clackamas County
+2001
+/
+
+
+SIGNED AND A'
+, 20  7 .
+ore me thi
+day of
+1:..
+
+
+'A
+Approveciby....s1 ervis'6  (Sign in Biue Ink)
+IT IS HEREBY ORDERED, based on the motion and affidavit of the above Parole/Probation
+Officer, that the Clerk of the Court be, and hereby is, directed to issue a Judicial
+Supervision Probation Violation Warrant for the apprehension of the above-named defendant
+to be brought before the Court to show cause why probation should not be revoked.
+Notary Public for Oxygon
+SECURITy :
+Security
+[) Is Set At $
+Еепъеь; Defendant To Be Held Without
+\ол 'b']
+
+
+в'
+Date signed
+■obation Judg 
+ADMINISTRATIVE INFORMATION (Check One) :
+[] Unlimited [] Shuttle
+[] Oregon
+03-50	(2/95)
+WARRANT)
+Distribution By Judge's Staff:
+Original - Court
+Copies - MCSO Warrants (copy should be attached to original warrant) , DA, Probatlion
+Officer, Probation Judge
+MOTION,
+AFFIDAVIT AND ORDER (JUDICIAL SUPERVISION PROBATION
+VIOLATION
+</textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+
+        </div>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Header, Footer and Watermark</h3>
+                <!--!<div id="content"> -->
+                <textarea class="form-control" cols="150" rows="30" id="HeaderFooterWatermark"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>URL HYPERLINKS</h3>
+                <!--!<div id="content"> -->
+                <textarea class="form-control" cols="150" rows="30" id="Hyperlink"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Specific Excel Rows</h3>
+                <!--!<div id="content">  -->
+                <textarea class="form-control" cols="150" rows="30" id="SpecificRows"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+    </div>
+
+</body>
+</html>
