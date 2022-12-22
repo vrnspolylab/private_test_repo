@@ -1,0 +1,185 @@
+<html>
+<head>
+    <title>Result</title>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="./resources/bootstrap-3.3.5-dist/css/bootstrap.min.css">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="./resources/bootstrap-3.3.5-dist/css/bootstrap-theme.min.css">
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="./resources/bootstrap-3.3.5-dist/js/bootstrap.min.js"></script>
+
+    <style>
+        #content {
+            background-color: #FCFCFC;
+            border: 1px solid #999999;
+            padding: 10px 10px;
+            -moz-border-radius: 4px;
+            -webkit-border-radius: 4px;
+            border-radius: 4px;
+            /*IE 7 AND 8 DO NOT SUPPORT BORDER RADIUS*/
+            opacity: 0.87;
+            -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity = 87);
+            /*-ms-filter must come before filter*/
+            filter: alpha(opacity = 87);
+            /*INNER ELEMENTS MUST NOT BREAK THIS ELEMENTS BOUNDARIES*/
+            /*All filters must be placed together*/
+
+        }
+
+        #infodiv
+         {
+
+
+            border: 0px rgb(89,89,89) solid;
+
+            background: rgb(234, 234, 228);
+
+        }
+    </style>
+</head>
+<body>
+    <center><h1>Data Extraction - Result</h1></center>
+    <div class="container">
+        <hr>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <dl class="dl-horizontal">
+                    <dt>File name:</dt>
+                    <dd>hair.jpg</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Provider name:</dt>
+                    <dd>AbbyyProvider</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Created On:</dt>
+                    <dd>8/12/2020 4:53:37 PM</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Extraction duration:</dt>
+                    <dd>00:00:01.1249374</dd>
+                </dl>
+            </div>
+            <div class="col-md-1"></div>
+
+        </div>
+        <hr>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Extended Attributes</h3>
+                <div id="attributes"></div>
+            </div>
+            <div class="col-md-1"></div>
+        </div>
+        <div class="row" >
+            <div class="col-md-1" ></div>
+            <div class="col-md-9">
+                <h3>Content</h3>
+                <!--!<div id="content">  -->
+                <textarea class="form-control" cols="150" rows="30" id="content">D le шгпт
+Time 09:22 AM
+I
+Itoom. i
+Cti np. 6СООЗОШ4
+iÉeb.
+DISTRICT COURT OF MARYUAND FOR BALTIMORE COUNTY
+Loeatcd al oo WALKBR AVBN'UE, CATONSVIl.LE, MD 21:2s
+STATE OF MARYLARD vs.   AJOR, MICHAEL DEAN
+
+
+НА1ЕТЯ0т MD 212270000
+Locm:272474
+vofllthi: I401E.
+cc 4:091221451
+Eyev 8L1; H4lc:BKN Hclohl. 5-0S'
+2 Sey MDOB.OS117/19SO DL4’
+SID:
+DEFENDANT TRIAI, SUMMARV
+Tl sbovs csso  Rshcsld today, cl7/:’2/2009 by Judge BRb'CE SEWELL LAMDIN
+The Court's Endiog is as follows:
+Chargea 001СЛБ CODE г 5010 was AMEKDED10C2I5 CODE 10521.
+Origirlal eharge: TNEPTILESS 5500 VALUE.
+Aolellded chBrgc: ТНЕГТ LESS THAN 5100.00.
+001 THEn'LESSTHAN 5100.00
+Plea • OU1LTY Verdicl • PROBATION BEFORF. JUDOMEhn'
+Sentenee 1 day.
+Froballon for 1 day, eoltitneneing today. tobeuasuparvisad
+Crtniinal Ena $0 00 $0.00 suspendad.
+002 CDS: FOSSESSloN-MAJUmJANA
+Plea • OTHERPLEA Verdict ■ NOLLE PROSEOUl
+:crin1inal eost 522.50,522.50 suspendad; CICF 555.00,535.00 susperrded; suspondod dua to mdigcr,ey.
+1  9DERSTAND THE VERDICT AND SENTENCE OF THE COURT AND PROMISE TO COMPLY AS
+ioRDERED:
+ 0 oblerve and fbilow th  conditions of probation as indicated above and/or on the auached Defendant Prob lon
+Sumnlary. I furthcf understand that by consenting to and receiving a probalion beforejudgrnent I waive my nght \p
+dp l and that my Silure to abida by the eonditions aat by the Court may resull ir judgment being entered against
+>фе and Court proceeding aa If I had been found guilly.
+r
+/
+07 r2eo9 Defendim
+IVSFENDel).
+1r yoll III eenviells or a inilcllnolnor CUHW invowina viololoe v,110ro yoo iro or wetl I inouw. cmimlll plltcicl, PMVIl, or llllrllioll of 1  viotirl
+arireorwore iovolves 10 loolllor. Ilmllor rolltlolll.’lirr ith Ihcyiclllo, It nlly Oogollwrolfor you to possoll orpurohutoo llroomi.rficlulltlsl
+Г|ГВ, рию1, or Tevolint, or immonition, porsuom 10 fidirll lllr IJPllor 1 s и s c 922uy91 If ylw h»'r' •'•y	“PIIIlM *050 '»« ln»»o tl
+tllepi Гог to po sool огрмр о о I nrttnit. YTHI <]50M*d oooiull tn iRISme 
+Ш
+(MAJOK MtcHAEL DEAN)
+Yoo DC <0|||Ы 10	ehif ceoopd ond Hiy DNA Sompk lAd DNA Itoto d	10 tbt СН0|Д0 e< otlorlcl oaolMI   1Г y<AI mom
+I lpiD CCIDdinolbl. Гупьег mformolioD Oh CRPUnleDom it eoolllnod iri % bpocKDro OVIlloblo Bt Ihc Clorllt 01ОЛ Olll VFebfIlc 41
+oovrllFute.nld.yt dlltTICl,
+TraekiDaNUI ошогббгбб
+</textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+
+        </div>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Header, Footer and Watermark</h3>
+                <!--!<div id="content"> -->
+                <textarea class="form-control" cols="150" rows="30" id="HeaderFooterWatermark"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>URL HYPERLINKS</h3>
+                <!--!<div id="content"> -->
+                <textarea class="form-control" cols="150" rows="30" id="Hyperlink"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Specific Excel Rows</h3>
+                <!--!<div id="content">  -->
+                <textarea class="form-control" cols="150" rows="30" id="SpecificRows"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+    </div>
+
+</body>
+</html>
