@@ -1,0 +1,697 @@
+<html>
+<head>
+    <title>Result</title>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="./resources/bootstrap-3.3.5-dist/css/bootstrap.min.css">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="./resources/bootstrap-3.3.5-dist/css/bootstrap-theme.min.css">
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="./resources/bootstrap-3.3.5-dist/js/bootstrap.min.js"></script>
+
+    <style>
+        #content {
+            background-color: #FCFCFC;
+            border: 1px solid #999999;
+            padding: 10px 10px;
+            -moz-border-radius: 4px;
+            -webkit-border-radius: 4px;
+            border-radius: 4px;
+            /*IE 7 AND 8 DO NOT SUPPORT BORDER RADIUS*/
+            opacity: 0.87;
+            -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity = 87);
+            /*-ms-filter must come before filter*/
+            filter: alpha(opacity = 87);
+            /*INNER ELEMENTS MUST NOT BREAK THIS ELEMENTS BOUNDARIES*/
+            /*All filters must be placed together*/
+
+        }
+
+        #infodiv
+         {
+
+
+            border: 0px rgb(89,89,89) solid;
+
+            background: rgb(234, 234, 228);
+
+        }
+    </style>
+</head>
+<body>
+    <center><h1>Data Extraction - Result</h1></center>
+    <div class="container">
+        <hr>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <dl class="dl-horizontal">
+                    <dt>File name:</dt>
+                    <dd>gary-ruffcorn-part-b.pdf</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Provider name:</dt>
+                    <dd>AbbyyProvider</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Created On:</dt>
+                    <dd>8/12/2020 4:53:22 PM</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Extraction duration:</dt>
+                    <dd>00:00:14.0713446</dd>
+                </dl>
+            </div>
+            <div class="col-md-1"></div>
+
+        </div>
+        <hr>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Extended Attributes</h3>
+                <div id="attributes"></div>
+            </div>
+            <div class="col-md-1"></div>
+        </div>
+        <div class="row" >
+            <div class="col-md-1" ></div>
+            <div class="col-md-9">
+                <h3>Content</h3>
+                <!--!<div id="content">  -->
+                <textarea class="form-control" cols="150" rows="30" id="content">SUPERIOR COURT OF WASmNGTON FOR KING COUNTY
+.)
+STATE OF WASHINGTON,
+)
+Plamtiff, ) No. 07-1-01979-7 SEA' .
+)
+)	JUDGMENT AND SENTENCE
+) APPENDIX H
+) COMMUNrrY PLACEMENT OR
+) COMMUNTrY CUSTODY
+vs.
+GARY LEE RUFFCORN
+Defendant,
+Tbe Defendant shall comply with the followmg conditions of commllnity placement or comm.unity custody pursuant
+to RCW 9.94A.700(4), (5):
+1)	Report to and be available for contact widi the assigned community corrections ofhcer as directed;
+2)	Work at Departnient of Corrections-approved education, ell loyment, and/or colhmunity service;
+3)	Not possess or consume controlled substances except pursuant to lawtully issued prescriptions;
+4)	Pay supervision fees as detelmmed by the Department of Corrections;
+5)	Receive plior approval for living alrangements and residence location;
+6)	Not own, use, or possess a firearm or ammunition. (RCW 9.94A,720(2));
+7)	Noti:  comm.unity corrections ошсег of any change in address or en loyment; and
+8)	Remain within geographic boundary, as set forth m writmg by the Department of Colrections Ofdcer or as set
+forth witll SODA order.
+OTHER SPECIAL CONDITTONS:
+[ l> he defendant shall not consurQe an
+  :1< -Defendant shall have no contact
+
+I ] Defendant shall remain [ ] withm [ ] outside of a specified geographical boundary, to wit:
+[b> Th d ndant shah participate m the following crime-related heatment or counselmg seryices:.	
+[	] The defendant shall comply with the following crime-related prohibitions:
+Гр
+[ ]
+other conditions may be in osed by the court or D artment dunng comnlunity custody.
+Commullity Placement or Community Custody shall begin upon coirpletion of the term(s) of conEnement imposed
+herem or when the defendant is transferred to Community Custody m lieu of eamed early release. The defendant
+shall remaiQ under the supervision of the Department of Colrections and follow explicitly die mstmctions and
+conditions estabhshed by that agency. The Department may require the defehdant to perform a rnlative acts
+deemed appropriate to monitor coinpliance with the conditions [RCW 9.94A.720] and may issue warrants and/or
+detam defendants who violate a condition [RCW 9.94А.740].
+w
+Date:
+JUDGE
+APPENDIX H- Rev. 09/02
+STATE’S SENTENCE RECOMMENDATION
+(USE FOR NON-SEX OFFENSE, NON-DOSA SENTENCES OF OVER ONE YEAR ONLV)
+Date:
+
+
+çiÆ lYK)
+
+
+Defendant:
+Cause No.:
+
+The State œ lflmendsjhaf'th  defendant be sentenced to a terTn of total confinement in the pepartment of Corrections as, follows:
+bn
+ПТ
+or Count A.
+mon
+ays on Count
+m
+on Count  \ / \/
+itll credit for time sefved as provided under RCW 9.94A.505. Tenns to be ser t 'c currenti onsecutiveiv with each other,
+served concurrently/consecutively with:	' —	 
+ on days on Count
+WI
+TenTls to be
+_Terms to be consecutive to any other terrn(s) not specifically referred to in th.is form.
+□ WEAPONS ENHANCEMENT-RCW9.94A.5I0:
+ehhancement time:
+The above recommended term(s) of confinement do not include the following weapons
+	months for Ct.	,	months for Ct.	,
+without good time and served consecutive to any other term of confinement
+months for Ct.
+; which is/are mandatory, served
+CONFINEMENT recommended in this cause, mcluding all counts and enhancements-is pj  
+months.
+M his is an agreed recommendation.
+□ Defendant is legany eligib  for WÔRK ETHIC CAMP - RCW 9.94A.690 (range at least 12 months   1 day, not more than 36 months, curTent
+offense IS not VUCSA or VUCSA Sollcitatlon for cnmes affer Juiy 25,1999; no curTent or prior sex or violent offense) and State recommends WEC.
+□ Work Ethic Camp is not recommended because
+NO OFFENDER SENTENCE ALTERNATIVE ( A) - RCW 9.94A.660:
+ - efei ant IS not legally ehgible for DOSA becaus  urrent sex or violent offense; □ pnor violent offense within 10 years or any prior
+/ sex offense; □ % apon enhancement; □ subject to final deportation order; □ not small quantity of drugs; □ more than one prior DOSA
+wnhin 10 years; D felony DUI or physical control.
+□ Defendant is eligible but DOSA is not recommended because
+°nte c 	fo hT th  tt 'T d f	sentence, and the substantial and compelling reasons for departing h-om the presumptive
+CONTACT:	contact, direct or indirect, in person, Ш wnting, by telephone, or through third
+parties, with:
+MONETARV PAVMENTS:
+up to 10 yetu
+Defendant shal l make the following monetary payments under the supervision of the Department of COITections for
+-ursuant to RCW 9.94A.753 and RCW 9.94A.760.	.
+ Restitution as set forth in the “Plea Agreement” page and p Appendix c.
+X Court costs; mandatory S500 Victim Penaity Assessment; recoupment of cost for appointed counsel; s 100 DN A coliection fee
+□	King County Loca! Drug Fund s	; □ SI 00 lab fee (RCW 43.43 690)
+° Fine of $		; □SI,000 fine for VUCSA; □.S2,000 fine for subsequent VUCSA.
+□	Costs of incarceration in K.c. Jail at $50 per day (RCW 9.94A.760(2)).
+□	Emergency response costs s	(RCW 3.8.52.430); □ Extradition costs of s
+□ Other
+COMM UNITV CUSTODY - RCW 9.94A.715: for qualifying cnmes committed on or afler July 1,2000, the defendant shall serve a term of -
+community custody for the penod set forth bejow, or the entire penod of eamed eariy release, whichever is longer.
+□ Senous violent offense: 24-48 months □ Crimes against persons: 9-18 months
+bp iolent offense: 18-36 months	'	□ Violation of Ch. 69.50 or .52: 9 12months
+“f correc.io„s. The s,ate
+  btain an
+
+alcohol/substance abuse evaluation and follow all treatment recommendations; not possess or use alcohol
+П Огьгг-progress in, and'successfully complete Domestic Violence Batterer’s treatment, per WAC 388
+-60.
+
+0 
+
+D f uty Ptibsecuting Attomey, WSBA No.
+
+K1NC COUNTY PROSECUTING ATTORNEY
+Revised 2/2()07
+
+
+
+SUPERIOR COURT OF WASHINGTON FOR KING COUNTY
+)
+STATE OF WASHINGTON,
+)
+' Plamtiff, ) No. 03-1-07722-1 SEA
+)
+) ЛJDGMENT AND SENTENCE
+) FELONY
+Vs.
+)
+GARY L. RUFFCORN
+)
+Defendant,
+I. HEAJRING
+The defendant, the defendant’s lawyer, JOHN HICKS, and the deputy prosecutmg attomey were present at the
+sentencing hearing conducted today. Othel  presen.1 were:					—	
+I.l
+П. FINDINGS
+There being no reason why judgment should not be pronounced, the court finds:
+2.1 CXJRREINT OFFENSE(S): The defendant was found guilty on 12/4/2003 by plea of:
+Crime: DOMESTIC VIOLENCE FELONY VIOLATION OF A COURT ORDER
+Crime Code: 045 8B 			~
+Incident No.			
+Count No.: _i	
+•RCW 26.50.110m
+Date of Crime: 7/21/2003
+Cnme:,
+Count No.:	
+RCW	
+Date of Crime:
+Crime Code:
+Incident No.
+Crime:
+Count No.:	
+RCW	
+Date of Crime:
+Crime Code:
+Incident No.
+Cnme:
+Count No.:	
+RCW	
+Date of Crime:
+Cnme Code:
+Incident No.
+[ ] Additional current offenses are attached in Appendix A
+1
+Rev. 09/02 - fdw
+SPECIAL VERDICT or FINDING(S):
+(a) [ ] While armed with a firearm in count(s)
+■ ] While armed .with a deadly •weapon other than a fnrearm m count(s)
+(c) [ ] With a sexual motivation in count(s)	 			——
+('dl г 1A V.U.C.S.A offense connnitted in a protected zone m count(s)
+r 1 Vehicular homicide [ ]violent traffjc offense [ ]DUI [ ] Reckless t  Dlsreg d.
+(f)	[ ] Vehicular homicide by DUI with	pnorconviction(s) for offense(s) defined mRCW 41.61.5055,
+(g)	[ ] Non Lental Iddnapping or Ulllawful imprisonment with a minor victim. RCW 9A.44.130.
+Ш X Domestic violence offense as defmed Ш RCW 10.99.020 for count(s)_	 —
+(i) [ ] Current offenses encompassing the same criminal conduct m this cause are count(s)
+9.94A.589(l)(a).
+2 2 OTHER CURRENT CONVICTION(S): Other current convictions listed under different cause numbers used
+in calculating the offender score are (list offense and cause number):
+RCW 9.94A.510(3).
+J	RCW9.94A.510(4).
+{b) [
+RCW9.94A.835.
+RCW 69.50.435.
+RCW
+CRIMINAL HISTORY: Pnor convictions constituting crilninal history for purposes of calculating the
+offender score are (RCW 9.94A.525):
+™ on™ofnt add  for offe st(“)to te   while under community placement for eount(s)	
+2.3
+[
+2.4 SENTENCING DATA:
+Maximum
+Term
+Total standard
+standard
+Range
+Seriousness
+Level
+Offender
+Score
+Sentencing
+Data
+Range
+Enhancement
+5 YRS
+AND/OR
+$10,000
+13T017
+MONTHS
+13 TO 17
+MONTHS
+V
+2
+Count I
+Coimt
+Count
+Count
+] Additional current 011еше sentencmg data is attached m Appendix c.
+Appendix D. The state [	] did[ ] did not recommend a simllar sentence.
+[
+2.5
+Ш. HJDGMENT
+IT IS ADJUDGED that defendant is guilty of the current offenses set forth m Section 2.1 above and Appendix A.
+[ ] The Court DISMISSES Count(s)				 			
+2
+Rev. 09/02 - fdw
+
+IV. ORDER
+IT IS ORDERED that the defendant serve the detennmate sentence and abide by the other terms set forth below.
+4.] RESTITUTIONAND VICTIM ASSESSMENT:
+[ ] Defendant shall pay restitution to the Clerk of this Court as set forth m attached Appendix E.
+[ ] Defendant shau not pay restituüon because the Court fmds that extraordinary circumstances exish and the
+court, pursuant to RCW 9.94A.753(2), sets forth those circumstances in attached Appendix E.
+[ ] Restitution to be detemlined at future restitution hearing on (Date)		at	
+[ ]Date to be set.
+[ ] Defendant waives presence at future restitution hearmg(s).
+[X] Restitution is not ordered.
+Defendant shall pay Victim Penalty Assessment pursuant to RCW 7.68.035 m the
+m.
+( $50 
+amount
+4.2 OTHER FINANCIAL OBLIGATIONS: Having considered the defendant’s present and likely futlire
+fmancial resources, the Court concludes that the defendant has the present or likely future ability to pay the
+financial obligations inposed. The Court waives financial obhgation(s) that are checked below because the
+defendant lacks the present and future abihty to pay them. Defendant shall pay the following to the Clerk of this
+Court:
+, Court costs; Court costs are waived; (RCW 9.94A.030, 10.01.160)
+(b) [ 3 $100 DNA collection fee;  DNA fee waived (RCW 43.43.754)(crimes committed after 7/1/02);
+, Recoupment for attorney’s fees to Kmg County Public Defense Programs;
+Recoupment is waived (RCW 9.94A.030);
+(d)	[ 1 $ AJ /А , Eme; [ ]$1,000, FmeforvucsA; [ ]$2,Q00, Fine for subsequent VUCSA;
+[ JVUCSA fine waived (RCW 69.50.430);
+(e)	[ 1$ f /A	, Kmg County Inteflocal Drug Fund; [ ] Drug Fund payment is waived;
+(RCW 9.94A.030)
+(f)	[ 1S л)//1 , state Crime Laboratory Fee; [ ] Laboratory fee waived (RCW 43.43.690);
+, Incarceration costs;   Incarceration costs waived (RCW 9.94A.760(2));
+,■Other costs for:			i					
+(a) [ ]$
+(c) [ ]$
+(g) [
+(h) [ ]$.
+4.3 PAYMENT SCHEDULE: Defendant’s TOTAL FINANCIAL OBLIGATTON is: $
+payments shall be made to the King County Supenor Court Clerk according to the rules of the Clerk and the
+following tenns: [ ]Not less than $	per month;	On a schedule established by the defendant’s
+Commumty COITections Officer. Fmancial obligations shall bear interest pursuant to RCW 10.82.090. The
+Defendant shall remain under the Court’s jurisdiction and the supervision of the Department of
+Corrections for up to ten years from the date of sentence or release from confinement to assure payment
+of finandal obligations.
+Court Clerk’s tnjst fees are waived.
+Interest is waived except with respéct to restitution.
+. The
+Rev. 09/02 - fdw
+3
+CONFINEMENT OVER ONE YEAR: Defendant is sentenced to a tenn of total confmement in the custody
+of the Department of Corrections as follows, commencmg: [ immediately; [ ](Date): __—__—		
+4.4
+by
+.m.
+/    юпш ауэ on count   ;
+months/day on count
+months/days on count
+months/day on count
+months/days on count
+months/days on count
+are consecutive / concurrent.
+The above terms for counts _
+The above terms shall run [ ] CONSECUTIVE [Ж] CONCUREENT to cause No.(s)
+P J ÙÀ   штлшк. -'TU.	’7	OP-H 
+The above terms shall lun[ ] CONSECUTIVE [	] CONCURRENT to any prevlouslymiposed sentence not
+referred to in this order.
+[ ] In addition to Ihe above term(s) the court imposes the following mandatory terTns of confmement for any
+special WEAPON findmg(s) in section 2.1 :		—						
+
+which term(s) shall run consecutive with each other and with all base term{s) above and terms in any other
+(Use this section only for crimes committed after 6-10'98)
+[ ] The enhancement term(s) for any special WEAPON Endings m section 2.1 is/are included within the
+term(s) imposed above. (Use this section when appropriate, but for crimes before 6-11-98 only, per In 
+Charles')
+cause.
+/5
+months.
+The TOTAL of all terms imposed m this cause is
+Credit is given for rxl f	days served [ ] days as. determined by the King County Jail, solely for
+confinement under this cause number pursuant to RCW 9.94A505(6).
+4.5 NO CONTACT: For the maximum telm of   yj
+ears, defendant shall have no contact with.
+PNA TESTING. The defendant shall have a biological sample collected for purposes of DNA identiEcation
+analysis and the defendant shall fully cooperate in the testing, as ordered in APPENDIX G.
+[ ] HIV TESTING: For sex offense, prostitution offense, dmg offense associated with the use of
+hypodermic needles, the defendant shall submit to HIV testing as ordered in APPENDIX G.
+(a)	[ ] COMMUNITY PLACEMENT pursuant to RCW 9.94A.700, for qualifying crimes committed
+before 7-1-2000, is ordered for	months or for the period of eamed early release awarded pursuant
+to RCW 9.94A.728, whichever is loneer. [24 months for any senous violent offense, vehicular homicide,
+vehicular assault, or sex offense prior to 6-6-96; 12 months for any assault 2°, assault of a child 2 , felony
+violation of RCW 69.50/52, any cnme against person deEned m RCW 9.94A.411 not otherwise described
+above.] ' APPENDIX H for Community Placement conditions is attached and mcorporated herein.
+(b)	[ ] COMMUNITY CUSTODY pursuant to RCW 9.94.710 for any SEX OFFENSE committed after
+5_5_96' but before 7-1-2000, is ordered for a period of 36 months or for the penod of earned early release
+awarded under RCW 9.94A.728, whichever is loneer. APPENDIX H fpr Community Custody Conditions
+and APPENDIX J for sex offender registration is attached and incorporated herein.
+4.6
+4.7
+4
+Rev. 09/02 - fdw
+(с) COMMtJNrrY CUSTODY - pursuant to RCW 9.94A.715 for qualifying cnmes committed
+after 6-30 2000 is ordered for the following established range:
+[ ] Sex Offense; RCW 9.94A.030(38) - 36 to 48 months—when not sentenced under RCW 9.94A.712
+[ ] Senous Violent Offense, RCW 9.94A.030(37) - 24 to 48 months
+[ ] Violent Offense, RCW 9.94A.030(45) - 18 to 36 months
+Crime Against Person, RCW 9.94A.411 - 9 to 18 months
+[ ] Felony Violation ofRCW 69.50/52-9 to 12 months
+or for the entire penod of eamed early release awarded under RCW 9.94A.728, whichever is lon.ger.
+Sanctions and punishments for non-compliance will be imposed by the Department of COITections pursuant
+to RCW 9.94A.737.
+[X]APPENDIX H for Community Custody conditions is attached and incorporated herem.
+[ ] APPENDIX J for sex offender registration is attached and incorporated herem.
+4 8 [ ] WORK ETHIC CAMP: The court fmds that the defendant is eligible for work ethic can: , is likely to
+qualify under RCW 9.94A.690 and recommends that the defendant serve the sentence at a work ethic camp,
+upon successful completion of this program, the defendant shall be released to community custody for any
+remaining time of total confinement. The defendant shall comply with all mandatory statutory requirements
+community custody set forth Ш RCW 9.94A.700. Appendix H for Community Custody Conditions IS attached
+and incorporated herein.
+of
+[ ] ARMED CRIME COMPLIANCE, RCW 9.94A.475,.480. The State’s plea/sentencing agreement is
+[ jattached [ ]as follows:
+4.9
+The defendant shau report to an assigned Community Corrections Ofncer upon release from confmement for
+monitoring of the remaining terms of this sentence.
+Ptc-. II . 2 0 3
+tv\
+Date:,
+JUDGE \\ \
+Print Нател\
+Approved as to form:
+Presented by:
+âu
+
+Attomey for liefeDlant 'w SB АД__
+prmtName:	J C'	I .
+
+DeBtî   s utibg Attomev WSBA#  y o
+Priw Narnev—Hd И4 V	b	
+, 5
+Rev. 09/02 - fd'w
+FINGERPRINTS
+
+
+
+
+
+ШЁ
+
+
+
+m.
+i
+
+
+Â
+
+’Ш.
+DEFENDANT’S SIGNATURE:
+DEFENDANT
+1
+RIGHT HAND
+FINGERPRINTS OF:
+r.'t. r
+ADDRE
+yj
+
+4A
+GARY LEE RUFFCORN
+\\ÇC. 19 ?ппз
+ATTESTED BY: BARBARA MINER,
+SUPERIOR COURT CLERK
+DATED :
+BY:
+DEPUTY CLERK
+eouNTY SUPERIOR COURT
+
+Д1
+JUD
+OFFENDER IDENTIFICATION
+CERTIFICATE
+S.I.D. NO. WA12705047
+I,
+CLERK OF THIS COURT, CERTIFY THAT
+THE ABOVE IS A TRUE COPY OF THE .
+JUDGEMENT AND SENTENCE IN THIS
+ACTION ON RECORD IN MY OFFICE.
+DATED :
+DOB: MAY 12,	1949
+SEX: M
+RACE: w
+CLERK
+z
+BY:
+ERK
+P'
+
+
+SUPEIUOR COURT OF WASHINGTON FOR KING COUNTY
+)
+STATE OF WASHINGTON,
+)
+) No. 03-1-07722-1 SEA
+) JUDGMENT AND SENTENCE,
+) (FELONY) - APPENDIX в,
+) CRIMrNAL HISTORY
+Plaintiff,
+vs.
+GARY L. RUFFCORN
+)
+).
+Defendant,
+defendant has the fonowing criminal history used in caicniating the offender score (RCW
+2.2 The
+9.94A.525):
+Adult or Cause
+Juv. Cnme Number
+ADULT
+ADULT
+Sentencing
+Date
+9/22/1997
+7/27/1990
+Location
+97100001.8 CHELAN CO
+901001091 SKAGIT CO
+Crime
+ESCAPE 2    DEGREE
+VEHICULAR ASSAULT
+as one offense in deterrmning the offender score (RCW
+I ] The following pnor convictions were counted
+9.94A.525(5)):
+
+/Lc.- хг 'юо' 
+. Date:
+OUNTY SUPERIOR COURT
+JUDGE, K.
+
+Appendix в—Rev. 09/02
+SUPERIOR COURT OF WASHINGTON FOR KING COUNTY
+)
+STATE OF WASHrNGTON,
+)
+No. 03-1-07722-1 SEA
+Plaintiff, ,	)
+)
+APPENDIX G
+OPDER FOR BIOLOGICAL TESTING
+AND COXJNSELING
+)
+.vs.
+)
+)
+GARY L. RUFFCORN
+)
+)
+Defendant,
+)
+(1)	DNA IDENTIFICATION (RCW 43.43.754):
+The Court orders the defendant to cooperate with the King County Department of Adult
+Detention, King County Sheriffs Office, and/or the state Départent of Corrections Ш
+providing a blological sample for DNA identification analysis The defend  if of
+custody, shall promptly call the King County Jall at 296-1226 between 8.00 a.m. and 1.00
+, to make arrangements for the test to be conducted within 15 days.
+(2)	□ HIV TESTING AND COUNSEUING (RCW 70.24.340):
+(Required for defendant convicted of sexual offense, drug offense associated with the
+f hypodermic needles, or prostitution related offense.)
+The Court orders the defendant contact the Seattle-King County Health Department
+and participate in human immunodeficiency Yirus (HIV) testing and counselmg m
+accordance with Chapter 70.24 RCW. The defendant, if out of custody, shall prompüy
+call Seattle-King County Health Department at 205-7837 to make arrangements for the
+test to be conducted within 30 days.
+p.m.
+use о
+If (2) is checked, two mdependent biological samples shall be taken.
+Pfc.
+
+Date:
+i\ng County Supenor Court
+JUDGE,'
+APPENDIX G—Rev. 09/02
+SUPERIOR COURT OF WASHINGTON FOR KING COUNTY
+)
+STATE OF WASHINGTON,.
+•)
+No. 03-1-07722-1 SEA
+Plaintiff, )
+)
+JUDGMENT AND SENTENCE
+APPENDIX H
+COMMUNITY PLACEMENT OR
+COMMUNITY CUSTODY
+)
+vs.
+)
+)-
+GARY L. RUFFCORN
+)
+)
+Defendant,
+ply with the followmg conditions of community placement or commtmity custody pursuant
+The Defendant shall com
+to RCW9.94A.700(4), (5):
+1) Report to and be available for contact w.tlr the assigned COImnunity
+n Work at Depaltment of Corrections-approved educaüon, employment. and/or community service,
+3 Not possess or consume controlled substances except pursuant to lawfully issued prescnptlons,
+41 Pay supervision fees as detennmed by the Department of Corrections.
+5) Receive prior approval for livmgarlangements and resldence ocahon
+6') Not own use, or possess a firearm or animunmon. (RCW 9.94A. /2U( }),
+■ Notify commumty corTections officer of any change m address or   "p ‘   “l’ COITections Gfficer
+8) Reirmin within geographic boundary, as set forth Ш wnting by the Department of CorTections ОШ
+forth with SODA order.
+OTHER SPECIAL CONDITIONS:
+[	] The defendant shall not consume any alcohol.
+[	] Defendant shall have no contact with:
+[	] Defendant shall remain [	] within
+[	] The defendant shall participate
+7)
+or as set
+[	] outside of a specified geographical boundary, to wit:
+in the followmg crime-related treatment or counsehng
+services:
+ply with the following crime-related prohibitions:
+[ ] ,The defendant shall com
+
+у ил.
+
+
+PO
+other condittons may be imposed by the oourt or Department duriug community custody.
+
+deemed appropriate to monitor compliance
+detain defendants who violate a condiüon [RCW 9.94A.740J.
+Ib.tocfh
+p 1 v v\
+
+Date:.
+JU]
+APPENbIX H- Rev. 09/02
+</textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+
+        </div>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Header, Footer and Watermark</h3>
+                <!--!<div id="content"> -->
+                <textarea class="form-control" cols="150" rows="30" id="HeaderFooterWatermark"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>URL HYPERLINKS</h3>
+                <!--!<div id="content"> -->
+                <textarea class="form-control" cols="150" rows="30" id="Hyperlink"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Specific Excel Rows</h3>
+                <!--!<div id="content">  -->
+                <textarea class="form-control" cols="150" rows="30" id="SpecificRows"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+    </div>
+
+</body>
+</html>

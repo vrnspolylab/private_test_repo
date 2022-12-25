@@ -1,0 +1,408 @@
+<html>
+<head>
+    <title>Result</title>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="./resources/bootstrap-3.3.5-dist/css/bootstrap.min.css">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="./resources/bootstrap-3.3.5-dist/css/bootstrap-theme.min.css">
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="./resources/bootstrap-3.3.5-dist/js/bootstrap.min.js"></script>
+
+    <style>
+        #content {
+            background-color: #FCFCFC;
+            border: 1px solid #999999;
+            padding: 10px 10px;
+            -moz-border-radius: 4px;
+            -webkit-border-radius: 4px;
+            border-radius: 4px;
+            /*IE 7 AND 8 DO NOT SUPPORT BORDER RADIUS*/
+            opacity: 0.87;
+            -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity = 87);
+            /*-ms-filter must come before filter*/
+            filter: alpha(opacity = 87);
+            /*INNER ELEMENTS MUST NOT BREAK THIS ELEMENTS BOUNDARIES*/
+            /*All filters must be placed together*/
+
+        }
+
+        #infodiv
+         {
+
+
+            border: 0px rgb(89,89,89) solid;
+
+            background: rgb(234, 234, 228);
+
+        }
+    </style>
+</head>
+<body>
+    <center><h1>Data Extraction - Result</h1></center>
+    <div class="container">
+        <hr>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <dl class="dl-horizontal">
+                    <dt>File name:</dt>
+                    <dd>g.pdf</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Provider name:</dt>
+                    <dd>AbbyyProvider</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Created On:</dt>
+                    <dd>8/12/2020 4:52:50 PM</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Extraction duration:</dt>
+                    <dd>00:00:03.9645847</dd>
+                </dl>
+            </div>
+            <div class="col-md-1"></div>
+
+        </div>
+        <hr>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Extended Attributes</h3>
+                <div id="attributes"><table class="table table-hover"><thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Value</th>
+                </tr>
+            </thead>
+            <tbody>
+<tr><td>creation date</td><td>5/8/2017 7:54:27 AM</td></tr>
+<tr><td>revision date</td><td>5/8/2017 7:54:27 AM</td></tr>
+<tr><td>publisher</td><td>EPSON Scan</td></tr>
+</tbody></table>
+</div>
+            </div>
+            <div class="col-md-1"></div>
+        </div>
+        <div class="row" >
+            <div class="col-md-1" ></div>
+            <div class="col-md-9">
+                <h3>Content</h3>
+                <!--!<div id="content">  -->
+                <textarea class="form-control" cols="150" rows="30" id="content">sp-167(Remed 12-01-2012)
+CRIMINAL msTORY RECORD NAME SEARCH REQUEST	I  11   5 
+I I INTERNATIONAL ADOPTION 	
+ OTHER (please speciiv) (70\yl21~lv:ll c	y
+PURPOSE OF THIS REQUEST (Check only one):
+I I DOMESTIC ADOPTION
+r~l VISA (INTERNATIONAL TRAVEL)
+NAME INFORMATION TO BE SEARCHED:
+LAST NAME
+МАЮЕЫ NAl 
+FIRST NAME
+MmDLE NAME
+
+
+
+	
+J SECURITY NUMBEl
+RACE /
+s rm
+DATE OF вгятн
+SOCIAl
+(MM/DDATYY)
+Д1Л
+AFFIDAVIT FOR RELEASE OF INFORMATION:
+I hereby give consent and authonze the Virginia state Poiice to seart K n fHeQii iyM ra 
+of such search to the agent or individuai authorized in this docum  td e sam /vv "
+|Д	[ County С] City of
+.Criminal Records Exchange for a criminai history record and report the lesuits
+г
+4 -
+Signature /	•
+
+01 га гоп
+state of
+; |) wit:  Subscribed and swom to before те on:
+
+(MM/DD/VVYY)
+of Notary  biic
+mi itr expil :
+
+
+'
+SIGNATURE OF PERSON MAKING REQUEST:	0F
+As provided in Section I9.2-3S9, Code of Virginia. I hereby request the criminaf  Istoly record of the individuai named above and swear or affirm I have the consent of the
+individuai to obtain their record and vviii not further disseminate the information received, except as pm ed by iaw.  
+My legistration # is:
+
+
+г-.
+Signature of Individuai Mai g Request
+; to wit: Subscribed and swom to before me on: 	
+□ County □ City of
+State of
+(мм/DD/YYYY)
+My commission expires:
+My registration и is:
+Signature of Notaly Pubiic
+NAME AND MAILING ADDRESS PF AGENCY, INDIVmuAL OR AUTHORIZED AGENT MAKING REQUEST:
+Maii Repiy To:
+k'. Vl
+Cc,
+Щш
+NAME
+■''ce N
+
+ATTENTIO
+
+ADDRESS
+CITY
+)i' I суп
+
+\
+pnvicB
+* FEES For Voiunteers with Non-Pro  Organizations:
+„  	□$8.00 CRIMINAL HISTORY SEARCH
+ $20.00 COMBINATION CRIMINAL HISTORY &: SEX OFFENnEP SEARCH   $!6.0n COMBINATION CRIMIN.AL HISTOP,y ir. SEXJIFFENDER SE.ARCH
+* To be entitled to reduced pnce, services must be on volunteer basis for a non-probt organization witll a tax exempt number. Attacb documentation to form which supports volunteer status and include
+orcanization*s name, address. and the tax exempt identi6cation number.
+
+FEES FOR SERVICE:
+у
+□$15.00 CRIMINAL HISTORY SEARCH
+METHOD OF PAYMENT: (Note: Personal Checks   Accepted)
+Business or Certified check or Money order (payable to Virginia State Poiice)
+ГНАНГ-ЕC.ARD: □MasterCard Ш1 OR nvisa |УЛД!
+Expiration:
+Mail Request To:
+Virginia State Police
+Central Criminal Reeords Exchange - NF
+p. 0. Box 85076
+Richmond, Virginia 23261-5076
+/
+Account Number:
+Signature of Cardhoider: 	
+I I Virginia State Poiice Charge Account Number:
+ATTN: NEW FORM
+FOR STATE POLICE USE ONLY - DO NOT WRITE BELOW THIS LINE
+Response based on comparison of name information submitted in request against a master name index maintained in the Centrai Criminai Records Exchange oniv.
+r~l No Conviction Data - Does Not Preclude the Existence of an Arrest Record
+r~l No Criminal Record - Name Search Only
+  No Sex Offender Registration Record
+□c
+Purpose code:
+r~l No Criminal Record - Fingerprint Search
+ Criminal Record Attached
+□ N
+□0
+Ъ-7ЛЛ
+иргг VC) IC AK7-liA
+Date:
+ By CCRE/
+GNIl.08528.VCIN REPLY
+VAVSP00N3
+THE FOLLOWING RECORD PERTAINS TO SID/VA1991527M
+03/02/2017 PART 1
+VIRGINIA CRIMINAL RECORD
+SID: VA1991527M FBI: 5146IJD9
+NAMES RECORDED IN VIRGINIA FILES:
+KENSTON
+KENSTON
+SEX RACE DATE OF BIRTH
+M A
+M A
+YI
+YI
+KANGSON
+HEIGHT WEIGHT EYES HAIR SCARS/MARKS/TATTOOS
+5'05"	145	BRO	BRO
+LAST REPORTED ADDRESS:
+9238 CARDINAL FOREST LANE UNIT
+LORTON, VA 22079
+PLACE OF BIRTH: SOUTH KOREA
+CITIZENSHIP: UNTD STATES AMERICA IIN: NONE
+SOCIAL SECURITY NO(s):
+■k-ki icicicic'k -kic-kir'k-k-k-k-kir-kir-kic-k-kickic-kic-k-kicic-kic
+■k
+=>CONVICTED FELON<=
+FELONY CONVICTIONS:
+■k
+•k
+2 *
+■kk-kkkkk-k-kkk-k-kkkkkkkkkk-kkkkkk-kkkkk-kk-k
+CONTRIBUTOR/CAS E
+CHARGE/DISPOSITION
+DATE
+
+
+
+06/14/2010 FINGERPRINTED PHOTO:Y PALMS:Y
+OCA:3102997
+06/14/2010 CHARGED WITH
+#001 FELONY 18.2-32
+MURDER : 2ND DEGREE
+FAIRFAX CO
+11/04/2011 GUILTY
+==> FELONY 18.2-154
+PD FAIRFAX CO VA
+ORI:VA0290100
+MUR-0925-F2
+OTN:059JM1951006252
+06/13/2010
+FAIRFAX CO CIR CT
+ORI:VA029015J
+CCN:059CR10F0013701*
+MUR-0925-F2
+SHOOT/THROW 0 OCCUPIED VEH ETC-DELIBRATE DEATH
+2 0 YRS
+IMPOSED
+PENITENTIARY
+RETAINED ATTY
+DCN:N117174
+06/14/2010 FINGERPRINTED PHOTO:Y PALMS:Y
+OCA:3102997
+06/14/2010 CHARGED WITH
+#002 FELONY 18.2-32
+MURDER: 2ND DEGREE
+FAIRFAX CO
+11/04/2011 GUILTY
+==> FELONY 18.2-154
+SHOOT/THROW   OCCUPIED VEH ETC-DELIBRATE DEATH
+20 YRS
+PD FAIRFAX CO VA
+ORI:VA0290100
+MUR-0925-F2
+OTN:059JM1951006251
+06/13/2010
+FAIRFAX CO CIR CT
+ORI:VA029015J
+CCN:059CR10F0013702*
+MUR-0925-F2
+IMPOSED
+PENITENTIARY
+RETAINED ATTY
+DCN:N117175
+•k-k’kicicic-k-k-kir-k-k-k-h-kic’k-k'k-k-k-k-k-k-k-k-kic-k’k’k’k’k’kic'k’k-kifkic'k-k-k'kic'kic'k-k'k-k'k'k'kic'k-kic-k’k'kic’k'k’k-kicic-k-k'k-k’k-k’k’k'k’k
+it
+it
+CORRECTIONAL HISTORY
+it
+it
+it
+it
+irititititititititititicitititititititititititititititititititititititititititititititicititicititicitieitititiciticititititititicitititititititititititititit
+STATUS
+FINGERPRINTED
+DATE
+DEPT CORRECTIONS VA 10/05/2012 NEW PR1SNER RCVD
+==> FELONY
+OR1:VA122045C
+1NM:1445347
+EVN:SVA1991527M20121005
+FCN:SP850000389842	10/05/2012 FELONY
+ELEC/ARCH SENT: NOT RECORDED
+■к-к-к-к
+THE FOLLOWING CORRECTIONAL STATUS INFORMATION WAS TRANSMITTED
+ELECTRONICALLY BY THE DEPT. OF CORRECTIONS
+COR IS
+TCN
+DATE
+SEQUENCE STATUS
+LOCATION
+
+
+
+
+
+11445347 1003526201 10/05/2012 00000001 XFRrINIT INTAKE
+11445347 1003539214 11/20/2012 00000001 XFR:1N1T INTAKE
+POW RCPSCCLSS CTR
+BCKNGHM CORR CTR
+k-k-kk
+♦DISPOSITION ELECTRONICALLY TRANSFERRED BY COURT OF JURISDICTION
+RECORD AUTOMATED: 06/14/2010 LAST RECORD UPDATE: 10/17/2012
+ALL ARREST ENTRIES CONTAINED IN THIS RECORD ARE BASED ON FINGERPRINT COMPARISON
+AND PERTAIN TO THE SAME INDIVIDUAL.
+THIS INFORMATION MAY NOT CONTAIN THE cbu\.RGE DATE AND/OR CHARGE ORl FOR FILES
+SUBMITTED THROUGH THE SUPREME COURT OF 71RGIN1A EMAG1STRATE INTERFACE.
+*** CAUTION ***
+THIS RESPONSE IS BASED ON COMPARISON OF REQUESTOR FURNISHED INFORMATION
+AGAINST DATA CONTAINED IN THE FILES OF THE VIRGINIA STATE POLICE CRIMINAL
+RECORDS EXCHANGE ONLY AND DOES NOT PRECLUDE THE EXISTENCE OF OTHER CRIMINAL
+HISTORY INFORMATION WHICH MAY BE CONTAINED IN THE REPOSITORY OF OTHER LOCAL,
+STATE OR FEDERAL CRIMINAL JUSTICE AGENCIES.
+CHANGES TO THIS RECORD MAY BE IN PROCESS.
+SUBSEQUENT USE.
+RESPONSE IS DISSEMINATED FOR EMPLOYMENT PURPOSES ONLY.
+A NEW INQUIRY SHOULD BE MADE FOR
+THE CRIMINAL HISTORY RECORD INFORMATION CONTAINED IN THIS
+THE INQUIRER IS
+RESPONSIBLE FOR MAINTAINING AN AUDIT TRAIL ON ALL SECONDARY DISSEMINATION OF
+ANY OF THIS INFORMATION.
+**♦ UNAUTHORIZED DISSEMINATION WILL SUBJECT THE DISSEMINATOR TO CRIMINAL AND
+CIVIL PENALTIES.
+kkk
+RESPONSE BASED ON A COMPARISON OF REQUESTOR FURNISHED INFORMATION AGAINST A
+MASTER ADULT NAME INDEX CONTAINED IN THE FILES OF THE VIRGINIA STATE POLICE
+CENTRAL CRIMINAL RECORDS EXCHANGE ONLY. THE RESULTS OF THIS FILE SEARCH IS
+BASED ON A NAME SEARCH ONLY AND HAS NOT BEEN SUBSTAINTIATED BY FINGERPRINT
+COMPARISON.
+iciric-kiciTir-kicicic-kic-k-kic-k-ir-ir-k-k-k-k-k-k-k-ic'kirick-k-kir-k-ki iriri ic -k-k-k-kic-kic-k'k-k-A-k-k-k-k-kic-k-k-k-k-k-k-kir-k-k-k-k-kic-kic-k-kic-k-k
+THIS IS A SINGLE-SOURCE RECORD. NO ADDITIONAL CRIMINAL HISTORY INFORMATION IS
+INDEXED IN NCIC-III FOR OTHER STATE OR FEDERAL OFFENSES.
+END OF RECORD
+MRI I7854I IN: CCHI 4481 AT 02MAR20I7 10:09 OUT: GNIl 179 AT 02MAR2017 10:09
+</textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+
+        </div>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Header, Footer and Watermark</h3>
+                <!--!<div id="content"> -->
+                <textarea class="form-control" cols="150" rows="30" id="HeaderFooterWatermark"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>URL HYPERLINKS</h3>
+                <!--!<div id="content"> -->
+                <textarea class="form-control" cols="150" rows="30" id="Hyperlink"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Specific Excel Rows</h3>
+                <!--!<div id="content">  -->
+                <textarea class="form-control" cols="150" rows="30" id="SpecificRows"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+    </div>
+
+</body>
+</html>
