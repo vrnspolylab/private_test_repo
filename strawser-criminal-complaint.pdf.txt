@@ -1,0 +1,847 @@
+<html>
+<head>
+    <title>Result</title>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="./resources/bootstrap-3.3.5-dist/css/bootstrap.min.css">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="./resources/bootstrap-3.3.5-dist/css/bootstrap-theme.min.css">
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="./resources/bootstrap-3.3.5-dist/js/bootstrap.min.js"></script>
+
+    <style>
+        #content {
+            background-color: #FCFCFC;
+            border: 1px solid #999999;
+            padding: 10px 10px;
+            -moz-border-radius: 4px;
+            -webkit-border-radius: 4px;
+            border-radius: 4px;
+            /*IE 7 AND 8 DO NOT SUPPORT BORDER RADIUS*/
+            opacity: 0.87;
+            -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity = 87);
+            /*-ms-filter must come before filter*/
+            filter: alpha(opacity = 87);
+            /*INNER ELEMENTS MUST NOT BREAK THIS ELEMENTS BOUNDARIES*/
+            /*All filters must be placed together*/
+
+        }
+
+        #infodiv
+         {
+
+
+            border: 0px rgb(89,89,89) solid;
+
+            background: rgb(234, 234, 228);
+
+        }
+    </style>
+</head>
+<body>
+    <center><h1>Data Extraction - Result</h1></center>
+    <div class="container">
+        <hr>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <dl class="dl-horizontal">
+                    <dt>File name:</dt>
+                    <dd>strawser-criminal-complaint.pdf</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Provider name:</dt>
+                    <dd>AbbyyProvider</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Created On:</dt>
+                    <dd>8/12/2020 4:51:15 PM</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Extraction duration:</dt>
+                    <dd>00:00:09.6232442</dd>
+                </dl>
+            </div>
+            <div class="col-md-1"></div>
+
+        </div>
+        <hr>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Extended Attributes</h3>
+                <div id="attributes"><table class="table table-hover"><thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Value</th>
+                </tr>
+            </thead>
+            <tbody>
+<tr><td>creation date</td><td>9/21/2015 8:43:15 AM</td></tr>
+</tbody></table>
+</div>
+            </div>
+            <div class="col-md-1"></div>
+        </div>
+        <div class="row" >
+            <div class="col-md-1" ></div>
+            <div class="col-md-9">
+                <h3>Content</h3>
+                <!--!<div id="content">  -->
+                <textarea class="form-control" cols="150" rows="30" id="content">POLICE CRIlvIlNAL COMPLAINT
+COMMONWEALTH OF PENNSYLVANIA
+COMMONWEALTH OF PENNSYLVANIA
+COUNTY OF:
+FRANKLIN
+vs.
+
+
+39-3-05
+DUANE CUNNINGHAM
+401 SOUTH WASHINGTON
+Magisterial District Number:
+MDJ Name: Hon.
+(NAME and ADDRESS):
+DEFENDANT:
+JOHN
+JR.
+WAYNE
+STRAWSER
+Address:
+Gen.
+Middle Name
+Last Name
+First Name
+TYGART VALLEY
+REGIONAL JAIL
+400 ABBEY ROAD
+BELINGTON.WV 26250
+ST,
+GREENCASTLE, PA
+17225
+717-597-8581
+Teiephone:
+NCIC EXTRADITION CODE TYPE
+П 5-Felony Pend.
+I I 6-Feiony Pencl. Extradition Determ,
+[и A-Misdemeanor Full
+C] B-Misdemeanor Limited
+l~~l C-Misdemeanor Surrounding States
+l~~l D-Mlsdemeanor No Extradilion
+r~] E-Misdemeanor Pending
+r~l F-Misdemeanor Pending Extradition Determ.
+  1-Feiony Fuii
+П 2-Feiony Ltd.
+I I 3-Feiony Surrounding States
+□ 4-Feiony No Ext.
+Distance:
+DEFENDANT IDENTIFICATION INFORMATION
+Request Lab Services?
+□YES □NO
+Complaint/Incldent Number SID;
+H03-2263818
+Docket Number
+Date Flled (
+OTN/Llvescan Number
+/ /
+Co-Defendant(s) □
+GENDER
+  Maie
+□ Femaie
+DOB 08/04/77
+Add'l DOB
+POB
+Gen.
+Last Name:
+STRAWSER
+First Name:
+BOO
+Middle Name:
+AKA
+JR.
+□ Unknown
+  vvhite
+□ Asian
+□ Biack
+□ Native Amertcan
+RACE
+  Non-Hispanic
+□ Unknown
+□ Hispanio
+ETHNICITY
+□ PLE (Purple) □ BRO (Brown)
+□ WHI (White) □ XXX (Unk. / Baid) □ GRN (Green) □ PNK (Pink)
+HAIR COLOR □ GRY (Gray)
+□ BLK (Black)
+  BLN (Blonde / Strawberry)
+□	REO (Red / Aubn.) □ SDY (Sandy) □ BLU (Blue)
+□	ONG (Orange)
+□	GRY (Gray)
+□	XXX (Unknown)
+□	BLK (Black)
+□	HAZ (Hazel)
+□ BLU (Blue)
+I I MAR (Maroon)
+  BRO (Brown)
+□ PNK(pmk)
+□	GRN (Green)
+□	MUL (Multicolored)
+EYE COLOR
+Driver License
+WEIGHT (Ibs.)
+License Number E872152
+state wv
+Expires:
+□ YES □ NO
+DNA
+150
+DNA Location
+Et. HEIGHT In.
+MNU Number
+FBI Number
+9398331PB3
+□ YES   NO
+6
+Defendant Fingerprinted
+Fingerprint Classification:
+5
+DEFENDANT VEHICLE INFORMATION
+0th. NCIC Veh. Code
+Comm'l Veh. Ind.
+School Veh.
+Plate и state Hazmat Registration sticker (MM/YY)
+Reg.
+same
+as Def.
+□
+□
+□
+Color
+style
+VIN
+Year
+Make
+Model
+□
+
+([Itame of Attotn y f commonvl'ea th • Pkas6 pfinlorTypo)
+lôiîôy
+(Sl nitijfe of Atlornoy fof Common/l'e uh)
+I. TPR. JASON CACHARA
+00502154/08441
+(РВРЛ| Р0 ТС - Ass grled Af6ant 10	f)
+(Name of Amam - Plaasa Pnnt Of I у pa)
+PAPSP1200
+of the Pennsvivania state Police, Troop H. Chambersburq
+(loantif/ Depaftmaiit Of A arvcy Repfesentad and Politcal  uboivlsfon)
+(Po ca Agency окгкитьо t)
+do hereby state: (check appropnate box)
+1. 1 accuse the above named defendant who lives at the address set forth above
+□ I accuse the defendant whose name is unknown to me but who is described as _
+□ I accuse the defendant whose name and popular designation or nickname is unknown to me and whom I have therefore designated
+as John Doe or Jane Doe,
+with violating the penal laws of the Commonwealth of Pennsyivania at:
+INTERSTATE 81, JUST NORTH OF ROUTE 11
+( vision Code) rExiT 3). ANTRIM TOWNSHIP
+(Vlace-f olltloal UUDOIVISiotij
+on or about 01/04/14 AROUND 0210 HOURS.
+in FRANKLIN Countv
+28
+(Côünly Code)
+(Ollense uale)
+Page 1 of  
+AOPC 412A-Rev. 12/14
+Ш' POLICE CRIlvIlNAL COIVIPLAINT
+Docket Numben
+Date Filed;
+OTN/Livescan Number
+Complaintyincldent Number
+ноз-2263818
+/ /
+First:
+JOHN
+Middle:
+WAYNE
+Last:
+Defendant Name
+STRAWSER
+The acts committed by the accused are described below with each Act of Assembly or statute aliegedly violated, if
+appropriate. When there is more than one offense, each offense should be numbered chronologically.
+{Sol fofth a brl$f summary or Ш0 facts sunident to aavise the delendant or the neture or the orrehse(s) Charged. A cllatlon fo the statute(s) allegedly violated, WIthogt more, IS not surriclent. In a
+summary case, you must Cite the speciric sedlon(s) and subsection(s) or the statute{s) or ordlnance(s) allegedly violated, The age of the victim at the time or the ofrehse may be Irtcluded If
+knowr>, In addition, social security ngmbers and finarKlal Information {e.g. PINs) shogid not be listed, If the Identity of an account mgstbe established, llst only the last rogr digits. 204 PA.COde
+§§213,1-213,7,)
+Inchoate
+Offense
+Attempt
+18 901A
+□
+Q Conspiracy
+18 903
+Solicitation
+18 902 A
+□
+Lead?
+1
+2502	(a)
+Title 18 , PA Crimes Code
+1
+0911
+01A
+of the
+Offense #
+Section Subsection
+PA statute (Title)
+Counts Grade NCIC Offense Code UCR/NIBRS Code
+pennDOT Data
+(If appllcable)
+AcddenI
+Number
+[II Interstate
+о Safety Zone
+о Work Zone
+statute Description (include the name of sta ute or ordinance):
+Murder of the First Degree:
+Acts of the accused associated with this Offense:
+in that the defendant did commit an intentional killing: to wit, John Wayne STRAWSER, Jr. shot and kiiled
+Timothy Austin DAVISON, on 01/04/14.
+Page  of 
+AOPC 412A-Rev. 12/14
+ш
+POLICE CRIMINAL COMPLAINT
+Docket Number:
+Date Filed:
+OTN/Livescan Number
+Complaint/Incident Number
+H03-2263818
+/ /
+First:
+JOHN
+Middle:
+WAYNE
+Last:
+Defendant Name
+STRAWSER
+2. I ask that a warrant of arrest or a summons be issued and that the defendant be required to answer the
+charges I have made.
+3.	I verify that the facts set forth in this complaint are true and correct to the best of my knowledge or
+information and belief. This verification is made subject to the penalties of Section 4904 of the Crimes
+Code {18 Pa.c.s.§4904) relating to unsworn faisification to authorities.
+4.	This complaint consists of the preceding page(s) numbered _ through _
+The acts committed by the accused, as listed and hereafter, were against the peace and dignity of the
+Commonwealth of Pennsylvania and were contrary to the Act(s) of the Assembiy, or In violation of the statutes
+cited.
+(Before a warrant of arrest can be Issued, an affidavit of probable cause niust be completed, sworn to
+before the Issuing authority, and attached.)
+SEPTEMBER 21 ■ 2015
+<Diiir
+( igrTa re OFAffiar> )
+AND NOW, on this date,
+	I certify that the complaint has been properly
+completed and verified, An affidavit of probable cause must be completed before a warrant can be issued.
+Coul Kafnbat)
+Agthonty)
+SKAI,
+Page   of  
+AOPC 412A-Rev. 12/14
+
+POLICE CRIMINAL COMPLAINT
+
+Docket Number:
+Date Filed:
+OTN/Uvescan Number:
+Compiaint/Incldent Number
+H03-2263818
+/ /
+First:
+John
+Middle:
+Wayne
+Last:
+Defendant Name:
+STRAWSER
+AFFIDAVIT of PROBABLE CAUSE
+On 01/04/14, Timothy DAVisoN was traveiling home to Maine after visiting famiiy in Fiorida, Around 0200 hours, an ongoing crime
+was reported via a 911 cali by DAVISON beginning in Washington County, Maryland, He was traveliing nollh on interstate 81 when he
+was approached by what he calied a dark coiored Ford Ranger pickup truck. The suspect vehicie came ciose to him and aiongside of
+him, firing gunshots at his vehicie. The incident continued a number of miles and continued into Pennsyivania, remaining on Interstate
+81. DAVisoN related that around Exit 3, the suspect vehicie struck his vehicie, forcing him into the median and eventuaily northbound
+in the southbound ianes. DAVisoN brought his vehicie to a stop in the median. Whiie speaking with the Pennsyivania state Police
+(PSP) dispatcher, minutes after the coilision, DAVisoN exciaimed that the actor, who had continued north, was back at the scene (and
+his iocation). DAVisoN’s iocation at that point was Interstate 81 in the area of Exit 3 (Antrim Township, Frankiin County, PA). Audibie
+on the 911 recording is an engine revving, shots being fired and a vehicle’s wheels squealing and acceierating away from the scene.
+The investigation has shown that the actor shot DAVisoN muitipie times at that point, before fieeing the scene southbound on
+interstate 81. DAVISON was attended to by  rst responders and medicai personnei. He was struck in the left hand, right ieg and
+head. The victim died a short time later in York Hospital as a result of the injuries sustained in the shooting,
+DAVISON was found in the driver's seat of his siiver Mitsubishi Montero, Bullet hoies were observed in the driver's side door. Giass
+was shattered on the driver side and passenger side, front windows. Aiso found were marks believed to be from the suspect’s vehicle
+acceierating from and fieeing the scene. They were observed on the ground extending from the victim’s vehicle location heading
+southbound onto the lanes of travel. Near those acceleration/tire marks was found a single, spent brass casing. The casing is from a
+.44 caliber round. Fired bullets and fragments were found in the vehicle. Lab analysis would later show the recovered fired
+bullets/fragments from the vehicle were also from ,44 caliber rounds.
+The continuing investigation included a search of the area for different video surveiliance that couid aid this Investigation. A
+Pennsylvania Department of Transportation (PENN DOT) camera had recorded footage of the crime taking place. The traffic camera
+was positioned Just south of the scene, facing north. The video is black and white, grainy and from a distance. In the footage,
+DAVISON’S vehicle entered the screen going norih. In the median, but closer to the southbound lane. He stopped and remained there
+for about 5 minutes, which inciuded the time he was speaking with the PSP dispatcher about what had occurred. The actor’s vehicle
+approached DAVISON’S vehicle from the north, on interstate 81, The actor’s vehicle stopped at DAVISON'S vehicle. DAVISON’S
+vehicle moved forward before the actor’s vehicle can be seen backing up angiing toward the median, appearing to block movement of
+the Montero. The actor then Яеь the scene continuing south. Continued--
+I, TPR. JASON CACHARA. BEiNG DULY SWORN ACCORDiNG TO THE LAW, DEPOSE AND SAY THAT THE
+FACTS SET FORTH IN THE FOREGOING AFFIDAViT ARE TRUE AND CORRECT TO THE BEST OF IVIY
+KNOWLEDGE, INFORMATioN AND BELiEF.
+(Signature of Af ant)
+Sworn to me and subscnbed before me this
+day of
+Date
+Magisterlai Distnct Judge
+My oommission expires first Monday of January,
+Sf-Al
+Page 1 of ‘У
+AOPC 4110 - Rev. 07/10
+POLICE CRIMINAL COMPLAINT
+шт
+Docket Number;
+Complaintyincldent Number
+H03-2263818
+Date Fiied:
+OTN/Livescan Number;
+/ /
+First;
+John
+Middle:
+Wayne
+Last:
+Defendant Name;
+STRAWSER
+AFFIDAVIT of PROBABLE CAUSE
+On 01/08/14, a second search of the greater scene of this crime was conducted on Interstate 81, The snow had melted, allowing for
+the possibility of finding additional evidence. The search found an emblem (or badging) from a Ford Ranger XLT. It is an emblem,
+affixed by the factory, on the front fenders of Ford Ranger XLTS, identifying it as a Ford Ranger XLT. It was found within feet of where
+the victim’s Montero left the roadway and entered the grass median. This is believed to be the location where the impact between the
+two vehicles occurred, The badge piece was broken, not whole. Verification through Ford’s database identified that particular badging
+to be present on Ford Ranger XLT models from 1995 - 2006.
+Analysis of the paint transferred from the suspect vehicle to the victim’s vehicle was completed by the Federal Bureau of investigation
+(FBI) laboratory. It was determined to be “Dark Lapis Metallic,’’ In color. It is a specific Ford paint coiorthat is dark blue. The paint
+sample consisted of 5 layers. All were deemed to be original manufacture layers, except for the top clear coat layer. This suggests the
+suspect vehicle would have been repaired, In the area of the colllslon (left front), prior to this incident. The dark lapis paint limited Ford
+Ranger models to those manufactured in between 1993 -1997 (and some 1998s).
+The initial investigation of the victim's vehicle included gathering information from the Garmin GPS unit in his Montero. The device was
+able to be downloaded which Included thousands of waypoints tracking his route of travel from Florida. The previous hours of travel
+were entirely on Interstate 81, with the exception of stop(s) for fuel. More importantly, traveling speeds could be gleaned from the data
+available on the device. By putting those waypoint locations and speeds on a map, one could gain an overview of his changes in
+speed. On Interstate 81, DAVISON was coming north around 80 miles per hour, fairiy constantly. Once he reached the area of exit 16
+in Martinsburg, wv, his speed acceierated. From exit 16 north, into Maryland and Pennsylvania, the Montero’s speed Increased to 90
+and over 100 mph, at times. That is not seen anywhere south of Martinsburg, in West Virginia or Virginia.
+In assisting this investigation, the FBI was able to complete “tower dumps’’ for multiple cellular communication towers near the scene of
+this crime. This process was initiated to gather both potential suspects and witnesses to the homicide. The process entails gathering
+all data and records (available from any given tower), dunng a specified time period. When cellular towers are utilized by consumers
+(using ali cellular devices), they subsequently create records for the contacts made with the devices. The tower dump process
+provides a list of phone numbers that utilized that tower during the specified period. It includes detaiis of the cellular contact between
+each device and the cellular tower. In March 2014 and again in October 2014, we received the results of the tower dumps. The
+towers chosen for the dumps spanned from the crime scene (in Pennsylvania), south into West Virginia. Continued--
+I, TPR. JASON CACHARA, BEING DULY SWORN ACCORDING TO THE LAW, DEPOSE AND SAY THAT THE
+FACTS SET FORTH IN THE FOREGOING AFFIDAVIT ARE TRUE AND CORRECT TO THE BEST OF MY
+KNOWLEDGE, INFORMATION AND BELIEF.
+(Signalure of AffianI)
+Sworn to me and subscribed before me this
+day of
+Date
+Magisteriai District Judge
+My commission expires first Monday of January,
+sr-/M
+Page  of 
+AOPC 4110-Rev. 07/10
+POLICE CRIMINAL COMPLAINT
+
+Docket Number:
+Date Fiied:
+OTN/Livescan Number:
+Complaint/Incident Number
+H03-2263818
+/ /
+First:
+John
+Middle:
+Wayne
+Last:
+Defendant Name:
+STRAWSER
+AFFIDAVIT of PROBABLE CAUSE
+Ongoing examination of the spent .44 caliber casing yielded results beiieved to be similar with a lever action pistoi made by Rossi,
+known as a “Ranch Hand”. Experts in the PSP Balilstics Section determined that the class characteristics of the impression on the
+primer contained markings oniy seldom seen. A potentially similar casing and primer impression was located on a database in Flonda.
+That similar primer impression came from a known Rossi Ranch hand pistoi. That provided the possibiiity that a Rossi Ranch Hand or
+similar firearm was used during the commission of this homicide.
+DNA (Deoxyribonucleic Acid) examination was also done on the single .44 spent casing. The results showed a partial or incompiete
+profile was obtained. it was available for comparison to a potentiai suspect, if availabie in the future,
+On 04/20/15 at 1515 hours, investigators at PSP Chambersburg were contacted by Jamie BREESE regarding the DAVisoN homicide.
+He described how a man known to him and his wife Courtney BREESE, named John STRAWSER, had been arrested in West Virginia.
+STRAWSER iived in Terra Aita, wv. He drove a dark colored Ford Ranger that previously had damage to its left front. According to
+BREESE, STRAWSER gets in rages, BREESE believed that STRAWSER was hunting him and his wife the night DAVisoN was
+killed. He guessed that STRAWSER mistook DAVISON’S siiver SUV for theirs (a silver Honda Piiot). BREESE recailed the ерес|яс
+night and what they were doing. The next morning, he saw the news that reported DAVISON had been kiiled. He thought
+STRAWSER might have done it, STRAWSER used to be a friend of his wife. He used to stalk her. People had told him that
+STRAWSER said he would kili Jamie to get to Courtney.
+i found Internet articles con rming what BREESE had related. John Wayne STRAWSER, Jr. was charged in a homicide Investigation
+in the Kingwood, w/ area, around 04/16/15. The victim in that case was Amy Lou BUCKINGHAM.
+After confirming the information, more extensive interviews of the BREESES were conducted, Courtney BREESE was interviewed
+about her knowledge of John STRAWSER. She described him as having been a friend of the family for years. She reiuctantiy
+admitted to having a relationship with STRAWSER dunng her marriage. STRAWSER displayed unpredictable behavior. He had been
+possessive and acted vioiently. Even though he lived about 2.5 hours away in West Virginia, he would just show up at places nearby.
+Courtney explained incidents she referred to as serial staiking through anonymous text messages. She believed STRAWSER was
+sending her the texts. She was able to provide old phone numbers for STRAWSERS (304-435'9467 / 304-435-5608). Continued--
+I, TPR. JASON CAGHARA, BEING DULY SWORN ACCORDING TO THE LAW, DEPOSE AND SAY THAT THE
+FACTS SET FORTH IN THE FOREGOING AFFIDAVIT ARE TRUE AND CORRECT TO THE BEST OF MY
+KNOWLEDGE, INFORMATION AND BELIEF.
+(Signature of Affiant)
+Sworn to me and subscribed before me this
+day of
+Date
+Magistenal District Judge
+My commission expires first Monday of January,
+/M
+AOPC 411C-Rev. 07/10
+Page of
+
+POLICE CRIMINAL COMPLAINT
+
+Docket Number;
+Date Filed;
+OTN/Livescan Number;
+Complaint/Incident Number
+H03-2263818
+/ /
+First:
+John
+Middle;
+Wayne
+Last:
+Defendant Name;
+STRAWSER
+AFFIDAVIT of PROBABLE CAUSE
+She recounted being with her husband at Cloud 9 In West Virginia, in late 2013. (Cloud 9 Is believed to be 12261 Winohester Avenue
+Bunker Hill, WV) It Is a dance club located off of the Interstate 81, south of Martinsburg, While at Cloud 9, STRAWSER began calling
+and texting them wanting to know their location. They told him Cloud 9, and a short time later they saw him come out of the bathroom
+there. They believed he had been looking for them and showed up there,
+They had a falling out in January 2015 and they decided to avoid him. They had not spoken regularly since. Courtney related the last
+contact she had with him was months ago.
+On the night DAVISON was kllled, they were again at Cloud 9. As they departed STRAWSER began calling and texting. STRAWSER
+spoke to Jamie BREESE and started threatening them,
+The path the BREESES took was Interstate 81 north, Into Pennsylvania. It Is the same path of travel taken by Timothy DAVISON in
+this case. Courtney BREESE related that at the time STRAWSER drove a dark blue Ford Ranger which he has since changed the
+color of his truck. She thinks it could now be black and green.
+Jamie BREESE related that STRAWSER drove a Ranger that he painted a different color after this homicide. It had damage to the
+front fender. Jamie BREESE specifically recalled that on the night of 01/03 - 01/04/14, when he and his wife were at Cloud 9,
+STRAWSER started trying to contact them, He Inquired where they were. He ended up talking to STRAWSER on the phone.
+STRAWSER was calling Courtney names and threatening them. He wanted to know where they were but they refused to tell him.
+BREESE was driving north on the Interstate at that time. The BREESES would have been in the area of spring Mills / Marlowe exits
+(In WV), He thought it was around 0130 hours (approximately) on 01/04/14. He got the Indication that STRAWSER was looking for
+them and was nearby. The next morning, he saw the news that DAVISON had been killed. He suggested to Courtney that
+STRAWSER could have done this. She dismissed the idea. Jamie related that STRAWSER worked in automotive type jobs and could
+have painted the truck himself when he changed the color.
+Checks through the Pennsylvania Cnminal Intelligence Center (PACIC) yielded the following results:
+-STRAWSER has listed a 1997 Ford Ranger (VIN: 1FTCR15X8VTA53548) that is dark lapis metallic ‘'KN”, The record shows the
+truck is a club cab.
+-Vanous phone numbers were found for STRAWSER. All possible numbers (from PACIC and BREESE) were run through the tower
+dump data:
+304-435-9467 an old cell number for STRAWSER, provided by BREESE
+717-414-4230 BREESE’ old cell number
+Continued-
+I, TPR. JASON CACHARA, BEING DULY SWORN ACCORDING TO THE LAW, DEPOSE AND SAY THAT THE
+FACTS SET FORTH IN THE FOREGOING AFFIDAVIT ARE TRUE AND CORRECT TO THE BEST OF IVIY
+KNOWLEDGE, INFORIVIATION AND BELIEF.
+(Signature of Affiant)
+Sworn to me and subscribed before me this
+day of
+Date
+Magisterial District Judge
+My commission expires first Monday of January,
+:.i A!
+Радеу of 
+AOPC 411C-Rev. 07/10
+
+POLICE CRIlvIlNAL COMPLAINT
+
+
+Docket Number:
+Date Ftled:
+OTN/Uvescan Number:
+Complaint/incident Number
+H03-2263818
+/ /
+First:
+John
+Middle:
+Wayne
+Last:
+Defendant Name:
+STRAWSER
+AFFIDAVIT of PROBABLE CAUSE
+On 04/28/16 the above numbers were found on our tower dump under Атбст Batoh results. BREESE’ number was found on the first
+tower dump. The STRAWSER number was found on the second set of tower dump data. Further clarification showed that
+STRAWSER’S phone contact was a 15 minute phone call with another number (304-290-0810). That called utlllzed multiple towers
+from wv travelling north into Maryland. The called ended in Hagerstown, MD, at 0156 hours. (The victim had cailed 911 from
+Hagerstown, MD at 0159 hours.) The 304-290-0810 phone number was believed to beiong to a Floraenceanne MILLER. The
+Investigation found that MILLLER was one of severa! women involved in a relationship with STRAWSER.
+On 05/07/15, PSP investigators met with the West Virginia state Police (WVSP) in Kingwood, wv. They explained the facts and
+circumstances surrounding the BUOKiNGHAM homicide and the arrest of STRAWSER. WVSP personnel related that when they had
+served a search warrant at STRAWSER’S home (109 Cale Avenue Terra Alta, WV), they observed the previously mentioned Ford
+Ranger. It шв painted black and green. A closer look showed what appeared to be the onginal dark blue paint, In places, on the
+truck.
+PSP investigators traveled to the location and observed the Ranger parked beside the tralier at 109 Cale Avenue, It was black and
+green as previously described. It appeared to have different parts on It including the front end and griil that are newer than the 1993-
+1998 timeframe.
+During the West Virginia Investigation an interested neighbor and friend of STRAWSER (Gordon ‘'Ernie” KisNER) offered his
+assistance. KisNER related having spent time with STRAWSER and knowing that he frequented a nearby field and swamp along the
+adjacent raiiroad tracks. KISNER showed Troopers to the iocation he spoke of. There, WVSP Troopers found a wooden box on the
+ground that contained a .44 caiiber Rossi Ranch Hand pistol. Their search of the home also yielded .44 cailber rounds (live rounds
+and spent casing(s)).
+On 05/11/15, PSP investigators continued their inquiry into John Wayne STRAWSER, JR. Search warrants were obtained and
+executed for: the black and green Ford Ranger (prevlously mentioned) as well as the property and residence at 109 Cale Avenue.
+The extended cab Ford Ranger was seized from the driveway of the residence. It was towed back to Franklin County, PA, for further
+examination.
+PSP Investigators traced the origin and owners of the Rossi Ranch Hand pistol that WVSP - Kingwood had in their possession. It was
+delivered from the manufacturer to a dealer in 2012. All owners, since then, were identined inciuding the individuai who ultimately sold
+the firearm to STRAWSER. One of the prior owners reiated still having a box of .44 caliber ammunition. The box contained unfired
+rounds as well as Яred casings, with primers stili Intact. The fired casings were sent to the PSP Lab for analysis. Analysis comparing
+the newly discovered Яred casings and the singie  red .44 caiiber shell casing from the DAVISON scene showed that the shells were
+discharged within the same Ягеагт.
+Continued-
+I, TPR. JASON CACHARA. BEING DULY SWORN ACCORDING TO THE LAW, DEPOSE AND SAY THAT THE
+FACTS SET FORTH IN THE FOREGOING AFFIDAVIT ARE TRUE AND CORRECT TO THE BEST OF MY
+KNOWLEDGE, INFORMATION AND BELIEF.
+(Signature of Af ant)
+Sworn to me and subscribed before me this
+day of
+Date
+Magistenal District Judge
+My commission expires first Monday of January.
+‘;l 'U
+AOPC 411C-Rev. 07/10
+Pagej of 
+POUCE CRIMINAL COMPLAINT
+Docket Number:
+Date Fileci:
+OTN/Livescan Number:
+Complaint/Incident Number
+H03-2263818
+/ /
+First:
+John
+Middle:
+Wayne
+Last:
+Defendant Name:
+STRAWSER
+AFFIDAVIT of PROBABLE CAUSE
+On 05/12/15, PSP investigators interviewed John Wayne STRAWSER JR. at Tygart Valiey Regional Jaii in Beimgton, West Virginia.
+STRAWSER denied being in the area on the day of the crime. He reiated he was working (hauiing coai as a truck driver) hours West
+of Frankiin County, PA. He conяrmed that he knew the BREESE famiiy and various routes to their home. STRAWSER reiated that he
+was famiiiar with the area. Each time he had gone to see the BREESES, no one eise was ever with him. He was aione and did not
+generaliy iet others drive or borrow his truck. We explained that phone records and the BREESES themseives showed that he was, in
+fact, in Frankiin County, PA. We asked if something happened on interstate 81 with him that led to the death of Timothy DAVISON.
+STRAWSER repiied, “i don't remember.'’
+This investigation showed that John Wayne STRAWSER, Jr. is caiied “Boo” by his friends and famiiy. On 05/13/15, a continued review
+of STRAWSER’s Facebook account (under “Boo STRAWSER”) showed “Boo STRAWSER" providing a phone contact number to
+others as 304-435-9467. it showed this number was being used by STRAWSER in iate 2013. Further, in 2014, Boo STRAWSER’S
+Facebook records showed attempts to seii a Rossi Ranch Hand lever action pistol. The offer included a photograph of the Ягеагт.
+Also visible in the account’s photographs is a Ford Ranger that is dark biue in coior. The biue truck shows the same green custom
+paint as the STRAWSER Ford Ranger that is in PSP custody. That Ford Ranger, previously identined, is now black in color.
+On 05/12/15, pursuant to a search warrant executed in Randolph County, wv, DNA swabs were coliected from the ieft and right
+cheeks of John Wayne STRAWSER, Jr. The sampies were deiivered to the Bode Laboratory, who conducted the most recent
+examination on the DNA availabie in this case.
+On 05/22/15, Bode reported their resuits. The partiai ргоя|е obtained from the .44 caliber casing matched the corresponding portions
+of John Wayne STRAWSER Jr.’s complete DNA ргоя|е,
+On 05/26/15, a search warrant was conducted on STRAWSER'S Ford Ranger in an attempt to gather additionai evidence. Noted on
+the front of the truck, above the windshieid is a set of amber visor iights. in re-accessing and reviewing the originai footage of the
+crime taking place (from the PA Department of Transportation camera),the grainy video (and stiiis) shows an additional iine of light
+above the glow of the headiights, which is consistent with the visor lighting seen on STRAWSER’S vehicle.
+On 05/26/15, a gunshot residue test (GSR) was performed on the interior of the STRAWSER’S Ford Ranger. On 07/01/15, iab
+analysis showed that particies charactenstic of GSR were found on the driver’s side headrest, seat and ceiling. Continued"
+I, TPR. JASON CACHARA. BEING DULY SWORN ACCORDING TO THE LAW, DEPOSE AND SAY THAT THE
+FACTS SET FORTH IN THE FOREGOING AFFIDAViT ARE TRUE AND CORRECT TO THE BEST OF MY
+KNOWLEDGE, INFORMATION AND BELIEF.
+(Signature of А(яап1)
+Sworn to me and subscribed before me this
+day of
+Date
+, Magisteriai District Judge
+My commission expires first Monday of January,
+
+Page of 
+AO PC 411C-Rev. 07/10
+
+
+POLICE CRIMINAL COMPLAINT
+
+
+Docket Numben
+Date Filed;
+OTN/Livescan Number;
+Complaint/Incldent Number
+H03-2263818
+/ /
+First:
+John
+Middle:
+Wayne
+Last:
+Defendant Name;
+STRAWSER
+AFFIDAVIT of PROBABLE CAUSE
+In June 2015, celluiar phone records for 304-435-9467 were obtained and anaiyzed. The records Showed the celiular towers used by
+the phone which iilustrated that the phone travelled from the area of Terra Alta, wv, to Hagerstown, MD between 01/03/14 and
+01/04/14. The phone’s last usage ended in Hagerstown, MD on 01/04/14 at 0156 hours. {Again, DAVISON called 911 from
+Hagerstown, MD at 0159 hours.). Prior to the crime, the records also showed a route of travel that Included going south of
+Martinsburg, wv, on Interstate 81, before returning north. That not only matches DAVISON'S route and time of travel but also reяects
+the BREESES' reported location, The phone records also show contact and many attempted contacts from STRAWSER to the
+BREESE phones.
+On 06/19/15, investigators made contact with Jill GARBART of Hillside Trucking. STRAWSER was employed by Hillside trucking,
+hauling coal, both before and after this crime took place, Hiilside trucking was able to provide a work schedule and history for
+STRAWER’S employment. STRAWSER was not working on 01/04/14 as he indicated when Interviewed.
+On 07/24/15, a PSP Ballistic Expert completed an examination of evidence available in this oase, as well as Its comparison to the
+Rossi Ranch Hand. Forensio examination of the discharged bullets and builet fragments recovered from the victim’s person and
+vehicle showed they had been discharged from the Rossi iever-actlon pistol, model: Ranch Hand, caliber: .44 Magnum, senal number:
+M174766 (currently In the custody of the West Virginia state Police). Further examination of the discharged cartridge case found at the
+scene of the homicide showed that it had been discharged within that same Ягеагт (as previously noted).
+Based upon the information detaiied in the above affidavit, I respectfuliy request that the defendant be brought forth to answer to the
+charge against him.
+I, TPR. JASON CAGHARA, BEING DULY SWORN ACCORDING TO THE LAW, DEPOSE AND SAY THAT THE
+FACTS SET FORTH IN THE FOREGOING AFFIDAVIT ARE TRUE AND CORRECT TO THE BEST OF MY
+KNOWLEDGE, INFORMATION AND BELIEF.
+(Signature of Агяап!)
+Sworn to me and subscnbed before me this
+day of
+Date
+Magisteriai District Judge
+My commission expires first Monday of January,
+
+AOPC411c-Rev. 07/10
+Page7 of[2.
+Confidential Information Form
+Criminai Complaint
+CONFIDENTIAL
+
+Complete the defenclant’s SSN Information If known. If this form Is submitted as part of a Police Crimlnal Complaint, the
+N010 Oautlons/Medical Oonditlons and Scars/Marks/Tattoos sections should also be completed If known.
+Complaint/Incident Number
+H03-2263818
+OTN/Livescan Nutnber(Livescan number preferred)
+Date Filed:
+9/21 /2015
+Docket Number:
+Last:
+Middle:
+Wayne
+First:
+John
+Defendant Name:
+STRAWSER
+N010 Oautions and Medical Oonditlons (check up to 9)
+П 01
+□	70
+□	80
+□	85
+□	90
+□	50
+□	55
+□	60
+□ 65
+□ 20
+□	25
+□	30
+□	40
+□ 00
+□	05
+□	10
+□ 15
+Scars, Marks, Tattoos
+(Nolo Oodes)
+Oonfidentlal Information
+Social Security Number: 234-37-1569
+John Wavne "Boo" STRAWSER. Jr.
+Name:
+□	Defendant
+□	other: _
+Financlai Information:
+Social Security Number:
+Name:	_
+□	Defendant
+□	other: _
+Financial Information:
+Social Security Number:
+Name:	_
+□	Defendant
+□	other: _
+Financlai Information:
+Soclal Security Number:
+Name:	_
+□	Defendant
+□	other: _
+Financial Information:
+Social Security Number:
+Name:	_
+□	Defendant
+□	other: _
+Financlai Information:
+Social Security Number:
+Name:	_
+□	Defendant
+□	other: _
+Financial Information:
+Page	of
+AOPC 412A - Rev. 07/10
+CONFIDENTIAL
+</textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+
+        </div>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Header, Footer and Watermark</h3>
+                <!--!<div id="content"> -->
+                <textarea class="form-control" cols="150" rows="30" id="HeaderFooterWatermark"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>URL HYPERLINKS</h3>
+                <!--!<div id="content"> -->
+                <textarea class="form-control" cols="150" rows="30" id="Hyperlink"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Specific Excel Rows</h3>
+                <!--!<div id="content">  -->
+                <textarea class="form-control" cols="150" rows="30" id="SpecificRows"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+    </div>
+
+</body>
+</html>
