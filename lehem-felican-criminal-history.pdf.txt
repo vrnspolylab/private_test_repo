@@ -1,0 +1,588 @@
+<html>
+<head>
+    <title>Result</title>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="./resources/bootstrap-3.3.5-dist/css/bootstrap.min.css">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="./resources/bootstrap-3.3.5-dist/css/bootstrap-theme.min.css">
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="./resources/bootstrap-3.3.5-dist/js/bootstrap.min.js"></script>
+
+    <style>
+        #content {
+            background-color: #FCFCFC;
+            border: 1px solid #999999;
+            padding: 10px 10px;
+            -moz-border-radius: 4px;
+            -webkit-border-radius: 4px;
+            border-radius: 4px;
+            /*IE 7 AND 8 DO NOT SUPPORT BORDER RADIUS*/
+            opacity: 0.87;
+            -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity = 87);
+            /*-ms-filter must come before filter*/
+            filter: alpha(opacity = 87);
+            /*INNER ELEMENTS MUST NOT BREAK THIS ELEMENTS BOUNDARIES*/
+            /*All filters must be placed together*/
+
+        }
+
+        #infodiv
+         {
+
+
+            border: 0px rgb(89,89,89) solid;
+
+            background: rgb(234, 234, 228);
+
+        }
+    </style>
+</head>
+<body>
+    <center><h1>Data Extraction - Result</h1></center>
+    <div class="container">
+        <hr>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <dl class="dl-horizontal">
+                    <dt>File name:</dt>
+                    <dd>lehem-felican-criminal-history.pdf</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Provider name:</dt>
+                    <dd>AbbyyProvider</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Created On:</dt>
+                    <dd>8/12/2020 4:47:32 PM</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Extraction duration:</dt>
+                    <dd>00:00:03.0435464</dd>
+                </dl>
+            </div>
+            <div class="col-md-1"></div>
+
+        </div>
+        <hr>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Extended Attributes</h3>
+                <div id="attributes"><table class="table table-hover"><thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Value</th>
+                </tr>
+            </thead>
+            <tbody>
+<tr><td>creation date</td><td></td></tr>
+<tr><td>author</td><td></td></tr>
+<tr><td>subject</td><td></td></tr>
+<tr><td>Creator</td><td></td></tr>
+<tr><td>publisher</td><td></td></tr>
+<tr><td>title</td><td></td></tr>
+</tbody></table>
+</div>
+            </div>
+            <div class="col-md-1"></div>
+        </div>
+        <div class="row" >
+            <div class="col-md-1" ></div>
+            <div class="col-md-9">
+                <h3>Content</h3>
+                <!--!<div id="content">  -->
+                <textarea class="form-control" cols="150" rows="30" id="content">FDLE Criminal History Information on the Intemet: Chminal History
+https://cchmet.fdle.state.fl.us/search/app/wicket/page717
+
+Time;
+112ms
+
+ 		 .   i .seafrh  oodd's Cr.muldl
+
+
+
+
+1.МГ1#<ЖМДТ|0Ы
+2.аишшк
+ .CONFiRMATloN
+<PAVI NT
+5.САЮЮАШ
+6.tEslM.TS
+
+
+Criminal history has been auto-emailed to Stephanie.klenzlel gmall.com
+Pnnt History
+Ernail History to: stephanie.kienzle(ilgmail.com
+(Separate multiple email addresses by connma)
+Back to Search Resutts
+New Search
+Home
+Crimlnal History
+—FLORIDA CCH RESPONSE—
+FC.DLE/062e6343.PUR/P.ATN/ANONCCHINET/STEPHANIEKIENZLE
+PURPOSE CODE: Public Record Checka
+SID NUMBER: 06286343
+Because additiona or deletions may be made at any time, a new copy sriould be re
+queated when needed for future uae.
+Florida Criminal Hiatory
+IDENTITY SECTION
+state ID
+06286343
+DEMOGRAPHICS
+Nalne
+FELICAN, LEHEM в
+Date of Birth
+04/25/1979
+Social Security Number
+xxx-xx-0682
+Sex
+Race
+Black
+Place of Birth
+New York
+Nale
+Height
+5’ 11"
+Weight
+220 Iba
+Ethnicity
+Hair Color
+Black
+Eye Color
+Brown
+other Name(s)
+FELICAN, LEHEM BIRAL
+FELICAN, LEHEM BIRAL Jr.
+FELICAN, LEHEM
+Addreaa
+216 SUMMA ST
+WEST, WEST PALM B, Florida
+Scars Marks Tattoos
+TAT R ARM
+TAT CHEST
+Cycle 1
+OBTS
+1301135549
+Arrest
+Date of Arreat
+Charge
+Arresting Agency ORI
+04/14/2005
+001
+FL0130000
+1 of5
+3/1/2019,2:44 PM
+FDLE Criminal History Information on the Intemet: Criminal History
+https://cchmet.fdle.state.fl.us/search/app/wicket/page717
+Arresting Agency Name
+Agency Case Namber
+AON Description
+Miami Dade County Sheriffs Office/PD
+0892965
+Nonnioving Traffic Viol
+Statute
+Levei
+Unknown
+Degree
+Unknown
+Offense Literal
+Charge Count
+BW DRIVING LICENSE SUSPENDED KNOWINGLy 1ST OFF
+1
+Judicial
+Charge
+001-1
+Arrest Charge Status
+Charge Resulted From Arrest
+Judicial Agency ORI
+Judicial Agency Name
+Unifcrm Case Number
+Sequence Number
+FL013025J
+Miami Dade County Clerk of Court
+132004CT0006653DVU00
+1
+Court
+Court Charge Status
+CON Description
+Offense Literal
+Amended
+Moving Traffic Viol
+DWLS KNOWING OF VIOLATION REF BW FTA
+statute
+322.34.2
+Level
+Misdemeanor
+Degree
+2nd Degree
+Statute Description
+Charge Count
+Final Plea
+Final Action Taken
+Final Decision Date
+Knowingly Drive While Lic Suspended Revoked
+1
+Guilty
+Guilty/Convicted
+04/15/2005
+Sentence
+Sentence Type
+Sentence Imposed Date
+Sentence
+Sequence Number
+Confinement Type
+Credit Time Served
+Court Fine (S)
+Court Cost (S)
+Restitution ($)
+N/A - Not Applicable
+04/15/2005
+0
+Not Applicable
+0 days
+210.00
+0.00
+0.00
+™= Cycle 2
+OBTS
+1303132005
+Arrest
+Date of Arrest
+Charge
+Arresting Agency ORI
+Arresting Agency Name
+Agency Case Number
+AON Description
+01/25/2006
+001
+FL0131000
+North Miami Beach Police Department
+0892965
+Nonmoving Traffic Viol
+Statute
+Level
+Unknown
+Degree
+Unknown
+Offense Literal
+Charge Count
+BW DRIVING LICENSE SUSPENDED KNOWINGLY 1ST OFF
+1
+2 of 5
+3/1/2019,2:44 PM
+FDLE Criminal History Information on the Intemet: Criminal History
+https://cchinet.fdle.state.fl.us/search/app/wicket/page717
+Judicial
+Charge
+001-1
+Arrest Charge Status
+Charge Resulted Froln Arrest
+Judicial Agency ORI
+Judicial Agency Naltle
+Unifonn Case Number
+Sequence Number
+FL013015A
+Dade County state Attorney's Office
+132005CT0006123RAROO
+1
+Prosecution
+Prosecution
+Charge Status
+PON Description
+Offense Literal
+Amended
+Moving Traffic Viol
+DWLS KNOWING OF VIOLATION REF BW FTA
+Statute
+322.34.2
+Level
+Degree
+2nd Degree
+Misdemeanor
+statute Description
+Charge Count
+Final Action Taken
+Final Decision Date
+Knowingly Drive While Lic Suspended Revoked
+1
+Nolle Prosequi
+05/10/2006
+■“===== Cycle 3 =======
+OBTS
+5002203505
+Arrest
+Date of Arrest
+Charge
+Arresting Agency ORI
+Arresting Agency Name
+Date of Offense
+AON Description
+10/29/2010
+001
+FL0500000
+Palm Beach County Sheriffs Office
+10/29/2010
+Cruelty Toward Child
+statute
+Level
+Felony
+Degree
+3rd Degree
+Offense Literal
+Charge Count
+ABUSE WITHOUT GREAT HARM
+1
+Judicial
+Charge
+001-1
+Arrest Charge Status
+Charge Resulted From Arrest
+Judicial Agency ORI
+Judicial Agency Name
+Uniform Case Number
+Sequence Number
+FL050015J
+Palm Beach County Clerk of Court
+502010CF011902AXXXMB
+1
+Court
+Court Charge Status
+CON Description
+Offense Literal
+Not Applicable
+Cruelty Toward Child
+CHILD ABUSE
+Statute
+827.03.1
+Level
+Felony
+Degree
+3rd Degree
+statute Description
+Charge Count
+Final Action Taken
+Cruelty Toward Child
+1
+Adjudication Withheld
+3 0f5
+3/1/2019,2:44 FM
+FDLE Crimmal History Information on the Intemet: Crimmal History
+https://cchinet.fdle.state.fl.us/search/app/wicket/page717
+Findl Decision Date
+05/09/2011
+Sentence
+Sentence Type
+Sentence Imposed Date
+Sentence
+Sequence Number
+Maximum Confinement
+Confinement Type
+Credit Time Served
+Probation Length
+Court Fine (S)
+Court Cost (S)
+Restitution (S)
+Sentence Literal
+N/A - Not Applicable
+04/19/2013
+0
+6 days
+County Jail
+6 days
+1 years 6 months
+0.00
+0.00
+0.00
+PAY CC/FINES PROB TERM 02012013
+
+OBTS
+1314000812
+Arrest
+Date of Arrest
+Charge
+Arresting Agency ORI
+Arresting Agency Name
+Agency Case Number
+Turned Over To
+Agency ORI
+Turned Over To
+Agency Name
+AON Description
+09/25/2012
+001
+FL0130000
+Miami Dade County Sheriffs Office/PD
+0892965
+FL0500000
+Palm Beach County Sheriffs Office
+out-of-county Warrant
+Statute
+901.04
+Level
+Unknown
+Degree
+Unknown
+Statute Description
+Offense Literal
+Charge Count
+out-of-county Warrant
+FUGITIVE FROM PALM BEACH COUNTY
+1
+'“===== Cycle 5
+5002237327
+OBTS
+Arrest
+Date of Arrest
+Charge
+Arresting Agency ORI
+Arresting Agency Name
+Date of Offense
+AON Description
+09/30/2012
+001 Re-Arrest
+FL0500000
+Palm Beach County Sheriffs Office
+09/30/2012
+Prob Violation
+statute
+948.06
+Level
+Felony
+Degree
+Unknown
+statute Description
+Offense Literal
+Charge Count
+PROB VIOLATION -
+1
+Judicial
+Charge
+001-1
+Arrest Charge Status
+Charge From Which Subject Was Re-Arrested
+4 of 5
+3/1/2019.2:44 PM
+FDLE Crimmal History Infonnation on the Intemet: Criminal History
+https://cchinet.fdle.state.fl.us/search/app/wicket/page?l 7
+Judicial Agency ORI
+Judicial Agency Name
+Uniform Сазе Number
+Sequence Number
+FL050015J
+Palm Beach County Cler)c of Court
+502010CF011902AXXXMB
+1
+Reference Arrest
+Reference
+OBTS Number
+5002203505
+Sentence
+Sentence Type
+Sentence
+Sequence Number
+Confinement Type
+Credit Time Served
+Court Fine (S)
+Court Cost (S)
+Restitution {$)
+Sentence Literal
+N/A - Not  plicable
+0
+Not Applicable
+0 days
+0.00
+0.00
+0.00
+REF VOP CHILD ABUSE
+REGISTRATION
+OBTS
+5005056116
+Date of Registration
+Registering Agency ORI
+Registering Agency Name
+05/09/2011
+FL0500000
+Palm Beach County Sheriffs Office
+Charge
+AON Description
+Registration Literal
+Registration Type
+001
+Criminal Registration (Not An Arrest)
+CRIMINAL REGISTRATION NOT AN ARREST
+Criminal Registrant
+This record contains Florida information only. When explanation of a charge or
+disposition is needed, communicate directly with the agency that contributed
+the record information.
+This record may only be used for the purpose requested as defined by the Code
+of Federal Regulations and/or Florida Statute.
+As mandated by Florida statute 119.071(5), full social security numbers are no
+w exempt from public disclosure and may be disclosed only to governmental enti
+ties and certain commercial entities (upon a showing of business necessity as
+defined by the law). FDLE will, however, release the last four digits of the s
+ocial security number. Example: XXX XX 1234.
+End of record
+—END—
+Chmjnal history has been auto-emailed to stephanje.klenzle gmail.com
+Pnnt History
+Email History to:
+Back to Search Resuits
+New Search
+Home
+(Separate multiple email addresses by comma)
+5 of 5
+3/1/2019,2:44 PM
+</textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+
+        </div>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Header, Footer and Watermark</h3>
+                <!--!<div id="content"> -->
+                <textarea class="form-control" cols="150" rows="30" id="HeaderFooterWatermark"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>URL HYPERLINKS</h3>
+                <!--!<div id="content"> -->
+                <textarea class="form-control" cols="150" rows="30" id="Hyperlink"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Specific Excel Rows</h3>
+                <!--!<div id="content">  -->
+                <textarea class="form-control" cols="150" rows="30" id="SpecificRows"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+    </div>
+
+</body>
+</html>
