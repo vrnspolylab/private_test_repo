@@ -1,0 +1,220 @@
+<html>
+<head>
+    <title>Result</title>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="./resources/bootstrap-3.3.5-dist/css/bootstrap.min.css">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="./resources/bootstrap-3.3.5-dist/css/bootstrap-theme.min.css">
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="./resources/bootstrap-3.3.5-dist/js/bootstrap.min.js"></script>
+
+    <style>
+        #content {
+            background-color: #FCFCFC;
+            border: 1px solid #999999;
+            padding: 10px 10px;
+            -moz-border-radius: 4px;
+            -webkit-border-radius: 4px;
+            border-radius: 4px;
+            /*IE 7 AND 8 DO NOT SUPPORT BORDER RADIUS*/
+            opacity: 0.87;
+            -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity = 87);
+            /*-ms-filter must come before filter*/
+            filter: alpha(opacity = 87);
+            /*INNER ELEMENTS MUST NOT BREAK THIS ELEMENTS BOUNDARIES*/
+            /*All filters must be placed together*/
+
+        }
+
+        #infodiv
+         {
+
+
+            border: 0px rgb(89,89,89) solid;
+
+            background: rgb(234, 234, 228);
+
+        }
+    </style>
+</head>
+<body>
+    <center><h1>Data Extraction - Result</h1></center>
+    <div class="container">
+        <hr>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <dl class="dl-horizontal">
+                    <dt>File name:</dt>
+                    <dd>shara-hawk-ottc.pdf</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Provider name:</dt>
+                    <dd>AbbyyProvider</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Created On:</dt>
+                    <dd>8/12/2020 5:07:16 PM</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Extraction duration:</dt>
+                    <dd>00:00:01.0558023</dd>
+                </dl>
+            </div>
+            <div class="col-md-1"></div>
+
+        </div>
+        <hr>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Extended Attributes</h3>
+                <div id="attributes"><table class="table table-hover"><thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Value</th>
+                </tr>
+            </thead>
+            <tbody>
+<tr><td>creation date</td><td>3/27/2015 12:56:39 PM</td></tr>
+<tr><td>author</td><td>lperalta</td></tr>
+<tr><td>revision date</td><td>3/27/2015 12:56:39 PM</td></tr>
+<tr><td>Creator</td><td>PScript5.dll Version 5.2.2</td></tr>
+<tr><td>publisher</td><td>GPL Ghostscript 8.71</td></tr>
+<tr><td>title</td><td>Print A500000100002.TIF (1 page)</td></tr>
+</tbody></table>
+</div>
+            </div>
+            <div class="col-md-1"></div>
+        </div>
+        <div class="row" >
+            <div class="col-md-1" ></div>
+            <div class="col-md-9">
+                <h3>Content</h3>
+                <!--!<div id="content">  -->
+                <textarea class="form-control" cols="150" rows="30" id="content">V\csoov
+)U '	' \
+'1 
+UCN' 282015CJ000128JLAXMX
+Case Number: 15000128JLAXMX
+Agency Case Number:150FF00217l
+Agency: HCSO
+•Order to Take Into Custody
+State of Flonda,
+-vs-
+SHARA HAWK
+Child (Delinquent).
+rN THE INTEREST OE; SHARA HAWK. A CHILD.
+DOB: 06/27/1997
+SEX: Male
+EYES: HAIR:
+211 WILLIAMS GRAY CT
+AVON PARK, FL 33825
+SSN:
+D/L:
+SCARS/MARKS:
+EMPLOYER:
+AmMPTED IST DEGREE M BR-
+IMPROPER EXHIBIT FIREARM  .
+ ;:  TTH  rsroDWEavÉ>lî
+BLDG AIRCRAFT	о
+POS OF FIREARM BY MINOR
+To Each Shenff of the state:
+juveni _
+The reason for taking
+Chapter Section
+782.04.2
+790.10.
+Degree
+First Degree
+First Degree
+Level
+Felony
+Misdemeanor
+Second Degree
+Felony
+790.19.
+First Degree
+Misdemeanor
+790.22.5
+2. ; "on.aI booR la proceduras, „0.iIV ле нераншап. о
+release child.
+the chlld of the next court date,
+f Juvenlle Justice; obtain next Court date and
+have the child transported to Polk County
+DJJ Counselor to personally Inform
+a WTERED ву°р“Ё81н! отн' Е for child ,o rcmala In POIR
+  courtdateiaHIOHLANDS County.
+or further
+tact DJJ Counselor for a transfer heanng
+Center until the nextavallable
+lôtinty Detention
+5.
+
+, Florlda.
+
+
+ORDERED In HIGHLANDS County
+DONE AND
+This 26th of March, 2015.
+
+
+CERT1F1E1I
+Notes Susan Benton/shenff
+cc: Sheriff Dept (2)
+Juvenlle Justice
+
+state Anorney’s ошсе
+</textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+
+        </div>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Header, Footer and Watermark</h3>
+                <!--!<div id="content"> -->
+                <textarea class="form-control" cols="150" rows="30" id="HeaderFooterWatermark"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>URL HYPERLINKS</h3>
+                <!--!<div id="content"> -->
+                <textarea class="form-control" cols="150" rows="30" id="Hyperlink"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Specific Excel Rows</h3>
+                <!--!<div id="content">  -->
+                <textarea class="form-control" cols="150" rows="30" id="SpecificRows"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+    </div>
+
+</body>
+</html>
