@@ -1,0 +1,488 @@
+<html>
+<head>
+    <title>Result</title>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="./resources/bootstrap-3.3.5-dist/css/bootstrap.min.css">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="./resources/bootstrap-3.3.5-dist/css/bootstrap-theme.min.css">
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="./resources/bootstrap-3.3.5-dist/js/bootstrap.min.js"></script>
+
+    <style>
+        #content {
+            background-color: #FCFCFC;
+            border: 1px solid #999999;
+            padding: 10px 10px;
+            -moz-border-radius: 4px;
+            -webkit-border-radius: 4px;
+            border-radius: 4px;
+            /*IE 7 AND 8 DO NOT SUPPORT BORDER RADIUS*/
+            opacity: 0.87;
+            -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity = 87);
+            /*-ms-filter must come before filter*/
+            filter: alpha(opacity = 87);
+            /*INNER ELEMENTS MUST NOT BREAK THIS ELEMENTS BOUNDARIES*/
+            /*All filters must be placed together*/
+
+        }
+
+        #infodiv
+         {
+
+
+            border: 0px rgb(89,89,89) solid;
+
+            background: rgb(234, 234, 228);
+
+        }
+    </style>
+</head>
+<body>
+    <center><h1>Data Extraction - Result</h1></center>
+    <div class="container">
+        <hr>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <dl class="dl-horizontal">
+                    <dt>File name:</dt>
+                    <dd>criminal complaint 06-09-16.pdf</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Provider name:</dt>
+                    <dd>AbbyyProvider</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Created On:</dt>
+                    <dd>8/12/2020 4:40:51 PM</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Extraction duration:</dt>
+                    <dd>00:00:03.8325839</dd>
+                </dl>
+            </div>
+            <div class="col-md-1"></div>
+
+        </div>
+        <hr>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Extended Attributes</h3>
+                <div id="attributes"><table class="table table-hover"><thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Value</th>
+                </tr>
+            </thead>
+            <tbody>
+<tr><td>creation date</td><td>6/9/2016 10:49:27 AM</td></tr>
+<tr><td>revision date</td><td>6/9/2016 10:49:27 AM</td></tr>
+<tr><td>Creator</td><td>OmniPage CSDK 18</td></tr>
+<tr><td>publisher</td><td>eCopy ShareScan</td></tr>
+</tbody></table>
+</div>
+            </div>
+            <div class="col-md-1"></div>
+        </div>
+        <div class="row" >
+            <div class="col-md-1" ></div>
+            <div class="col-md-9">
+                <h3>Content</h3>
+                <!--!<div id="content">  -->
+                <textarea class="form-control" cols="150" rows="30" id="content">1
+2
+3
+4
+1
+5
+6
+7
+8
+IN THE KITSAP COUNTY DISTRICT COURT
+9
+)
+STATE OF WASHINGTON,
+10
+) No. 22579001
+II
+Plaintiff,
+)
+12
+) CRIMINAL COMPLAINT
+)
+V.
+13
+) (Total Counts Filed - 1)
+14
+RYAN ANDREW FREDENBURG,
+Age: 22; DOB: I2/I8/I993,
+)
+15
+)
+)
+16
+Defendant.
+17
+COMES Now the Plaintiff, STATE OF WASHINGTON, by and through its attomey, KEITH
+A. HINES, WSBA No. 47816, Deputy Prosecuting Attomey, and hereby alleges that eontrary to
+the form, foree and effeet of the ordinanees and/or statutes in such cases made and provided, and
+against the peace and dignity of the STATE OF WASHINGTON, the above-named Defendant did
+commit the following offense(s)-
+18
+19
+20
+21
+22
+23
+Count I
+Drivine While License Suspended or Revoked in the Second Deeree
+24
+On or about June 8, 2016, in the County of Kitsap, State of Washington, the above-
+named Defendant did drive a motor vehiele while an order is in effect that suspends or revokes
+the Defendant’s driver’s license or driving privileges by reason of (a) a conviction of a felony in
+the commission of which a motor vehicle was used; and/or (b) a previous conviction for violating
+RCW 46.20.342, relating to driving while license suspended or revoked in the seeond degree;
+and/or (c) a notice received by the Department of Licensing from a court or diversion unit as
+provided by RCW 46.20.265, relating to a minor who has committed, or who has entered a
+25
+26
+27
+28
+29
+30
+31
+
+CHARGING DOCUMENT; Page I of 4
+Tina R. Robinson, Prosecuting Attorney
+Adult Criminal and Administrative Divisions
+614 Division street, MS-35
+Port Orchard, WA 983664681
+(360) 337-7174; Fax (360) 3374949
+www.kitsapgov.com/pros
+diversion unit conceming an offense relating to aleohol, legend drugs, controlled substances, or
+imitation eontrolled substanees; and/or (d) a eonvietion for violating RCW 46.20.410, relating to
+tbe violation of restrietions of an oeeupational driver's lieense, a temporary restrieted driver’s
+lieense, or an ignition interloek driver’s lieense; and/or (e) a convietion for violating RCW
+46.20.345, relating to the operation of a motor vebiele witb a suspended or revoked lieense;
+and/or (f) a eonvietion for violating RCW 46.52.020, relating to duty in ease of injury to or deatb
+of a person or damage to an attended vehiele; and/or (g) a eonvietion for violating RCW
+46.61.024, relating to attempting to elude pursuing poliee vebieles; and/or (b) a eonvietion for
+violating RCW 46.61.500, relating to reekless driving; and/or (i) a eonvietion for violating RCW
+46.61.502 or 46.61.504, relating to a person driving or being in aetual pbysieal eontrol wbile
+under the influenee of intoxieating liquor or drugs; and/or (j) a eonvietion for violating RCW
+46.61.520, relating to vehieular homieide; and/or (k) a eonvietion for violating RCW 46.61.522,
+relating to vehieular assault; and/or (1) a eonvietion for violating RCW 46.61.527(4), relating to
+reekless endangerment of roadway workers; and/or (m) a eonvietion for violating RCW
+46.61.530, relating to raeing of vehieles on highways; and/or (n) a eonvietion for violating RCW
+46.61.685, relating to leaving ehildren in an unattended vehiele with motor running; and/or (o) a
+eonvietion for violating RCW 46.61.740, relating to theR of motor vehiele fuel; and/or (p) a
+eonvietion for violating RCW 46.64.048, relating to attempting, aiding, abetting, eoereing, and
+eommitting erimes; and/or (q) an administrative aetion taken by the Department of Lieensing
+under RCW Chapter 46.20; while the Defendant was not eligible to reinstate his or her driver’s
+lieense or driving privileges; eontrary to Revised Code of Washington 46.20.342(l)(b).
+(MAXIMUM PENALTY-Three hundred sixty-four (364) days in jail or $5,000 fine, or both,
+pursuant to RCW 46.20.342(1 )(b) and RCW 9.92.020, plus restitution, assessments and eourt
+eosts.)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+JIS Code:
+46.20.342.1B DWLS 2nd Degree
+25
+I eertify (or deelare) under penalty of perjury under the laws of the State of Washington
+that I have prohahle eause to believe that the above-named Defendant eommitted the above
+offense(s), and that the foregoing is true and eorreet to the best of my knowledge, information and
+26
+27
+28
+belief.
+29
+30
+31
+
+CHARGING DOCUMENT; Page 2 of 4
+Tina R. Robinson, Prosecuting Attorney
+Adult Criminal and Administrative Divisions
+614 Division Street, MS-35
+Port Orchard, WA 98366-4681
+(360) 337-7174; Fax (360) 337-4949
+www.kitsapgov.com/pros
+1
+DATED: June 9,2016
+PLACE: Port Orchard, WA
+STATE OF WASHINGTON
+2
+KEITH A. HINES, WSBA'M). 47816
+Deputy Proseeutmg Attomey
+3
+4
+5
+All suspects associated with this incident are-
+Ryan Andrew Fredenburg
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+
+CHARGING DOCUMENT; Page 3 of 4
+Tina R. Robinson, Prosecuting Attorney
+Aduit Cnminai and Administrative Divisions
+614 Division Street, MS-35
+Port Orchard, WA 983664681
+(360) 337-7174; Fax (360) 3374949
+■www.kitsapgov.corrr/pros
+1
+DEFENDANT IDENTIEICATIONINEORMATION
+2
+RYAN ANDREW FREDENBURG
+4901 66th Avenue w
+University Place, Wa 98467
+Alias Namets). Datels') of Birth. and ss Number
+[PERSON ALIAS DOB SSN]
+3
+4
+[Address source-pursuant to crRLJ/crR 2.2, Complainant has attempted to ascertain the Defendant’s current address hy searehing the
+Jndicial Information System (JIS formerly called DISCIS) database, Department of Licensing abstract of driving record. Department
+of Corrections Felony Offender Reporting System, Kitsap County Jail reeords and law enforcement report]
+5
+6
+Race: White
+Sex: Male
+DOB: 12/18/1993
+Age: 22
+SID: WA27817918 Height: 508
+7
+D/L: FREDERA071RQ
+Weight: 165
+DOC: Unknown
+D/L State: Washington
+JUV1S: Unknown
+8
+Eyes: Green
+Hair: Brown
+9
+FBL 135986AH4
+10
+LAW ENEORCEMENT INEORMATION
+11
+Law Enforeement Report No.: 2016SP017032
+Law Enforeernent Filing Officer: James Nmi O’Connor, WSP950
+Law Enforcement Agency: Washington State Patrol - WAWSP0801
+Court: Kitsap County District Court, WA018013J
+Motor Vehicle Involved? Yes
+Domestic Violence Charge(s)? No
+Law Enforcement Bail Amount? Unknown
+12
+13
+14
+15
+16
+17
+18
+CLERK ACTION REOUIRED
+19
+In Custody
+20
+Appearance Date If Applicable: 06-09-16
+21
+22
+PROSECUTOR DISTRIBUTION INEORMATION
+23
+Superior Court
+District Sc Municipal Court
+Original Charging Docnment-
+Onginal E2 copies to Clerk
+1 copy to flle
+Amended Charging Document(s)-
+Original -1-2 copies to Clerk
+1 copy to flle
+Originai Charging Docnment-
+Electronicaiiy flied with the Cierk
+Onginal -1-1 copy to flle
+Amended Charging Document(s)-
+Eiectronicaliy flied with the Cierk
+Original -1-2 copies to flle
+1 copy clipped inside flle on top of left side
+1 copy to flle	
+24
+25
+26
+27
+28
+Prosecutor’s File Number-16-225790-1
+29
+30
+31
+
+CHARGING DOCUMENT; Page 4 of 4
+Tina R. Robinson, Proseeuting Attorney
+Adult Cnminal and Administrative Divisions
+614 Division Street, MS-35
+Port Orehard, WA 983664681
+(360) 337-7174; Fax (360) 3374949
+www.kitsapgov.com/pros
+
+i sHINGTOS
+
+Case#
+16-017032
+WASHINGTON
+FviTROL
+REPORT OF INVESTIGATION
+Primary Officer’s Narrative
+Citation #
+Cl 061278
+Officer's Name: Trooper J. O'Connor
+Badge No.: 950
+On 6-8-2016 at approximately 0607 hours, while on routine patrol in Kitsap County wearing my full uniform
+driving my fully marked patrol car, I was sitting on the shoulder of the westbound state Route 16 on ramp from
+Burley Olalla conducting speed patrol with my PRO Laser III L#1365. The PRO Laser III was checked in prior
+to beginning my shift and was found to be in proper working order.
+At approximately 0607 hours, I observed a small red in color passenger car that had two small square shaped
+tail lights illuminated, driving in lane two of two visually traveling at a higher rate than other motorists and
+obtained a reading of 82 MPH in the posted 60 MPH zone on my PRO Laser III. I merged onto W.SR 16 and
+attempted to catch up to the vehicle and conduct a traffic stop. Due to other motorists on the highway it took a
+few miles to catch up to the vehicle. At the ivlullinex overpass I activated my emergency lights to stop the
+vehicle.
+At mile post 23,1 observed the red passenger car Washington plate #AKB3144 come to an abrupt stop on the
+right shoulder. Due to other morning traffic in lane one of two, I was unable to stop behind the vehicle. Due to
+the vehicle coming to an abrupt stop, I changed lanes from lane two of two to the right shoulder in front of the
+vehicle.
+I contacted the later identified driver, from his Washington state ID Card as FREDENBURG, RYAN ANDREW
+DOB of 12-18-1993 and advised him of the reason for the stop. I also asked FREDENBURG if he had a
+drivers' license not just an ID Card; FREDENBURG stated: “No.” After taking a few moments In gathering all of
+FREDENBURG's Information, I returned to my patrol car and conducted a drivers’ check through WSP
+Communications. Communications advised that FREDENBURG was DWLS/REVOKED in the 2'''  Degree with
+priors. WSP Communications also advised that FREDENBURG had a FIR from 2013 and was arrested for DUI
+and upon the search, the Officer found a pill bottle of Oxycodone.
+FREDENBURG was later taken into custody for operating a motor vehicle while DWLS/REVOKED 2'''' Degree.
+Upon searching FREDENBURG in his front left jeans pocket, I obtained a brown in color pill bottle with no
+markings. The white prescription label was badly worn and completely unreadable. The bottle was later found
+to have seven blue circular shaped pills inside.
+I later asked FREDENBURG what the bottle contained; FREDENBURG stated: “Adderall.” I asked
+FREDENBURG if he had a prescription for the Adderall; He stated he did. After the vehicle was released to a
+licensed driver, I transported FREDENBURG to the Kitsap County Jail. FREDENBURG was booked on
+DWLS/REVOKED 2''° Degree.
+At the jail, FREDENBURG was advised that all prescnptions must be contained in a fully marked prescnption
+bottle with the label. I also explained his citation for DWLS/REVOKED 2' ° Degree and his speed infraction.
+I respectfully request FREDENBURG, RYAN ANDREW DOB of 12-18-1993 to also be charged with the
+following.
+•	69.50.4013, Possession of Controlled Substance.
+/ certify (or declare) under penalty of perjury under the lav\rs of the state of Washington
+	that this report is true and correct (RCW 9A. 72.085):
+' Officer's Printed Narne
+James O'Connor
+_
+Badge #
+Date Signed
+6-8-2016
+950
+
+Place Sigl d
+Kitsap \
+Reviewed by (Signature)*
+Reviewed by (Printed Name)*
+Badge #
+Date Signed
+*Repolt is valid without review.
+3000.110 001 (R6/13)
+RECEIVED 6/9/2016
+KITSAP COUNTRY PROSECUTING ATTORNEY
+Page 2 of 2
+</textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+
+        </div>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Header, Footer and Watermark</h3>
+                <!--!<div id="content"> -->
+                <textarea class="form-control" cols="150" rows="30" id="HeaderFooterWatermark"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>URL HYPERLINKS</h3>
+                <!--!<div id="content"> -->
+                <textarea class="form-control" cols="150" rows="30" id="Hyperlink"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Specific Excel Rows</h3>
+                <!--!<div id="content">  -->
+                <textarea class="form-control" cols="150" rows="30" id="SpecificRows"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+    </div>
+
+</body>
+</html>
