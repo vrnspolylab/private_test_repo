@@ -1,0 +1,793 @@
+<html>
+<head>
+    <title>Result</title>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="./resources/bootstrap-3.3.5-dist/css/bootstrap.min.css">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="./resources/bootstrap-3.3.5-dist/css/bootstrap-theme.min.css">
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="./resources/bootstrap-3.3.5-dist/js/bootstrap.min.js"></script>
+
+    <style>
+        #content {
+            background-color: #FCFCFC;
+            border: 1px solid #999999;
+            padding: 10px 10px;
+            -moz-border-radius: 4px;
+            -webkit-border-radius: 4px;
+            border-radius: 4px;
+            /*IE 7 AND 8 DO NOT SUPPORT BORDER RADIUS*/
+            opacity: 0.87;
+            -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity = 87);
+            /*-ms-filter must come before filter*/
+            filter: alpha(opacity = 87);
+            /*INNER ELEMENTS MUST NOT BREAK THIS ELEMENTS BOUNDARIES*/
+            /*All filters must be placed together*/
+
+        }
+
+        #infodiv
+         {
+
+
+            border: 0px rgb(89,89,89) solid;
+
+            background: rgb(234, 234, 228);
+
+        }
+    </style>
+</head>
+<body>
+    <center><h1>Data Extraction - Result</h1></center>
+    <div class="container">
+        <hr>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <dl class="dl-horizontal">
+                    <dt>File name:</dt>
+                    <dd>danvers-teen-arrest-complaint.pdf</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Provider name:</dt>
+                    <dd>AbbyyProvider</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Created On:</dt>
+                    <dd>8/12/2020 4:41:30 PM</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Extraction duration:</dt>
+                    <dd>00:00:10.5411363</dd>
+                </dl>
+            </div>
+            <div class="col-md-1"></div>
+
+        </div>
+        <hr>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Extended Attributes</h3>
+                <div id="attributes"><table class="table table-hover"><thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Value</th>
+                </tr>
+            </thead>
+            <tbody>
+<tr><td>creation date</td><td>10/23/2013 9:02:57 PM</td></tr>
+<tr><td>revision date</td><td>10/23/2013 9:02:57 PM</td></tr>
+<tr><td>publisher</td><td>iText® 5.3.4 ©2000-2012 1T3XT BVBA (AGPL-version)</td></tr>
+</tbody></table>
+</div>
+            </div>
+            <div class="col-md-1"></div>
+        </div>
+        <div class="row" >
+            <div class="col-md-1" ></div>
+            <div class="col-md-9">
+                <h3>Content</h3>
+                <!--!<div id="content">  -->
+                <textarea class="form-control" cols="150" rows="30" id="content">
+
+
+
+Trial Court of Massacbuaatu i\K '■
+Distlict Coltrl Dopartment
+
+NC. or COUNTS
+CRIMrNAL COIVIPLArNT
+ORIGINAL
+
+1
+133вср003472
+■r
+  Tг   T -l i r    
+COURTNAblMAOCR    1КАСЖ A
+Saicrn Olstr Coun
+66 Federal i ireet
+оегЕ *I>ANT иш£ s A ESS  • '
+Philip D Chism
+m 2  
+Salem. MA  1970
+(97S)744-1' 7
+%
+i DISPOSmoN DA! E
+ile 		  
+ARRasTOATl
+10/23/201Э
+CMITE OF OFFSNSa
+10/23 13
+OSF D TDOe
+01 1/1999
+colHFlAINTISStJEC
+1С 23У2013
+АВВЕЗП
+тщхт САТе è лма
+10Л$/2(ПЗ 10:45 AM
+T  as l uLED SV KT
+Аггац;|г|пал 
+orTiNsa ACOF?sss
+OITeNSS сгттгтош
+DanvBTS
+eouca INCIDe T NUIHB 
+1Э022962
+POUC6 DSFAaTMSKr
+OANVEF  PO
+
+r o /s£se!0N
+Arraignrnerpt Se s on
+
+4: A
+r->	l::=v
+ОГГМ
+TDAN013001227
+T
+A
+
+The unders ned complainant, ОЛ behalf of tba comrFlonweaKh, on oeth complalne thal on t>a  а1е{анмьаы belcHiv Ihe
+dafendant committed the offanse(s) lialed belcw and on any attachad pages.
+0Е8СР|РЛ0Н
+MURDER 026611
+ссхжт CODC
+246/1
+On 10/23 013 did aAAaul  snd bdat Coilean Rluer •Ш) intani to fnIJTder soch pelaer. snd oy iuoh шш\Jn and baaling cild kll and tlluldar ртьап, al
+ èolabon of O.L C.2S5.41.
+\m DIaTmcT COURT FINAL JURISCICTION IN AOULT 868АЮК
+
+1
+I
+[
+1
+1
+i
+
+evyDAN TO eaFoaa а5| МАС|гт тшдаат.сш0006р. A08T. CUFK
+ОАТа
+OF COMP
+3
+
+и-гз-i 
+
+O T6
+спдпкамо сгпАГГ/ A T. CLERK
+rgalis OFCOMRUMhwyT
+/Vot/ce 10 D»/bn t' 42 u.s.c. § 3796дд-4( }	th  nctlcê   you ara qonv dad о/ в /Tx anleancrodma 0  domasll'o Wofanoe >oü
+ma/ Ре pron/M#d регтап pretty from pufçhèsmg Bnâ/cr рошы   а ffmemt an<l T aavmin//A:Jn p£/rsuanf b l'a U,s. c. § F22 (g:) and
+olharapp ioee/e rs/afed Fsdsm/, 6fale. orA:loa//e .
+hm
+y
+PAQË
+Apf LICATIQN HO. (COURT 1}Ц ONLY)
+*TV  I Cour  of lllla eachuBeflB
+Districi Court DepartrnenI
+APPLICATICN FOR
+CRIh lNAL COMPLAINT
+of *
+I
+1
+
+I The	oon1pialo9nL requeetthar a cnminal cofTDIajnt ieaü€ agamar l e шивёб chargirlo iha
+lia  bolovl. к lha accüaad HAS HOT BEEN ARRESTED ind thecha/pdairwolyllt
+/ % LEMЛJVBNaEcюlшт
+noNtY MISOEMEANORts). f rêAotsIa heerir  □ WITHOUT HcmcEbacatJae of an imn nl •h'eal Ы
+П BODILY INJURY □OOMMISSloH OF A CRIME □ n.lGhfT □ wrm НОТЮЕ CO accusao. Щ Qp  
+00 NE OR UORE FEL0N1 ES, I facriiaat a Naefit>g □ WITHOUT HOTICE □ WITH тлсЕ >0 acalsêd.
+19 
+I  ALCCUSED
+  VJAR RANT ia laquasaeo bacauH proaeoutcf |аргвеаш tha  accuetd îmy noc NDPaar IHNeee êrfaatacl. ’‘	  HAS □ НАГ NOT ЬШ1 anascad
+ARR
+
+♦    
+INFOPM' T or. AlicuT АССЛЛЕО
+ВШТНОАТЕ
+01;2UI999
+apolAt SECÜRIrY
+NAME (FrRST	UVST) AHD ADORESS
+"1
+MAalTAL STAT\JS
+UNMAIUUED
+pcf NO.
+PHtup D.AHIf I CHISM
+STATE
+DSIVERSLCCelssNO
+vreloKT
+EYES
+BaowH
+HEtQhT
+OENDEA
+МММ.
+L
+14E
+SI
+СРАУ PMONÉ
+B.RTK атАТЕ OR COUNT FIY
+CIARKSV1LLETN
+; PATH R’SHAME (RRST1И1 LA ST:
+1 S14CY
+COUPLS ON SCARSA4ARKSrrATTOOS
+DARK
+AACE
+WH1TX
+HAIR
+BLK
+ •OTHER•s fMJDEN NAME (FIRST Ml LAST)
+DUNNA
+EMKOYERfscHCCH.
+IhINVBRS К|св SCHOCH.
+CASE INroRl.lATjoN
+PD
+COMFlAfN NrTYr'
+1 fTlIRXICE □CITIZEN □OTHER
+OF OFFENSE
+COAlipLAiNArTr NAMS (PIFST Ш LAST 
+[ FTCEK PHIUF
+DAN
+TAHSEY
+AOORESS
+DAKVERStm
+OAKVERS roucE DepARTMSHT
+mASH$Tst£T
+DAHVKRS,MAS19;s
+oaTN
+'тно|э|)ош7
+1èr jf,- NO
+|м;
+I3sa29s2
+cmwIONNCIis)
+l_
+OF NSEOKrE
+I(M23/20U os;ao;33
+DESCRImoN
+hlulaHlc sa
+, ctmrgMIl	IV!» a"'# VNUe M p 'y	laflibl 	Me uFO
+Гг.ае.ел		
+OESCRIFIION
+Of FENSE CODE
+2Ш}
+VARIABLES (eg пАгге
+\J i сл лл \
+ofFBaeE COOE
+I
+OFFe ssDArE
+VARIABLES
+ОРР ЕСАГЕ
+l:
+OESCRIPTION
+OFFENSB CODE
+VARiASLB8
+OATEFILBD ,
+\ог ъ}\ъ
+DAËËÔPHSARtf 
+со
+REHARKS
+X
+
+** ШЕ0РНЁАВ|Н0
+cûufITÜEEONCIr
+I
+••• AHEARINOUPONTHrscoMPLAlfgTAFPLICATION
+  Wla вЕ HELO AT THE ABOVE CCÜRT ADDRESS ON
+CDURTVDEONLY
+AT
+C_LHV: ILOrL
+pnocEBSINr, ан r Dr;.AI'KiI'.-T Al'pl l-M Of. '■COJ (1	Lr.3)
+DATP
+NcmcE 8ЕКГ OP CLERKS HEARINO SOHEDULED CM.
+HOTfcE SENT DF JUDGES HEARE D SCHEÜULED Olt 	 —
+HBAQINCOONTIrA.EDTC			
+APPLICAT1UN ÜE01DEC) wrrHour NcmcETO ACOUSED BECAUSE;
+о IMMINENT THPÈAr OF OSODILYlfiluRY g CRIMe D PLIGHT SYACOUBEO
+о FELONY CHARaED AND PO ÜCE DO NOT REauESTNOTICR
+□ FFI ПНУ CHARaED BV CIVIKAN: NO N OTI c E AT CLEP кг$ □1SCRETICN
+E
+'. CL£:4H,'JUDi::
+COMPLAiMrDEN O
+COMPUAINTTO.ISSUR
+DATL
+rl MO PROSABLE CAOSf fcuND
+и REOUBS'r COMPLAFMNT
+0 FAILtJRE TO PROSECUTE
+G AaFI!EIAErfT OP BCTH PARRES
+D OTHER:
+□ PROI AS LE CAUSE FOUND RDR ABOVEC*fENf E: ')
+NOIS). D1. □t □3. BASED ON
+0 FACTS SET FoaTH IN ATTACHEÛ s7ATEMeNT(s)
+G TESTIMOHŸRECORDEQ TAP6 NIY
+START NO.
+0 WARRANT G BUMMONS TO ISSUE
+ARRAIONMBNTDATC		
+srfD NO.
+COMUEHr
+OCCRJ leND I
+
+PAGE
+Trial Court of Massachusetts
+2 OF  	District Court Departinent
+—U]	 SALEM JTJVENILE COURT
+S6 Federal St
+SAt.lr.M.MA П1Ч7П	
+APPUCATION NO.(C01M on)y)
+STATEMENT OF FACTS
+
+w
+IN SUPPORT OF
+APPLICATION FOR CRIMINAL COMPLAINT
+COURT DtvISION
+The undersigned aueges the following as a [Z] fullorIZI partial statement of the
+Actual basis for the offensefs) for which a eriminal coniplaint is sought
+st:atement of Paets
+On 23 October 2013 the Danvers Police pepartment and the Massachusetts
+state Police engaged in a joint investigation into the mrssa.ng person
+reports of Colleen Ritzer, a teacher employed at the Danvers Hxgh School
+froln Andover Massaohusetts and a juvenile male from Danvers Massaclausetts.
+Ritzer etnd the juvenile are known to each from the school.
+It was learned from an interview of the juvenile suspect and video
+surveillance footage recovered at the school, that a juvenxie stuaent
+attends Danvers High School assaulted and subsequently murdered Colleen
+Ritzer and disposed of her body near the high school grounds.
+that
+Based on his statements and the corroborating evidence found at multiple
+scenes
+was .
+at the Danvers High School and surrounding wooded area, the juvenile
+subsequently placed xnto custody and booked for Murder
+
+DATESIGNEO
+1AM A
+  LAWENFORCEME?Tr0FrrcER
+I] Civlu AN COMPLAINANT OR WITNESS
+SP RE
+FR1NTED NAME
+
+{о 123/\3
+' \(AWSC4
+,:\t>ul[:ic>AAC;l>VCTS ci.i'.UK-lMACISrRA‘JI:MKST,cl.l;RU;,MJU( -: ivASKDONOiuLTESNMOJVV
+DATE EICNED
+sicNATURE 0i‘ CLERK-MACisTRATE/ASST, CLERK/JUDGE
+REMARKS
+X
+ЖЕСОШ  OF BoolaNC
+POLICE DEPARTMENT
+DANVERS, MA$SACHUS TS
+р40ШШ  БЯ
+Ешгт
+H™
+DATË Jt T1MH 0? B00K1KG
+1е/25/2015<|5:за:э?
+I  ST мимвЕЯ
+rrDAN01300m7
+свьимимвш 
+CBLLI
+D.O.B. AOE
+0ШИ999 14
+D NAME
+MIDDLBNAME
+DiiNTBL
+FIKST
+PHILIP
+I.J!ksTNAME
+сш$м
+r
+TROENAME
+РШЫРОСНШМ
+ЗТБЕБТ
+FTATE 2JF
+MA 019Z3
+APTI aTY/rawN
+STRE HAME
+N0
+DANVERS
+ OHT
+RACE
+WHrrE
+SEX
+i4B
+M
+BLD
+SKJN
+VES
+КА1Я
+BLACK
+пш DARK
+OWN
+|хх:лтю>  OF
+
+SCARS
+BImoTY
+NOT OF 1ШРАМ c ORIGIN
+r.
+.T1AL
+DRIVER*  LICENSE
+FLACEC Blfal 
+CLARKSVÜ.LETN
+Allfs
+NMARRmD
+yoTHER's MOTHBR'S
+ AME MATDEN
+DIANNA BARBA1U
+MIHERSNAME
+STACY
+
+\  
+.
+
+/\
+
+ocalpAîlcN
+STUDENT
+EMPLOYE
+DANVERS шон SCHOOL
+Т/
+рнрю Nm
+ADORESS OF EMFLOYER
+6Q CABOT ROAD DANVERS MA (НШ
+P» сш* VISiBLE QN PERSC , DESCRIBB kM:>   LOCATI 
+OFFENSES
+l.
+ATTENE  PHY aAN
+TREAlBDWHIIRE
+мхаштшбв!
+YES
+IBYWHOM
+bANA HACAN
+PRISOKBR ADVtsBD OF RUHrs
+UNt€R ox. CHAFtî  щ
+a.
+П
+YES
+YES
+PHOTO TAKEN
+FINOERPRImsTAKHN
+a
+
+W VN]}EF71i£
+/FFRisww  WASAFJŒS
+nu tM 8BL0W
+A
+  lY VHOM
+PRISCm ADVISBD OF R10HTS
+Uhmiol. CHAF 2   A
+5.
+lY WHOM
+  mYZBR
+READIKG
+ ARRAFrrKlB ER
+ü TrYCOÜRT
+URRESTON
+WARRAKT?
+I bève bem  viled lmder$l d Щ nlblto Itmabi tckfil, Ш •
+N edi abwyer orIlÉfr Oët pevIA  ал  Ю bave шу 0 
+Rby kkil   lcr ticohd.
+CHAROBS
+PRISCINER SIGNA J4JRE
+feooKrNO OFFICER
+ANA HAGAN
+ARRBSTINQOFnŒR
+FH1LIP TANSEY
+IARAESTED P6BEON HAVE poelDVE ШВКППСАТЮМ
+YES П N0 TYPB; OTHER
+jll£
+
+'FFICERIN CHAROb
+KEVIN JANVR1N
+COMPLATNANT
+NAME OF PROBAÎroN OFncER КОИРГЕО амЕ
+IS ARJŒStBE AnJVENILE   YBS
+I AME oi  PARBfr OR оиАДЫАЫ
+0FF1CBR MAKINO N0TTFI64f loN
+rJME
+F
+.TEANDTIMBOPBAIL
+H OUNTOFBAJL
+iloLD
+aAIL COMMISSIONER
+EacRADER
+DCIN
+m
+
+htm://200.2.11.2/QED// le/DAK-I /booking/bk heetj ?llgeIK7 DAN-PD bo cQum=... 1(У23/2013
+
+Trf l Court of Massachusetts
+Distnct Court Del>arttl10ltt
+Ш аяосиктб
+OOCKET NueHBER
+CRIMrNAL DOCKET
+
+1
+1$36CR003472
+ LIRT  
+ elem Di?tnct Ccljt
+ss Federal
+Sal . MA 01 70
+Ge cER
+Male
+coe
+ренЕ ОАЬГ NAME ANO AODRta>
+Philip D cw$rr.
+01/2fy1969
+' бхгЁ ppfll lA 
+10/23/2013
+PRICOMIPUy NT АЯНЕёт DATë
+
+10/23/2013
+ЙУЕ OFFENSE COUNTS
+PÛUNT
+1 206/1
+ôl?f EMRE РАТе
+10/Z3/2D13
+OFFENee  facRIPTI 
+M1JROER c266 §1
+ARREST
+ARTI NT
+РАТЕал|0с 'ч'/
+OFF ENaE CIÎ'ITTQIÂ 
+ûanvers
+polICE OEPI
+DANVERS PD
+
+fEEa IV1PQSEO
+DATE a JUOGE
+DÔDKETEHTRT
+
+
+/1МЛ
+D WAIVED
+  Aepmây tFpclllt»d (а%юп 3;1Q>
+□ AeÿdeAleEa0An.Aftv l ra1l0 
+P vvfi r<v Û F6lt0lr>dAIWC ICKIUV
+t
+coul*tAI	1D12)
+□ WAIVED
+y , /
+/
+ ujpu
+DF UE VVAITaRt C27S1301li)
+0наи(27Б ЗМ)	/	'*
+□ WAivED
+s
+TirmApf rt1«4MeAlr Q
+Dé lA VVAFAirn Afrcpl Np |Ете § те 1EJi □WAIVED
+p?oeeterv SI  BIOn  27EI e7A> 0 WAfvEO
+
+#z 71
+п/оцлеа]   bai ravtciAoe I27e I5i)
+ Rlgrxlpbil l0mvlay <27esEe)
+□ AI MtadnJe bxtm (111E t  0}
+7/
+AfnicwH aad idvitwit
+Ы\ otdFrFpffilloi
+Q vvalver oljuly i ilRdaA   c flôqMr
+O Doiel v il 
+AivIlidofflEetlojlIry
+blAI
+A iAIH of riJMF aa pro fa fDIfl. Cl. SMPi.R. J
+Aciirbfdalrighioraialw* tpAppaaJOO (M.R.CrInIPJl 26)
+SCHEOULING HUTORY
+77 J
+ТАРЕ EÎART/
+STCP
+SOHEÜULED OAT 
+REEUIJ
+EVEKn
+/
+
+
+0 NO'HaliourEVInrRaaeTvad GCQrev
+□ NctHilcl bJl Ëvar>IRfegvad DDenl 
+1(V23/2013
+AfTilçrFrafH
+t
+7ШП5
+.y
+æJf
+'f0)1old 0 MotMaldbulEvirvRwcivad □Corll'd
+2
+2
+□ Hild P NQI Hokl 1ДИ evem Raoolvod a corA'i
+
+□ Held Q NolHddaut EvenlI IMVd pcbtifd
+%
+O Hald □ Nol Hild bul Eve'll Рмокао G cofHd
+e
+Q ld P Fb Kfld bll Evani Rafollrad □cbrTrd
+7
+□ H#d O NQTHildb AEVOnlReaolyed pcerd'd
+e
+PHelel G NciHeldwIlEvanIReelArdd pcdni'd
+9
+P Held O NctHdldbvlEveAIReiol  □CIHtrd
+1d
+mg  e/eeelefl	a lüllÉaa
+fvA8D«0«illA ar wved WR«v fu9(4w nfeeMf'êe4e 	remain l' nr 
+rA?»Frtlllae n lntvrr*««*wl eeNrwle# [tf CWF • c  ulnuçal  ulii-0 Lrlllarta a«'агмА
+aRR ■ feel  rfMIPIN'F ler'eaw
+Dm • u rlfaenlli44dl eoDeerl' «MS SHIMOSd
+ A nllcei'lsssse
+TOTACNO. ÛFPAGEe
+DeJ<aATEl
+a.ERK'MAGISTRATE / ASST CLERK
+A TRDE COPY ATTEST!
+X
+veaas.l > 1Ш
+
+' 335CRCH33472
+
+Tiial Court of Massachuaetts
+District Court Department
+ÛCCKêTNLJMBË 
+Ito, Of COUNTS
+MITTIMUS WITHOUT BAIL
+COURT f ILE COPY
+1
+
+1ШСЯ0€Э472
+cotRT MAM£ 1ADCIRESS
+saleFn District Coun
+56 Federal street
+Salenl. MA 01970
+[978)744-1167
+NAhfiE
+Phlup D cmsm
+DATea»plAINT IsstED
+ACORESS
+TO/23/2013
+
+Dcle
+Male
+01 1/1999
+ LNO.
+t trr EVEKT
+11it2 /2013 09:00 AM prol: le Ceuse Heeling
+PCFNa
+POÜCE t) EPAKTHEf  OF OFFENSa
+ЛАААЛАЛАААЛА
+OEFÊMDANT MJ8T APPEAR ON THE ABOVE DATE A TIME
+DAMVERS PD
+counT LOCATloH Of H EXT ЕУШ  IJf NOTTKI  CQUKTt
+opfEtaE LOCATION
+Denvera
+SCC.SEC.ho.
+
+HEIOHT
+6' 2'
+| юнт
+mR
+EYaa
+ETHNICrrT
+CONF10uaN
+
+148
+elack
+srçNvn
+Dafic
+FIRST FIVE OFFENSE COUNTS
+cç  CQC 
+1	265/1
+T0 3I2013
+QFF tf ÉOR PTIOÉ 
+MURDER С2в6§1
+R£ASCR  WHY CIEFENCANT HEID wrrHOÜTBAS.
+DEFEMDAHT HELD OH DANCEROUSNESS (27$ 6.68A)
+
+%
+10 THE OFFICIAL IN CHAROE OF ; Eesex House of Cofrection
+Th в Cc üft haa ORDE RED t h St thB defendant namMI sbove bt commitled те the ebova I rTetttllrorL
+and t[tere swall his or hor naxt court аррвагапсе St the coijrt locsoell indiceled ebove 
+Any dv(y eutbcrized officsr la hereby OROERED tü convay artd deliver the defindint le ly tQ Sljoh ||аш
+The CIFICIel inchsrge 0  8uch Ir itLtion ia hereby ORDERED to rBceivethe defendeni Into euTICdy. Щщ
+retum the dedndant to the court Indfcalecf above 00 tne daèe er>d tifna ol nsxt event indtceted above, j) 
+IBeally discharded befors bvch dete.
+FURTHER QRDERS
+OF THE COURTr
+
+
+I del
+'a
+\
+
+He
+ Ihereoo.
+lend ю
+Rlwlse
+o.
+ot
+,t
+
+Ihs
+
+
+0АГЕ laauED ч
+10 $l2013
+OATH/A6eT.clsRK
+TURS
+ТЕетЕ OF nRST 4uencE
+WITHESS: Hall. Robell A BrennaR
+
+
+
+V
+Ths cotweyiog officer hereby ceTtiflee thet tie or ahe hes conveyed the dsfendBm to Ule inIduldoA nBmed above. along VHIh the CH nel df
+this mittllrua. The rectiving officef fTsreby cenjnes thot ne cr ehe hee recelvad lha defandapt 0ГТ behsif et lha cfficiel b chpfge of evolt
+|пвши||оп, aleng Mth lha Qhginel of  le mitHrnue.
+S NA*nJRE OF RecavtNa OPFICVÜ.
+alaNATURB OF CONVertI в OFFiceR
+CATE a 1IME OF Am vAL АГ |кетгшт|0м
+X
+X
+
+Оееельц fMalg4
+</textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+
+        </div>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Header, Footer and Watermark</h3>
+                <!--!<div id="content"> -->
+                <textarea class="form-control" cols="150" rows="30" id="HeaderFooterWatermark"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>URL HYPERLINKS</h3>
+                <!--!<div id="content"> -->
+                <textarea class="form-control" cols="150" rows="30" id="Hyperlink"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Specific Excel Rows</h3>
+                <!--!<div id="content">  -->
+                <textarea class="form-control" cols="150" rows="30" id="SpecificRows"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+    </div>
+
+</body>
+</html>

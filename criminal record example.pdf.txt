@@ -1,0 +1,1549 @@
+<html>
+<head>
+    <title>Result</title>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="./resources/bootstrap-3.3.5-dist/css/bootstrap.min.css">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="./resources/bootstrap-3.3.5-dist/css/bootstrap-theme.min.css">
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="./resources/bootstrap-3.3.5-dist/js/bootstrap.min.js"></script>
+
+    <style>
+        #content {
+            background-color: #FCFCFC;
+            border: 1px solid #999999;
+            padding: 10px 10px;
+            -moz-border-radius: 4px;
+            -webkit-border-radius: 4px;
+            border-radius: 4px;
+            /*IE 7 AND 8 DO NOT SUPPORT BORDER RADIUS*/
+            opacity: 0.87;
+            -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity = 87);
+            /*-ms-filter must come before filter*/
+            filter: alpha(opacity = 87);
+            /*INNER ELEMENTS MUST NOT BREAK THIS ELEMENTS BOUNDARIES*/
+            /*All filters must be placed together*/
+
+        }
+
+        #infodiv
+         {
+
+
+            border: 0px rgb(89,89,89) solid;
+
+            background: rgb(234, 234, 228);
+
+        }
+    </style>
+</head>
+<body>
+    <center><h1>Data Extraction - Result</h1></center>
+    <div class="container">
+        <hr>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <dl class="dl-horizontal">
+                    <dt>File name:</dt>
+                    <dd>criminal record example.pdf</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Provider name:</dt>
+                    <dd>AbbyyProvider</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Created On:</dt>
+                    <dd>8/12/2020 4:41:20 PM</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Extraction duration:</dt>
+                    <dd>00:00:22.7694995</dd>
+                </dl>
+            </div>
+            <div class="col-md-1"></div>
+
+        </div>
+        <hr>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Extended Attributes</h3>
+                <div id="attributes"><table class="table table-hover"><thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Value</th>
+                </tr>
+            </thead>
+            <tbody>
+<tr><td>creation date</td><td>3/21/2014 3:34:49 PM</td></tr>
+</tbody></table>
+</div>
+            </div>
+            <div class="col-md-1"></div>
+        </div>
+        <div class="row" >
+            <div class="col-md-1" ></div>
+            <div class="col-md-9">
+                <h3>Content</h3>
+                <!--!<div id="content">  -->
+                <textarea class="form-control" cols="150" rows="30" id="content">DEFENDANT: Sandra L. Eastr’ -X
+DOB: 03/14/1983 AGE: 30
+ADDRESS: 125 College Street
+Poultney, VT 05764
+ARRJ IGNMENT b. 'E: 04/29/13
+SAGASENO.: 2013RD06183A
+ASSIGNED PROSECUTOR: Kevin R. Klamm
+POLICE DEPT.: Rutland City Police Department
+INVESTIGATING OFFICER: Lamoria, R.
+ADVOCATE: Cheryl Patch
+INCmENTNO.: 13RU01583
+STATE OF VERMONT
+SUPERIOR COURT
+RUTLAND UNIT
+CRIMINAL DIVISION
+DOCKET NO:
+
+
+
+
+
+STATE OF VERMONT
+V
+SANDRA L. EASTMAN, Defendant
+INFORMATION BY STATE’S ATTORNEY
+By the authority of the State of Vermont, the State’s Attorney for Rutland County, upon the oath of office
+charges:
+COUNT
+CHARGE CODE: 13V1304, CHARGE NAME: Cruelty-Child <10 Yrs, OFFENSE CLASS: M
+1 OF 1
+Sandra L. Eastman, in the County of Rutland, at Rutland, on or about February 14,2013, was over the age of
+sixteen years and had custody, charge or care of a child under ten years of age, and wil-l rly-assaulte iFl-
+trea dT  caused ol pro:95ш=ed the child to be assault-êdy-ill-t-reated,...negl ected,-or exposed, in a manner to-cause
+и L Хт-'
+F74_,i! i
+thenchiM-unneeessa y- uffedng  to endanger the child's health b p f ’/ bu
+in violation of 13 V.S.A. §1304.	11 c,4
+I'D p
+4..
+Л
+Penalty: imprisoned not more than 2 years or fined not more than $500.00 or both.
+Against the peace and dignity of the State.
+DATED: April 4,2013
+2 
+
+State’s Attorney (Deputy)
+This information has been presented to me and I have found probable cause.
+/3
+DATED:
+>4 )
+u-i\è
+À / /
+Superior Court Judge
+Conditions Requested: 1, 2, 3,14 (JuvenileA), 15,17 (#14, #15, #31), 39 Report to RPD for prints/photo,
+40 No imsupervised contact with children under age
+
+■r
+I
+AFFIDAVIT
+STATE OF VERMONT
+RUTLAND COUNTY s.s.
+NOW COMES, Detective 1®* class, Corporal Raymolld J. LaMoria Jr. affiant, being duly
+swom and on oath deposes and says he has probahle cause to believe that Sandra Eastman
+DOB:03/14/1983 has conimitted the offense of; Cruelty to ehildren under 10 by one over 16 in
+violation of Titlel3 Vermont statuLes Annotated, Section 1304.
+On February 14, 2013 at approximately 1030 hours Investigator icristy Post of the Vermont
+Department for Children and Families Service (DCF), Rutland, Vermont office contacted this
+writer.
+Inv. Post advised that Orl Febmaiy 14,2013 at around 0503 hours The Rutland Regiolral
+Medical Center Emergency room physician, Allison Davis MD contacted DCF with a report of
+suspected physical abuse of an 11 month old child. Juvenile A DOB: 02/18/2012.
+It was reported that on this date at 0430 Sandra Eastman DOB: 03/14/1983 brought her daughter
+Juvenile A into the Emergency Room at RRMC. The report states that Sandra told the hospital
+that the child spent Tuesday February 12, 2013 with Sandra’s sister and since then the child has
+not wanted to crawl. Dr. Davis did an x-ray and it was foxmd that there was a right tibia fracture.
+The report stated that Sandra has no explanation for the injury or why it took so long fo get
+medical treatment.
+Inv. Post went to RRMC where she leamed that an examination of Juvenile A revealed a right
+tibia fracture and scratches on her right lower leg. That Sandra told the doctor that she did not
+have a ride to the hospital any sooner than this morning and that is why she had not brought the
+child before now. Juvenile A was admitted and transferred to the Women and Children’s unit.
+Inv. Post spoke with Dr. Indra Lovko, the pediatrician on the Women and Children’s unit
+attending to Juvenile A. Dr. Lovko stated that Juvenile A had a babygrarn (a full body x-ray for
+children) and there is a right tibia fracture and the radiologist also found a left tibia spiral fracturp
+wluch was bowing indicatmg a possible injury. The Ifactures did not seem to be the same age.
+Dr. Lovko stated that Sandra was very vague about what may have happened to Juvenile A but
+stated she did not know what happened. These x-ray were sent to Dr. Patno, pediatric specialist
+and abuse and neglect consultant, Fletcher Allen Ilospital.
+Dr. Lovko stated that “this injury could npt have happened by accident, the child could not have
+injured herself and that something bad happened fo Juvenile A.”
+Inv. Post spoke with Deirdre, RN on Women and Children’s unit at RRMC. Deirdre stated that
+Sandra has been very vague with her explanation of what happened to Juvenile A but that she
+knew Juvenile A was in pain and gave her Tylenol on February 13, 2012.
+
+
+Subscribed and Swom before me on
+this /i day OÎ	20/J?
+
+
+
+
+
+
+
+
+/
+A,
+
+
+%
+
+(Motary Public)
+Page 1 of4
+(Date)
+AFFIDAVIT,
+STATE OF VERMONT
+RUTLAND COUNTY s.s.
+Inv. Post interviewed Sandra at RRMC. Sandra stated that she did not know what happened to
+Juvenile A and that she started notieing Juvenile A was in pain on Fehruary 13,2012 when
+Juvenile A stopped erawling and seemed to he in pain. Sandra stated she did not seek medieal
+treatment sooner heeause she did not have a ride. When asked by investigator Post why she did
+not eall an amhulanee, Sandra stated that she thought the pain was eoming from Juvenile A’s
+cluh foot. Sandra stated that no one has heen alone with Juvenile A exeept for herself.
+Inv. Post spoke with Dr. Patno, pediatrie specialist and abuse and neglect consultant, who agreed
+to consult on the case and stated that h:om the information and reviewing Juvenile A’s X-rays,
+she believes that “for the child’s safety, the child should be in custody with DCF until she can
+have a ‘child safe’ appointment for a full exam and skeletal scan’' with Dr. Patno.
+Inv. Post spoke with Orthopedic Doctor Eric Marsh; he stated that the left h-acture is not likely
+an acute fracture. The right tibia fracture is an acute fracture. Dr. Marsh stated that Sandra told
+him that she has no idea how the fracture happened.
+At approximately 1200 hours this writer and Inv. Post traveled to the Rutland Regional Medical
+Center where an interview of Sandra Eastman was conducted by this writer. Eastman originally
+d ied knowing anything about how Juvenile A was mjured. However айег questioning
+Eastman, she became emotional and advised that on Tuesday February 12,2013 at around 0200
+hours she had gotten up to change her daughter’s Juvenile A’s diaper. When she went to put
+Juvenile A back in the pack and play where she slept, Juvenile A wiggled out of her arms and
+she dropped Juvenile A.
+Juvenile A struck her legs on the rail of the pack and play and then bounced off the rail and
+landed on fhë fidor of the pack and play. Sandra advised that Juvenile A screamed and cried.
+That she was ahle to pick her up and comfort her then put her back to sleep. Sandra advised that
+over the next two days Juvenile A did not seem to he herself, not crawling. She finally decided to
+bring her to the emergency room Thursday moming February 14,2013.
+After speaking with Sandra this writer and Inv. Post spoke with Dr. Patno about what we had
+leamed. In speaking with Dr. Patno she advised that the injuries sustained to Juvenile A were not
+consistent with the information Sandra provided.
+This writer and Inv. Post again met with Sandra and advised her of our concems. Sandra stated
+that the pack and play incident did occurred the way she told US but that it occurred 3 or 4 weeks
+ago. That most recently, Monday night February 11,2013 durmg the aRernoon hours she was at
+home 123 College Street Poultney Vermont getting ready to leave the house with Juvenile A to
+go shopping. They live in an upstairs apartment. She had left the door openjnd-  ext thing
+Subscribed and Swom before me on
+2Q 
+.A'
+
+tllis /J*dav of	 
+ АШапь /
+
+- /1-/1
+
+
+Oi
+(Date)
+(Notary Public)
+Page 2 of 4
+AFFIDAVIT.
+STATE OF VERMONT
+RUTLAND COUNTY s.s.
+she knew Juvenile A еате erawling by her and was just about to fall down the stairs. It scared
+Sandra and she grabhed Juvenile A by the right leg around the anide area and pulled her back
+hard eausing Juvenile A to strike the door easing with her legs. Sandra advised that she pulled
+Juvenile A so hard that she knew she had hurt Juvenile A. Juvenile A sereamed and started
+erying. Sandra advised she was seared and deeided not to bring Juvenile A for treatment hoping
+that she didn’t hurt her badly. However over the next three days Juvenile A did not seem to get
+any better she was unable to crawl and acted as though she was in pain. Sandra advised that she
+gave Juvenile A Tylenol for her pain but on Thursday moming decided she needed to bring
+Juvenile A to the Medieal Center for examination.
+Sandra advised that she has never intentionally hurt her daughter or any of her children.
+With this new information this ’writer and Inv. Post again consulted with Dr. Patno. Dr. Patno
+advised that this again was not eonsistent with the mechanism of inj’ury. Dr. Patno stated that
+she consulted with Dr. Higgins, an expert pediatric specialist, and they agreed that the right tibia
+fracture is seven to ten days old. Since Monday, February 11, 2013 is not ’within that time frame
+it is not likely that that is when the injury occurred.
+On February 21,2013 this ’writer received the ’written report in regards to fiirther examination of
+Juvenile A from Dr. Karyn Patno MD. Fletcher Allen Health Care, University Pediatrics.
+Dr. Patno’s assessment is:
+Juvenile A is a 1-year old female who presents with a comminuted ffacture of the right distal
+tibia. At the time of presentation, this ffacture was 7 to 10 days old. This fracture would require a
+significant amount of force to result in a comminuted ffacture as seen in Juvenile A. This is not a
+simple toddler ffacture, which can occur ffom relatively minimal force. This ffacture would have
+resulted in significant discomfort and is unlikely to have gone unnotieed by a supervising adult.
+Juvenile A’s mother has been unable to give an adequate history as to the mechanism of the
+injury causing this ffacture.
+The abnormality seen in the lefi: tibia is more subtle may represent a buckle type fracture. This
+type of ffacture occurs when force is applied along the longitudinal axis of the bone. The typical
+force causing this type of ffacture is different ffom the type of force causing a comminuted
+fracture as seen in the right tibia. This suggests two separate incidents. The lack of an
+explanation for these fractures in a child this age is very conceming for non- accidental trauma.
+Based on the information provided in this affidavit, the expert medieal assessment of Juvenile A
+by Dr. Patno and others stating that the injuries were 7 to 10 days old. The inconsistent
+Subscribed and Swom before me on
+
+20/ 
+this
+
+/3 ■ /:?
+
+
+(Date)
+Page 3 of 4
+(Notary Public)
+AFFIDAVIT
+STATE OF VERMONT
+RUTLAND COUNTY s.s.
+information on how Juvenile A sustained her injuries provided by Sandra Eastman who is over
+the age of 16 having sole eustody and eharge of eare of Juvenile A and Juvenile A being a child
+under the age of 10 years. The fact that Sandra Eastman admitted to concealing the incident of
+pulling Juvenile A by her leg knowing that she caused pain and injury to Juvenile A and did not
+seek immediate medical ahention causing the child unnecessary sulfering. This writer has
+probable cause to believe that Sandra Eastman DOB: 04/19/1983 has committed the offense of
+Cruelty to children under the age of 10 by one over 16. Title 13 VSA 1304.
+Subscribed and Sworn before me on
+,.x'
+j ? day of./M 
+
+20 /7
+this
+
+J
+(Date)
+Page 4 of 4
+(Notary Public)
+Supplemelltal. AFFIDAVIT
+STATE OF VERMONT
+RUTLAND COUNTY s.s.
+NOW COMES, Detective 1®* class, Corporal Raymond J. LaMoria Jr. affiant, being duly
+swom and on oath deposes and says he has prohable eause to believe that Sandra Eastman
+DOB:03/14/1983 , has committed the offense of Cmelty to children under 10 by one over 16 a
+violation of Title 13 Vermont Statutes Annotated Section 1304.
+Juvenile A is: Dezirae Sheldon DOB: 02/18/2012
+Subscribed and Swom before me on
+this /J day of	 	20 /- 
+
+
+
+
+
+(Date)
+(NotaIy Public)
+Page 1 of 1
+P1001317
+MRI-4065044
+PS02 5441 16:21 13MAR13
+1119PS002 0003 16:21 13MAR13
+QDL.VTDMVOOOO.1119PS002.
+Response To: 2
+■ PIf)/42574295. OPT/ALL
+EASTMAN,SANDRA,L
+15 MAIN ST APT 6
+FAIR HAVEN
+05743
+CONCORD
+03/13/13	1629 PAGE: 001
+Y IS 03-22-10
+08 VD 03-14-12
+CONV
+03-22-10 76 01 0027
+03-14-83 F 200 5-02 3 42574295
+2012-OP	1-1-
+VT
+SUSP-S
+NH
+CONVICTION CODE SUSPENSION EFFECTIVE DATE
+06-05-10
+08-27-10
+07-07-10
+TERM OF SUSPENSION
+INDF
+INDF
+FAF
+FAF
+INS
+
+PHOTO REQUIRED **
+** PHOTO GOOD UNTIL 03-22-18 **
+R
+** END OF LIST **
+MRI 4065044 IN: PS02 5441 AT 16:21 13MAR13
+OUT: 1119PS002 3 AT 16:21 13MAR13
+MRI-4065046
+SDB 3100 16:21 13MAR13
+1119PS002 0005 16:21 13MAR13
+QWX.VTSDBOOOO.1119PS002.
+Response To: 2
+MATCH BASED ON SOUNDEX SEARCH,VERIFY MATCH
+IN STATE
+■k-kicifk-k
+■k-kkk-k-k
+■kkk-k-k-k-k
+IN STATE
+MKE/SEX OFFENDER OR SEXUALLY VIOLENT PREDATOR
+ORI/VTVSP0024
+NAM/EASTMAN,SANDY	DOB/19830314 SEX/F RAC/W
+HGT/503	WGT/200 EYE/BRO HAI/BRO
+OFFENSE LITTERAL/LEWD-LASCIVIOUS CONDUCT CON/20081022	ORD/20081029
+TREATMENT/Y WARRANT/N
+■k-k-k-k-k-k-k-k-k-k-kk-kk-k-k-k-k-kk-k-kkk-k-kk-k-k-k-k-k-kkkk-k-k-k-k
+АКА/EASTMAN,SANDRA
+TOWN/POULTNEY DOC OFFICE - PHONE/RUTLAND 8027865808
+•k-k-k-k-kk-kkk-k-kk-k-k-k-k-kkk-k-k-k-kk-k-k-k-k-kk-k-k-kkk-kk-k-k-k-k-k-k-k-k-kk-kk-k-k-k-k-k-k-k-k
+IN STATE
+•k •k ■k icici  •■k'k
+FBI/298468CD9	soc/591665917
+NIC/X701140492
+RISK/N SXP/N
+HOME ADDRESS/125 COLLEGE ST NORTH APT 8
+EMPLOYER/UNEMPLOYED
+SCHOOL/CCV SCHOOL ADDRESS/24 EVELYN STREET
+DTE/20081027
+MIS/ LIFETIME REGISTRANT
+RUTLAND
+VT
+MRI 4065046 IN: SDB 3100 AT 16:21 13MAR13
+OUT: 1119PS002 5 AT 16:21 13MAR13
+Page 1
+P1001317
+MRI-4065047
+PS02 5442 16:21 IBMARlB
+1119PS002 0006 16:21 IBMARlB
+QCS.VTDMVOOOO.1119PS002.
+Response To: 2
+PID/42574295
+OB/IB/IB 1629
+CO CCCFRFDWI
+PAGE: 001
+PTS w/s AC SB c
+OFFENSECEWCHH SENT P/A CM TIME EFF ELIG/REIN
+Y M
+E-DATE
+NUMBER CONVICTION COURT
+2401B-4 04-06-10	ows	9-99-999	OB-08-10	ows
+46404-4 07-01-10	SIG	9-99-999	05-20-10	SIG
+2401B-5 04-06-10	FAF	9-99-999
+46404-5 07-01-10	FAF	9-99-999
+** END OF LIST ** 0004 0008
+MRI 4065047 IN: PS02 5442 AT 16:21 IBMARlB
+OUT: 1119PS002 6 AT 16:21 IBMARlB
+00 /
+02 /
+INDF 06-05-10
+INDF 08-27-10
+M
+MRI-4065177
+CCH 1975 16:24 IBMARlB
+1119PS002 0007 16:24 IBMARlB
+FR.VTIIIOOOO.1119PS002,VT0110200.
+Response To: в
+THIS RESPONSE IS BASED ON YOUR INQUIRY OF
+PUR/C.ATN/LAMORIA 1BRL0158B RDSA.NAM/EASTMAN,SANDRA.DOB/198B0B14
+NAME: EASTMAN, SANDY DOB: 0B/14/198B SID#: B072B2 FBI#: 298468CD9
+THIS DEFENDENT IS REGISTERED WITH THE VERMONT SEX OFFENDER REGISTRY
+THIS DEFENDENT IS BRADY DISQUALIFIED
+GUIDE TO THE RECORD
+DOC SUPERVISION STATUS
+SUPERVISING OFFICER
+DATE OF LAST ARREST
+AGE OF OFFENDER
+FAILURES TO APPEAR
+VIOLATION OF COURT ORDERS OR CONDITIONS
+CHARGES/CONVICTIONS
+RUTLAND FIELD SUPERVISION UNIT
+LESLIE BRIERE
+05/15/2007
+BO
+0
+0/0
+FELONY CHARGES/CONVICTIONS
+MISDEMEANOR CHARGES/CONVICTIONS
+UNKNOWN OFFENSE LEVEL CHARGES/CONVICTIONS
+ASSAULTIVE CRIME CHARGES / CONVICTIONS
+SEX CRIME CHARGES / CONVICTIONS
+ASSAULT ON OFFICER CHARGES
+DANGEROUS/ DEADLY WEAPON RELATED CHARGES
+ESCAPE CHARGES
+VIOLATION OF PROBATION/PAROLE CHARGES
+1/1
+0/0
+0/0
+1/0
+1/1
+0
+0
+0
+1/0
+VERMONT CRIMINAL HISTORY
+** IDENTIFICATION
+
+VERMONT SID # B072B2
+NAME: EASTMAN, SANDY
+DOB: 0B/14/198B
+SEX: F
+STATE/COUNTRY: NH
+US CITIZEN:
+Page 2
+POB CITY: CONCORD
+ETHNICITY:
+RACE: w
+P1001317
+HEIGHT: 5'02"
+SCARS/MARKS/TATTOS:
+WEIGHT: 200
+TAT L BRST
+TAT L LEG
+TAT L LEG
+TAT R LEG
+TAT R LEG
+TAT BACK -- SUN/MOON IN COLOR
+EYES: GRN
+-- ZODIAC SYMBOLS
+-	HELL HATH NO FURRY LIKE WOM
+-	CHINESE SYMBOL FOR RAGE
+-	NEPTUNE AND SLE
+-	PISCES
+HAIR: BRO
+#■ 2984f 8ca9.
+soc SEC
+PRINTS	——
+PHOTO AVAILABLE? Y
+HENRY:
+AKA:	EASTMAN. SANDRA LYNN
+ADDRESS :
+ADDRESS:
+3
+292 AIRPORT RD APT 102
+10 ELM STREET, FAIR HAVEN
+FAIR HAVEN VT 05743
+VT 05743
+*** CRIMINAL HISTORY **********
+CYCLE 1
+TRACKING NUMBER: 1508266
+	 ARREST --
+DATE OF ARREST:
+ARRESTING AGENCY:
+CASE NUMBER:
+FINGERPRINTS :
+ARREST TYPE:
+CHARGE
+CHARGE NUMBER:
+CHARGE DESCRIPTION:
+STATUTE :
+SEVERITY:
+05/15/2007
+FAIR HAVEN PD VT0110400
+07-FH-01146
+YES
+ADULT
+01
+SEXUAL ASSAULT-VICTIM <16 YRS
+13V3252A3
+FELONY
+	 COURT ARRAIGNMENT
+ARRAIGNMENT DATE:
+ARRAIGNMENT AGENCY:
+DOCKET NUMBER:
+CHARGE
+CHARGE NUMBER:
+CHARGE DESCRIPTION:
+STATUTE :
+SEVERITY:
+PLEA:
+06/16/2008
+RUTLAND CO. DISTRICT COURT
+603-.4-08
+01
+SEXUAL ASSAULT-VICTIM <16 YRS
+13V3252A3
+FELONY
+ARRAIGNED, PLED NOT GUILTY TO FELONY
+COURT DISPOSITION
+CHARGE
+CHARGE NUMBER:
+CONVICTED?.
+FELONY?
+CHARGE DESCRIPTION:
+STATUTE :
+DISPOSITION :
+DISPOSITION :
+DISPOSITION:
+DISPOSITION :
+CHARGE
+CHARGE NUMBER:
+CONVICTED?
+FELONY?
+CHARGE DESCRIPTION:
+STATUTE :
+VOP DATE:
+01
+YES
+YES
+LEWD-LASCIVIOUS CONDUCT
+13V2601
+10/22/2008 CHARGE AMENDED
+FELONY CONVICTION
+SENTENCED TO INCARCERATION FOR 18M - 7Y
+ALL SUSPENDED WITH PROBATION
+02
+NO
+NO
+VIOLATION OF PROBATION
+28V301
+01/31/2011
+Page 3
+P1001317
+01/31/2011 PROBATION REVOKED
+SENTENCED то INCARCERATION FOR 18м - 7Y
+ALL SUSPENDED WITH PROBATION EXCEPT 1410
+DISPOSITION :
+DISPOSITION:
+DISPOSITION :
+	 CYCLE EVENT 	
+11/10/2008 PALM PRINTS ON FILE
+11/10/2008 PRINTS - RECEIVED WITH A MUG TO FBI 1-23-09
+10/20/2010 PRINTS - RECEIVED WITH A MUG
+10/20/2010 PALM PRINTS ON FILE
+
+END OF RAPSHEET
+ONLY MOTOR VEHICLE OFFENSES WHICH WERE ARRAIGNED IN A VERMONT
+DISTRICT COURT AFTER SEPTEMBER 1, 1995 ARE INCLUDED IN THIS RECORD.
+The criminal record information provided above represents case
+disposition data reported by courts indicated. charges that are supported by
+fingerprints are designated with a "Y" in the "FP" column. All responses are
+based on file search criteria provided by the requestor at the date/time
+of the request. The requestor agrees to use Criminal Conviction Record
+information received from the Vermont Information Center for the purposes
+intended by law. The requestor agrees not to disclose the contents of any
+criminal conviction record without the applicant's permission to any person
+other than the applicant and properly designated employees who have a
+documented need to know the contents of the record. A violation may result
+in a civil penalty of up to $5,000. Each unauthorized disclosure shall
+constTtute a separate civil violation.
+Authorized: 1.Wallin - Director, Vermont Criminal Information Center
+waterbury, Vermont
+MRI 4065177 IN: CCH 1975 AT 16:24 13MAR13
+OUT: 1119PS002 7 AT 16:24 13MAR13
+DISPATCHED ISN:0004 MRI:4065180 AT 16:24 13MAR13 TO:NCIC
+MRI-4065181
+NCAl 0414 16:24 13MAR13
+1119PS002 0008 16:24 13MAR13
+QH.VTNCICOOO.1119PS002,VT0110200. "TERMOP-BRG.
+Response To: 4
+3L0100VL,MRI4065180
+VT0110200
+THIS NCIC INTERSTATE IDENTIFICATION INDEX MULTIPLE RESPONSE IS THE
+RESULT OF YOUR INQUIRY ON NAM/EASTMAN,SANDRA SEX/F RAC/W DOB/19830314
+PUR/3
+SUBIECT OF RECORD IS A REGISTERED SEXUAL OFFENDER
+NAME
+EASTMAN,SANDRA LYNN
+FBI NO.
+298468CD9
+INQUIRY DATE
+2013/03/13
+Page 4
+Pi001317
+SEX RACE BIRTH DATE HEIGHT WEIGHT EYES HAIR PHOTO
+F w	1983/03/14 502	200	GRN BRO Y
+BIRTH PLACE
+NEW HAMPSHIRE
+FINGERPRINT CLASS
+PATTERN CLASS
+RS LS RS RS RS LS LS LS LS LS
+wu wu
+wu
+ALIAS NAMES
+EASTMAN,SANDY
+SCARS-MARKS-
+TATTOOS
+TAT BACK
+TAT L BRST
+TAT L LEG
+TAT L SHLD
+TAT R LEG
+SOCIAL SECURITY
+IDENTIFICATION DATA UPDATED 2010/10/20
+THE CRIMINAL HISTORY RECORD IS MAINTAINED AND AVAILABLE FROM THE
+FOLLOWING:
+VERMONT
+-	STATE ID/VT307232
+-	FBI/298468CD9
+FBI
+1ST NCIC III RECORD FOR MULTIPLE RESPONSE
+END
+NAME
+EBRIGHT,SANDRA A
+FBI NO.
+343810RB7
+INQUIRY DATE
+2013/03/13
+SEX RACE BIRTH DATE
+F w 1985/03/14
+HEIGHT WEIGHT EYES HAIR PHOTO
+504	120 HAZ BRO N
+BIRTH PLACE
+PENNSYLVANIA
+FINGERPRINT CLASS
+PATTERN CLASS
+RS uc RS RS uc LS RS LS uc uc
+wu wu WU
+wu
+SOCIAL SECURITY
+222-68-6371
+IDENTIFICATION DATA UPDATED 2005/10/19
+THE CRIMINAL HISTORY RECORD IS MAINTAINED AND AVAILABLE FROM THE
+FOLLOWING:
+DELAWARE
+- STATE ID/DE00415573
+LAST NCIC III RECORD FOR MULTIPLE RESPONSE
+END
+THE RECORDCS) CAN BE OBTAINED THROUGH THE INTERSTATE IDENTIFICATION
+INDEX BY USING THE APPROPRIATE NCIC TRANSACTION.
+END
+MRI 4065181 IN: NCAl 414 AT 16:24 13MAR13
+Page 5
+P1001317
+OUT: 1119PS002 8 AT 16:24 13MAR13
+DISPATCHED ISN:0005 MRI:4065225 AT 16:25 13MAR13 TO:NCIC
+MRI-4065226
+NCAl 0418 16:
+1119PS002 ooo
+QR. VTNCICOOO. 1119PS002, VT0110200. *TERN10P-BRG.
+Response To: 5
+FL0100VL,I4RI4065225
+VT0110200
+THIS INTERSTATE IDENTIFICATION INDEX RESPONSE IS THE RESULT OF YOUR
+RECORD REQUEST FOR FBI/298468CD9. INDIVIDUAL'S RECORD WILL BE
+COMPLETE WHEN ALL RESPONSES ARE RECEIVED FROM THE FOLLOWING SOURCES:
+- FBI/298468CD9
+13MAR13
+'6:25 13MAR13
+FBI
+AN ADDITIONAL RECORD MAY BE OBTAINED FROM FILES WITHIN YOUR STATE.
+END
+MRI 4065226 IN: NCAl 418 AT 16:25 13MAR13
+OUT: 1119PS002 9 AT 16:25 13MAR13
+MRI-4065227
+NLIl 5823 16:25 13MAR13
+1119PS002 0010 16:25 13MAR13
+CR.WVFBIN FOO.VT0110200,1119PS002.*TERMOP-BRG.
+CR.WVFBINFOO
+13:33 03/13/2013 30363
+13:33 03/13/2013 05412 VT0110200
+TXT
+HDR/2L0100VL,MRI4065225
+ATN/LAMORIA 13RL01583 RDSA
+Data AS of
+
+CRIMINAL HISTORY RECORD
+2013-03-13
+■k-k-k-k-k-k-kk-kkkk-k-k-k-k-k-kk-k-k-k-k-kk-k-k-k
+Introduction
+This rap sheet was produced in response to the following request:
+FBI Number
+Request Id
+Purpose Code
+Attention
+The information in this rap sheet is subject to the following caveats:
+This record is based only on the FBI number in your request-298468CD9.
+Because additions or deletions may be made at any time, a new copy
+should be requested when needed for subsequent use. Cus; 2013-03-13)
+Page 6
+298468CD9
+c
+LAMORIA 13RL01583 RDSA
+
+
+PROBATIOM
+ORDER
+
+
+
+
+V’ermont Superior Court
+Superior Court Rutlanci Crilninal Division
+«%}
+The above-namec! defendant was conv   / ancl
+All suspetêed  A
+Re I Eastmarl, Sarldra L. a/k/a Sandy Eastman
+rdere 07/
+TO THE COMMISSIONER OF CORRECTIONS 
+serltenced as follows 
+Minirtum
+1 YR
+Maximum
+2 YR
+667-4-I3 Rdcr 1
+CRIlELTY-CHILD LESS THAM 10 YRS
+cons. 603-4”08Rdcr
+Term Expires  July 31, 2015
+Title 13 ¥SA 1304
+The execution of the sentence is suspended and the defendant
+probation in the care and custody of the Commissioner of Corrections for the term(s)
+as shown above under the following conditionsI.
+is placed on
+shall notifi you
+rou ûwst not
+OIJ :wst
+Vo
+oitation fo
+off
+:i a ne an 00$ ted or
+;■
+glyen A
+c Пси
+о ,
+b è
+)
+в
+ь
+|'Ь
+Ô
+riille
+d ‘'l U
+к at а joD or look for uorkj if your probation offit
+	„„s you to do $0,
+vork at a coiilhinity ssrvice job if the court orders you to do so,
+, your dependenis andyeet other fnrily responsibililies,
+iou aijst шееь riit'l your probation officer or designee uheneoer he/s'le tells you to (10 so.
+If you cnance your eddress or ieove, you ilust ts''"
+If you change dr lose your Job, you niust tell you
+Vou cannot leavi ine state uithout uritten perbission 1ГПШ your
+and oiihout delay
+1
+to do $01
+0Ü ûlüst
+get Job iraining
+
+nen
+ry uorK al Q w
+R officer lelis
+you
+c:
+01
+You шиеь regulanly
+You füst suppont y
+V Л [l m n c h rr a p ;■ i M 5 ’l
+Ü.
+E.
+г
+teiryour propation dfficer uilllln tuo days,
+your probation officer lithin tvio days.
+e
+obatioil nff
+
+üpon recuest, and irilhout delay, you щиси allou Lhe prouation off
+If the nrcbation officer or tile court orders you to Ç0 to any COI
+participcie 10 ihe satisfaclion of your probation oflicer.
+have or и$е any regulated dnug
+ocation officer or any ounen person duthoriz
+randon yrinalysis testinQ,
+Violentpr tnfeatening behavior is not alloued at any tifw.
+You shall not operate, try to operate or ue in actusi physical conirol of e sotor ve'licis on a puuiic highuay unless in
+possession of a valid Verriont
+cen to visit you uhere
+seling or Lraining prognair
+-er you are staying,
+St do so.
+Yoi
+yo
+iiius I
+IliL
+H к
+iïidsl по
+inless they are prescribed by tô dDctor.
+lad by youh probation officar сап lepu[
+a
+Uul
+! и i,
+b.
+f
+L
+0
+a valid Ьегшопс operator's Mcense.
+You shall not driilk alcoriolic beverages to the evtent t
+yourseli or any other person. Vi-'' ■■■ •
+or their desiqnee telh ''I'" Î
+interfevi uilh your ешр10ушеп1 or the uelfaro of your fanily,
+You [nust subvit to any .aicbsensor L8st or any other aicohol lest vhen your probation officer
+p.
+VJ
+$ you to do so
+he Оерамшис of Corrections '
+ahle the Ce
+Tf
+furnish inforfiiation,
+collect restitution.
+'■h the ■esiitution ynit.
+0.
+
+ricludinq financial inforelation
+about ггопеу earnings
+asKS,
+
+and property uhich will
+If restilution is order=r
+Ü will pr.y any unpaid i
+nditioRS:'
+а
+n
+, Jid irul I uuupe. dc
+Niounts due to the c
+Vn
+leqal services provided at state
+to aoy alcosensor test Ol any other alcoho’
+anu
+
+1. You îiust not buy.
+yhen your probar:
+YOU ®ust alloy 0!
+and participatiol/in the progralii.
+1. You nIust асиепи and participate ir
+counselinn 00 yirur probation offii.e
+Û. You Ciust live yhere'your probation off
+fou fiiust obev any curfey as directed b
+31. Vou shali wor
+nave or drink
+■■n officer
+( trcatliient or 00
+any alcoholic bsveraqes; you nus
+or tneir designee asks yôü to no so,
+unseling prograw 10 tell your
+к
+•I w;
+VI
+■■
+
+w :!
+4
+probalion officer and ths coiirt about your attendance
+eiust corip]
+1
+ntal bealtn counselinp if your probation 0
+s satisfaction.
+ells you to.
+prohation
+.Ç л :
+ou lo do so. Yo
+! au
+
+J
+I
+■T -- <
+1 /,
+V'
+I
+full t
+officer or be in
+1
+by your probation
+tirw verifiable
+•• f
+. . Si a _
+as approved by pfoDallon
+i a 01 e
+york
+searcn
+i ;
+J
+Probalion Order for Eastnan, Запага 1. a/k/a Sandy Eastlilan
+0ale of Order: 17/31/13
+Page /
+32.	Vou sriall actiyely participate in yiolence coanselino for anger ггападешепг and/or dolaeetic yiohnce, at your
+expeilsej to the satisfaction of your prohation officer, if uirecteu by your prouation officer.
+3b. VQU shail not purchasej possess, or сопеише any regubted drug uilnout valid doctnr's prescription
+shall inforl!: your probation officer of апу Sllch prescription
+33.	Voü snall abide by ths reguirenents of your case plan ahd Disposition Plan as directed hy OCE; you shan
+successfuily participate and copplete any Süch reguireolents.
+own
+Von
+any person who has beefi convicted of a fslony ÿiay 001 laufully oun, use or possess a
+ünder tne rederal bun
+ontrol hc
+hoTICE:
+firearp
+
+
+
+
+Afjim L
+By Orcier of the Court r
+Judge	Sr DiMauro
+I un/ehstand tileso coyitions апи I апгее to follow thefii.
+rej e ne LO serve mj full seyltence iyian.
+§ û fb
+Р1 )Ь|Ш1ПГТТТС¥Г'	ÏÏFtI
+. -   ;c: ::i ~ ~ ~ fw -7 ~ ;l.T l:. l:: .U ", 07 r.: .*7-P — 7: T: -w ~	.::l *.	" prr « ~ ~   o:
+P': Pt ôl “	lô-: PC  0 tup: «	Pl: p; ir. 10: c: .a: tc Гг t: ct
+
+  r- t'; .ÎP
+П: " n " 17 SP PC Cl PC tc " “C
+
+. :tr Г:   ю: ■
+I undcrstdnd that if I uo not füllou these cond
+î f f
+ons< tnt court уяу
+i U
+
+$/o /l3
+X t
+■' оттшапс
+/
+Uhte
+
+J
+/
+1
+/
+\J
+/
+FonnN0.369A
+
+:NOTI:CE' OF PLEA AGREEMENT
+STATE OF VERMOlsrr
+■/ .
+зщщюясо
+fxuilûlld
+шт
+CRIMINAL D.ivISION /
+pôcketNO,	■
+Unit
+Defendanf s Name
+DOB. .
+
+STATE OF VERMONT- •
+V.
+ ААОГГТ. :Аал1 fnûf} ■
+/.
+/
+The state of Vennant and Ше Defendant nalned above enter into the following agreement:
+' Charge:	hff}l A. Шь/
+DoeketNmnber -	l\
+Charge: 	'
+Dodcet Nmnber: 		
+Amended: Yes No
+Amended Qiarge Code: • ■
+Amended Section No:	
+Charae:
+Docket Nmnben ____
+Ammided: Yes •No
+Amended Chargecode:	
+Amended Section No: __
+Amended' Yes No
+• Amended Charge Code: 		
+Amended Section No: 		
+Гош11  010 Contendere
+SENTENCE:
+FINE $		 вс Surcharge $.
+Gtlilty Nolo conteMere
+SENTENCE: ■ •
+FINES.
+Gmity Nolo Contendere
+SENTENCE:.
+FINES.
+Sc Surcharge $_
+Sc Surcharge s.
+(Min.)
+Yr. 		Mo. 	;_D S
+(Mm.)
+Mo.
+(Min.) • Yr.
+.Yr.
+Da} 
+Mo.
+Dnys
+Д
+(Max.)
+concuITent
+Suspended ■with ! ôbâHon: (Yes ) No
+, Term of Probation: .Д.
+Treatment Credit: . -
+Cut-of-state Credit	
+Local Loek-up Credit	
+- Yr. ■.
+Yr. Mo. Days
+Mo. 
+Days
+(Max.)
+.(Max;)
+Concurrent ■ Collsecutive
+Yr. ■ Mo.	
+Conourrent' Consecutive
+Days
+
+Consecutivj
+Suspended ■witil Probation:. Yes No
+Terni of probation:_
+Treatment Credit _
+0llt4>f-state Credit_
+■ Local Lock-up Credit_
+. Suspended with Probatron: Yes No
+Terrn of Probation:	months yrs
+Treatment Credit
+Dût-of-state Credit_
+■ Loeal Look-up Credit
+iths vrs  
+montils yrs
+mon
+Days
+.'Days
+		Days
+Days
+Days
+Days
+Days
+Days
+_days months ym
+days months yrs
+АП-Suspended except
+days months yrs All Su ended except.
+All Suspended exeept
+IFfThe paittes hereby stipulate that dlis con'yiction is a violation of the Defendanf s probation and, ’as part of this Plea A eeml
+'waive furthernoüoe, separate hearing., and agrel that thc Court impose the,followmg: l ciin(j(Eci/''c.
+.■ ~ TOTAT. RKNTKN(TR' I-ay Ггшгямы'ътф.
+7 4 F
+•t'-s
+L l otalFINE.' .sllrcllarges: $
+еёш Jobation Corrditions:
+
+
+Cases to be Dismissed by state:
+Docket # _
+Docket # .
+Doeket#.
+Docket # _
+Doeket _
+Charge:
+Charge:
+Charge:
+Charge:
+Charge:
+
+■Report Date:	• -
+PSIOrdered?.Yes No ■
+Defendant already on probation? Yes No'
+_ ■ Forth-with: _
+(See Reverse for General Conditions)
+Othen
+In addition to any credit to which defendant is
+. entitied by iaw, 'die parties agree defendant shaii
+receive credit for treatment, out-of-state, and
+ioeai ioekup as shown above.
+I have revie-wed this agreement and rmderstand it
+This is  birfdrng Rule ll AgreemenL ■ ■
+v/v/l3
+D eüidanl
+
+Date
+LÛA
+" c<
+
+
+
+Befense Att0l 
+rHate
+
+)
+m
+I
+.2 .. X/.
+
+litem
+mte
+Rev. глозкт
+Distnbution: 'ist Copy-Couri; 2Dd Copy-Computer Operator; 3rd‘Copy-State's Attomey, 4th Copy-nefendaltrstb Copy-Defense Attomey
+STATE OF VERMONT
+Rdcr
+Doc, No,
+State of Vermont V,
+■niis nlea айгаажы ancluding Fomi 369A) entered into by the parties, the state of
+named defendant. is snbjeet to the foiiowing terms and eondtttons:
+_ Stf d’cfnlions of Probation (A - P), as set forth in writing on the baok
+“!   3Lwprobadon in «ddiiion io standatd condidons of ■
+R batioll as circled on die attached Speciai Conditions folm and made part of this
+'’'°°CJfe ative Probation Agteement with its conditions and obligations as sot
+forth thereill, attached to and made part of this plea agreement, _.	_
+	D, Pre Approved Furiough subject to the condihons and obllgatlons of the .
+1,	btensive Substance Abuse Program
+2,	Intensive Domesti c Abuse Program
+1, Defenj
+'A,
+program:
+2, ■ Pre-Sentence hvestigation OR htermedlate Sandlons Report	btnribCT
+A ISR to be ordered, must approve PAF / ISAP for agreement to behindmg,
+ordered, but such does not bind the state on the reeommendatlon.
+waived by the defendant and the State,
+B,
+A:
+Defendsmf anderstands and waives aii rights tmder both 13 у	rf
+V R Cr p 35fb) to request the Court for reconsideration of tbe sentence(s) imp s d
+under this agreement, except to the .extent that the penalD' imposed is greater tban
+that recommended ■by the State herein.
+X 3,
+X 4 Defendant hereby acbDwiedges that he/she has read and ™demtands the
+afftdaYit(s) ofpfobabie oause supportmg tbe eharge(s) to wbch he/she tspieEdmg.
+Defendant agrees that tbe afbdavit(s) provlde(s) a faemai basis for his/ber piea(s).
+5, other terms or provisions of tilispiea agreement:	 
+Restitution Order attached hereto is part of this plea agreement.
+A.
+The attached waiver of nghts is signed by defenciant.
+Dated at Rutland, Vermont this. ?/sh_ day of
+
+20Jb
+
+
+
+A:-
+Defendant
+(DepuD') State T Attomey
+Defense Attorney
+Guardian ad Litem
+Rdcr
+Doc. R о.
+Slate. of Vermollt V.
+шшл OFRJGHTS
+Being tile Defendant in tilis criminal case, I miderstand tilat I llave certain .constitutiollal and
+statutory rigilts. In support of my desire to cilange my plea to this ORense, I represent to üle Court
+1ЪЯГI understand these rights and make the appropriate waivers thereof As evidence of niy
+understandmg and waiver, my signatul'e is at the bottom of this document as well as on tbe.plea
+Agreement hi tlle accompanymg doculnents.
+I have read the charge as contained in tlle State’s Attomey’s Infonnation and tbe ■
+supporting aMdavit and understand them. I am aware of the evidence to support tlle
+charge and any defenses wllich might he availahle to me.
+1)
+I understand that the state has the hurden of proving me guilty heyond a reasonahle .
+doubt. I understand that I can continue with my plea of not guilty and if so, I have tlle
+followhig rights:	.	.
+2)
+a)	right to atrial by july;
+b)	right to be represented by my lawyer;
+e) nght to be conh-ohted witil witnesses against me;
+d)	to maintain my own silence;
+e)	to present evidence and have witnesses brougllt to the Coult for me;
+f)	the nght to appeal the conviction ahd/or sentence
+No promises have been made to me by anyone for the state except ülose that are •
+contained in the 1¥гшеп plea agreement.
+a)	1 understand that by pleading GUILTY, 1 adlllit die essential pall of the offense
+widi wllich I have been chaxged.
+b)	1 understand that by pleading NO CONTEST, 1 agl'ee diat at trial die State could
+prove beyond a reasonable doubt each and every element of each charge to which 1
+have pled NO CONTEST in dlis plea agreement.
+I understand that this is a bmding plea agreement under Criminal Rule 11.
+1 understand tbat if I am not a citizen of die United States of Alnerica, adniitting to
+facts SUMCient to walTant a dnding of ginit or pleading guilty or nolo contehdere (no
+contest) to a crime may have the consequences of deportadon or denial of Ullited
+States cidzenship.
+1 have read the above rights and 1 understand diem fully. 1 hereby give up each and every one of iny
+rights written above in regard to die plea on this matter, and 1 ask die Court to accept my plea,
+no claim of шпосепсе. 1 ask die coult to accept my plea with the understanding that the
+Coult will then proceed to sentence me as required by law.
+3)
+.	4)
+5)
+6)
+’ Dated at the City and County of Rudand, Vemlont
+V/я l / R	,	.
+
+	
+
+
+Defendant
+Date
+RCSA/CR71 rev7/06
+defendaEt is placed оа probatioE ill tbe
+: care
+(date) or
+■ тье executloE of the seEtellce is Sllspended and the
+and custody of the Commissioner of Corrections	:
+further order of the court under the foliowmg standard conditions.
+are arrested or gdven a
+shall notii 'your probation officer within 48 hours if you
+A.	„
+citation for a new OTTense..
+wo*, ifyoooprob*.o„ offio..o*yoo .0
+"	’wbTrhe/sbo *,s yop PO do
+■ c.
+F,
+so.
+or move, you must tell your probation ошоег WIthm two
+r job;you must tell your probation ofFICer within two days
+Kwithout written permission from your prDbatlon officer..
+, you must ■allow the probation offleer to visit you
+If you ehange youKnddress
+days.-	\
+If you change or lose
+You cannot leave the stat
+Upon request, and witllout d 
+require you to have random urinalysis testing.
+Yiolent or threatening behavior is not allowed at
+Yoo slull potdnnk alcoholic beYeragcs to the extent they	„ ;leo-
+G.
+H.
+I, ■
+J.'
+K.
+L.
+M.
+N.
+0-.
+sensor test or
+-■-you-to-do so.-		-	-
+IfTestitution is-ordered,
+
+you must cooperate fully with the Restitution-Un
+p.
+■ NOTICE:	■ ■ . . .
+the federal Oun control Aet (IS U,S.CA. 922), a pe on f	■
+ot a quallfymg misdetnoanor опте of domespo	“-ho =“fj,/.	-	■
+Under
+/
+
+l(’3l/is
+
+.• ■■
+Rev. 1/10 srvfL.
+Form 390
+STATE OF VERMONT
+FROBATION WARRANT
+' State V.	
+TO THE COMMISSIONER OF CORRECTIONS:
+The execlltloll of the selltence is Sllspended alld the defendant is placed on probation in tlle care
+and Cllstody of the Commissioner of Corrections nntil_	
+fnrther order of the conrt nnder the following standard conditionss
+A.	You shall notify your probation officer within 48 hours if you are arrested or given a citation for a
+new offense.
+B.	You must not be convicted of another crime.
+0. You must regularly work at a job or look for work, if your probation officer tells you to
+do so. You must get job training if your probation officer tells you to do so.
+D.	You must regularly work at a community service job if the court orders you to do so.
+E.	You must support your dependents and meet other family responsibilities.
+F.	You must meet with your probation officer or designee whenever he/she tells you to do so.
+G.	If you cha’nge your address or move, you must tell your probation officer within two days.
+H.	If you change or lose your job, you must tell your probation officer within two days.
+I.	You cannot leave the state without written permission from your probation officer.
+J.	Upon request, and without delay, you must allow the probation officer to visit you wherever your
+are staying.
+K.	If the probation officer or the court orders you to go to any counseling or training program, you
+must do so. You must participate to the satisfaction of your probation officer.
+L.	You must not buy, have or use any regulated drugs unless they are prescribed by a doctor.
+M.	Your probation officer or any other person authorized by your probation officer can require you to
+have random urinalysis testing.
+N.	Violent or threatening behavior is not allowed at any time.
+(date) or
+0. You shall not operate, try to operate or be in actual physical control of a motor vehicle on a public
+highway unless in possession of a valid Vermont Operator’s license.
+p. You shall not drink alcoholic beverages to the extent they interfere with your employment or the
+welfare of your family, yourself or any other person. You must submit to any alco-sensor test or
+any other alcohol test when your probation officer or their designee tells you to do so.
+Q.	If the Department of Corrections asks, you must furnish information, including fnancial
+information about money earnings and property which will enable the Department to collect
+restitution.
+R.	If restitution is ordered, you must cooperate fully with the Restitution Unit.
+s. You will pay any unpaid amounts due to the court or the Tax Department for any legal
+services provided at state expense.
+NOTICE:
+Ullder the federal Gun Control Act (18 U.S.C.A. 922), a person who has been convicted of a felony
+or a qualifying misdemeanor crime of domestic violence, or who is subject to a qualifying fmal relief
+from abuse order, may not lawfully possess a firearm. For more information about these
+prohibitions, please call the Bureau of Alcohol, Tobacco, Firearms and Explosives at
+1-800-800-3855 or go to the ATF website at: www.atftreas.gov. If you have any questions whether
+these laws make it illegal for you to possess or purchase a Erearm, you should consult an attomey.
+Rev. 5/13 SML
+/
+
+#
+Docket No.
+STATE OF VERMONT V.
+.SPECIAL CONBITIONS OF PROBATION
+In addition to tllese standard conditions, tlle Comt orders these additional conditions:
+(p
+You must not.buy, have or drink any alcoholic beverage; you ITIUSt submit to any
+alcosensor test or any other alcohol test when your probation ofFICer ОГ'their designee
+asks you to do so..
+You must attend the next available session of the CRASH program at your own expense.
+Your probation officer must agl’ee that you have successfully completed the program.
+You must have alcohol and/or drug screening. If tlle screening shows tllat counseling
+and/or treatment is needed, you must attend and palticipate in whatever counseling and/or
+treatment your probation ошсег tells you to do. You must complete counseling and/or
+tl-eatment to ydur probation officer’s satrsfaction.
+4, j ■ You must allow any tl-eatment or counseling program to tell your probation officer and ,
+the coult about your attendance and palticipation in the program.
+You must attend, palticipate in and complete a residential treatment program if your
+probation officer tells you to do so. You must complete the program to your probation
+officer’s satisfaction.
+Interrupted Sentence: You must repolt to the colTectional facility for the number of days
+as drdered on your mittimus and as directed by your probation officer. You must repolt
+on time and your must not use alcohol and/or drugs on the day(s) you repolt to the
+colTectional facility.
+You niust attend and palticipate in mental health counseling if your probation officer tells
+you to do so. You must complete counseling to your probatioll officer’s satisfaction.
+to your probation officer as directed by
+2.
+3.
+5.
+6.
+7.
+8,	You must pay your fme(s) of $
+  _J	.(date). '
+9.	'	You must live where your probation officer tells you to.
+-10.	[No longer used]
+11.	You must actively palticipate in and complete the Reparative Probation program at the
+direction of the Repal-ative Program Coordinator. ■
+12.	You must faithfully work
+hours at a community sel-vicejob within
+	_(period of time) to the satisfaction of your probation officer.
+You inust obtaul a valid Vermont driver’s license when eligible.
+You must attend, palticipate in and complete a domestic violence counselmg, education
+.or treatment program, if your probation OMCer tells'you to do so. You must complete the
+program.to your probation officer’s satisfaction.
+You may not buy or haye a fireal'm or ammunition, any destl’uctive device or other
+dangerous weapon unless granted written pennission by the COUIt or probation officer.
+You must not contact the victim in person, in writing, by telephone, by e-mail or through
+13.
+14.
+■ 15.
+16.
+a third person.
+  You must obey any curfew as directed by your proMtion officer.
+. .	You must palticipate in sex offender tl-eatment mid counseling if your probation officer
+do so. YOЪЧ;шst complete treatn-lpdt and/or counseling to your probation
+officer’s satisfaction. Yolrhmsf
+officer asks you to do so, so that
+the sex offender treatment prograln. Y
+under the age of
+submit to polygraph examination if your probation
+mb4: ol: ion officer can check on your compliance with
+ust not have any type of contact with children I j I
+without the wri en ре кщш of ypur probation officer.
+f oSf<cc<
+&■
+2)		Defendallt
+I
+( S.A. Cr 72 rev7/04
+ellse Counsel
+lEitials:
+STATE OF VERMONTт.
+Docklet No.
+you shall work at a job as direoted by and to the full satisfaotion of your probation
+officer.	.
+You shall actively participate in violence counseling for anger management and/or .Д , Ml к
+domestic violence, at your own expense, to the satisfaction of your probation ofFICer. li	)
+You shall not •harass, or cause to.be harassed, tlle victim, victim's family or any
+prosecution witness. You shall not contact the victim or victim’s family nor enter the
+victim’s home, school or business without both the permission of yonr probation offmer
+and the victim’s prior written consent flled with your probation officer and then only by
+the terms of such consent.
+34.	' Y ou shall subniit to photographing for identification purposes at the request of your
+probation officer.	•	.
+You shall not enter any bar, tavern or other establishment where alcoholic beverages are
+sold for drinking on the premises.
+You shall not purchase possess or consume any regulated drug without a valid
+prescription hrom a licensed physician and then only in accordance with such
+prescription. You shall notify your probation officer immediately of any such
+prescription.
+You must cooperate with and provide the Vermont Restitution Unit with information
+about your address, phone number, and employment upon their request.
+7N' Other Conditions;,
+m. -!ЬЫ-
+3
+
+32:,
+'ùlifi
+y
+IC
+
+33.
+y  
+35.
+37.
+
+by Рсф
+тсш mm '•
+VC.
+\
+
+
+L
+pû/dio
+I have read the above special conditions of probation, understand them and ask the Court to
+accept my request to be placed on probation under these special conditions of probation in
+addition to the standard conditions of probation. I understand that if I violate any condition of
+probation, the Coult, after hearing, can impose such sentence as allowed by law.
+ll
+Tvki
+П .
+Dated at Rutland, Vennont this
+day of
+,20.
+
+
+i
+
+4
+c
+Deputy State’s Attorney
+Defendant
+
+DefenseA.ttorn'M
+Guardian ad Litem
+RCSA/Cr72 rev7/04
+</textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+
+        </div>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Header, Footer and Watermark</h3>
+                <!--!<div id="content"> -->
+                <textarea class="form-control" cols="150" rows="30" id="HeaderFooterWatermark"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>URL HYPERLINKS</h3>
+                <!--!<div id="content"> -->
+                <textarea class="form-control" cols="150" rows="30" id="Hyperlink"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Specific Excel Rows</h3>
+                <!--!<div id="content">  -->
+                <textarea class="form-control" cols="150" rows="30" id="SpecificRows"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+    </div>
+
+</body>
+</html>

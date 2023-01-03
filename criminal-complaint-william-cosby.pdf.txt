@@ -1,0 +1,943 @@
+<html>
+<head>
+    <title>Result</title>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="./resources/bootstrap-3.3.5-dist/css/bootstrap.min.css">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="./resources/bootstrap-3.3.5-dist/css/bootstrap-theme.min.css">
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="./resources/bootstrap-3.3.5-dist/js/bootstrap.min.js"></script>
+
+    <style>
+        #content {
+            background-color: #FCFCFC;
+            border: 1px solid #999999;
+            padding: 10px 10px;
+            -moz-border-radius: 4px;
+            -webkit-border-radius: 4px;
+            border-radius: 4px;
+            /*IE 7 AND 8 DO NOT SUPPORT BORDER RADIUS*/
+            opacity: 0.87;
+            -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity = 87);
+            /*-ms-filter must come before filter*/
+            filter: alpha(opacity = 87);
+            /*INNER ELEMENTS MUST NOT BREAK THIS ELEMENTS BOUNDARIES*/
+            /*All filters must be placed together*/
+
+        }
+
+        #infodiv
+         {
+
+
+            border: 0px rgb(89,89,89) solid;
+
+            background: rgb(234, 234, 228);
+
+        }
+    </style>
+</head>
+<body>
+    <center><h1>Data Extraction - Result</h1></center>
+    <div class="container">
+        <hr>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <dl class="dl-horizontal">
+                    <dt>File name:</dt>
+                    <dd>criminal-complaint-william-cosby.pdf</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Provider name:</dt>
+                    <dd>AbbyyProvider</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Created On:</dt>
+                    <dd>8/12/2020 4:39:22 PM</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Extraction duration:</dt>
+                    <dd>00:00:14.0724548</dd>
+                </dl>
+            </div>
+            <div class="col-md-1"></div>
+
+        </div>
+        <hr>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Extended Attributes</h3>
+                <div id="attributes"><table class="table table-hover"><thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Value</th>
+                </tr>
+            </thead>
+            <tbody>
+<tr><td>creation date</td><td>12/30/2015 8:05:39 AM</td></tr>
+<tr><td>revision date</td><td>12/30/2015 4:47:10 PM</td></tr>
+<tr><td>Creator</td><td>Canon iR-ADV C5235  PDF</td></tr>
+<tr><td>publisher</td><td>Adobe PSL 1.2e for Canon</td></tr>
+</tbody></table>
+</div>
+            </div>
+            <div class="col-md-1"></div>
+        </div>
+        <div class="row" >
+            <div class="col-md-1" ></div>
+            <div class="col-md-9">
+                <h3>Content</h3>
+                <!--!<div id="content">  -->
+                <textarea class="form-control" cols="150" rows="30" id="content">COMMONWEALTH OF
+PENNSYLVANIA
+COUNTY OF:MONTGOMERY
+
+POLICE CRIMINAL COMPLAINT
+COMMONWEALTH OF PENNSYLVANIA
+ШМ
+
+tl
+vs.
+Magisterial District Number: 38-1-02
+MDJ: Hon. ELIZABETH MCHUGH
+Address: 7804 MONTGOMERY AVENUE
+ELKINS PARK, PA. 19027
+Teiephene: (215)635-1535
+DEFENDANT:
+WILLIAM
+(NAME and ADDRESS):
+COSBY
+HENRY
+JR
+First Name
+Middle Name
+Last Name
+Gen.
+8210 NEW SECOND STREEr, CHELTENHAM, PA. 19027
+NCIC Extradition Code Type
+lEI 1-Felony Full
+□	2-Felony Ltd.
+□	3-Felony Surrounding States □ A-Misdemeanor Full
+□	4-Felony No Ext.
+□	5-Felony Pend.
+□	6-Felony Pend. Extradition Determ.
+□	C-Misdemeanor Surrounding States
+□	D-Misdemeanor No Extradition
+□	E-MISdemeanor Pending
+□	F-Misdemeanor Pending Extradition Determ.
+□ Distance:
+□ B-Misdemeanor Limited
+DEFENDANT iDENTIFICATION iNFORMATION
+Docket Number
+Date Fiied
+12/30/2015
+OTN/Livescan Number Compiaint/incident Number
+siD
+Request Lab Services?
+□ YES lEI NO
+2015-2583
+DOB 07/12/1937
+POB PA
+Add'l DOB / y
+GENDER
+Co-Defendant(s) □
+1  Male
+□ Female
+First Name
+Middle Name
+Last Name
+Gen.
+AKA
+П Native American
+RACE
+□ Aslan
+lEI Black
+□ wtllte
+D Unknown
+ETHNiciTY
+П Hrspanic
+  Non-Hlspamc
+□ Unknown
+lEl GRY (Gray)	□ RED (Red/Aubn.)	□ SDY (Sandy)	□ BLU (Blue)
+□ BLK (Black)	□ ONG (Orange)	□ WHI (White)	□ XXX (Unk./Bald)
+El BLN (Blonde / strawberry)
+HAiR COLOR
+□	PLE (Purple)	□ BRO (Brown)
+□	GRN (Green)	□ PNK (Pink)
+□	BLK (Black)
+□	HAZ (Hazel)
+□	BLU (Blue)
+□	MAR (Maroon)
+EYE COLOR
+  BRO (Brown)
+□ PNK (Pink)
+□	GRN (Green)
+□	MUL (Multicolored)
+□ GRY (Gray)
+Zl XXX (Unknown)
+Driver License
+state PA
+Expires: 07/13/2004
+License Number 24021828
+WEiGHT (ibs.)
+□ YES lEI NO
+DNA
+0
+DNA Location
+FBi Number
+MNU Number
+Ft. HEiGHT in.
+□ YES и NO
+Defendant Fingerpnnted
+6
+0
+Fingerprint Ciassification:
+DEFENDANT VEHicLE iNFORivlATioN
+state
+Hazmat
+Oth. Ncic Veh. Code
+Reg.
+sama
+as Def.
+
+Registration
+sticker (MM/YY)
+Comm'i Veh. Q
+School Q
+/
+Piate #
+□
+i
+ind.
+Veh.
+■ viN
+Year
+Маке
+Modei
+styie
+Coior
+□
+I
+offiGe of the attorney for the Commonwealth ' Approved □ Disapproved beoause:_
+(The attorney for the Commonwealth may require that the complaint, arrest warrant affidavit, or both be approved by the attorney for the Commonwealth prior
+to filing. See pa.R.crIm.p. 507)
+
+KFVTN R 5TFFI F
+12/29/2015
+(Date)
+(Name of the attorney for the Commonwealth)
+(Signature of the attorney for the Commonwealth)
+I, 5GT R SCHAFFER / DET J REAPE / DET M SHADE
+27830 / #981 - 17288 / #32 - 7661 / #16
+i
+(Name of the Affiant)
+(PSP/MPOETC -Assigned Affiant iD Number 8  Badge #
+of CHELTENHAM TWP. / MONTGOMERY CO. DET5.
+PA0460500
+(Identify Department or Agency Represented and Political Subdivision)	(Police Agency ORI Number)
+do hereby state: (GheGk appropriate box)
+1. El I accuse the above named defendant who lives at the address set forth above
+□ I accuse the defendant whose name is unknown to me but who is described as
+□ I accuse the defendant whose name and popular designation or nickname are unknown to me and whom I have
+therefore designated as John Doe or Jane Doe
+with violating the penal laws of the Commonwealth of Pennsylvania at [102]
+CHELTENHAM, PENNSYLVANIA	TSUMi
+I
+i
+8210 NEW SECOND STREET,
+IVISIOn Code) (Place-Polltical bubcllvislon)
+in MONTGOMERY
+[46]
+on or about MID - JANUARY TO MID - FEBRUARY 2004
+County
+(Couniy Code)
+(qffensepafe)
+Page 1 of*x
+AOPC 412Д Rev, 12/14
+POLICE CRIMINAL COMPLAINT
+Docket Number:
+Date Filed:
+12/29/2915
+OTN/Livescan Number
+Complaint/Incident Number
+2015-2583
+First:
+Middle:
+HENRY
+Last:
+Defendant Name
+WILLIAM
+COSBY
+The acts соглт|11ес| by the accused are deschbed below with each Act of Assembly or statute aNegedly violated, if
+appropnate. When there is more than one offense, each offense should be numbered chronologically.
+(Set forth a br/ef summary of the facts sufficient to advise the defendant of the nature of the offense(s) charged. A citation to the statute(s) aliegedly
+violated, without more, is not sufficient. in a summary case, you must cite the specific section(s) and subsection(s) of the statute(s) or ordinance(s)
+ailegedly violated. The age of the victim at the time of the offense may be inciuded if known. In addition, sociai security numbers and financial Information
+(e.g. PINs) should not be listed. if the identity of an account must be estabiished, list only the last four digits. 204 PA.COde §§ 213.1 - 213.7.)
+Inchoate □ Attempt
+Offense
+□ Solicitation
+18 902 A
+□ Conspiracy
+18 903
+18 901 A
+
+1
+3125
+АД
+of the
+18
+F2
+1
+LeacI? Offense#
+Seclien
+Subsecllon
+PA statute rritle)
+Counis
+Grade
+NCIC Offense Code UCR/NIBRS Code
+pennDOT Data
+(If applicable)
+Accident
+Number
+□ Interstate
+□ Safety Zone
+□ Work Zone
+statute Description (Include the name of statute or ordinance): AGGRAVATED INDECENT ASSAULT
+Acts of the accused associated with this Offense: WILLIAM HENRY COSBY DID PENETRATE THE GENITALS OF THE COMPLAINANT WITH A
+PART OF HIS BODY wrrHOUT THE COMPLAINANTS CONSENT.
+Inchoate
+Offense
+□ Attempt
+18 901 A
+□ Solicitation
+18 902 A
+□ Conspiracy
+18 903
+□
+2
+3125
+A,4
+of the 18
+1
+F2
+Lead? Offense#
+Seclion
+Subsecliorr
+PA stalule (ritle)
+Counts
+Gracie
+Ncic Offenss Code
+UCR/NIBRS Code
+PennDOT Data
+(if applicable)
+Accident
+Number
+□ Safety Zone
+□ Interstate
+□ Work Zone
+statute Description (include the name of statute or ordinance): AGGRAVATED INDECENT ASSAULT
+Acts of the accused associated with this Offense: WILLIAM HENRY COSBY DID PENETRATE THE GENrrALS OF THE COMPLAINANT wrTH A
+PART OF HIS BODY WHILE THE COMPLAINANT WAS UNCONSCIOUS.
+Inchoate
+Offense
+□ Attempt
+18 901 A
+□ Solicitation
+18 902 A
+□ Conspiracy
+18 903
+□
+3
+3125
+A,5
+18
+1
+F2
+of the
+Lead? Offense#
+Seclicn
+Subsecllon
+PA statute (Tllle)
+Ccun 
+Grade
+NCIC Offenae Code
+UCR/NIBRS Code
+PennDOT Data
+(if applicable)
+Accident
+Number
+□ Interstate
+□ Safety Zone
+□ Work Zone
+statute Description (include the name of statute or ordinance): AGGRAVATED INDECENT ASSAULT
+Acts of the accused associated with this Offense: WILLIAM HENRY COSBY DID PENETRATE THE GENrTALS OF THE COMPLAINANT WITH A
+PART OF HIS BODY AFTER COSBY SUBSTANTIALLY IMPAIRED THE COMPLAINANTS POWER TO APPRAISE OR CONTROL HER CONDUCr BY
+ADMINISTERING DRUGS, INTOXICANTS OR OTHER MEANS FOR THE PURPOSE OF PREVENTING RESISTANCE.
+Page!  of 
+,AOPC 412A - Rev, 12/14
+POLICE CRIMINAL COMPLAINT
+Docket Number:
+Date Filed:
+12/29/2015
+OTN/Livescan Number
+Complaint/Incident Number
+2015-2583
+First:
+WILLIAM
+Middie:
+HENRY
+Last:
+Defendant Name
+COSBY
+2.	I ask that  [w ant of arne   a summons be issued and that the defendant be required to answer the charges I have
+made.
+3.	1 verify that the facts set forth in this compiaint are true and correot to the best of my knowledge or information and beiief.
+This verification is made subjeot to the penaities of Section 4904 of the Crimes Code (18 Pa.c.s. § 4904) reiating to
+unsworn faisification to authorities.
+4. This complaint consists of the preceding page(s) numbered i_ through 3.
+The acts committed by the accused, as listed and hereafter, were against the peace and dignity of the Commonwealth
+of Pennsylvania and were contrary to the Act(s) of the Assembly, or in violation of the statutes cited.
+(Before a warrant of arrest can be issued, an affidavit of probable cause must be conl Iete  sworn t be re the
+issuing authority, and attached.)
+
+
+DECEMBER 29, 2015
+(Date)
+An afndavit of probable cause must be completed before a warrant can be issued.
+y'
+I certify that the complaint been properly compieted andviitFied.
+
+AND NOW, on this date
+ьт -
+(Magisterial District Court Number)
+(Issuing AUPQrity)
+Page   of.z.
+AOPC 412A - Rev. 12/14
+AFFIDAVIT OF PROBABLE CAUSE
+Introduction
+I.
+Andrea Constand (hereinafter “the vietim”) was employed as the Direetor of
+Operations for Temple University’s women's basketball team between Deeember
+2001 and Mareh 31, 2004 and, in that eapaeity, was introdueed to Bill Cosby.
+In the months following their introduetion, Cosby contaeted the vietim’s Temple
+University offiee to diseuss business-related matters. Eventually, the vietim
+and Cosby exehanged personal phone numbers and developed what the vietim
+believed to be a sineere fnendship. Further, she eonsidered Cosby, thirty-seven
+years her senior, to be a mentor, and deseribed instanees in whieh he invited her
+to his home for dinner, invited her to restaurants, invited her to events,
+introduced her to various people, and provided her with guidance and career
+advice.
+The victim told investigators she had no interest whatsoever in a romantic
+relationship with Cosby, but described two separate incidents in which Cosby
+made sexual advances towards her. The first incident occurred several months
+after their initial meeting, when Cosby invited the victim to his home for dinner
+prepared by his private chef. When she arrived, she sat and spoke with Cosby
+near a fire. After about twenty minutes, the chef served her dinner, which she
+ate by herself, and she drank some red wine. After dinner, she and Cosby were
+sitting on the sofa when, without warning, Cosby reached over and touched her
+pants, her waist, and her inner thigh. With that, she dismissed herself to go to
+the bathroom and gathered her things to leave. Before her departure, Cosby
+gave her a hottle of perfume and thanked her for little gifts she had hrought him.
+The vietim ’was emharrassed by this encounter. She never thought he would hit
+on her, espeeially sinee Cosby is mueh older than her father.
+In the other ineident, the vietim went for a social visit to Coshy’s
+Cheltenham home. She had consumed a couple glasses of wine and was talking
+to him when “out of the blue” Coshy unhuttoned her pants and hegan touching
+her. The victim leaned forward to stop him, at which point Coshy got up and
+went into his kitchen. The victim left ten minutes later with neither of them
+saying a word ahout what had just happened.
+Despite these advances hy Coshy, the victim trusted him and continued to
+For example, the
+accept his invitations to social and professional functions,
+victim attended a dinner at his home with a group of his friends and persons
+working in the Philadelphia restaurant community. She also attended a dinner
+at his Cheltenham home for a meeting with “academic people,” including the
+President of Swarthmore College and professors from the University of
+Pennsylvania. She went to Coshy’s New York City home to meet with one of
+Coshy’s influential entertainment industry contacts. The victim also told police
+that she met Coshy two other times, alheit hriefly, at his home and once at a
+casino in Connecticut. She reported that nothing inappropriate occurred
+during these events, all of which occurred hefore mid-Fehruary 2004.
+2
+Aggravated Indecent Assault at Cosby’s Cheltenham Home
+On January 22, 2005, in a written statement, the vietim told police that
+sometime between mid-January and mid-February of 2004, Cosby ealled her on
+her personal cell phone and invited her to his home at 8210 New Second Street,
+Cheltenham, Montgomery County, Pennsylvania. During the call, Cosby told
+her they were going to talk about the victim’s future career plans. Cosby added
+that no one else would be present and that she should dress in comfortable
+II.
+clothing.
+The victim arrived at the residence at about 8:45 PM. Cosby, dressed in a
+sweat suit, greeted her at the front door and let her in. Once inside, the two sat
+at a table near the front door and spoke about her future career plans. The
+victim told Cosby she felt “drained,” and “emotionally occupied,” and that she
+had been missing sleep. During the conversation, Cosby told her that he
+wanted her to relax.
+Within the next ten to fifteen minutes, Cosby went upstairs and the victim
+went to the bathroom. The victim told police that when Cosby returned from
+upstairs, he had three blue pills in his hand. Cosby urged her to take the pills,
+saying to her, “[tjhese will make you feel good. The blue things will take the edge
+off." The victim asked if the pills were herbal and Cosby replied, "Yes. Down
+them. Put 'em down. Put them in your mouth," as he motioned for her to put
+the three blue pills into her mouth. Cosby plaeed the pills in the victim’s hand
+and directed her to “take the water.” She told Cosby she trusted him and then
+used the water to swallow the pills.
+3
+Cosby then told the vietim to “taste the wine.” When she resisted, and told
+him that she hadn’t eaten anything that day, Cosby again direeted her to “just
+taste the wine.” In response, the vietim took a eouple sips of wine. The vietim
+told investigators that after she ingested the pills, she and Cosby eontinued to
+talk at the table. However, within about twenty to thirty minutes of ingesting
+the pills, water, and wine, she began experieneing blurred vision and difrieulty
+speaking. When she told Cosby how she was feeling, he instrueted her to lie
+down and he assisted her to the eoueh. Cosby told her that he was “going to let
+[her] relax.”
+The vietim deseribed to the poliee the wide range of physieal symptoms she
+experieneed during this time. She said that she lost all strength in her legs,
+whieh felt "rubbery" and “like jelly.” She eould not see clearly beeause
+everything had beeome “blurry” and “dizzy.” She felt “nauseous.” She eould
+not keep her eyes open, was not aware of any sounds, had no sense of time, and
+was “in and out.”
+Cosby did not sit on the sofa with her, but instead positioned himself
+behind her. Despite her impaired physieal and mental eondition, the vietim
+was aware that Cosby was fondling her breasts, put his hands into her pants,
+and penetrated her vagina with his fingers. Cosby also took the vietim’s right
+hand and plaeed it onto his ereet penis. The vietim told investigators that she
+did not eonsent to any of these aets, and was unable to move or speak during the
+assault. She deseribed her eondition as “frozen” and “paralyzed.”
+The vietim awoke in the Cosby home at about 4:00 AM the next morning.
+4
+She discovered that her sweater was bunehed up, and that her bra was undone
+and had been moved above her breasts. She said that when she got up and
+walked towards the door she saw Cosby, dressed in a robe, standing at the
+bottom of the stairease. Cosby gave her a muffin, walked to the front door,
+opened it, and said, "Alright." The vietim told investigators she left the
+residenee without saying anything.
+III. Victim’s Return to Canada and Disclosure
+Within three months of the assault, in Mareh of 2004, the victim left the
+Philadelphia area and returned to her parents’ home in Canada. Thereafter, the
+vietim’s mother, Gianna Constand, noticed changes in her daughter. She said
+there was a change in her daughter’s personality and that she had isolated
+herself from her friends. Mrs. Constand also told investigators that her
+daughter had sleep disturbances that included nightmares and instances in
+whieh she would seream in her sleep. Mrs. Constand attempted to find out
+from her daughter what was wrong with her but the victim simply did not
+answer.
+Eventually, on the morning of Thursday, January 13, 2005, the victim told
+her mother that Cosby had sexually assaulted her. Shocked and devastated
+upon hearing details of the sexual assault of her daughter, Mrs. Constand called
+Cosby on the telephone to confront him. Mrs. Constand, who had spoken to
+Cosby on the telephone multiple times in the past, failed to reach him on this
+occasion and instead left a voicemail message. The Constands reported the
+5
+incident to the Durham Regional Poliee Serviee in Ontario, Canada.
+IV. Mrs. Constand’s Conversations with Cosby
+On January 16, 2005, Cosby returned Mrs. Constand’s eall. During the
+two-and-a-half-hour eonversation that ensued, she pointedly asked Cosby what
+he had done to her daughter and what he had given to her. In response to the
+latter question, he told her that he would “have to look at the preseription bottle.”
+He told Mrs. Constand that he eould not read the label beeause of an eye
+eondition, but that he would write down the name of the medieation on a pieee of
+paper and mail it to her.
+Although Cosby did not identify the drug he gave to the vietim, during the
+same eonversation he admitted fondling the victim’s breasts, digitally
+penetrating her vagina, and placing the victim’s hand on his penis for sexual
+gratification. Through these admissions to Mrs. Constand, Cosby directly
+corroborated the victim’s report concerning these actions. In the same call.
+Cosby apologized and offered to cover any expenses assoeiated with therapy.
+Mrs. Constand reported to investigators that Cosby called her again, the
+next day, on January 17, 2005, and that she recorded this call. During the
+conversation, Cosby asked if the victim was still pursuing her interests in
+broadcasting and expressed his interest in assisting the victim financially with
+any educational goals. At one point, Mrs. Constand asked Cosby if he was going
+to send her "that pieee of paper with the name of that stuff or not" to which he
+responded, "[w]e can talk about what you asked for later." Cosby was evasive on
+6
+the subject of the identifieation of the pills and quiekly redireeted their
+eonversation to travel plans for Mrs. Constand and the vietim. Cosby asked
+Mrs. Constand if “they”, meaning her and the vietim, would be willing to travel
+"to a eity so that [they eould] have a meeting?"
+Aceording to Mrs. Constand, on the next day, January 18, 2005, a
+representative of Cosby eontaeted the vietim and attempted to arrange the
+meeting, whieh Cosby requested the day before. The representative explained
+that Cosby would pay to Пу the vietim and her mother to Florida. Mrs.
+Constand and the vietim did not aeeept this offer. Cosby’s representative
+provided a statement to investigators on February 4, 2005 in whieh he eonfirmed
+that Cosby had direeted him to contaet Mrs. Constand to arrange for her, and
+the vietim’s, travel to Florida. He also revealed that he had made similar
+arrangements for other women on Cosby’s behalf.
+Criminal Investigation and Cosby’s statement to Police
+V.
+On January 14, 2005, a representative of the Durham Regional Poliee
+Serviee forwarded the vietim’s report of this incident to the Philadelphia Poliee
+Department speeial Vietim’s Unit. When Philadelphia Poliee learned that
+Cosby’s home, the ineident loeation, was aetually in Cheltenham Township in
+Montgomery County, they eontaeted the Cheltenham Township Poliee
+Department and forwarded to them a eopy of the vietim’s initial report.
+Thereafter, the Cheltenham Township Poliee Department and the Montgomery
+County Deteetive Bureau eommeneed a joint investigation.
+7
+On January 26, 2005, Cheltenham Township Police Chief John Norris,
+Cheltenham Police Detective Richard Schaffer and Montgomery County
+Detective Lieutenant Richard Peffall interviewed Cosby in the presence of
+Cosby’s legal counsel.
+Cosby described for the investigators his version of what took place at his
+home on the evening in question. He stated that he had no intention of having
+the victim spend the night at his house. He said that upon the victim’s arrival at
+his home, the two had a conversation about issues she was having and her
+resulting tension and inability to sleep. He admitted going to his room and
+coming down with pills for her to take. He told the investigators the pills were
+over-the-counter Benadryl and that he gave her one whole pill and one-half pill.
+When investigators asked Cosby about his personal usage of the pills, he told
+them he typically took two whole pills and acknowledged they would make him
+drowsy and go to sleep right away. He added that he would not take the pills
+and go out and perform. Cosby told investigators that these Benadryl pills were
+in a pop-out pack and that he carried them with him. Cosby admitted that he
+did not tell the victim, on that night or anytime thereafter, the true identity of the
+pills.
+Cosby said that after the victim took the pills, they began to pet (touching
+and kissing) and then he touched her bare breast and her private parts
+(genitalia). Cosby said the victim never told him to stop, never pushed him
+away, never told him her vision was blurred and never said she felt paralyzed or
+affected by the Benadryl. In short, Cosby described the incident as a
+8
+consensual sexual eneounter. Cosby said that he went to hed after the ineident
+and woke sometime later in the morning to find the vietim awake. He said they
+talked, he gave her a blueberry muffin and some tea, and then she left.
+Cosby then went on to tell the poliee about his history with the vietim. He
+aeknowledged that the vietim viewed him as a mentor and that he eneouraged
+that type of relationship. However, eontrary to the vietim’s deseription of their
+prior relationship, Cosby said it eould be eharaeterized as both soeial and
+romantie. He told the investigators that prior to this January 2004 ineident.
+there were several instanees in whieh the two “petted and kissed.” He said he
+never had intereourse with the vietim beeause he “like[d] the petting the
+touehing.” When direetly asked if he ever had sexual intereourse with the
+vietim, Cosby gave the unusual answer, “never asleep or awake.”
+Investigators also asked Cosby about the eontent of his telephone
+eonversations with Mrs. Constand after she learned of this ineident. Cosby said
+that he told Mrs. Constand “1 think 1 gave [the vietim] some pills.” He also
+eonfirmed that when Mrs. Constand asked him the name of the pills he gave the
+vietim, he told her that he would send the name of the drug to her on a pieee of
+paper. Cosby said he told Mrs. Constand he touehed the vietim’s breasts and
+vagina, but “guarantee[d] her that there was no penile penetration.”
+Cosby also told investigators what Mrs. Constand said during that lirst
+telephone eonversation about the impaet of the ineident on the Constands.
+Aeeording to Cosby, Mrs. Constand said to him that “it is something a mother
+never hopes will happen to their daughter and that she did not know how long it
+9
+would take the victim, and her, to heal.” Cosby told investigators he apologized
+twiee and asked Mrs. Constand twiee what she wanted him to do. Aceording to
+Cosby, she said there was nothing he eould do and that his apology was enough.
+Cosby told investigators that he ealled baek again later and offered to “piek up
+the tab” for the vietim to attend graduate school. Cosby also stated that he
+attempted to arrange for them to meet him in Florida at a hotel so they could
+“iron out whatever these problems happen to be.”
+District Attorney Review
+VI.
+The initial investigation into this incident was reviewed by former District
+Attorney Bruce L. Castor, Jr. and resulted in the issuance of a February 17,
+2005 Press Release, which announced that no criminal charges were
+forthcoming. Castor made it clear, however, in the Press Release, that he would
+“reconsider th[is] decision should the need arise.”
+VII. Civil Action Against Cosby for Battery and Assault
+On March 8, 2005, the victim, assisted by private counsel, Bebe H. Kivitz,
+Esq., Ann c. Lebowitz, Esq., and Dolores M. Troiani, Esq., initiated a civil claim
+in the United States District Court for the Eastern District of Pennsylvania. The
+civil cause of action asserted against Cosby claimed battery, sexual assault.
+intentional infliction of emotional distress, and other related claims with regard
+to the incident previously investigated by the District Attorney’s Office. The civil
+case was settled on July 13, 2006.
+10
+VIII. Reopening of Criminal Investigation
+As the result of an Order issued by the federal judge overseeing the vietim’s
+eivil ease against Cosby, portions of depositions he gave in the suit were made
+publie for the first time in July of 2015. The release of these depositions
+generated a great deal of publieity, as well as a number of public elaims by
+women who alleged Cosby had assaulted them under eircumstanees similar to
+those reported by the vietim. These events prompted the Montgomely County
+Distriet Attorney’s Offiee, now led by Distriet Attorney Risa Vetri Ferman, to
+review the statute of limitations regarding potential eriminal offenses eommitted
+by Cosby against the vietim. Distriet Attorney Ferman determined that under
+Pennsylvania law, proseeution for Aggravated Indeeent Assault must be
+eommeneed within twelve years after the offense is eommitted. As sueh, the
+statute of limitations had not yet expired, and the investigation was reopened on
+July 10, 2015.
+As a part of the reopened investigation, a formal written request was made by
+Distriet Attorney Risa Vetri Ferman upon Dolores Troiani, Esq. for eopies of her
+files related to the eivil aetion, ineluding depositions. In addition, investigators
+re-interviewed eertain witnesses who had given statements in 2005. During a
+re-interview of Mrs. Constand, she told investigators that in her initial
+eonfrontation of Cosby by telephone, she said to him “you are a ver/ siek man.”
+Aeeording to Mrs. Constand, Cosby agreed with that aeeusation and repeatedly
+11
+apologized. He went on to tell her that he “wanted to eall [the vietim] and see
+how she was and he wanted to meet and make arrangements in Florida to
+discuss an arrangement that was going to make everyhody happy.” Cosby also
+asked her whether she had called the poliee.
+Investigators also re-interviewed the vietim heeause she had not requested
+that the criminal investigation he re-opened. She told investigators she would
+cooperate if asked to do so.
+IX. Civil Depositions
+Upon review of the civil depositions requested of Dolores Troiani, Esquire,
+investigators determined that the victim testified under oath in her civil case on
+September 27 and 28, 2005. As part of her sworn account of the incident, the
+victim testified concerning the details of the sexual assault. She said, in
+pertinent part, that upon feeling the effects of the pills, she told Cosby what was
+happening to her and he moved her to the couch. After some time, she felt her
+body being jostled and felt Cosby’s hand inside her vagina. She also testified
+that Cosby placed her hand upon his penis.
+Investigators determined that Cosby’s depositions took place on
+September 28, 2005, September 29, 2005, March 28, 2006, and March 29, 2006.
+In testimony under oath, Cosby testified that he developed a romantic interest in
+Constand the vely first time he saw her at the Temple basketball game and that
+he found her good looking. He testified that before he acted upon that interest.
+he needed to develop a friendship with her.
+12
+Concerning the incident at issue, he acknowledged inviting the victim to
+his Cheltenham home. He said that after some initial conversation, he went
+upstairs and got pills, “brought them down,” and “offered them to [the victim].”
+Cosby testified that he gave the victim three halved pills, which he described as
+“three friends to make [her] relax.” This is contrary to his statement to police, in
+which Cosby said he gave her “one whole and then one...half.” Cosby, in his
+deposition, said he gave the pills to the victim because he believed, “they might
+help take some of the stress away.” He testified, as reported to the police, that
+after the administration of the pills, he lifted the victim’s bra so their skin could
+touch, got behind the victim “in a spooning position,” and, while in that position,
+he went “inside of her pants” and digitally penetrated the victim’s vagina.
+During Cosby’s September 29, 2005 deposition he acknowledged that he
+had, in the past, obtained seven prescriptions in his own name for Quaaludes
+that he never took, nor ever intended to take, himself. During this line of
+questioning, the following exchange took place between Dolores Troiani, Esq.
+and Cosby:
+Troiani: When you got the Quaaludes, was it in your mind that you
+were going to use these Quaaludes for young women that you
+wanted to have sex with?
+Cosby:
+Yes.
+(Constand V. Cosby, 9/29/2005 Deposition, p. 71)
+Cosby’s attorney then objected to this question and stated, “Restrict it to the
+Jane Does.” {Constand V. Cosby, 9/29/2005 Deposition, p. 71-72) Before
+being asked another question, Cosby changed his answer to, “I misunderstood.
+Woman, meaning [her], and not women.” {Constand V. Cosby, 9/29/2005
+13
+Deposition, p. 72)
+Cosby then speeifieally testified about an occasion in which he met a
+woman backstage, gave her Quaaludes and then had sex with her. Further,
+when asked why he didn’t ever take Quaaludes himself, he responded that he
+gets sleepy. He stated that he knew that Quaaludes are a depressant and
+recognized that Quaaludes were, at the time, the drug of choice young people
+were using to party. He said, “there were times he wanted to have them just in
+case.” {Constand V. Cosby, 9/29/2005 Deposition, p. 70) Cosby admitted that he
+knew at the time it was illegal for him to give Quaaludes to another person.
+(Constand V. Cosby, 9/29/2005 Deposition, p. 66)
+X.
+Conclusion
+Following their initial meeting at Temple University, Cosby developed a
+romantic interest in the victim, an interest she did not share. In his pursuit of
+the victim, Cosby promoted his role as mentor and someone who could offer her
+life and career guidance. He invited her to a number of social and professional
+events at his home and elsewhere. According to the victim, on two of these
+occasions, Cosby attempted to touch her inappropriately. Each time, she
+immediately shut down his advances, refusing any sexual relationship with
+Cosby.
+Between mid-January and mid-February 2004, Cosby invited the victim to
+his home in Cheltenham, Montgomery County, for the purported purpose of
+speaking to her about her future career plans. This was consistent with the role
+14
+of mentor that he had fostered sinee meeting the vietim. Upon her arrival at his
+home, Coshy and the vietim sat and spoke for ahout 10-15 minutes, at whieh
+time the vietim went to the hathroom.
+It is undisputed that Cosby left the area where they were and returned
+shortly with hlue pills. The victim said there were three pills. Coshy told poliee
+that he gave her one whole pill and one half-pill. Later, in his deposition, Cosby
+testified that he gave her three halves. When the vietim asked if they were
+herhal. Coshy said, “yes.” Cosby told poliee she did not ask about the pills, but
+admits he never told her what they were. Aceording to the victim, Cosby told
+her they would make her feel good and “take the edge off.” Cosby also said they
+were “three fnends to help make her relax.” Unfortunately, the victim trusted
+Cosby. At his urging, she swallowed the pills with water. Even if the pills
+Benadlyl, as Cosby alleged, he acknowledged that the drug makes him drowsy
+and puts him to sleep “right away.”
+Cosby also successfully urged the victim to “taste the wine,” even though
+she told him she had not had much to eat. Investigators know that alcohol is
+frequently used as a precursor to sexual assault. Alcohol can be used to
+incapacitate victims by itself or in combination with over-the-counter and/or
+illicit drugs. Based upon the facts described herein, we have concluded that
+when Cosby set out the glass of wine and then, despite the victim’s objections,
+urged her to drink, he did so believing her ingestion of the wine would contribute
+to her ineapacity. That the victim’s incapacity was his intended result is made
+even clearer by his use of both alcohol and drugs.
+were
+15
+Cosby knew that his two prior sexual advances were blocked by the much
+younger, athletic victim. He knew that further attempts at sexual conduct
+would likewise be unsuccessful unless he was able to prevent her from resisting.
+He knew the victim could become sedated, and likely rendered incapable of
+resistance, by her ingestion of wine and Benadlyl, or wine and another
+substance, known only to Cosby, with similar effects.
+According to the victim, within twenty to thirty minutes of ingesting the
+pills, water, and wine, she experienced blurred vision and difficulty speaking.
+which she related to Cosby. She further said her legs felt “rubbery” and “like
+jelly,” and everything was “blurry” and “dizzy.” Also, she could not keep her
+eyes open and was nauseous. While in this vulnerable state,-Cosby moved her
+to a nearby couch.
+It is undisputed that Cosby fondled her breasts, put his skin next to hers
+and digitally penetrated her vagina. The victim subsequently reported Cosby’s
+sexual assault to the police, including his digital penetration. She also testified
+about the assault and penetration during her deposition. At no time did the
+victim provide her consent. She could not move or speak and was, in her words.
+It is clear that what the victim was led to believe was
+“frozen” and “paralyzed.”
+an herbal remedy had directly contributed to her impaired condition. Because
+she was fluctuating in and out of consciousness, the victim was legally incapable
+of consenting to Cosby’s actions.
+The following language by the Pennsylvania Supreme Court regarding
+consent unequivocally supports the above proposition: “[b]ecause the evidence
+16
+supports the findings that the vietim was intermittently uneonseious throughout
+the assault and was at all relevant times in such impaired physieal and mental
+condition so as to be unahle to knowingly eonsent, her suhmission to [sexual
+fondling and penetration] was involuntary.” Commonwealth V. Emey, 698 A.2d
+Likewise, the evidenee here demonstrates that the vietim’s
+substantially impaired eondition prevented her ability to eonsent, or even defend
+herself from Coshy’s sexual assault.
+In further support of our eonelusion that Cosby planned to sexually
+assault the victim onee she was sedated and rendered ineapacitated, we
+eonsidered, among other things, Cosby’s deposition testimony eoncerning
+preseription Quaaludes. Constrained by the topieal parameters of the
+deposition, he testified that on one prior oeeasion, he gave a woman Quaaludes
+in antieipation of having sex with her. Due to the faet that Cosby obtained
+separate preseriptions for Quaaludes that he did not personally ingest, nor
+ever intended to personally ingest, we believe it is likely he gave the drugs to
+other persons, ineluding other women he planned to have sex with. This
+conclusion is supported by the fact that many women have recently
+forward to publicly accuse Cosby of drugging and sexually assaulting them.
+Concerning the night of this incident in early 2004, investigators are
+mindful of the fact that only Cosby knows what substances he gave the victim.
+Only Cosby knows whether the pills were indeed, Benadryl, as he alleged, or a
+prescription or illicit drug with even greater potential to render someone
+incapaeitated. Only Cosby knew that the drug he gave the victim could impair
+56, 59 (Pa. 1997).
+seven
+come
+17
+her ability to perceive, diminish her ability to rememher, or render her useless as
+a witness against him.
+One of the most signifieant faetors investigators have eonsidered is
+Coshy’s evasive and eonflicting identineations of the drug he gave the vietim.
+Aecording to the vietim, she asked what the drug was and he told her it was
+herhal. Coshy denies this exchange ever took place. It is undisputed that
+Coshy told the victim’s mother that he gave her some sort of prescription hut that
+he could not recall what it was. He told her that he could not read the label on
+the hottle because of his poor eyesight. Coshy told Mrs. Constand he would
+write the name of the drug on a piece of paper and mail it to her, but he never
+Finally, Cosby told the police he gave the victim Benadryl, which is an
+did.
+over-the-counter medicine not dispensed in a prescription bottle as Cosby told
+Mrs. Constand. Cosby’s deliberate efforts to conceal the nature of the pills he
+supplied to his unsuspecting victim are inconsistent with innocent behavior and
+demonstrate his consciousness of guilt.
+Further indicative of Cosby’s consciousness of guilt is the fact that, when
+confronted by Mrs. Constand over the telephone, he apologized to both her and
+the victim, while offering significant financial assistance. Cosby not only offered
+to pay for the victim’s therapy, but also her graduate school tuition and expenses
+for travel to Florida. Investigators recognize that individuals who are falsely
+accused of sexual assault generally do not unilaterally offer generous financial
+assistance, and apologies, to their accuser and their accuser’s family. To the
+contrary, such conduct is consistent with offenders who are seeking to make
+18
+amends for wrongful behavior and prevent involvement by law enforeement.
+Finally, investigators identified two statements which they believe provide
+unusually compelling insight regarding Cosby’s sexual relationships with
+women, including his assaultive behavior towards the victim. While speaking
+with Mrs. Constand, Cosby made sure that she understood there was no “penile
+penetration” involved. Presumably, Cosby considers lack of intercourse as a
+means to diminish his culpability and lessen the gravity of his sexual offenses.
+Secondly, during his statement to police, Cosby was asked whether he ever had
+sexual intercourse with Constand. He responded “never asleep or awake,”
+inferring that either could be possible as a reasonable answer.
+upon examination of all the evidence, we believe there is probable cause
+that on the night of this incident in mid-janualy to mid-February of 2004, Cosby
+sought to incapacitate the victim by providing her with his “three friends” and
+some wine. He wanted to ensure that she would not rebuff his sexual advances
+as before, and he succeeded in doing so. As the victim lie on his couch, sedated
+and under the influence of the unknown substance he supplied and identified as
+an herbal, Cosby fondled her and digitally penetrated her vagina. Contraly to
+his assertion that she consented to this conduct, she could not do so. She was
+rendered unable to speak or even move, and left capable only to perceive aspects
+of this Aggravated Indecent Assault.
+Based upon the foregoing, we respectfully request a warrant of arrest be
+7/12/1937, with violation of
+issued for William H. Cosby, Jr., DOB:
+Pennsylvania Crimes Code Section 3125, Aggravated Indecent Assault,
+19
+particularly the subsections enumerated in the attaehed Criminal Complaint.
+Sergeant Riehard Schaf4r #981
+Cheltenham Township Poliee Dept.
+Demctive James Reape #32
+M tgomery County Deteetives
+
+
+7
+Detectfve MichaeKs ade #16
+Montgomely County Deteetives
+Sworn m and subseribei  before
+me this 29th day of Deeember, 2015.
+20
+</textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+
+        </div>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Header, Footer and Watermark</h3>
+                <!--!<div id="content"> -->
+                <textarea class="form-control" cols="150" rows="30" id="HeaderFooterWatermark"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>URL HYPERLINKS</h3>
+                <!--!<div id="content"> -->
+                <textarea class="form-control" cols="150" rows="30" id="Hyperlink"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Specific Excel Rows</h3>
+                <!--!<div id="content">  -->
+                <textarea class="form-control" cols="150" rows="30" id="SpecificRows"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+    </div>
+
+</body>
+</html>
