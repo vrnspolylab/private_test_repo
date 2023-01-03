@@ -1,0 +1,1428 @@
+<html>
+<head>
+    <title>Result</title>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="./resources/bootstrap-3.3.5-dist/css/bootstrap.min.css">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="./resources/bootstrap-3.3.5-dist/css/bootstrap-theme.min.css">
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="./resources/bootstrap-3.3.5-dist/js/bootstrap.min.js"></script>
+
+    <style>
+        #content {
+            background-color: #FCFCFC;
+            border: 1px solid #999999;
+            padding: 10px 10px;
+            -moz-border-radius: 4px;
+            -webkit-border-radius: 4px;
+            border-radius: 4px;
+            /*IE 7 AND 8 DO NOT SUPPORT BORDER RADIUS*/
+            opacity: 0.87;
+            -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity = 87);
+            /*-ms-filter must come before filter*/
+            filter: alpha(opacity = 87);
+            /*INNER ELEMENTS MUST NOT BREAK THIS ELEMENTS BOUNDARIES*/
+            /*All filters must be placed together*/
+
+        }
+
+        #infodiv
+         {
+
+
+            border: 0px rgb(89,89,89) solid;
+
+            background: rgb(234, 234, 228);
+
+        }
+    </style>
+</head>
+<body>
+    <center><h1>Data Extraction - Result</h1></center>
+    <div class="container">
+        <hr>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <dl class="dl-horizontal">
+                    <dt>File name:</dt>
+                    <dd>criminal complaint 05-12-14.pdf</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Provider name:</dt>
+                    <dd>AbbyyProvider</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Created On:</dt>
+                    <dd>8/12/2020 4:40:47 PM</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Extraction duration:</dt>
+                    <dd>00:00:16.8370396</dd>
+                </dl>
+            </div>
+            <div class="col-md-1"></div>
+
+        </div>
+        <hr>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Extended Attributes</h3>
+                <div id="attributes"><table class="table table-hover"><thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Value</th>
+                </tr>
+            </thead>
+            <tbody>
+<tr><td>creation date</td><td>5/12/2014 10:07:32 AM</td></tr>
+<tr><td>revision date</td><td>5/12/2014 10:07:32 AM</td></tr>
+<tr><td>Creator</td><td>OmniPage CSDK 18</td></tr>
+<tr><td>publisher</td><td>eCopy ShareScan</td></tr>
+</tbody></table>
+</div>
+            </div>
+            <div class="col-md-1"></div>
+        </div>
+        <div class="row" >
+            <div class="col-md-1" ></div>
+            <div class="col-md-9">
+                <h3>Content</h3>
+                <!--!<div id="content">  -->
+                <textarea class="form-control" cols="150" rows="30" id="content">1
+2
+3
+4
+5
+6
+7
+8
+IN THE KITSAP COUNTY DISTRICT COURT
+9
+STATE OF WASHINGTON,
+)
+10
+) No. I9I96I03
+II
+Plaintiff,
+)
+12
+) CRIMINAL COMPLAINT
+)
+13
+V.
+) (Total Counts Filed - 1)
+14
+VIKKI JANE KROPP,
+Age: 41; DOB: I2/I9/I972,
+)
+15
+)
+)
+16
+Defendant.
+17
+IS
+COMES Now tlle Plaintiff, STATE OF WASHINGTON, by and through its attomey, PHILIP
+A. BACUS, WSBA No. 31446, Deputy Prosecuting Attomey, and herehy alleges that eontrary to
+the fonn, foree and effect of the ordinances and/or statutes in such cases made and provided, and
+against the peace and dignity of the STATE OF WASHrNGTON, the ahove-named Defendant did
+commit the following offense(s)-
+19
+20
+21
+22
+23
+Count I
+Driving Under the Influence
+24
+On or ahout Fehruary 17, 2014, in the County of Kitsap, State of Washington, the ahove-
+named Defendant did drive a vehicle (a) and have, within two hours after driving, an alcohol
+concentration of 0.08 or higher as shown hy an accurate and reliahle analysis of the person’s
+hreath or hlood, and/or (h) while under the influence of or affected hy intoxicating liquor or any
+drug; and/or (c) while under the comhined influence of or affected hy intoxicating liquor and any
+drug; contrary to Revised Code of Washington 46.61.502(1).
+(MAXIMUM PENALTY-Three hundred sixty-four (364) days in jail or $5,000 fine, or hoth.
+25
+26
+27
+28
+29
+30
+31
+в
+CHARGING DOCUMENT; Page I of 3
+Russell D. Hauge, Prosecuting Attorney
+Adult Criminal and Administrative Divisions
+614 Division Street, MS-35
+Port Orchard, WA 98366-4681
+(360) 337-7174; Fax (360) 337-4949
+■www.kitsapgov.com/pros
+pursuant to RCW 46.61.502(5) and RCW 9.92.020, plus restitution, assessments and court costs.)
+1
+2
+JIS Code:
+46.61.502.5 DUI
+3
+I certily (or declare) under penalty of perjury under the laws of the State of Washington
+that I have probable cause to believe that the above-named Defendant committed the above
+offense(s), and that the foregoing is true and correct to the best of my knowledge, information and
+belief.
+DATED: May 8,2014
+PLACE: Port Orchard, WA
+4
+5
+6
+7
+SD
+W IilNGTON
+8
+9
+ГА No. 31446
+7B
+10
+Deputy Pro iecming Attomey
+11
+All suspects associated with this incident are-
+Vikki Jane Kropp
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+ AP cou; 
+CHARGING DOCUMENT; Page 2 of 3
+Russell D. Hauge, Prosecuting Attorney
+Adult Criminal and Administrative Divisions
+614 Division Street, MS-35
+Port Orchard, WA 983664681
+(360) 337-7174; Fax (360) 3374949
+www.kitsapgov.com/pros
+i sHIOGT 
+1
+DEFENDANT IDENTIFICATION INFORMATION
+2
+VIKKI JANE KROPP
+1256 Se Carl Pickle
+Port Orchard, Wa 98366
+Alias Namefsi. Datels') of Birth. and ss Number
+[PERSON ALIAS DOB SSN]
+3
+4
+[Address source-pursuant to crRLJ/crR 2.2, Complainant has attempted to ascertain the Defendant’s current address hy searching the
+Judicial Information System (JIS formerly called DISCIS) database, Department of Licensing ahstract of driving record, Department
+of Corrections Felony Offender Reporting System, Kitsap County Jail records and law enforcement report]
+5
+6
+Race: White
+Sex: Female
+DOB: 12/19/1972	Age: 41
+SID: WA 16491051	Height: 507
+Eyes: Brown
+7
+D/L: KROPPVJ281RR
+D/L State: Washington
+JUV1S: Unknown
+8
+Weight: 130
+Hair: Blond Or
+Strawberry
+9
+10
+DOC: Unknown
+FBI: 377731TA1
+11
+LAW ENEORCEMENTINEORMATION
+12
+Incident Location: Callahan Drive At Cherry Avenue, Bremerton, WA [Incident Address Zip]
+Law Enforcement Report No.: 2014SP003189
+Law Enforcement Filing Officer: Kyle Nmi Dahl, 524
+Law Enforcement Agency: Washington State Patrol - WAWSP0801
+Court: Kitsap County District Court, WA018013J
+Motor Vehicle Involved? Yes
+Domestic Violence Charge(s)? No
+Law Enforcement Bail Amount? None
+13
+14
+15
+16
+17
+18
+19
+20
+CLERK ACTION REOUIRED
+21
+Summons
+22
+Appearance Date If Applicahle: [PROMISE TO APPEAR]
+23
+PROSECUTOR DISTRIBUTION INEORMATION
+24
+Superior Court
+District Sc Municipal Court
+25
+Original Charging Document-
+Original J-2 copies to Clerk
+1 eopy to file
+Amended Charging Docnment(s)-
+Onginal F2 copies to Clerk
+1 copy to file
+Original Charging Document-
+Electronically filed with the Clerk
+Onginal 4-1 eopy to file
+Amended Charging Document(s)-
+Electronically fded with the Clerk
+Original -1-2 eopies to flle
+I copy clipped inside file on top of 1ей side
+1 copy to flle
+26
+27
+28
+29
+30
+Prosecutor’s File Number-14-191961-3
+31
+
+CHARGING DOCUMENT; Page 3 of 3
+Russell D. Hauge, Proseeutiug Attoruey
+Adult Criminal and Administrative Divisions
+614 Division Street, MS-35
+Port Orchard, WA 98366-4681
+(360) 337-7174; Fax (360) 3374949
+www.kitsapgov.com/pros
+
+JÜ  SHINGTOji
+
+Case #
+14-003189
+REPORT OF INVESTIGATION
+Supplemental Report
+
+Citation #
+Officer’s Name: K. DAHL
+Badge No.: 524
+Video file name (if applicable): 	
+Video viewed by officer for this report: □ YES Ш NO
+On 5-7-2014 I received the Washington state Patrol Toxicoiogy Laboratory’s report for Kropp’s blood. The
+report states that Kropp’s blood was analyzed and found to contain a concentration of 0.01 mg/L of Oxycodone,
+0.18 mg/L of Amphetamine and 1.5 mg/L of Methamphetamine. On 5-7-2014 all items pertaining to this case
+were forwarded to the prosecutor.
+/ CBrtify (or declare) under penalty of perjury under the laws of the state of Washington
+that this report Is true and correct (RCW9A.72.085):
+Date Signed
+
+Picer’s Pnnted Name
+Badge#
+524
+K. DAHL
+
+Place Signed
+Kitsap Co.
+Reviewed by (SIgnatere)*
+Reviewed by {Pnnted Name)*
+Badge #
+Date signed
+*Report is valid without review.
+Page 1 of 1
+3000-110-017(6/13)
+TOXICOLOGY LABORATORY
+WASHINGTON STATE PATROL
+2203 Airport Way South Suite 360 Seattle, WA 98134
+(206) 262-6100 FAX No. (206) 262-6145
+
+MAY в 7 20Ц
+Olgj-
+TOXICOLOGY REPORT
+
+Attentibn:	Trooper Kyle M. Dahl
+Agehcy:	Bremerton WSP
+Address:	4811 Werner Rd
+Bremerton, WA 98312
+DUI
+Toxcase#: ST-14-01987
+Case Type:
+4/28/2014
+Report Date:
+Subject Name: VIkki J. Kropp
+Agency Case #:	14-003189
+Evidence:
+The following evidence was submitted to the Laboratory by Karen Burress of the Bremerfon WSP
+on 2/28/2014 via Campus IVIail:
+(1)	ST-14-01987-A:VGray, Lot #3064345, Blood-Peripheral
+(2)	ST-14-01987-B: VGray, Lot# 3064345, Blood - Peripheral
+* Observed the following evidence discrepancy: Subj's DOB written on Tube:
+12-14-72.
+Volatile Anaivsis Results:
+ST-14-0j987-A: Blood - Peripheral
+I IST-14-01987-A was tested by Headspace - Gasichromatographyfor the p.resence of aoetone, ethanol,
+iIsopropanol, and methanol' on Ô3/05/2Ô14. The following resjult wak obtalined:
+None Detected
+Druq Anaivsis Resuits:
+I
+ST-14-01987-A: Blood - Peripheral
+ST-14-01987-A was tested by Епгуте Multiplied Immunoassay Teohnique (EMIT) for the presence of
+amphetamines, barbiturates, benzodiazepines, cocaine metabolite, methadone, opiates, phencyclidine
+(PCP), and tricyclic antidepressants on 03/07/2014. The following result(s) was obtained:
+Presumptive positive for amphetamines and opiates
+ST-14-01987-A was tested by Gas Chromatography/Mass Speotrometry for basio drugs and metabolites on
+03/13/2014. The following result(s) was obtained:
+Amphetamine
+ivlethamphetamine
+positive
+positive
+ST-14-01987-A was tested by Liquid Chromatography/Tandem Mass Spectrometry for opiates on
+03/25/2014. The following result(s) was obtained:
+Oxycodone
+0.01 mg/L
+[Ro.f-20131218]
+Page 1 of 2
+Request ID: ST-14-01987-0001
+Request ID: ST-14-01987-0001
+ST-14-01987-A was tested by CBas chromatography/IVIass Spectrometry for cannabinoids on 04/04/2014.
+The following result(s) was obtained:
+None detected
+ST-14-01987-A was tested by Gas c.hromptography/lvlass Speotrometry for amphetamines on 04/16/2014.
+The following result(s) was obtained: I !	I
+I
+Amphetamine
+IVIethamphetamine
+(test conduoted by Andrew Gingras, Forensio Scientist 2)
+0.18 mg/L
+1.5 mg/L
+coivIlvIENTS
+Amanda Chandler certifies under penaity of perjury under the iaws of the state of Washington that the foregoing is
+true and correot: Uniess indicated othen/7ise, i performed aii testing reported above, for the submitted evidence.
+The document on which this certification appears is a true and compiete copy of my officiai report and i have
+technicaiiy reviewed aii reievant pages of testing documentation in the case record. The tests were administered
+according to testing methods approved by the state toxicoiogist pursuant to WAC 448-14-010, -020, -030 and/or
+RCW46.61.506(3) by an anaiyst possessing a vaiid permit issued by the state toxicoiogist.
+Examined by:
+Reviewed by:
+
+
+Amanda Chandler
+Forensic Solentist 2
+Reviewer
+Date:
+Ч- /	/. к
+!
+!
+7 0 dav of AptrT
+i
+Exeouted this  
+at Seattle, vvashington
+, 2014
+i
+Page 2 of 2
+[RO. 1-20131218]
+Request ID: ST-14-01987-0001
+
+Case#
+14-003189
+REPORT OF INVESTIGATION
+DUI
+
+Citation #
+Officer’s Name; K. DAHL
+Bacige No.: 524
+Video file name (if appiicabie); N/A	
+Video viewed by officer for this report: о YES о NO
+
+Location
+Data
+Tilna
+2-17-14
+0250
+Suspect*
+
+
+
+
+
+Name
+DOB
+Misc
+VIKKIJ. KROPP
+12-19-1972
+Address
+1256 NE CARL PICEL DR
+Race
+Sex
+WHITE
+FEMALE
+City
+state
+zip
+Height
+5-07
+Weight
+160
+PORT ORCHARD
+WA
+98366
+Home Phone
+Aitemate Phone
+Eyes
+Hair
+(
+)
+■ (
+)
+BROWN
+BLONDE
+Lioense/St
+KROPPVJ281RR/WA
+Expiration
+12-19-2016
+T?
+
+Vehicle Information*
+Make
+1987 NISSAN
+Ucense
+AHZ0160
+State
+Coior
+WA BLACK
+year
+Modei
+ALTIMA
+Styie
+4DR
+Registered Owner
+ELIZABETH J. CORNELL
+Comments
+IMPOUNDED TO SILVERCITY TOWING
+Officer’s DUI NalTative
+Authoritv, Certification. and Traininq
+I am commissioneci by the chief of the Washington state Patrol as a Washington state Patrol Trooper,
+authorized to enforce all laws in the state of Washington. I have received standardized Field Sobriety Testing
+(SFST) training from the Washington state Patrol. I have received additional Advanced Roadside Impaired
+Driving Enforcement (ARIDE) training. Each test was conducted per my training. I have received training in the
+operation of the PBT and the test was given in accordance to.my training and reference to WAC 448.15.030. I
+have received ВАС training and am certified to operate the ВАС Datamaster CDM. The breath test was
+conducted in accordance with my training.
+ВАС Card Expiration 09-06-15
+MPH BEE III # 2573 Check Date 04-20-15
+Vehicle 524WSP Speedometer Check 12-09-13
+PBT 076098 Check date 06-17-14
+Vehicle in Motion (Initiai Observations, Observation of stop)
+On 2-17-14 at approximately 0237 hours, while on duty in Kitsap County driving my fully marked patrol vehicle
+and wearing my full WSP uniform, I was traveling NB on Warren Ave when I observed a dark colored passenger
+car ahead of me with broken tail lights, showing white light to the rear. I observed the vehicle activate it’s nght
+turn signal and exit from Warren Ave onto Callahan Dr. I caught up to the vehicle and activated my emergency
+equipment signaling the driver to pull over. The dhver turned right onto Cherry Ave and stopped in the middle of
+making the turn.
+*use the “Additional persDns and/or Vehicles” Roi, if appiicabie.
+Page 1 of 5
+3000-110-032 {R6/13)
+
+Case#
+14-003189
+REPORT OF INVESTIGATION
+DUI
+Citation #
+Officer's Name: K. DAHL
+Badge No.: 524
+Personal Contact (Observation of dnver, statements, pre-exit, sobriety tests, observation of the exit, odors, generai observations
+such as speech, attitude, clothing, etc.)
+I contacted the driver and sole occupant of the vehicle on the passenger side of the vehicle. I knocked on the
+passenger window signaling the driver to roll down the window. I heard the driver say “Hello?” and observed
+the driver look out the driver’s window. I again knocked on the window, the driver jumped a little bit and stated
+“Oh you’re over there”. The driver then rolled the window down approximately % of the way. I identified myself
+and explained the reason for the stop. The driver stated “Yeah I know I was going to go get new taillights
+tomorrow”. I asked the driver for her license, registration, and insurance. While the driver was looking for the
+documents I asked the driver where she was going, the driver stated to the hospital. I asked the driver if she
+was OK, the driver stated that she was just going to pick up her daughter there. I asked if her daughter was
+OK, the driver stated that she was dropped off there by someone and she just needed to be picked up. The
+driver handed me the registration for the vehicle then began frantically patting pockets on her jacket in an
+attempt to find her license. The driver would begin to pull something out of her pocket then shove it back into
+her pocket. The driver stated “where is my wallet, what did I do with my license. I think I must have left it at
+home”. The driver continued to look around the vehicle for her license. As the driver was trying to find her
+license I observed her to have rapid clumsy movement. The driver’s speech was also fast and broken.
+After approximately two minutes of searching for her license, the driver stated that she must not have her
+license with her. I looked at the name on the registration (Elizabeth J. Cornell) and asked the driver if her name
+was Elizabeth, the driver stated “Yeah”. I asked the driver what her date of birth was, the driver stated “Uhh,
+uhh, umm, Гт not Elizabeth”. I asked the driver what her name was, the driver stated “Here is my ID I do not
+have a license”. The driver handed me a Washington state Identification Only card identifying her as Vikki J.
+Kropp DOB 12-19-1972.1 asked Kropp if she had any alcohol to drink, Kropp stated she did not have anything
+to drink. I asked Kropp if she had smoked any marijuana, Kropp stated she had not smoked. I asked Kropp if
+she had taken any medications in the past 24 hours, Kropp stated no. Kropp stated “I can have my mom come
+get the vehicle she has a license, please I can’t afford another ticket”. I observed Kropp to be shaking more
+than normal while talking with her.
+I returned to my vehicle and performed a driver’s check on Kropp. The driver’s return stated that Kropp was ID
+only suspended in the 3 '' degree for unpaid tickets. I re-contacted Kropp on the passenger side of the vehicle
+and asked if she would step out of the vehicle and talk with me. Kropp asked “Are you going to make me do
+those tests”. I asked Kropp if she would just step out and talk with me for a second. Kropp exited the vehicle
+and had to use the vehicle for support as she walked towards the front of the vehicle.
+Once in front of the vehicle I asked Kropp if she was OK, because I noticed she was shaking pretty bad. Kropp
+stated she was fine. I told Kropp that we had the fact that she did not have a license out of the way and asked
+if there was any other reason she seemed so antsy, Kropp stated she didn’t know. I asked Kropp when the last
+time she smoked marijuana was, Kropp stated “about a month ago”. I asked Kropp when the last time she
+used methamphetamines was, Kropp stated “Uh rve been clean for six months”. I asked Kropp when the last
+time she used heroin was, Kropp stated “I haven’t”.
+I asked Kropp if she would perform some voluntary field sobriety tests, Kropp stated Гт not very good at them
+and I have these on”. Kropp pointed towards her boots that had approximately two inch heels. I advised Kropp
+that we could work around them.
+Pre-Arrest Screeninq (Field Sobneby Tests, Preliminary Breath Test)
+The area the FSTS took placed was paved and had a slight grade. There was street lighting in the area and
+Kropp’s back was positioned to both our vehicles. I asked Kropp if she had anything that might prevent her
+Page 2 of 5
+3000-1104)32 (П 6/13)
+
+Case#
+REPORT OF INVESTIGATION
+14-003189
+DUI
+Citation #
+Officer’s Name: K. DAHL
+Badge No.: 524
+from walking in a straight iine or baiancing on one ieg, Kropp just stated her shoes. i asked Kropp if she had
+any probiems with her eyes, Kropp stated no.
+Horizontai Gaze Nystagmus (HGN):
+i observed zero of six ciues on the HGN test. i observed Kropp to have biood shot eyes, body tremors and
+sway from front to back during the test. Kropp had to be reminded severai times to watch the stimuius. During
+the test Kropp stated “i did this before and faiied even though i was good”. Kropp aiso roiied her eyes twice
+during the test. Whiie checking for equai tracking and iack of smooth pursuit Kropp stated “Oh my eyes just
+crossed, haha, i have a iazy eye”. i asked Kropp which eye was the iazy eye, Kropp stated “Oh i don’t know
+they just cross sometimes”. Whiie observing distinct and sustained Nystagmus, Kropp three times without
+moving her head wouid state “Oh oops i moved my head”.
+Romberg Balance:
+i gave Kropp the instructions and asked if she understood. Kropp stated she understood and did not have any
+questions. i toid Kropp to begin the test, at approximateiy four seconds Kropp without opening her eyes or
+tiiting her head forward, as instructed to, stated “Ok, oh no wait umm now ok now”. i asked Kropp if that was 30
+seconds Kropp stated “Yeah”. Kropp estimated the 30 seconds in eight actuai seconds. i asked Kropp how
+iong she thought that was Kropp stated 30 seconds. i asked Kropp how she counted Kropp stated “1,2,3,4 iike
+that”, in an extremeiy fast manner. i asked Kropp if she wouid be surprised if i toid her that was oniy eight
+seconds. Kropp stated “Yeah, because i counted to 30. 1,2,3, so i know that was 30 seconds”.
+i asked Kropp again if she had smoked any marijuana, Kropp stated “Ok ! smoked eariier today. i asked Kropp
+what eariier was, Kropp stated in the morning. i asked Kropp if she had used any methamphetamines Kropp
+stated “No oh no um i’ve been ciean for six months”. i asked Kropp if she had taken any medications, Kropp
+stated she took some about a month ago when she was sick. Kropp asked if she couid do the test again i
+asked Kropp if she wouid iike to try to waik heei to toe, Kropp stated she wouid try.
+Walk and Turn Test:
+i toid Kropp to imagine a straight iine in front of her and to piace her ieft foot on that iine. Kropp just iooked at
+me with an expressioniess iook for approximateiy five seconds before stating “So this iine”. i toid Kropp to just
+imagine a iine right in front of her and to put her ieft foot on that iine. Kropp then piaced her foot on the iine and
+when she tried to put her right foot on the iine she raised her arms to a 90 degree angie and had to step to her
+right to catch her baiance. Kropp then stated she couid not do the test with her boots on, Kropp stated “I couid
+take my boots off but then i’d get my socks wet and i don’t know if i want to do that, so um , but if you want me
+to”. i toid Kropp that was up to her if she wouid iike to but i wouid not hoid it against her if she did not want to.
+Kropp stated she did not want to.
+One Leg stand:
+Not performed due to shoes supposed
+Preliminary Breath test PBT #076098:
+i asked Kropp if she wouid provide a voiuntary breath sampie, Kropp stated she wouid. At approximateiy 0248
+hours, Kropp provided a vaiid breath sampie registering .000.
+3000-110-032 (R6/13)
+Page 3 of 5
+Ill
+Case#
+14-003189
+REPORT OF INVESTIGATION
+PI TROL
+DUI
+Citafon #
+Officer’s Name: K. DAHL
+Badge No.: 524
+I asked Kropp if she wouid like to do the Romberg balance test again, Kropp stated she did. I again explained
+he test to Kropp and emphasized that she needed to tilt her head forward and tell me to stop when she
+reached 30 seconds. When reminding Kropp to tilt her head forward and say stop, Kropp stated “Oh gotcha
+yeah, OK, OK, yeah got it”.
+I told Kropp to begin and at 16 seconds without tilting her head fonA/ard or opening her eyes Kropp stated
+“Umm ok now”. I asked Kropp how long she thought that was, Kropp stated “30 seconds maybe a little longer
+because I counted slower that time”. I asked Kropp how she counted. Kropp stated “1,2,3”. I asked Kropp if
+she would be surprised if I told her that was only 16 seconds. Kropp stated “Yes that was 30 seconds I know I
+counted, how do you count”. I told Kropp that I used a stop watch. Kropp stated ‘Td like to see you do this test
+then how would you count”.
+Arrest (Handcuffing, Searching, Constitutional Rights)
+At approximately 0250 hours I considered all the above information, believed Kropp could not safely operate a
+motor vehicle and placed Kropp under arrest for DUI and driving while license suspended. I placed Kropp into
+handcuffs, checked the spacing, and double locked the handcuffs. I escorted Kropp to the rear of my patrol
+vehicle where I read Kropp her Constitutional Rights directly from my departmental issued Miranda card,
+searched her and placed her in the rear of my patrol vehicle. While Kropp was in the back seat I read Kropp
+the voluntary blood draw consent form and asked Kropp if she would consent to a voluntary blood draw. Kropp
+stated she would.
+Silverdale Towing arrived on scene and impounded the vehicle according to Washington state law. At
+approximately 0335 hours I cleared the scene and transported Kropp to Harrison Hospital where we arrived
+approximately a minute later.
+Administrative Process (ВАС and Disposition)
+I escorted Kropp inside the hospital and into the waiting room, where I again went through the voluntary blood
+draw consent form with Kropp. I asked Kropp if she would now submit to a voluntary blood draw, Kropp stated
+“Yes” and signed thé consent form.
+I escorted Kropp to the Laboratory where the blood draw took place. At approximately 0345 hours I observed
+the phlebotomist clean Kropp’s right elbow with lodine and draw two vials of blood into the two grey topped
+vials with a white powdery substance inside and an expiration date of 03-2015 that I provided.
+At approximately 0359 hours we cleared the hospital and I transported Kropp to the Kitsap County Jail where
+she was booked for DUI at approximately 0421 hours.
+Page 4 of 5
+3000-110-032 (R 6/13)
+
+Case#
+14-003189
+REPORT OF INVESTIGATION
+DUI
+l<g)
+Citation #
+Officer’s Name: K. DAHL
+Badge No.: 524
+I returned to the WSP district office and entered the blood into the evidence systenn. I requested the biood be
+sent to the Washington state Patrol Toxicology Laboratory for testing. I am currently awaiting the results and
+will forward them to the court when received.
+Additional Observations and/or Comments
+iipil
+Ш
+
+
+
+
+I
+
+
+Ш
+I
+
+i
+
+Г. '
+
+
+
+
+ii
+i
+%
+
+
+m
+
+шт
+
+
+
+
+
+
+
+
+
+I
+
+
+Æ
+
+n
+
+1
+
+
+
+
+ш
+m
+Ш
+ii
+ir
+i
+Ш
+
+
+
+Ш
+ШШШ
+
+
+
+
+
+
+1
+
+
+
+Total Processing Time: 5 Hours
+/ certify (or declare) under penalty of perjury under the laws of the state of Washington
+that this report Is true and correct (RCW9A.72.085):
+огясег'з Signature.
+Officer’s Printed Name
+Badge #
+524
+Date Signed
+:. DAHL
+/8 ■ 4
+Revie r§ds 1signature)**
+Piace Signed
+KiTSAP CO.
+Reviewed by (Printed Name)**
+Badge #
+Date Signed '
+**Report Is valid without review.
+Page 5 of 5
+3000-110-032 (R 6/13)
+WASHINGTON STATE
+DUI ARREST REPORT
+REPORT OF BREATH / BLOOD TEST FOR ALCOHOL OR
+REFUSAL TO SUBMIT TO BREATH TEST FOR ALCOHOL AND DRUGS
+SUBJECT'S NAME (LAST, FIRST, Ml)
+SEX
+DATE OF BIRTH
+DATE/TIME OF ARREST
+KROPP, V1KKI, J
+2-17-14/0250
+12-19-1972
+□ M [7] F
+STREET ADDRESS
+OITY/STATE/ZJPOODE
+1256 NE CARL PICKEL DR
+PORT ORCHARD, WA 98366
+DRIVER'S LICENSE NUMBER
+CDL ENDORSED?
+(CHECK IF YES) IIIl
+STATE
+COUNTY OF ARREST
+CASE / CITATION NUMBER
+KROPPVJ281RR
+WA
+KITSAP
+14-003189
+ВАС Readings: 1 ‘Sample
+The subject was lawfully arrested. At that tinne, there were reasonable grounds to believe that the arrested person had been dnving or was In actual physical
+control of a motor vehicle within this state while under the Influence of Intoxicating llquor or drugs, or both, or was under the age of twenty-one years and had
+been dnving or was In actual physical control of a motor vehicle while having an alcohol concentration In violation of RCW 46.61.503.
+Check those that apply:
+Q A breath test was administered after providing the wamings required by subsection (2) of RCW 46.20.308, AND the results Indicate the arrested
+person’s alcohol concentration was 0.08 or more If the arrested person's age Is twenty-one or over, OR was In violatlon of RCW 46.61.502,46.61.503,
+or 46.61.504 If the arrested person Is under the age of twenty-one.
+о The arrested person refused to submit to a test of his/her breath after receipt of the wamings required by subsection (2) of RCW 46.20.308.
+[Ill FELONY/UNCONSCIOUSNESS: The blood or breath test was administered pursuant to a search VL rrant, a valid waiver of the warrant requirement or
+exigent circumstances /\ND the arrested person was unconscious or I had probable cause to believe a felony DUI, felony physical control of a motor
+vehicle while DUI, vehicular homicide, vehicular assault or an arrest for DUI resulting from a colllslon In which there has been senous bodily Injury to
+another person pursuant to RCW 46.20.308(3) was committed by the arrested person.
+I I Driver’s Hearing Request Information was given to the arrested person.
+Notice of Right to Hearing: I have been given wntten notice of my right to a hearing. Including the steps required to obtain a heanng, and understand that
+the notice of suspension, revocation, or denial of license will be mailed to the address of record on flle with the Department of Licensing.
+2'"  Sample
+Refused Test
+SIGNATURE OF DRIVER
+DATE
+Complete this box ONLY if the arrested person was dnving a commerciai motor vehicie as defined in Chapter 46.25 RCW at the time of the incident.
+I I Operating a Vehicle Requinng a Commercial Dnver’s License ВАС Readings: 1°* Reading
+2"‘ Reading
+Refused Test
+There was probable cause to believe that Lhe arTested person was dnving or was In actual physical control of a vehicle requinng a commerciai dnver's
+llcense within this state while having alcohol/drugs In his/her system and that a test of his/her breath and/or blood disclosed an alcohol concentration of 0.04
+or more. OR
+There was probable cause to believe that the arrested person was driving or was In actual physical control of a vehicle requinng a commerdal dnver’s
+llcense within this state while having alcohol/drugs In his/her system. The arTested person was requested to take a breath/blood test and Informed of the
+consequences of refusal and his/her nghts under Chapter 46.25 RCW. The arrested person then refused to submit to the requested test. Chapter 46.25
+RCW
+D YES о NO
+VEHYEAR
+MAKE
+MODEL
+LICENSE FLATE NUMBER
+STATE
+HAZARDOUS MATERIAL?
+NOTE: If appiicabie, sign and date this page after toxicology report Is received.
+/ certify (or deciare) under penaity of penury under the iaws of the state of Washington that the foregoing and the accompanying reports/copies
+of documents and the information contained therein are true, correct, and accurate. (RCW 9A.72.085.)
+DATE siGNED
+WASHINGTON STATE PATROL
+WAWSP0802
+
+OFI4c 's SIGNATURE
+LAW ENFORCEMENT AGENCY
+ORI NO. (9 digits)
+4811 w. WERNER RD
+K. DAHL
+524
+MAiLING AODRESS
+PRIm-ED NAME OF OFFICER
+BADGE NUMBER
+BREMERTON
+WA
+98312 KITSAP CO.
+( 360 ) 473-0300
+CITY
+STATE
+ZIP
+РЬАСЕSIGNED (city/county/stale)
+CONTACT PHONE NUMBER FOR HEARING
+(include area code)
+Department of Licensing
+Driver Records
+swornReports DOL.WA.GOV Number of pages faxed
+Fax: (360) 670-7026
+OFFICER'S E-MAIL ADDRESS
+OFFicERS: Fax or e-mall completed report, breath test document,
+and supplemental reports to:
+USE THIS PAGE AS COVER SHEET
+3000-110-196 (R9/13)
+Page1
+WASHINGTON STATE
+DUI ARREST REPORT
+CASE/CITATION NUMBER
+
+[7] On the date, time and location of this arrest, I had authority to arrest pursuant to my agency’s jurisdiction or RCW 10.93
+	CONSTITUTIONAL RIGHTS	
+
+1.	YOU HAVE THE RIGHT TO REMAIN SILENT.
+2.	YOU HAVE THE RIGHT AT THIS TIME TO AN ATTORNEY.
+3.	ANYTHINGYOUSAYCANANDWILLBEUSED AGAINST YOU IN A COURT OF LAW.
+4.	IF YOU ARE UNDER THE AGE OE18, ANYTHING YOU SAY CAN BE USED AGAINST YOU IN A JUVENIL  URT PROSECUTION EOR A
+JUVENILE OFFENSE AND CAN ALSO BE USED AGAINST YOU IN AN ADULT COURT CRIMIN/ R ECUTION IF THE JUVENILE COURT
+DECIDES THAT YOU ARE TO BE TRIED AS AN ADULT.
+5.	YOU HAVE THE RIGHT TO TALK TO AN ATTORNEY BEFORE ANSWERING AN U IONS.
+isTIONING.
+6.	YOU HAVE THE RIGHT TO HAVE AN ATTORNEY PRESENT DURING THI
+7.	IF YOU CANNOT AFFORD AN ATTORNEY, ONE WILL BE APPOINJED'FOR YOU WITHOUT COST IF YOU so DESIRE.
+8.	YOU CAN EXERCISE THESE RIGHTS AT ANY TIME.
+9.	DO YOU UNDERSTAND THESE RIGHTS?
+I HAVE READ OR HAVE HAD READ TO ME THE A iEXPLANATION OF MY CONSTITUTIONAL RIGHTS AND I UNDERSTAND THESE RIGHTS.
+SUBJECT’S SIGNATURE
+I UNDERSTAND MY
+BY ME ARE MADE REELY, VOLUNTARILY, AND WITHOUT THREATS OR PROMISES OF ANY KIND.
+ISTITUTIONAL RIGHTS. I HAVE DECIDED NOT TO EXERCISE THESE RIGHTS AT THIS TIME. ANY STATEMENTS MADE
+OFFICER'S SIGNATURE
+SUBJECT'S SIGNATURE
+DATE / TIME
+LOCATION(s)
+  Constitutlonal rights (Miranda) were read In the field atoz s 
+hours from the department issued rights card.
+ATTORNEY REQUESTED
+ATTORNEYS NAME
+h
+ATTORNEY’S PHONE NO.
+ATTORNEY CONTAGTED? TIME:
+
+.A>
+□ YES  N0
+Q YES   NO □ UNABLE
+EXPLANATION:
+3000-110-196 (R9/13)
+Page 2
+WASHINGTON STATE
+Dui ARREST REPORT
+CASE / crrATION NUMBER
+1ч-ооъ1в 
+IMPUED CONSENT WARNING FOR BREATH
+
+	
+WARNING! YOU ARE UNDER ARREST FOR:
+(check appropriate box[es])
+r~l RCW 46.61.502 OR RCW 46.61.504: Dnving or being in actuai physicai controi of a motor vehicie whiie under the infiuence of4ntoxicatjng
+iiquor and/or drugs.
+I I RCW 46.61.503: Being under 21 years of age and driving or being in actuai physicai controi of a motor vehicie afterpdnsuming aicohoi or
+marijuana.
+I I RCW 46.25.110: Driving a commerciai motor vehide whiie having aicohoi or THC in your system.
+FURTHER, YOU ARE NOW BEING ASKED TO SUBMIT TO A TEST OF YOUR BREATH WHICH CONSISTS OF TWO SEFARATE MPUES OF YOUR BREATH, TAKEN
+INDEPENDENTLY, TO DETERMINE ALCOHOL CONCENTRATION.	X
+1.	YOU ARE NOW ADVISED THAT YOU HAVE THE RIGHT TO REFUSE THIS BREATH TEST: AND THAT IF YOU REALISE:
+(A)	YOUR DRIVER’S LICENSE, PERMIT, OR PRIVILEGE TO DRIVE WILL BE REVOKED OR DENIED BY THEHI PARTMENT OF LICENSING FOR AT LEAST ONE
+YEAR; AND	X
+(B)	YOUR REFUSAL TO SUBMIT TO THIS TEST MAY BE USED IN A CRIMINAL TRIAL.	X
+2.	YOU ARE FURTHER ADVISED THAT IF YOU SUBMIT TO THIS BREATH TEST, AND THE TEST IS API NISTERED, YOUR DRIVER'S LICENSE, PERMIT, OR
+PRIVILEGE TO DRIVE WILL BE SUSPENDED, REVOKED, OR DENIED BY THE DEPARTMENT OXCENSING FOR AT LEAST NINETY DAYS IF YOU ARE:
+(A)	AGE TWENTY-ONE OR OVER AND THE TEST INDICATES THE ALCOHOL CONCENTRXON OF YOUR BREATH IS 0.08 OR MORE, OR THE TEST
+INDICATES THE THC CONCENTRATION OF YOUR BLOOD IS 5.00 OR MORE, OR YQkr ARE IN VIOLATION OF RCW 46.61.502, DRIVING UNDER THE
+INFLUENCE, OR RCW 46.61.504, PHYSICAL CONTROL OF A VEHICLE UNDER THE4NFLUENCE;
+OR	X
+(B)	UNDER AGE TWENTY-ONE AND THE TEST INDICATES THE ALCOHOL CONCgNTRATION OF YOUR BREATH IS 0.02 OR MORE, OR THE TEST INDICATES
+THE THC CONCENTRATION OF YOUR BLOOD IS ABOVE 0.00, OR YOU ARE4N VIOLATION OF RCW 46.61.502, DRIVING UNDER THE INFLUENCE. OR
+RCW 46.61.504, PHYSICAL CONTROL OF A VEHICLE UNDER THE INFLt cE.
+THE DATAMASTER WILL NOT TEST FOR THC CONCENTRATION IN A'BREATH SAMPLE.
+IF YOUR DRIVER'S LICENSE, PERMIT, OR PRIVILEGE TO DRIVE IS SUSPENDED, REVOKED, OR DENIED, YOU MAY BE ELIGIBLE TO IMMEDIATELY APPLY
+FOR AN IGNITION INTERLOCK DRIVER'S LICENSE.	X
+3.
+4. YOU HAVE THE RIGHT TO ADDITIONAL TESTS ADMINISTEREP4Y ANY QUALIFIED PERSON OF YOUR OWN CHOOSING.
+FOR THOSE NOT DRivING A COMMERCiAL MOTOR VEHICLE   THE TIME OF ARREST: IF YOUR DRIVER'S LICENSE IS SUSPENDED OR REVOKED, YOUR
+COMMERCIAL DRIVER'S LICENSE, IF ANY, WILL BE DISQUAUFIED.
+FOR THOSE DRIVING A COMMERCIAL MOTOR VEHICLEXT THE TIME OF ARREST: IF YOU EITHER (A) REFUSE THIS TEST OR (B) SUBMIT TO THIS TEST AND
+THE TEST INDICATES AN ALCOHOL CONCENTRATIONXF 0.04 OR MORE, OR ANY MEASURABLE AMOUNT OF THC CONCENTRATION, YOU WILL BE
+DISQUALIFIED BY THE DEPARTMENT OF LICENSIN ROM DRIVING A COMMERCIAL MOTOR VEHICLE.
+THE DATAMASTER WILL NOT TEST FOR THC CONCENTRATION IN A BREATH SAMPLE.
+I HAVE READ THE ABOVE STATEMENT TO THE SIXECT
+I HAVE READ OR HAVE HAD READ TO ME THE ABOVE STATEMENT(S).
+OFFicER’s siGNATURE
+SUBJECT’S SIGNATURE
+DATE/TIME
+LOCATioN
+□ YES □ NO
+WILL YOU NOW SUBMI/TO A BREATH TEST?
+Did subject express arfy confusion regarding the
+impiied consent wrings? if ves, exDiain beiow.
+□ YES □ NO
+[/] Aufne time of this test(s), I was certiüed to operate the BAO DATAMASTER, the ВАС DATAMASTER CDM, and PBT and possessed a vaiid permit
+Xsued by the state Toxicologist.
+YOU HAVE ANY FORÈIGN
+■ SUBSTANCE IN YOUR MOUTH?
+2™ MOUTH CHECK? (If Necessary)
+TIME?
+□ YES □ NO
+MOUTH CHECKED?
+TIME?
+□ YES □ NO
+ANY FOREIGN SUBSTANCES FOUND?
+EXPLAIN:
+в
+YES
+NO
+□ YES □ NO
+REMOVED
+YES
+NO
+_ i observed the subject from the time of the mouth check through the compietion of the breath test.
+□ The subject did not vomit, eat, drink, smoke, or place any foreign substance in his/her mouth during the observation time.
+i performed the PBT test in accordance with the state Toxicoiogist's protocols.
+(Chapter 448-15 WAC)
+PBT READING
+PBT TIME
+бгнд
+.ООО
+BOOKED RELEASED TO:
+PR’D
+3000-110-196 (R9/13)
+Радез
+WASHINGTON STATE
+DUI ARREST REPORT
+DUI INTERVIEW
+CASE / CITATION NUMBER
+\Ч00Ъ18> 
+1.	DO YOU HAVE ANY PHYSICAL IMPAIRMENTS? EXPLAIN:
+H-YES □ NO
+lAJ		
+2.	DO YOU LIMP?	'
+□ YES l NO
+13. ANYTHING MEOHANIOALLY WRONG WITH THE VEHIOLE?
+□ YES  N0
+14. HAVE YOU BEEN INJURED OR INVOLVED
+IN ANY C0LLISI0N{S) IN THE PAST 24 HOURS?
+□ YES'  NO
+3.	ARE YOU SICK/INJURED? EXPLAIN:
+[SYES □ NO  	 
+4.	UNDER OARE  A DOCTOR OR DENTIST?
+IHYES □ NO
+15. HAVE YOU HAD ANY ALCOHOL TO DRINK
+SINCE BEING STOPPED / THE COLLISION?
+□ YES NO
+15A. WHAT?
+15B. HOW MUCH?
+16. TIME COLLISION
+OCCURRED?
+
+
+i
+5. ARE YOU BETIC/EPILEPTIC?
+□ YES Щ NO
+17. WHERE WERE YOU GOING BEFORE STOPPED /THE COLLISION?
+18. WITHOUT LOOKING, WHAT TIME DO YOU
+6. DO YOU TAKE INSULIN?
+□ YES [ VNO
+7. HAVE YOU TAKEN ANY MEDICINES/DRUGS
+IN THE PAST 24 HOURS? 'Ш YES □ NO
+MAfIfTOAAJA 
+(ACTUAL TIME)
+THINK IT IS?
+35 (?
+
+7A. PRESCRIPTION?
+□ YES Ш NO
+19. WHAT STREET / HIGHWAY WERE YOU ON?
+21. STARTED FROM?
+Vt> Г Т' c>Ti  A Arrc>
+20. DIRECTION OF
+TRAVEL?
+
+7B. NON-PRESCRIPTION?
+□ YES NO
+22. TIME STARTED?
+2-  М -ТНШС'Г
+70. LAST DOSE?
+7D. QUANTITY?
+23. DAY OF THE WEEK?
+ Ljvlon Г1 Tues Г] Wed
+гп Thurs
+[И Fn Г] Sat
+гп Sun
+7E. COCAINE?
+□ YES [21  NO
+MARIJUANA?
+Ш YES □ NO
+OTHER?
+24. WHAT CITY y COUNTY ARE YOU IN NOW?
+25. WHAT I
+'2-17
+
+8. DO YOU HAVE IMPAIRED VISION?
+8A. DO YOU WEAR CORRECTIVE
+LENSES?
+□ YES □ NO
+26. HAVE YOU BEEN DRINKING
+ALCOHOLIC BEVERAGES?
+26A. WHAT HAVE YOU BEEN
+DRINKING?
+□ YES I  NO
+□ YES 13-NO
+8B. WERE YOU WEARING THEM WHEN YOU WERE STOPPED / BEFORE
+□ YES □ NO
+260. WHEN DID YOU START?
+26B. HOW MUCH?
+COLLISION?
+9. WHERE DO YOU
+юот
+9A. DID YOU WORK
+TODAY?
+10. TIME YOU GOT
+OFF WORK?
+27. WHO HAVE YOU BEEN DRINKING
+WITH?
+28. WHERE WERE YOU DRINKING?
+11. HOURS OF SLEEP LWST NIGHT?
+12. WERE YOU DRIVING THE VEHICLE?
+29. TIME OF LAST
+DRINK?
+30. DO YOU BELIEVE YOUR ABILITY TO DRIVE WAS
+AFFECTED BY YOUR ALCOHOL AND/OR DRUG
+USAGE?
+p[YES □ NO
+
+/JO
+HAVE YOU EVER BEEN ARRESTED FOR DUI BEFORE? YES [IIINO IF YES, HOW MANY TIMES?
+31.
+If dTug use indicated, piease contact WSP Communications or iocal DRE after breath test and continue with DUI process.
+PRE-ARREST OBSERVATIONS
+1. ATTITUDE
+2. COORDINATION
+□	GOOD
+□	FAIR
+ POOR
+□	FUMBLED FOR
+DRIVER'S LICENSE
+□	OTHER:
+3. CLOTHES
+4. EYES
+5. FACIAL
+6. ODOR OF
+INTOXICANTS ON
+7. SPEECH
+ roRDERLY
+□	SOILED-EXPLAIN
+□	OTHER: EXPLAIN
+  SHOES (Descnbe)
+COLOR
+□	NORMAL
+□	WATERY
+□	DROOPY
+  BLOODSHOT
+□	PUPILS DILATED
+□	PUPILS
+1  OTHER: pp
+□	GOOD
+□	FAIR
+□	REPETITIVE
+И РАВТ
+□	SLURRED
+Ш OTHER:
+□	COOPERATIVE
+□	MOOD SWINGS
+□	ARGUMENTATIVE
+P CRYING
+□	LAUGHING
+□	OTHER:
+ NORMAL
+□ FLUSHED
+BH TH
+ NONE
+□ FAINT
+□	PALE
+□	OTHER:
+□	MEDIUM
+□	STRONG
+□	OBVIOUS
+□	OTHER:
+/7
+z-\
+
+
+8. OFFICER'S OPINION (of subjeers Impairment due
+to use of alcohol/drugs)
+□ SLIGHT  OBVIOUS □ EXTREME
+9. SUBJECT'S NATIVE LANGUAGE
+ ENGLISH
+□ OTHER
+9A. SUBJECT APPEARED TO UNDERSTAND INSTRUCTIONS
+YES □ NO
+INTERPRETER PROVIDED
+9B. INTERPRETER REQUESTED?
+□ YES   NO TIME:
+EXPLMN BELOW:
+
+10. PASSENGER(S) INFORMATION
+
+3000-110-196 {R9/13)
+Page 4
+WASHINGTON STATE
+Dul ARREST REPORT
+SOBRIETY TESTS
+CASE/CITATION NUI BER
+}Ч'00Ъ13 
+
+G ADE
+LIGHTING
+□	DAYLIGHT DARK   STREET
+  UGHT
+□	OTHER
+
+PAVED С] GRAVEL
+□ OTHER
+□ GRASS
+□	LEVEL
+□	OTHER
+□ MODERATE
+GRADE
+SLIGHT
+'GRADE
+DIRT
+1. HORIZONTAL GAZE NYSTAGMUS rHGNI
+Г7] I have been trained in the administration of HGN testing and perfonTled the test in accordance with this training.
+L R
+□	□ Lack of smooth pursuit	VERTICAL NYSTAGIVtus □YES i NO
+I I I I Distinct and sustained nystagmus at max deviation
+□	□ Angie of onset pnor to 45 degrees
+YES	□ NO
+YES	□ NO
+If Resting Nystagmus is present, please explain.
+EQUAL TRACKING
+EQUAL PUPILS
+COMMENTS:
+(ZArTp ft'r'
+2. WALK AND TURN
+□ Cannot keep baiance
+nII-stct)f 100soon
+
+1®* Nin teps ' 
+2"'' Nine Steps
+Stops Waiking
+Miss.Jd[eeM-T6e~"
+Steps off iine
+
+Raises arms
+Actuai # steps
+CANNOT DO TEST (EXPLAiN)
+il r RT
+DESCRiBE TURN
+COMMENTS:
+3. ONE LEG STAND
+L
+R
+Д
+L,
+Sways whiie baiancirig
+Uses arms for balance
+д
+и
+Hopping
+Puts foot down
+COMMENTS:
+ÎLB'PC T
+SUPPLEMENTAL TESTS
+ABC’S A в c D E p
+G H IJ KLMNOPQ RSTUVWXYZ
+BALANCE
+NOTES
+FINGER DEXTERITY
+NOTES
+FINGER TO NOSE
+â/зо
+\ù'ho
+о mihc п
+  rou  
+о
+о
+
+
+
+
+®ч  
+
+
+ш
+
+3000-110-196 {R 9/13)
+Pages
+WASHINGTON STATE
+Dul ARREST REPORT
+NARRATIVE
+CASE / CITATION NUMBER
+
+Vehicle in ivlotion (Initial Observation, Obsecvation of stop):
+SEE ATTACHED REPORT
+Personai Contact (Observation of dnver, statements, pre-exit, sobnety tésts, observation of the exit, odors, generai observations such as speech, attitude, ciothing, etc.)
+SEE ATTACHED REPORT
+Pre-Arrest Screening (Fieid Sobriety Tests):
+SEE ATTACHED REPORT
+Administrative Process (ВАС and □isposition):
+SEE ATTACHED REPORT
+i certify (deciare'
+ler penaity of penul
+■iâi
+state of Washington that the foregoing is true and correct. (RCW 9A.72.085.)
+K. DAHL
+524
+OFFICER’€: iGN7a RE
+BADGE NUMBER
+PRINTED NAME OF OFFICER
+WASHINGTON STATE PATROL
+KITSAP CO.
+DATE SIGNED
+7-
+AGENCY
+PLACE SIGNED (city \ county / state)
+3000-110-196 (R 9/13)
+Page 6
+CASE / CITATION NUMBER
+WASHINGtoN STATE
+DUI ARREST REPORT
+1ч'ооъ}в 
+NOTE:	READ TH S FORM WHEN THERE ARE EXIGENT aRCUMSTANCES OR WHEN A SEARCH WARRANT AUTHORIZES THE BLOOD
+DRAW.
+			SPECIAL EVIDENCE WARNING	
+
+ ■v
+WARNING! YOU ARE UNDER ARREST FOR:
+□	VEHIGULAR HOMICIDE
+□	UNCONSCIOUS (DU I/PHYSICAL-CONTROL/MINOR-DRIVER)
+□	FELONY DUI or FELONY PHYSICAL CONTROL
+□	VEHICULAR ASSAULT
+□	DUI ARREST RESULTING FROM AN ACCIDENT WITH SERIOUS BODILY INJURY TO  N1
+IER
+A TEST OF YOUR BLOOD WILL BE ADMINISTERED TO DETERMINE THE CONCENTRATION OF ALCOHOL AND/OR ANY DRUG IN YOUR BLOOD;
+DUE TO THE CIRCUMSTANCES OF YOUR ARREST, THIS WILL BE DONE RE-exRDLESS OF YOUR CONSENT; YOU HAVE THE RIGHT TO
+ADDITIONAL TESTS ADMINISTERED BY A QUALIFIED PERSON OF YOUR WN CHOOSING.
+On
+, I read the above waming to
+(date)
+(defendant)
+Officer
+Date
+Time
+
+
+Name/Title of Person who extracted the bipod;
+Signature of Person who extracte -the blood;
+
+
+Date;
+Time of Biood Draw;
+
+
+
+Distributionj-Originai Receipt placed in case file; 1 copy (person ffom whom the biood was drawn or ieft with medicai staff if person is unavaiiable);
+1 copy (prosecutor); 1 copy (Officer); 1 copy (person who extracted the biood).
+
+VOLUNTARY BLOOD DRAW CONSENT FORM	I
+, voluntariiy permit officer  1 AH~L-
+i, Mj\m 
+obtain a sufficient amou  my biood to test it to determine its alcohol and/or dnig content.
+to
+I understand that I have the nght to refuse to give consent to a voluntary blood draw and that I may require the officer(s) to obtain a search warrant.
+I understand that the blood will be extracted by a physidan, a registered nurse, a licensed practicai nurse, a nursing assistant, a physician assistant, a
+heaith care assistant, a frst responder, an emergency medical technician, or a technician who is trained in withdrawing biood.
+i realize that if the test of my biood reveals the presence of any alcohol and/or drugs, that the concentration of aicohol and/or drugs in my biood may be
+used as evidence against me in subsequent iegai proceedings.
+I understand that I have right to additional tests administered by a qualified person of my choosing.
+if I wish to consuit with an attomey before giving consent, reasonable elforts will be made to put me in teiephonic contact with a public defender or an
+attomey of my choice.
+My consent has been given knowingiy, freely. and voluntarily, withquybIeat6-0
+duress against my person or promise of reward.
+
+Ъ \П'1Ч
+Diti  
+-a-/7-/v
+
+Officer
+Ti
+3 0
+/
+Consenter
+
+Time
+Name/Title of Person who extracted the blood;
+Signature of Person who extracted the blood;
+/ 7- /  	Time of Blood Draw: 3  	
+TU			
+Distribution—Original Receipt placed in case file; 1 copy (person from whom the blood was drawn or left with medicai staff if person is unavailable);
+1 copy (Prosecutor); 1 copy (Officer); 1 copy (person who extracted the biood).
+Date:
+
+3000-110-196 (R9/13)
+Page?
+</textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+
+        </div>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Header, Footer and Watermark</h3>
+                <!--!<div id="content"> -->
+                <textarea class="form-control" cols="150" rows="30" id="HeaderFooterWatermark"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>URL HYPERLINKS</h3>
+                <!--!<div id="content"> -->
+                <textarea class="form-control" cols="150" rows="30" id="Hyperlink"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Specific Excel Rows</h3>
+                <!--!<div id="content">  -->
+                <textarea class="form-control" cols="150" rows="30" id="SpecificRows"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+    </div>
+
+</body>
+</html>
